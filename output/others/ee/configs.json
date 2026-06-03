@@ -1,0 +1,26 @@
+{
+  "updated": "2026-06-03T19:38:34.502765",
+  "count": 1,
+  "configs": [
+    {
+      "type": "vless",
+      "address": "185.215.184.95",
+      "port": "443",
+      "id": "91e120bc-159a-4390-b4e1-197b19602ea0",
+      "name": "Free 47 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "sub.sbrf-cdn342.ru",
+      "host": "",
+      "security": "tls",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-1",
+      "ip": "185.215.184.95",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+    }
+  ]
+}

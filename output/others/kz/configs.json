@@ -1,0 +1,46 @@
+{
+  "updated": "2026-06-03T19:38:34.497700",
+  "count": 2,
+  "configs": [
+    {
+      "type": "vless",
+      "address": "194.59.5.238",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "Pro 45 @Outline_Vpn",
+      "network": "ws",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "194.59.5.238",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.136.58.34",
+      "port": "443",
+      "id": "a6e72947-cd53-449e-8ae2-11140ea398df",
+      "name": "@proxy_kafee ¹⁶⁷",
+      "network": "tcp",
+      "sni": "www.samsung.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.native.0rtt.ng3v55mc3ymwk7ji7hjbm4ou3sd9-9olqpe7tspid0u",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://a6e72947-cd53-449e-8ae2-11140ea398df@45.136.58.34:443?encryption=mlkem768x25519plus.native.0rtt.nG3V55mC3ymWk7jI7HJBM4ou3sd9-9OlQpe7tsPiD0U&type=tcp&security=reality&headerType=none&sni=www.samsung.com&fp=chrome&allowInsecure=1&pbk=DMliziQZIP7k6OYcVSTi6gZ5xqK595sbyrpdzI6CdUs&sid=70e2107044b9&spx=%2F#vless-mlkem768x25519plus.native.0rtt.ng3v55mc3ymwk7ji7hjbm4ou3sd9-9olqpe7tspid0u-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-2",
+      "ip": "45.136.58.34",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vless://a6e72947-cd53-449e-8ae2-11140ea398df@45.136.58.34:443?encryption=mlkem768x25519plus.native.0rtt.nG3V55mC3ymWk7jI7HJBM4ou3sd9-9OlQpe7tsPiD0U&type=tcp&security=reality&headerType=none&sni=www.samsung.com&fp=chrome&allowInsecure=1&pbk=DMliziQZIP7k6OYcVSTi6gZ5xqK595sbyrpdzI6CdUs&sid=70e2107044b9&spx=%2F#vless-mlkem768x25519plus.native.0rtt.ng3v55mc3ymwk7ji7hjbm4ou3sd9-9olqpe7tspid0u-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-2"
+    }
+  ]
+}
