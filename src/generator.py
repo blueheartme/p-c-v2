@@ -9,7 +9,7 @@ import base64
 import logging
 import re
 import html
-from typing import Dict, List
+from typing import Dict, List, Optional
 from datetime import datetime
 from urllib.parse import quote, parse_qs
 from .config import *  # شامل get_country_flag, مسیرهای by_protocol و ...
@@ -41,8 +41,16 @@ class OutputGenerator:
         self,
         categorized_configs: Dict[str, List[Dict]],
         tested_configs: Dict[str, List[Dict]],
+        extra_configs: Optional[List[Dict]] = None,
     ):
-        """Generate all output formats"""
+        """
+        Generate all output formats.
+
+        - categorized_configs: خروجی فیلتر بر اساس کشور
+        - tested_configs: کانفیگ‌های تست‌شده (بر اساس کشور)
+        - extra_configs: کانفیگ‌هایی که کشور ندارند (Slipnet، فایل‌های ovpn/npvt/config/txt و ...)
+                         فقط در خروجی by-protocol استفاده می‌شوند.
+        """
         logger.info("Generating output files...")
 
         try:
@@ -59,9 +67,20 @@ class OutputGenerator:
                 )
                 self._generate_country_outputs(country, configs, tested=True)
 
-            # 2) گروه‌بندی بر اساس پروتکل (در سطح سراسری)
-            protocol_all = self._group_by_protocol(categorized_configs)
-            protocol_tested = self._group_by_protocol(tested_configs)
+            # 2) گروه‌بندی بر اساس پروتکل (در سطح سراسری، همراه با extra_configs)
+            all_for_protocol: List[Dict] = []
+            for configs in categorized_configs.values():
+                all_for_protocol.extend(configs)
+
+            if extra_configs:
+                all_for_protocol.extend(extra_configs)
+
+            tested_for_protocol: List[Dict] = []
+            for configs in tested_configs.values():
+                tested_for_protocol.extend(configs)
+
+            protocol_all = self._group_by_protocol(all_for_protocol)
+            protocol_tested = self._group_by_protocol(tested_for_protocol)
 
             self._generate_by_protocol_outputs(protocol_all, protocol_tested)
 
@@ -76,22 +95,17 @@ class OutputGenerator:
             logger.error(f"Error generating outputs: {e}", exc_info=True)
 
     def _group_by_protocol(
-        self, categorized: Dict[str, List[Dict]]
+        self, configs: List[Dict]
     ) -> Dict[str, List[Dict]]:
         """
-        دسته‌بندی همه کانفیگ‌ها بر اساس پروتکل (type)، مستقل از کشور.
-        ورودی: دیکشنری country -> list[config]
+        دسته‌بندی کانفیگ‌ها بر اساس پروتکل (type)، مستقل از کشور.
+        ورودی: لیست کلی از کانفیگ‌ها
         خروجی: دیکشنری protocol -> list[config]
         """
         grouped: Dict[str, List[Dict]] = {}
-        if not categorized:
-            return grouped
-
-        for _country, configs in categorized.items():
-            for config in configs:
-                proto = str(config.get("type", "unknown") or "unknown").lower()
-                grouped.setdefault(proto, []).append(config)
-
+        for config in configs or []:
+            proto = str(config.get("type", "unknown") or "unknown").lower()
+            grouped.setdefault(proto, []).append(config)
         return grouped
 
     def _generate_by_protocol_outputs(
@@ -161,7 +175,9 @@ class OutputGenerator:
             country_dir = os.path.join(base_dir, country.lower())
             os.makedirs(country_dir, exist_ok=True)
 
-            rebuilt_configs = self._rebuild_configs_with_standard_names(configs, country)
+            rebuilt_configs = self._rebuild_configs_with_standard_names(
+                configs, country
+            )
 
             logger.info(f"Rebuilt {len(rebuilt_configs)} configs for {country}")
 
@@ -769,9 +785,9 @@ class OutputGenerator:
 
                 # ================== خروجی بر اساس پروتکل ==================
                 if protocol_all:
-                    f.write("## 🔀 By Protocol (All Countries)\n\n")
+                    f.write("## 🔀 By Protocol (All Countries & Extra)\n\n")
                     f.write(
-                        "Aggregated configs by protocol across all countries:\n\n"
+                        "Aggregated configs by protocol across all countries and extra types (Slipnet, OVPN files, ...):\n\n"
                     )
 
                     for proto in sorted(protocol_all.keys()):
@@ -806,7 +822,7 @@ class OutputGenerator:
                         f.write("\n")
 
                 f.write("\n---\n")
-                f.write("*🤖 Auto-updated every 8 hours via GitHub Actions*\n")
+                f.write("*🤖 Auto-updated via GitHub Actions*\n")
 
             logger.info(f"✅ Generated README: {readme_path}")
 
