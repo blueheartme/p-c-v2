@@ -1,0 +1,55 @@
+name: Update Proxies
+
+on:
+  # اجرای خودکار هر 8 ساعت یک‌بار (00 دقیقه، هر 8 ساعت)
+  schedule:
+    - cron: "0 */8 * * *"
+  # امکان اجرای دستی از تب Actions
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    # برای این‌که بتوانیم تغییرات را کامیت و پوش کنیم
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"   # اگر نسخهٔ دیگری لازم داری عوضش کن (مثلاً 3.10)
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run proxy collector
+        run: |
+          python main.py   # اگر اسم فایل اصلی چیز دیگری است، این‌جا عوضش کن
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # فقط خروجی‌ها را استیج کن (در صورت نیاز می‌توانی پوشه‌های دیگر هم اضافه کنی)
+          git add output/ || true
+
+          # اگر فایل‌های کانفیگ در output/files هم داری:
+          git add output/files/ || true
+
+          # اگر هیچ تغییری نیست، کامیت نکن
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update proxies $(date -u +"%Y-%m-%d %H:%M:%S")"
+            git push
+          fi
