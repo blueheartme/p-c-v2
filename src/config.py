@@ -26,6 +26,11 @@ TELEGRAM_CHANNELS = [
     "https://t.me/s/irshum2" ,
     "https://t.me/s/proxymtprotoir" ,
     "https://t.me/s/goldvpnhub" ,
+    "https://t.me/s/MPT_Proxy" ,
+    "https://t.me/s/AzadNet" ,
+    "https://t.me/s/Express_freevpn" ,
+    "https://t.me/s/ConfingV2RaayNG" ,
+    "https://t.me/s/NightPing" ,
 ]
 
 GITHUB_REPOS = [
@@ -51,6 +56,19 @@ PUBLIC_APIS = [
     # "https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray/clashnodecc.txt",
     # "https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray/v2rayshare.txt",
     # "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt",
+     "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/HamrahAval.txt",
+     "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/Irancell.txt",
+     "https://github.com/V2RayRoot/V2RayConfig/raw/refs/heads/main/Config/Makhaberat.txt",
+     "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/Samantel.txt",
+     "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/proxies.txt",
+     "https://raw.githubusercontent.com/SoliSpirit/mtproto/refs/heads/master/all_proxies.txt",
+     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/refs/heads/master/sub/proxies.txt",
+     "https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/refs/heads/main/jafar.txt",
+     "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/SLIPNET_SUB/refs/heads/main/slipnet_no2.txt",
+     "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/SLIPNET_SUB/refs/heads/main/slipnet_no1.txt",
+    "https://raw.githubusercontent.com/shervinofpersia/SlipNet/refs/heads/main/%E2%98%ACSH%CE%9EN%E2%84%A2.txt",
+    "https://raw.githubusercontent.com/masir-sefid/Sub/main/@Masir_Sefid.txt",
+    #"https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/refs/heads/main/jafar.txt",
 ]
 
 WEB_SCRAPE_URLS = []
