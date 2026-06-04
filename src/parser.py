@@ -24,16 +24,10 @@ class ConfigParser:
         if not data:
             return ""
 
-        # ممکن است لینک URL-encoded باشد
         data = unquote(data)
-
-        # حذف فاصله‌ها
         data = data.strip()
-
-        # استانداردسازی کاراکترهای URL-safe
         data = data.replace("-", "+").replace("_", "/")
 
-        # اصلاح Padding
         padding = 4 - len(data) % 4
         if padding < 4:
             data += "=" * padding
@@ -82,7 +76,7 @@ class ConfigParser:
             # Slipnet (کانفیگ متنی)
             elif lower.startswith("slipnet"):
                 return ConfigParser._parse_slipnet(config)
-            # لینک فایل‌های کانفیگ (.ovpn, .npvt, .npv, .config, .txt)
+            # لینک‌های http/https (ممکن است #filename هم داشته باشند)
             elif lower.startswith("http://") or lower.startswith("https://"):
                 return ConfigParser._parse_file_link(config)
             else:
@@ -122,63 +116,36 @@ class ConfigParser:
 
     @staticmethod
     def _parse_vless(config: str) -> Optional[Dict]:
-        """
-        Parse VLESS config (پایدار و کامل‌تر)
-
-        - از urlparse + parse_qs استفاده می‌کند
-        - فیلدهای اضافی را هم برمی‌گرداند:
-          network(type), security, encryption, flow, headerType, fingerprint, sni, host
-        """
+        """Parse VLESS config (پایدار و کامل‌تر)"""
         try:
-            # اگر از HTML (تلگرام) آمده باشد، &amp; و ... را به شکل عادی برمی‌گردانیم
             cfg_str = html.unescape(config)
             parsed = urlparse(cfg_str)
 
             if parsed.scheme.lower() != "vless":
                 return None
 
-            # uuid معمولاً در قسمت user (قبل از @) است
             uuid = parsed.username or ""
-            # آدرس و پورت
             address = parsed.hostname or ""
             port = str(parsed.port or "")
 
-            # نام (Remark) در fragment است
             name = parsed.fragment or ""
             name = ConfigParser._clean_name(name)
 
-            # پارامترهای query
             params = parse_qs(parsed.query or "")
 
-            # network type: tcp, ws, grpc, xhttp, ...
             network = params.get("type", [""])[0].lower()
-
-            # security: tls, reality, ...
             security = params.get("security", [""])[0].lower()
-
-            # flow (برای reality و ... )
             flow = params.get("flow", [""])[0]
-
-            # encryption: none, ...
             encryption = params.get("encryption", [""])[0].lower()
-
-            # headerType: http, none, ...
             header_type = params.get("headerType", [""])[0].lower()
-
-            # fingerprint: chrome, firefox, ...
             fingerprint = params.get(
                 "fp", params.get("fingerprint", [""])
             )[0].lower()
-
-            # sni
             sni = params.get("sni", [""])[0]
-
-            # header host / authority
             host_header = params.get("host", [""])[0] or params.get(
                 "authority", [""]
             )[0]
 
-            # در برخی لینک‌ها uuid در query با id آمده
             if not uuid:
                 uuid = params.get("id", [""])[0]
 
@@ -236,7 +203,6 @@ class ConfigParser:
         try:
             clean_config = config.replace("ss://", "")
 
-            # 1. جدا کردن نام (Remark)
             name = ""
             if "#" in clean_config:
                 clean_config, name_raw = clean_config.split("#", 1)
@@ -246,14 +212,11 @@ class ConfigParser:
             port = ""
             decoded_info = ""
 
-            # 2. تشخیص فرمت (SIP002 vs Legacy)
             if "@" in clean_config:
-                # فرمت SIP002: base64(method:password)@host:port
                 user_info_raw, server_part = clean_config.rsplit("@", 1)
 
                 if ":" in server_part:
                     address, port = server_part.rsplit(":", 1)
-                    # حذف براکت IPv6 اگر وجود داشته باشد
                     address = address.strip("[]")
                 else:
                     return None
@@ -261,7 +224,6 @@ class ConfigParser:
                 decoded_info = ConfigParser._safe_base64_decode(user_info_raw)
 
             else:
-                # فرمت Legacy: base64(method:password@host:port)
                 full_decoded = ConfigParser._safe_base64_decode(clean_config)
 
                 if "@" in full_decoded:
@@ -276,7 +238,6 @@ class ConfigParser:
             if not decoded_info:
                 return None
 
-            # 3. جدا کردن متد و پسورد
             if ":" in decoded_info:
                 method, password = decoded_info.split(":", 1)
             else:
@@ -370,12 +331,10 @@ class ConfigParser:
             path = (parsed.path or "").lower()
 
             if scheme == "tg" and parsed.path.lower().startswith("proxy"):
-                # tg://proxy?server=...&port=...&secret=...
                 query = parsed.query or ""
             elif scheme in ("http", "https") and netloc == "t.me" and path.startswith(
                 "/proxy"
             ):
-                # https://t.me/proxy?server=...&port=...&secret=...
                 query = parsed.query or ""
             else:
                 return None
@@ -386,7 +345,6 @@ class ConfigParser:
             port = params.get("port", [""])[0]
             secret = params.get("secret", [""])[0]
 
-            # name می‌تواند در query (پارامتر name) یا در fragment باشد
             name = params.get("name", [parsed.fragment or ""])[0]
             name = ConfigParser._clean_name(name)
 
@@ -412,16 +370,12 @@ class ConfigParser:
     def _parse_slipnet(config: str) -> Optional[Dict]:
         """
         Parse Slipnet config.
-
-        فعلاً فقط خود رشته‌ی کانفیگ را نگه می‌داریم و
-        آدرس/پورت استخراج نمی‌شود (برای تفکیک کشوری بعداً در صورت
-        در دسترس بودن مستندات می‌توان توسعه داد).
+        فعلاً فقط خود رشته‌ی کانفیگ را نگه می‌داریم.
         """
         try:
             cfg = config.strip()
             name = ""
 
-            # اگر fragment (مثل #name) وجود داشته باشد
             if "#" in cfg:
                 base, frag = cfg.split("#", 1)
                 cfg = base
@@ -436,7 +390,7 @@ class ConfigParser:
             logger.debug(f"Error parsing Slipnet: {e}")
             return None
 
-    # ======================= File-based configs (ovpn, npvt, config, txt) =======================
+    # ======================= File-based configs =======================
 
     @staticmethod
     def _parse_file_link(config: str) -> Optional[Dict]:
@@ -444,35 +398,42 @@ class ConfigParser:
         Parse links that point to config files:
           - .ovpn (OpenVPN)
           - .npvt / .npv (Napsternet)
-          - .config (فایل کانفیگ اختصاصی)
-          - .txt (فایل متنی شامل کانفیگ‌ها یا متن دیگر)
+          - .conf / .config (فایل کانفیگ)
+          - .txt (فایل متنی)
 
-        در این مرحله فقط لینک و نوع فایل را نگه می‌داریم.
-        (دانلود و ذخیره‌ی فایل در مرحله‌ی بعدی انجام خواهد شد)
+        پسوند هم از path و هم از fragment (مثلاً #@proxy_kafee🚀🌜.ovpn) بررسی می‌شود.
         """
         try:
             url = config.strip().strip('\'"')
             parsed = urlparse(url)
             path = parsed.path or ""
+            fragment = parsed.fragment or ""
 
-            if "." not in path:
+            ext = None
+
+            # ۱) تلاش برای گرفتن پسوند از path
+            if "." in path:
+                ext = path.rsplit(".", 1)[-1].lower()
+            # ۲) اگر در path نبود، از fragment
+            elif "." in fragment:
+                ext = fragment.rsplit(".", 1)[-1].lower()
+
+            if not ext:
                 return None
-
-            ext = path.rsplit(".", 1)[-1].lower()
 
             if ext == "ovpn":
                 type_name = "ovpn"
             elif ext in ("npvt", "npv"):
                 type_name = "npvt"
-            elif ext == "config":
+            elif ext in ("conf", "config"):
                 type_name = "config_file"
             elif ext == "txt":
                 type_name = "txt_file"
             else:
                 return None
 
-            # نام: اگر fragment وجود دارد، یا نام فایل
-            name = parsed.fragment or os.path.basename(path)
+            # نام: اگر fragment وجود دارد، اولویت با آن؛ در غیر این‌صورت نام فایل از path
+            name = fragment or os.path.basename(path)
             name = ConfigParser._clean_name(name)
 
             return {
