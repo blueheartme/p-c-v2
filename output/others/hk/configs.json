@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-03T19:38:34.496676",
-  "count": 3,
+  "updated": "2026-06-04T02:59:09.479456",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "27.50.48.49",
+      "port": "443",
+      "id": "228639b0-48de-4162-a818-d5651ee297b3",
+      "name": "Free 73 @Outline_Vpn",
+      "network": "ws",
+      "sni": "investors.spotify.com.cyylr.eu.cc",
+      "host": "investors.spotify.com.cyylr.eu.cc",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "27.50.48.49",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
     {
       "type": "trojan",
       "address": "219.79.214.159",
@@ -10,44 +30,11 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
-    {
-      "type": "vless",
-      "address": "27.50.48.49",
-      "port": "443",
-      "id": "228639b0-48de-4162-a818-d5651ee297b3",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "investors.spotify.com.cyylr.eu.cc",
-      "host": "investors.spotify.com.cyylr.eu.cc",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "27.50.48.49",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
-      "type": "ss",
-      "address": "li.feng3d.com",
-      "port": "8388",
-      "method": "aes-256-gcm",
-      "password": "feng3d@ss2025",
-      "name": "@ir_IRANy | Channel 🤍🪽",
-      "original": "ss://YWVzLTI1Ni1nY206ZmVuZzNkQHNzMjAyNQ@li.feng3d.com:8388#%40ir_IRANy%20%7C%20Channel%20%F0%9F%A4%8D%F0%9F%AA%BD",
-      "ip": "47.239.0.60",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ZmVuZzNkQHNzMjAyNQ@li.feng3d.com:8388#%40ir_IRANy%20%7C%20Channel%20%F0%9F%A4%8D%F0%9F%AA%BD"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }
