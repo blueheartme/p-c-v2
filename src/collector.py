@@ -73,7 +73,6 @@ class ConfigCollector:
                     try:
                         response = self.session.get(url, timeout=CONNECTION_TIMEOUT)
                         if response.status_code == 200:
-                            # این منابع معمولاً متن خالص هستند
                             extracted = self._extract_configs_from_text(response.text)
                             configs.update(extracted)
                             logger.info(f"Found {len(extracted)} configs from {url}")
@@ -153,8 +152,9 @@ class ConfigCollector:
     def _extract_configs_from_soup(self, soup: BeautifulSoup) -> Set[str]:
         """
         Extract proxy configs and related links from a BeautifulSoup HTML document.
-        - هم از روی متن خالص
-        - هم از روی href لینک‌ها (برای پروکسی تلگرام، Slipnet، فایل‌های .ovpn/.npvt/.config/.txt و ...)
+        - متن خالص (vmess/vless/...)
+        - href لینک‌ها (tg://, https://t.me/proxy, slipnet, لینک‌های مستقیم فایل)
+        - فایل‌های تلگرام بر اساس عنوان (tgme_widget_message_document_title)
         """
         configs: Set[str] = set()
 
@@ -182,25 +182,51 @@ class ConfigCollector:
                     configs.add(href)
                     continue
 
-                # پروکسی تلگرام
+                # پروکسی‌های تلگرام
                 if lower.startswith("tg://proxy?") or lower.startswith(
                     "https://t.me/proxy?"
                 ):
                     configs.add(href)
                     continue
 
-                # Slipnet (متن یا لینک)
+                # Slipnet (اگر به‌صورت لینک باشد)
                 if "slipnet" in lower:
                     configs.add(href)
-                    continue
 
-                # لینک فایل‌های کانفیگ (.ovpn, .npvt, .npv, .config, .txt)
-                if re.search(r"\.(ovpn|npvt|npv|config|txt)\b", href, re.IGNORECASE):
-                    # در صورت شروع با //، آن را به https تبدیل می‌کنیم
+                # لینک مستقیم فایل‌های کانفیگ
+                if re.search(r"\.(ovpn|npvt|npv|conf|config|txt)\b", href, re.IGNORECASE):
                     if href.startswith("//"):
                         href = "https:" + href
                     configs.add(href)
                     continue
+
+            # ۳) فایل‌های تلگرام از روی عنوان (tgme_widget_message_document_title)
+            #    مثل: @proxy_kafee🚀🌜.ovpn  یا  کافه پروکسی👑🦁.npvt  یا  ..._2.conf
+            for title in soup.select(".tgme_widget_message_document_title"):
+                filename_full = title.get_text(strip=True)
+                if not filename_full:
+                    continue
+
+                # فقط اگر یکی از پسوندهای مدنظر را داشته باشد
+                if not re.search(r"\.(ovpn|npvt|npv|conf|config|txt)\b", filename_full, re.IGNORECASE):
+                    continue
+
+                parent_a = title.find_parent("a", href=True)
+                if not parent_a:
+                    continue
+
+                href = parent_a.get("href", "").strip()
+                if not href:
+                    continue
+
+                href = html.unescape(href)
+                if href.startswith("//"):
+                    href = "https:" + href
+
+                # URL مصنوعی: لینک پیام + #عنوان‌فایل
+                # parser پسوند را از fragment تشخیص می‌دهد
+                synthetic = f"{href}#{filename_full}"
+                configs.add(synthetic)
 
         except Exception as e:
             logger.error(f"Error extracting configs from HTML soup: {e}")
@@ -212,7 +238,6 @@ class ConfigCollector:
         configs: Set[str] = set()
 
         try:
-            # ترتیب مهم است: اول vmess/vless/trojan، بعد ss، بعد سایر موارد
             patterns = [
                 # VMESS
                 r"vmess://\S+",
@@ -233,8 +258,8 @@ class ConfigCollector:
                 r"https://t\.me/proxy\?\S+",
                 # Slipnet (متن یا کانفیگ)
                 r"slipnet[^\s]+",
-                # لینک فایل‌های کانفیگ
-                r"https?://[^\s'\"]+\.(?:ovpn|npvt|npv|config|txt)\b",
+                # لینک مستقیم فایل‌های کانفیگ
+                r"https?://[^\s'\"]+\.(?:ovpn|npvt|npv|conf|config|txt)\b",
             ]
 
             for pattern in patterns:
