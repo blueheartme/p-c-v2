@@ -48,8 +48,7 @@ class OutputGenerator:
 
         - categorized_configs: خروجی فیلتر بر اساس کشور
         - tested_configs: کانفیگ‌های تست‌شده (بر اساس کشور)
-        - extra_configs: کانفیگ‌هایی که کشور ندارند (Slipnet، فایل‌های ovpn/npvt/config/txt و ...)
-                         فقط در خروجی by-protocol استفاده می‌شوند.
+        - extra_configs: کانفیگ‌هایی که کشور ندارند (Slipnet، فایل‌ها و ...) و فقط در by-protocol می‌آیند.
         """
         logger.info("Generating output files...")
 
@@ -94,6 +93,10 @@ class OutputGenerator:
         except Exception as e:
             logger.error(f"Error generating outputs: {e}", exc_info=True)
 
+    # ------------------------------------------------------------------
+    # گروه‌بندی بر اساس پروتکل
+    # ------------------------------------------------------------------
+
     def _group_by_protocol(
         self, configs: List[Dict]
     ) -> Dict[str, List[Dict]]:
@@ -117,6 +120,7 @@ class OutputGenerator:
         تولید خروجی‌ها بر اساس پروتکل، در دو سطح:
           - output/by_protocol/all/<protocol>/
           - output/by_protocol/tested/<protocol>/
+        و در هر پروتکل، خروجی‌های جدا بر اساس کشور در زیرپوشه by_country.
         """
         logger.info("Generating by-protocol outputs (all configs)...")
 
@@ -130,11 +134,15 @@ class OutputGenerator:
 
             logger.info(f"  Protocol {proto}: {len(configs)} configs (all)")
 
+            # همه کشورها باهم
             self._generate_json(proto_dir, f"{proto}.json", configs)
             self._generate_txt(proto_dir, f"{proto}.txt", configs)
             self._generate_subscription(
                 proto_dir, f"{proto}_subscription.txt", configs
             )
+
+            # تفکیک بر اساس کشور برای این پروتکل
+            self._generate_by_country_for_protocol(proto_dir, proto, configs, tested=False)
 
         # TESTED
         logger.info("Generating by-protocol outputs (tested configs)...")
@@ -148,11 +156,70 @@ class OutputGenerator:
 
             logger.info(f"  Protocol {proto}: {len(configs)} tested configs")
 
+            # همه کشورها باهم
             self._generate_json(proto_dir, f"tested_{proto}.json", configs)
             self._generate_txt(proto_dir, f"tested_{proto}.txt", configs)
             self._generate_subscription(
                 proto_dir, f"tested_{proto}_subscription.txt", configs
             )
+
+            # تفکیک بر اساس کشور برای این پروتکل (فقط تست‌شده‌ها)
+            self._generate_by_country_for_protocol(proto_dir, proto, configs, tested=True)
+
+    def _generate_by_country_for_protocol(
+        self,
+        proto_root_dir: str,
+        proto: str,
+        configs: List[Dict],
+        tested: bool = False,
+    ):
+        """
+        برای یک پروتکل خاص (مثلاً tg یا vmess)، خروجی‌های جدا بر اساس country تولید می‌کند:
+
+        خروجی:
+          proto_root_dir/
+            by_country/
+              ir/
+                configs.json
+                configs.txt
+                subscription.txt
+              de/
+                ...
+        """
+        # گروه‌بندی بر اساس country
+        by_country: Dict[str, List[Dict]] = {}
+        for cfg in configs:
+            country = cfg.get("country")
+            if not country:
+                continue
+            by_country.setdefault(country.upper(), []).append(cfg)
+
+        if not by_country:
+            return
+
+        base_dir = os.path.join(proto_root_dir, "by_country")
+        os.makedirs(base_dir, exist_ok=True)
+
+        kind = "tested" if tested else "all"
+        logger.info(
+            f"    Generating per-country outputs for protocol {proto} ({kind}) "
+            f"for {len(by_country)} countries"
+        )
+
+        for country, country_configs in by_country.items():
+            country_dir = os.path.join(base_dir, country.lower())
+            os.makedirs(country_dir, exist_ok=True)
+
+            # برای سادگی، مثل ساختار اصلی کشورها از نام‌های ثابت استفاده می‌کنیم
+            self._generate_json(country_dir, "configs.json", country_configs)
+            self._generate_txt(country_dir, "configs.txt", country_configs)
+            self._generate_subscription(
+                country_dir, "subscription.txt", country_configs
+            )
+
+    # ------------------------------------------------------------------
+    # خروجی بر اساس کشور (ساختار اصلی، بدون تغییر در منطق)
+    # ------------------------------------------------------------------
 
     def _generate_country_outputs(
         self, country: str, configs: List[Dict], tested: bool = False
@@ -201,6 +268,10 @@ class OutputGenerator:
             logger.error(
                 f"Error generating country outputs for {country}: {e}", exc_info=True
             )
+
+    # ------------------------------------------------------------------
+    # بخش نام‌گذاری و rebuild کانفیگ‌ها (بدون تغییر نسبت به نسخهٔ قبلی)
+    # ------------------------------------------------------------------
 
     def _rebuild_configs_with_standard_names(
         self, configs: List[Dict], country: str
@@ -270,49 +341,39 @@ class OutputGenerator:
             return f"{protocol}-{country}{flag}-{idx}"
 
     def _build_vless_name(self, config: Dict, country: str, idx: int) -> str:
-        """
-        VLESS format: vless-[flow]-[network]-[headerType]-[security]-[fingerprint]-[cdn]-COUNTRY-num
-        """
         parts = ["vless"]
 
         try:
-            # ابتدا params را هم از روی original و هم از روی فیلدهای پارس‌شده می‌خوانیم
             original = config.get("original", "")
             params = self._extract_vless_params(original)
 
-            # flow
             flow = (config.get("flow") or params.get("flow", "") or "").lower()
             if flow and flow not in ["none", ""]:
                 parts.append(flow)
 
-            # encryption
             encryption = (
                 config.get("encryption") or params.get("encryption", "") or ""
             ).lower()
             if encryption and encryption not in ["none", ""]:
                 parts.append(encryption)
 
-            # network (type)
             network = (config.get("network") or params.get("type", "") or "").lower()
             if not network:
                 network = "tcp"
             parts.append(network)
 
-            # headerType
             header_type = (
                 config.get("headerType") or params.get("headerType", "") or ""
             ).lower()
             if header_type and header_type not in ["none", ""]:
                 parts.append(header_type)
 
-            # security (tls, reality, ...)
             security = (
                 config.get("security") or params.get("security", "") or ""
             ).lower()
             if security and security not in ["none", ""]:
                 parts.append(security)
 
-            # fingerprint
             fingerprint = (
                 config.get("fingerprint")
                 or params.get("fp", params.get("fingerprint", ""))
@@ -321,7 +382,6 @@ class OutputGenerator:
             if fingerprint and fingerprint not in ["none", ""]:
                 parts.append(fingerprint)
 
-            # CDN
             cdn = config.get("cdn", "")
             if cdn:
                 cdn_name = CDN_NAMES.get(cdn, cdn).replace("☁️", "").strip()
@@ -473,15 +533,16 @@ class OutputGenerator:
         parts.append(str(idx))
         return "-".join(parts)
 
+    # ------------------------------------------------------------------
+    # Helperها برای VLESS/VMESS/Trojan
+    # ------------------------------------------------------------------
+
     def _extract_vless_params(self, config_str: str) -> dict:
-        """Extract parameters from VLESS config (با درنظر گرفتن &amp;)"""
         try:
             if "?" not in config_str:
                 return {}
 
-            # HTML entity ها را به شکل عادی برمی‌گردانیم
             cfg = html.unescape(config_str)
-
             params_part = cfg.split("?")[1].split("#")[0]
             params = parse_qs(params_part)
 
@@ -523,6 +584,10 @@ class OutputGenerator:
         except Exception as e:
             logger.debug(f"Error extracting VMess data: {e}")
             return {}
+
+    # ------------------------------------------------------------------
+    # Rebuild های پروتکل‌ها
+    # ------------------------------------------------------------------
 
     def _rebuild_config_with_name(self, config: Dict, new_name: str) -> str:
         config_type = config.get("type", "")
@@ -633,6 +698,10 @@ class OutputGenerator:
             logger.debug(f"Error rebuilding TUIC: {e}")
             return original
 
+    # ------------------------------------------------------------------
+    # تولید JSON/TXT/Subscription
+    # ------------------------------------------------------------------
+
     def _generate_json(self, directory: str, filename: str, configs: List[Dict]):
         try:
             filepath = os.path.join(directory, filename)
@@ -700,6 +769,10 @@ class OutputGenerator:
         except Exception as e:
             logger.error(f"Error generating subscription: {e}", exc_info=True)
 
+    # ------------------------------------------------------------------
+    # README
+    # ------------------------------------------------------------------
+
     def _generate_readme(
         self,
         all_configs: Dict[str, List[Dict]],
@@ -728,7 +801,6 @@ class OutputGenerator:
                 f.write(f"- **Countries:** {total_countries}\n")
                 f.write(f"- **Protocols:** {total_protocols}\n\n")
 
-                # ================== بخش ایران ==================
                 if "IR" in all_configs:
                     ir_count = len(all_configs["IR"])
                     ir_tested = len(tested_configs.get("IR", []))
@@ -745,7 +817,6 @@ class OutputGenerator:
                         )
                     f.write("\n")
 
-                # ================== بخش آلمان ==================
                 if "DE" in all_configs:
                     de_count = len(all_configs["DE"])
                     de_tested = len(tested_configs.get("DE", []))
@@ -762,7 +833,6 @@ class OutputGenerator:
                         )
                     f.write("\n")
 
-                # ================== سایر کشورها ==================
                 other_countries = [
                     c for c in all_configs.keys() if c not in ["IR", "DE"]
                 ]
@@ -783,11 +853,10 @@ class OutputGenerator:
                             f"[Subscription](others/{country.lower()}/subscription.txt)\n\n"
                         )
 
-                # ================== خروجی بر اساس پروتکل ==================
                 if protocol_all:
                     f.write("## 🔀 By Protocol (All Countries & Extra)\n\n")
                     f.write(
-                        "Aggregated configs by protocol across all countries and extra types (Slipnet, OVPN files, ...):\n\n"
+                        "Aggregated configs by protocol across all countries and extra types (Slipnet, file refs, ...):\n\n"
                     )
 
                     for proto in sorted(protocol_all.keys()):
