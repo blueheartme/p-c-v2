@@ -1,0 +1,46 @@
+{
+  "updated": "2026-06-04T16:48:48.640104",
+  "count": 2,
+  "configs": [
+    {
+      "type": "vless",
+      "address": "15.168.173.144",
+      "port": "443",
+      "id": "e0306a33-9971-4b75-a5e0-a176a5a48a2e",
+      "name": "Japan+AWS",
+      "network": "tcp",
+      "sni": "swdist.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-2",
+      "ip": "15.168.173.144",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+    },
+    {
+      "type": "vless",
+      "address": "dongjing4.zqjsqapi.com",
+      "port": "443",
+      "id": "8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19",
+      "name": "🇯🇵 JP 7",
+      "network": "ws",
+      "sni": "dongjing4.zqjsqapi.com",
+      "host": "dongjing4.zqjsqapi.com",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?security=tls&sni=dongjing4.zqjsqapi.com&fp=chrome&type=ws&headerType=none&host=dongjing4.zqjsqapi.com&path=%2fproxy#vless-ws-tls-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-7",
+      "ip": "151.245.104.182",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?security=tls&sni=dongjing4.zqjsqapi.com&fp=chrome&type=ws&headerType=none&host=dongjing4.zqjsqapi.com&path=%2fproxy#vless-ws-tls-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-7"
+    }
+  ]
+}

@@ -1,26 +1,18 @@
 {
-  "updated": "2026-06-04T14:00:05.075514",
-  "count": 2,
+  "updated": "2026-06-04T16:48:48.585239",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.145.163.115",
-      "port": "39771",
-      "id": "e5bd3d75-06b3-490e-9651-930b1dc29cdb",
-      "name": "Free 20 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#vless-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1",
-      "ip": "45.145.163.115",
+      "type": "tg",
+      "address": "104.253.18.182",
+      "port": "443",
+      "secret": "32f18784bc35a4dbbe5bd6356599fba8",
+      "name": "",
+      "original": "https://t.me/proxy?server=104.253.18.182&port=443&secret=32f18784bc35a4dbbe5bd6356599fba8",
+      "ip": "104.253.18.182",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#vless-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+      "rebuilt": "https://t.me/proxy?server=104.253.18.182&port=443&secret=32f18784bc35a4dbbe5bd6356599fba8"
     },
     {
       "type": "vless",
@@ -41,6 +33,26 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2"
+    },
+    {
+      "type": "vless",
+      "address": "45.145.163.115",
+      "port": "39771",
+      "id": "e5bd3d75-06b3-490e-9651-930b1dc29cdb",
+      "name": "Free 20 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#vless-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3",
+      "ip": "45.145.163.115",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#vless-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3"
     }
   ]
 }
