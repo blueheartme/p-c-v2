@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-04T02:59:09.475568",
-  "count": 1,
+  "updated": "2026-06-04T10:58:25.611500",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "103.169.142.231",
+      "port": "2083",
+      "id": "8525fe74-67e6-4a55-8a26-95f227bd1384",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "black-river-6b3f.alvlirm999.workers.dev",
+      "host": "black-river-6b3f.alvlirm999.workers.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "random",
+      "original": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@103.169.142.231:2083?path=%2F&security=tls&encryption=none&insecure=0&host=black-river-6b3f.alvlirm999.workers.dev&fp=random&type=ws&allowInsecure=0&sni=black-river-6b3f.alvlirm999.workers.dev#vless-ws-tls-random-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "103.169.142.231",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@103.169.142.231:2083?path=%2F&security=tls&encryption=none&insecure=0&host=black-river-6b3f.alvlirm999.workers.dev&fp=random&type=ws&allowInsecure=0&sni=black-river-6b3f.alvlirm999.workers.dev#vless-ws-tls-random-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
     {
       "type": "vless",
       "address": "185.207.197.156",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@185.207.197.156:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#vless-xhttp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "original": "vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@185.207.197.156:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#vless-xhttp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
       "ip": "185.207.197.156",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@185.207.197.156:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#vless-xhttp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@185.207.197.156:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#vless-xhttp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }

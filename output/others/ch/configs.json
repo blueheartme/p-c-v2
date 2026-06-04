@@ -1,40 +1,20 @@
 {
-  "updated": "2026-06-04T02:59:09.477966",
-  "count": 2,
+  "updated": "2026-06-04T10:58:25.601914",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "83.228.226.72",
-      "port": "443",
-      "id": "a1ee1f7f-deb9-48e4-9a97-6f565949817d",
-      "name": "برای اتصال دائمی جوین شو🎏 TelegramID ⌲GoldVpnHub 🪩",
-      "network": "tcp",
-      "sni": "",
-      "host": "uplod.ir",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "83.228.226.72",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
     {
       "type": "trojan",
       "address": "185.18.250.252",
       "port": "443",
       "password": "humanity",
-      "name": "Free 74 @Outline_Vpn",
+      "name": "@filembad",
       "sni": "www.multiplydose.com",
-      "host": "www.multiplydose.com",
-      "original": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "host": "",
+      "original": "trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=%2Fassignment&sni=www.multiplydose.com&allowInsecure=0#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "185.18.250.252",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=%2Fassignment&sni=www.multiplydose.com&allowInsecure=0#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }
