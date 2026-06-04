@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T10:58:25.608639",
-  "count": 1,
+  "updated": "2026-06-04T14:00:05.070731",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "vless://6a3b21e8-3d68-4f5d-8f53-5bf8f9735920@213.156.152.186:443?security=reality&encryption=none&pbk=DAV0PxuvxAz_pMRmm4BO2Vsvof2DQ-2W08cgJEebrkg&headerType=none&fp=firefox&spx=%2Fo9m4xdYnxI9exFp&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=d4d0#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "vless",
+      "address": "ip.oakcup.ir",
+      "port": "2052",
+      "id": "6571652d-7bb0-4b87-a729-b931e3fc25bc",
+      "name": "@filembad",
+      "network": "httpupgrade",
+      "sni": "",
+      "host": "fff.oakcup.ir",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6571652d-7bb0-4b87-a729-b931e3fc25bc@Ip.oakcup.ir:2052?path=%2Fapi&security=none&encryption=none&host=fff.oakcup.ir&type=httpupgrade#vless-httpupgrade-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "104.249.8.31",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://6571652d-7bb0-4b87-a729-b931e3fc25bc@Ip.oakcup.ir:2052?path=%2Fapi&security=none&encryption=none&host=fff.oakcup.ir&type=httpupgrade#vless-httpupgrade-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     }
   ]
 }
