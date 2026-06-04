@@ -1,22 +1,7 @@
 {
-  "updated": "2026-06-04T16:48:48.571200",
+  "updated": "2026-06-04T18:12:20.680042",
   "count": 2,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "85.90.217.42",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "🇪🇸 ES 1",
-      "network": "tcp",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1FU/Cfh6rwn4e4LTEiLCJhZGQiOiI4NS45MC4yMTcuNDIiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "85.90.217.42",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1FU/Cfh6rwn4e4LTEiLCJhZGQiOiI4NS45MC4yMTcuNDIiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
-    },
     {
       "type": "tg",
       "address": "45.90.237.143",
@@ -28,6 +13,21 @@
       "country": "ES",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=45.90.237.143&port=8448&secret=ee6c6bb7242fc9860410ed77552e80aa9e7777772e636c6f7564666c6172652e636f6d"
+    },
+    {
+      "type": "vmess",
+      "address": "85.90.217.42",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "🇪🇸 ES 1",
+      "network": "tcp",
+      "host": "",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1FU/Cfh6rwn4e4LTIiLCJhZGQiOiI4NS45MC4yMTcuNDIiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "85.90.217.42",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1FU/Cfh6rwn4e4LTIiLCJhZGQiOiI4NS45MC4yMTcuNDIiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
-  "updated": "2026-06-04T16:48:48.632285",
+  "updated": "2026-06-04T18:12:20.707777",
   "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "pl.healthy-connected.com",
-      "port": "443",
-      "id": "4405aeb6-84fc-49ba-a42b-948a3b1ed13c",
-      "name": "برای اتصال دائمی جوین شو🫧 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "pl.healthy-connected.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?security=reality&encryption=none&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=pl.healthy-connected.com&sid=30e570274c0c72cc#vless-xtls-rprx-vision-tcp-reality-edge-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "193.200.16.82",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?security=reality&encryption=none&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=pl.healthy-connected.com&sid=30e570274c0c72cc#vless-xtls-rprx-vision-tcp-reality-edge-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
     {
       "type": "vless",
       "address": "185.193.29.138",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6",
       "ip": "185.193.29.138",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6"
     },
     {
       "type": "vless",
@@ -56,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?security=reality&encryption=none&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=by.api-yandex.net&sid=0f4dacf62211e75f#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-9",
+      "original": "vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?security=reality&encryption=none&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=by.api-yandex.net&sid=0f4dacf62211e75f#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-7",
       "ip": "144.31.131.17",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?security=reality&encryption=none&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=by.api-yandex.net&sid=0f4dacf62211e75f#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-9"
+      "rebuilt": "vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?security=reality&encryption=none&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=by.api-yandex.net&sid=0f4dacf62211e75f#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+    },
+    {
+      "type": "vless",
+      "address": "pl.healthy-connected.com",
+      "port": "443",
+      "id": "4405aeb6-84fc-49ba-a42b-948a3b1ed13c",
+      "name": "برای اتصال دائمی جوین شو🫧 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "pl.healthy-connected.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "edge",
+      "original": "vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?security=reality&encryption=none&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=pl.healthy-connected.com&sid=30e570274c0c72cc#vless-xtls-rprx-vision-tcp-reality-edge-PL%F0%9F%87%B5%F0%9F%87%B1-9",
+      "ip": "130.49.155.22",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?security=reality&encryption=none&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=pl.healthy-connected.com&sid=30e570274c0c72cc#vless-xtls-rprx-vision-tcp-reality-edge-PL%F0%9F%87%B5%F0%9F%87%B1-9"
     }
   ]
 }

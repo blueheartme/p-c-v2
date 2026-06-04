@@ -1,39 +1,7 @@
 {
-  "updated": "2026-06-04T16:48:48.572939",
-  "count": 3,
+  "updated": "2026-06-04T18:12:20.669691",
+  "count": 2,
   "configs": [
-    {
-      "type": "tg",
-      "address": "52.212.35.240",
-      "port": "80",
-      "secret": "dd104462821249bd7ac519130220c25d09",
-      "name": "",
-      "original": "https://t.me/proxy?server=52.212.35.240&port=80&secret=dd104462821249bd7ac519130220c25d09",
-      "ip": "52.212.35.240",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=52.212.35.240&port=80&secret=dd104462821249bd7ac519130220c25d09"
-    },
-    {
-      "type": "vless",
-      "address": "85.159.229.189",
-      "port": "443",
-      "id": "9f9f18f8-2557-4f18-928d-e7c334a0b068",
-      "name": "🇮🇪 Jafar | 💎🔥 1686 ms",
-      "network": "tcp",
-      "sni": "www.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "random",
-      "original": "vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.google.com&fp=random&sid=e6&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A#vless-tcp-reality-random-IE%F0%9F%87%AE%F0%9F%87%AA-2",
-      "ip": "85.159.229.189",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.google.com&fp=random&sid=e6&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A#vless-tcp-reality-random-IE%F0%9F%87%AE%F0%9F%87%AA-2"
-    },
     {
       "type": "tg",
       "address": "54.77.249.168",
@@ -45,6 +13,18 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=54.77.249.168&port=80&secret=dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "tg",
+      "address": "52.212.35.240",
+      "port": "80",
+      "secret": "dd104462821249bd7ac519130220c25d09",
+      "name": "",
+      "original": "https://t.me/proxy?server=52.212.35.240&port=80&secret=dd104462821249bd7ac519130220c25d09",
+      "ip": "52.212.35.240",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=52.212.35.240&port=80&secret=dd104462821249bd7ac519130220c25d09"
     }
   ]
 }

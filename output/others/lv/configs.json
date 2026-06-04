@@ -1,19 +1,7 @@
 {
-  "updated": "2026-06-04T16:48:48.585239",
-  "count": 3,
+  "updated": "2026-06-04T18:12:20.676135",
+  "count": 4,
   "configs": [
-    {
-      "type": "tg",
-      "address": "104.253.18.182",
-      "port": "443",
-      "secret": "32f18784bc35a4dbbe5bd6356599fba8",
-      "name": "",
-      "original": "https://t.me/proxy?server=104.253.18.182&port=443&secret=32f18784bc35a4dbbe5bd6356599fba8",
-      "ip": "104.253.18.182",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=104.253.18.182&port=443&secret=32f18784bc35a4dbbe5bd6356599fba8"
-    },
     {
       "type": "vless",
       "address": "195.135.252.28",
@@ -28,11 +16,23 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+    },
+    {
+      "type": "tg",
+      "address": "104.253.18.182",
+      "port": "443",
+      "secret": "32f18784bc35a4dbbe5bd6356599fba8",
+      "name": "",
+      "original": "https://t.me/proxy?server=104.253.18.182&port=443&secret=32f18784bc35a4dbbe5bd6356599fba8",
+      "ip": "104.253.18.182",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=104.253.18.182&port=443&secret=32f18784bc35a4dbbe5bd6356599fba8"
     },
     {
       "type": "vless",
@@ -53,6 +53,26 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#vless-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3"
+    },
+    {
+      "type": "vless",
+      "address": "95.182.90.38",
+      "port": "443",
+      "id": "1580cc89-b2b4-4e36-b239-9c47f81af39f",
+      "name": "𝗝𝗼𝗶𝗻 ➠ @proxy_kafee 233",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://1580cc89-b2b4-4e36-b239-9c47f81af39f@95.182.90.38:443?encryption=none&type=tcp&headerType=none#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-4",
+      "ip": "95.182.90.38",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://1580cc89-b2b4-4e36-b239-9c47f81af39f@95.182.90.38:443?encryption=none&type=tcp&headerType=none#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-4"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-04T16:48:48.637111",
-  "count": 5,
+  "updated": "2026-06-04T18:12:20.708977",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
-      "address": "blit33.hamrahcore.ir",
-      "port": "719",
-      "id": "7938b3fe-1169-4ed2-86ad-748f104d55b3",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "play.google.com",
-      "security": "",
+      "address": "79.127.196.11",
+      "port": "8443",
+      "id": "55f7d143-a594-4a91-b030-f227039f85ef",
+      "name": "@v2ray_phoenix",
+      "network": "tcp",
+      "sni": "cdg-1.fromblancwithlove.com",
+      "host": "",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://7938b3fe-1169-4ed2-86ad-748f104d55b3@bLiT33.hAmRaHcOrE.iR:719?encryption=none&type=ws&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#vless-ws-FR%F0%9F%87%AB%F0%9F%87%B7-5",
-      "ip": "45.10.59.38",
+      "original": "vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdg-1.fromblancwithlove.com#vless-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-2",
+      "ip": "79.127.196.11",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "vless://7938b3fe-1169-4ed2-86ad-748f104d55b3@bLiT33.hAmRaHcOrE.iR:719?encryption=none&type=ws&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#vless-ws-FR%F0%9F%87%AB%F0%9F%87%B7-5"
+      "rebuilt": "vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdg-1.fromblancwithlove.com#vless-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -44,26 +44,6 @@
     },
     {
       "type": "vless",
-      "address": "79.127.196.11",
-      "port": "8443",
-      "id": "55f7d143-a594-4a91-b030-f227039f85ef",
-      "name": "@v2ray_phoenix",
-      "network": "tcp",
-      "sni": "cdg-1.fromblancwithlove.com",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=cdg-1.fromblancwithlove.com#vless-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-15",
-      "ip": "79.127.196.11",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=cdg-1.fromblancwithlove.com#vless-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-15"
-    },
-    {
-      "type": "vless",
       "address": "51.255.71.16",
       "port": "443",
       "id": "43488128-319e-f480-64ea-0acdc712e2a8",
@@ -76,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#vless-xtls-rprx-vision-tcp-reality-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-20",
+      "original": "vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#vless-xtls-rprx-vision-tcp-reality-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-9",
       "ip": "51.255.71.16",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#vless-xtls-rprx-vision-tcp-reality-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-20"
+      "rebuilt": "vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#vless-xtls-rprx-vision-tcp-reality-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-9"
     },
     {
       "type": "vless",
@@ -96,11 +76,11 @@
       "encryption": "",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?security=false&fp=chrome&type=ws&headerType=none&path=%2fvless%2f#vless-ws-false-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-21",
+      "original": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?security=false&fp=chrome&type=ws&headerType=none&path=%2fvless%2f#vless-ws-false-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-18",
       "ip": "152.228.162.19",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?security=false&fp=chrome&type=ws&headerType=none&path=%2fvless%2f#vless-ws-false-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-21"
+      "rebuilt": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?security=false&fp=chrome&type=ws&headerType=none&path=%2fvless%2f#vless-ws-false-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-18"
     }
   ]
 }
