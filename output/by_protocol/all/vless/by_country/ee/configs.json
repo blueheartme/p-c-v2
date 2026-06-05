@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-05T02:48:06.527064",
+  "updated": "2026-06-05T11:22:27.495108",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "150.241.101.222",
+      "port": "443",
+      "id": "749a5df1-2d12-45cf-80f3-f85ea6b2e405",
+      "name": "برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "random",
+      "original": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-1",
+      "ip": "150.241.101.222",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+    },
     {
       "type": "vless",
       "address": "185.215.184.95",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-1",
+      "original": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-2",
       "ip": "185.215.184.95",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "150.241.101.222",
-      "port": "443",
-      "id": "749a5df1-2d12-45cf-80f3-f85ea6b2e405",
-      "name": "برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-2",
-      "ip": "150.241.101.222",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-2"
+      "rebuilt": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-2"
     }
   ]
 }

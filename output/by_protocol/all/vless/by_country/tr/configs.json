@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-05T02:48:06.537427",
-  "count": 1,
+  "updated": "2026-06-05T11:22:27.493490",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.92.219.119",
+      "port": "7443",
+      "id": "0b0f0f45-b79a-4647-b466-d7879cd4aeea",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.microsoft.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "safari",
+      "original": "vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.microsoft.com&sid=d82fb387&fp=safari&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none#vless-xtls-rprx-vision-tcp-reality-safari-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "45.92.219.119",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.microsoft.com&sid=d82fb387&fp=safari&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none#vless-xtls-rprx-vision-tcp-reality-safari-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
     {
       "type": "vless",
       "address": "213.156.152.186",

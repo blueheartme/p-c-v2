@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-05T02:48:06.445066",
-  "count": 2,
+  "updated": "2026-06-05T11:22:27.439560",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "5.199.172.70",
+      "port": "8443",
+      "id": "2c33d7de-009d-4975-bf5e-f37567e85884",
+      "name": "@filembad",
+      "network": "xhttp",
+      "sni": "www.tradingview.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://2c33d7de-009d-4975-bf5e-f37567e85884@5.199.172.70:8443?mode=auto&path=%2Fapi%2Fv2%2Fsync&security=reality&encryption=none&pbk=NnDloDdLzhLM1CVF36kbOkc0JFzsqVaT3k1fYX_vXRY&fp=firefox&type=xhttp&sni=www.tradingview.com&sid=f5792b5e2346fc50#vless-xhttp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "5.199.172.70",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://2c33d7de-009d-4975-bf5e-f37567e85884@5.199.172.70:8443?mode=auto&path=%2Fapi%2Fv2%2Fsync&security=reality&encryption=none&pbk=NnDloDdLzhLM1CVF36kbOkc0JFzsqVaT3k1fYX_vXRY&fp=firefox&type=xhttp&sni=www.tradingview.com&sid=f5792b5e2346fc50#vless-xhttp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+    },
+    {
+      "type": "tg",
+      "address": "tg.capycore.ru",
+      "port": "443",
+      "secret": "27ebe852539fb8ec5f327c73262bb721",
+      "name": "",
+      "original": "https://t.me/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262bb721",
+      "ip": "84.32.151.169",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262bb721"
+    },
     {
       "type": "vless",
       "address": "91.188.254.124",
@@ -16,23 +48,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://efffa718-6ce3-4b0f-88dc-fc68ed38ff1f@91.188.254.124:2083?mode=auto&path=%2Fapi%2Fv1%2Fuser%2Fprofile&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&host=skyroom.online&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "original": "vless://efffa718-6ce3-4b0f-88dc-fc68ed38ff1f@91.188.254.124:2083?mode=auto&path=%2Fapi%2Fv1%2Fuser%2Fprofile&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&host=skyroom.online&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-3",
       "ip": "91.188.254.124",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://efffa718-6ce3-4b0f-88dc-fc68ed38ff1f@91.188.254.124:2083?mode=auto&path=%2Fapi%2Fv1%2Fuser%2Fprofile&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&host=skyroom.online&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+      "rebuilt": "vless://efffa718-6ce3-4b0f-88dc-fc68ed38ff1f@91.188.254.124:2083?mode=auto&path=%2Fapi%2Fv1%2Fuser%2Fprofile&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&host=skyroom.online&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-3"
     },
     {
-      "type": "tg",
-      "address": "tg.capycore.ru",
+      "type": "vless",
+      "address": "93.115.25.153",
       "port": "443",
-      "secret": "27ebe852539fb8ec5f327c73262bb721",
-      "name": "",
-      "original": "https://t.me/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262bb721",
-      "ip": "84.32.151.169",
+      "id": "31969cf4-c1bb-4a3e-b42b-574dfb271c73",
+      "name": "🇱🇹 Jafar | 💎🔥 341 ms",
+      "network": "tcp",
+      "sni": "googdas.scroogethebest.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=googdas.scroogethebest.com&fp=qq&flow=xtls-rprx-vision&sid=132c271e21324e36&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%87%B1%F0%9F%87%B9-4",
+      "ip": "93.115.25.153",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262bb721"
+      "rebuilt": "vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=googdas.scroogethebest.com&fp=qq&flow=xtls-rprx-vision&sid=132c271e21324e36&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%87%B1%F0%9F%87%B9-4"
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
-  "updated": "2026-06-05T02:48:06.599965",
-  "count": 5,
+  "updated": "2026-06-05T11:22:27.520799",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
-      "address": "185.137.157.254",
-      "port": "443",
-      "password": "hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd",
-      "name": "🇩🇪 DE 4",
-      "sni": "www.directorypipeline.click",
+      "address": "63.185.124.176",
+      "port": "22222",
+      "password": "telegram-id-privatevpns",
+      "name": "(S102)",
+      "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&fp=chrome&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-28",
-      "ip": "185.137.157.254",
+      "original": "trojan://telegram-id-privatevpns@63.185.124.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-11",
+      "ip": "63.185.124.176",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&fp=chrome&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-28"
+      "rebuilt": "trojan://telegram-id-privatevpns@63.185.124.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-11"
     },
     {
       "type": "trojan",
@@ -26,61 +26,45 @@
       "name": "🇩🇪 DE 1",
       "sni": "172.236.220.10",
       "host": "",
-      "original": "trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-29",
+      "original": "trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-20",
       "ip": "172.236.220.10",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-29"
+      "rebuilt": "trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-20"
     },
     {
       "type": "trojan",
-      "address": "91.107.162.63",
-      "port": "8443",
-      "password": "SoftNetConnect",
-      "name": "@proxy_kafee ( Germany",
-      "sni": "www.yahoo.com",
+      "address": "185.137.157.254",
+      "port": "443",
+      "password": "hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd",
+      "name": "🇩🇪 DE 2",
+      "sni": "www.directorypipeline.click",
       "host": "",
-      "original": "trojan://SoftNetConnect@91.107.162.63:8443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=P9eMYLozM4-cDufbc3xzA6AEKRc1p7pdidJ_iqp72ls&sid=4da1e3bdfe7f&spx=%2F#trojan-xhttp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-41",
-      "ip": "91.107.162.63",
+      "original": "trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-31",
+      "ip": "185.137.157.254",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://SoftNetConnect@91.107.162.63:8443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=P9eMYLozM4-cDufbc3xzA6AEKRc1p7pdidJ_iqp72ls&sid=4da1e3bdfe7f&spx=%2F#trojan-xhttp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-41"
+      "rebuilt": "trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-31"
     },
     {
       "type": "trojan",
-      "address": "63.185.199.92",
-      "port": "22222",
-      "password": "telegram-id-privatevpns",
-      "name": "(S102)",
-      "sni": "trojan.burgerip.co.uk",
-      "host": "",
-      "original": "trojan://telegram-id-privatevpns@63.185.199.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-78",
-      "ip": "63.185.199.92",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://telegram-id-privatevpns@63.185.199.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-78"
-    },
-    {
-      "type": "trojan",
-      "address": "63.185.199.92",
+      "address": "63.185.124.176",
       "port": "22223",
       "password": "telegram-id-directvpn",
       "name": "OurChannel",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-directvpn@63.185.199.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-80",
-      "ip": "63.185.199.92",
+      "original": "trojan://telegram-id-directvpn@63.185.124.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-57",
+      "ip": "63.185.124.176",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://telegram-id-directvpn@63.185.199.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-80"
+      "rebuilt": "trojan://telegram-id-directvpn@63.185.124.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-57"
     }
   ]
 }

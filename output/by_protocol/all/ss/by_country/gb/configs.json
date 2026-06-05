@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-05T02:48:06.563355",
+  "updated": "2026-06-05T11:22:27.457083",
   "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "51.75.168.50",
+      "port": "26179",
+      "method": "chacha20-ietf-poly1305",
+      "password": "78b6e93e54225803",
+      "name": "Free 66 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#Free%2066%20%40Outline_Vpn",
+      "ip": "51.75.168.50",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#Free%2066%20%40Outline_Vpn"
+    },
     {
       "type": "ss",
       "address": "45.63.100.170",
@@ -17,16 +30,16 @@
     },
     {
       "type": "ss",
-      "address": "94.156.250.148",
-      "port": "7001",
-      "method": "aes-256-gcm",
-      "password": "RexnBgU7EV5ADxG",
-      "name": "Free 48 @Outline_Vpn",
-      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Free%2048%20%40Outline_Vpn",
-      "ip": "94.156.250.148",
+      "address": "141.98.101.182",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "United Kingdom M247",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
+      "ip": "141.98.101.182",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Free%2048%20%40Outline_Vpn"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
     },
     {
       "type": "ss",
@@ -43,29 +56,16 @@
     },
     {
       "type": "ss",
-      "address": "51.75.168.50",
-      "port": "26179",
-      "method": "chacha20-ietf-poly1305",
-      "password": "78b6e93e54225803",
-      "name": "Free 66 @Outline_Vpn",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#Free%2066%20%40Outline_Vpn",
-      "ip": "51.75.168.50",
+      "address": "94.156.250.148",
+      "port": "7001",
+      "method": "aes-256-gcm",
+      "password": "RexnBgU7EV5ADxG",
+      "name": "Free 48 @Outline_Vpn",
+      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Free%2048%20%40Outline_Vpn",
+      "ip": "94.156.250.148",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#Free%2066%20%40Outline_Vpn"
-    },
-    {
-      "type": "ss",
-      "address": "141.98.101.182",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "United Kingdom M247",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
-      "ip": "141.98.101.182",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Free%2048%20%40Outline_Vpn"
     }
   ]
 }

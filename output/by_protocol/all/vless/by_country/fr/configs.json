@@ -1,33 +1,13 @@
 {
-  "updated": "2026-06-05T02:48:06.527621",
+  "updated": "2026-06-05T11:22:27.492077",
   "count": 4,
   "configs": [
-    {
-      "type": "vless",
-      "address": "51.255.71.16",
-      "port": "443",
-      "id": "43488128-319e-f480-64ea-0acdc712e2a8",
-      "name": "Free 50 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "www.booking.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#vless-xtls-rprx-vision-tcp-reality-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-6",
-      "ip": "51.255.71.16",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#vless-xtls-rprx-vision-tcp-reality-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-6"
-    },
     {
       "type": "vless",
       "address": "79.127.196.11",
       "port": "8443",
       "id": "55f7d143-a594-4a91-b030-f227039f85ef",
-      "name": "Free 80 @Outline_Vpn",
+      "name": "☑➜چنلمون: Express_freevpn@",
       "network": "tcp",
       "sni": "cdg-1.fromblancwithlove.com",
       "host": "",
@@ -35,12 +15,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#vless-tcp-tls-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-13",
+      "fingerprint": "",
+      "original": "vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#vless-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-2",
       "ip": "79.127.196.11",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#vless-tcp-tls-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-13"
+      "rebuilt": "vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#vless-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -61,6 +41,26 @@
       "country": "FR",
       "cdn": null,
       "rebuilt": "vless://a0d9d727-a3a8-43bd-bbaf-1b590e6f0143@185.253.116.18:8443?security=reality&encryption=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com#vless-xtls-rprx-vision-tcp-reality-qq-FR%F0%9F%87%AB%F0%9F%87%B7-14"
+    },
+    {
+      "type": "vless",
+      "address": "51.255.71.16",
+      "port": "443",
+      "id": "43488128-319e-f480-64ea-0acdc712e2a8",
+      "name": "Free 50 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "www.booking.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#vless-xtls-rprx-vision-tcp-reality-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-16",
+      "ip": "51.255.71.16",
+      "country": "FR",
+      "cdn": null,
+      "rebuilt": "vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#vless-xtls-rprx-vision-tcp-reality-chrome-FR%F0%9F%87%AB%F0%9F%87%B7-16"
     },
     {
       "type": "vless",
