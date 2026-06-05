@@ -1,18 +1,26 @@
 {
-  "updated": "2026-06-04T18:12:20.686537",
+  "updated": "2026-06-05T17:50:38.033119",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "194.156.103.87",
-      "port": "443",
-      "secret": "ee000000000000000000000000000000006c6973742e616d",
-      "name": "",
-      "original": "https://t.me/proxy?server=194.156.103.87&port=443&secret=ee000000000000000000000000000000006c6973742e616d",
-      "ip": "194.156.103.87",
+      "type": "vless",
+      "address": "77.91.68.70",
+      "port": "55983",
+      "id": "f667a096-5231-4cfb-8759-92bb32473139",
+      "name": "🇦🇲 AM 1",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-AM%F0%9F%87%A6%F0%9F%87%B2-1",
+      "ip": "77.91.68.70",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=194.156.103.87&port=443&secret=ee000000000000000000000000000000006c6973742e616d"
+      "rebuilt": "vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-AM%F0%9F%87%A6%F0%9F%87%B2-1"
     }
   ]
 }

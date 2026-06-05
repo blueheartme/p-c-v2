@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-05T02:48:06.536938",
+  "updated": "2026-06-05T17:50:38.057822",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "85.159.229.189",
+      "address": "85.159.229.84",
       "port": "443",
-      "id": "9f9f18f8-2557-4f18-928d-e7c334a0b068",
-      "name": "🇮🇪 Jafar | 💎🔥 356 ms",
+      "id": "e886fa93-8260-4f8e-ba3a-4879a4d69946",
+      "name": "🇮🇪 IE 1",
       "network": "tcp",
       "sni": "www.google.com",
       "host": "",
       "security": "reality",
       "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "random",
-      "original": "vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&type=tcp&sni=www.google.com&fp=random&sid=e6&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A#vless-tcp-reality-random-IE%F0%9F%87%AE%F0%9F%87%AA-2",
-      "ip": "85.159.229.189",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://e886fa93-8260-4f8e-ba3a-4879a4d69946@85.159.229.84:443?security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&sid=93&spx=%2f&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-IE%F0%9F%87%AE%F0%9F%87%AA-2",
+      "ip": "85.159.229.84",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&type=tcp&sni=www.google.com&fp=random&sid=e6&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A#vless-tcp-reality-random-IE%F0%9F%87%AE%F0%9F%87%AA-2"
+      "rebuilt": "vless://e886fa93-8260-4f8e-ba3a-4879a4d69946@85.159.229.84:443?security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&sid=93&spx=%2f&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-IE%F0%9F%87%AE%F0%9F%87%AA-2"
     }
   ]
 }

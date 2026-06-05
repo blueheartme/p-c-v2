@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-05T11:22:27.442089",
-  "count": 1,
+  "updated": "2026-06-05T17:50:38.027717",
+  "count": 4,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "103.177.136.41",
+      "port": "45619",
+      "password": "4f4d1167-ef14-4304-9bce-0740472503ef",
+      "name": "🇭🇰 HK 1",
+      "sni": "fr.01.naiun.bilibili.com",
+      "host": "",
+      "original": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45619?sni=fr.01.naiun.bilibili.com&path=%2f&allow_insecure=1#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "103.177.136.41",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45619?sni=fr.01.naiun.bilibili.com&path=%2f&allow_insecure=1#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
     {
       "type": "vless",
       "address": "ov-canada1.09vpn.com",
@@ -16,11 +30,46 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "original": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "148.113.196.75",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+    },
+    {
+      "type": "vmess",
+      "address": "23.162.200.198",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "🇨🇦 CA 1",
+      "network": "tcp",
+      "host": "",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DQfCfh6jwn4emLTMiLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "23.162.200.198",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DQfCfh6jwn4emLTMiLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
+    {
+      "type": "vless",
+      "address": "ca1.niekotin.de",
+      "port": "80",
+      "id": "fceaec68-0a47-4a83-9dc3-41a8cc7f1aa1",
+      "name": "🇨🇦 CA 2",
+      "network": "ws",
+      "sni": "",
+      "host": "ca1.niekotin.de",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://fceaec68-0a47-4a83-9dc3-41a8cc7f1aa1@ca1.niekotin.de:80?security=none&encryption=none&type=ws&host=ca1.niekotin.de&path=%2fvless#vless-ws-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "ip": "158.69.60.88",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://fceaec68-0a47-4a83-9dc3-41a8cc7f1aa1@ca1.niekotin.de:80?security=none&encryption=none&type=ws&host=ca1.niekotin.de&path=%2fvless#vless-ws-CA%F0%9F%87%A8%F0%9F%87%A6-4"
     }
   ]
 }
