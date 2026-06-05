@@ -1,27 +1,7 @@
 {
-  "updated": "2026-06-04T18:12:20.674388",
-  "count": 2,
+  "updated": "2026-06-05T02:48:06.505817",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "103.31.79.129",
-      "port": "443",
-      "id": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
-      "name": "Channel id: @GoldVpnHub 🇵🇭",
-      "network": "xhttp",
-      "sni": "cloudflare.dns.xn--q9jyb4c",
-      "host": "cloudflare.dns.xn--q9jyb4c",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@103.31.79.129:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#vless-xhttp-tls-PH%F0%9F%87%B5%F0%9F%87%AD-1",
-      "ip": "103.31.79.129",
-      "country": "PH",
-      "cdn": null,
-      "rebuilt": "vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@103.31.79.129:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#vless-xhttp-tls-PH%F0%9F%87%B5%F0%9F%87%AD-1"
-    },
     {
       "type": "vmess",
       "address": "61.245.11.60",
@@ -31,11 +11,11 @@
       "network": "ws",
       "host": "61.245.11.60",
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLVBI8J+HtfCfh60tMiIsImFkZCI6IjYxLjI0NS4xMS42MCIsInBvcnQiOjgwLCJpZCI6ImEzZTNhNzEwLTc5ZjgtNGFlMC1iODNjLTYwN2FhYjQwZDE5NyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjYxLjI0NS4xMS42MCIsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLVBI8J+HtfCfh60tMSIsImFkZCI6IjYxLjI0NS4xMS42MCIsInBvcnQiOjgwLCJpZCI6ImEzZTNhNzEwLTc5ZjgtNGFlMC1iODNjLTYwN2FhYjQwZDE5NyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjYxLjI0NS4xMS42MCIsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
       "ip": "61.245.11.60",
       "country": "PH",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLVBI8J+HtfCfh60tMiIsImFkZCI6IjYxLjI0NS4xMS42MCIsInBvcnQiOjgwLCJpZCI6ImEzZTNhNzEwLTc5ZjgtNGFlMC1iODNjLTYwN2FhYjQwZDE5NyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjYxLjI0NS4xMS42MCIsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLVBI8J+HtfCfh60tMSIsImFkZCI6IjYxLjI0NS4xMS42MCIsInBvcnQiOjgwLCJpZCI6ImEzZTNhNzEwLTc5ZjgtNGFlMC1iODNjLTYwN2FhYjQwZDE5NyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjYxLjI0NS4xMS42MCIsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
     }
   ]
 }
