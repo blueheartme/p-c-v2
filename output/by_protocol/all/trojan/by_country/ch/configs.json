@@ -1,20 +1,34 @@
 {
-  "updated": "2026-06-06T09:59:05.161139",
-  "count": 1,
+  "updated": "2026-06-06T17:05:14.898577",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
       "address": "185.18.250.252",
       "port": "443",
       "password": "humanity",
-      "name": "برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩",
-      "sni": "www.calmloud.com",
-      "host": "www.calmloud.com",
-      "original": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-8",
+      "name": "برای اتصال دائمی جوین شو🛟 TelegramID ⌲Express_freevpn 🪩",
+      "sni": "www.multiplydose.com",
+      "host": "",
+      "original": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "185.18.250.252",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-8"
+      "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "trojan",
+      "address": "89.125.95.152",
+      "port": "11300",
+      "password": "duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z",
+      "name": "🇨🇭 CH 2",
+      "sni": "www.toughapp.click",
+      "host": "",
+      "original": "trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?sni=www.toughapp.click&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "ip": "89.125.95.152",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?sni=www.toughapp.click&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-4"
     }
   ]
 }

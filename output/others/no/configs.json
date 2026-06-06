@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T09:59:05.114093",
-  "count": 1,
+  "updated": "2026-06-06T17:05:14.812202",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,26 @@
       "country": "NO",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%f0%9f%87%b3%f0%9f%87%b4%20NO%201"
+    },
+    {
+      "type": "vless",
+      "address": "193.203.10.86",
+      "port": "443",
+      "id": "f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907",
+      "name": "🇳🇴 NO 2",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?security=reality&sni=yahoo.com&fp=chrome&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&sid=8735&type=tcp&path=%2f#vless-tcp-reality-chrome-NO%F0%9F%87%B3%F0%9F%87%B4-2",
+      "ip": "193.203.10.86",
+      "country": "NO",
+      "cdn": null,
+      "rebuilt": "vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?security=reality&sni=yahoo.com&fp=chrome&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&sid=8735&type=tcp&path=%2f#vless-tcp-reality-chrome-NO%F0%9F%87%B3%F0%9F%87%B4-2"
     }
   ]
 }

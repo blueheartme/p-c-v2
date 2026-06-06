@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-05T11:22:27.438575",
+  "updated": "2026-06-06T17:05:14.819489",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "91.225.217.28",
-      "port": "443",
-      "id": "296bbba2-b100-4d91-b8df-3fe03cc863c4",
+      "address": "2.56.172.83",
+      "port": "8443",
+      "id": "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb",
       "name": "🇷🇸 RS 1",
       "network": "tcp",
-      "sni": "yahoo.com",
+      "sni": "tradingview.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?security=reality&sni=yahoo.com&fp=chrome&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&sid=106c&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-RS%F0%9F%87%B7%F0%9F%87%B8-1",
-      "ip": "91.225.217.28",
+      "original": "vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-RS%F0%9F%87%B7%F0%9F%87%B8-1",
+      "ip": "2.56.172.83",
       "country": "RS",
       "cdn": null,
-      "rebuilt": "vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?security=reality&sni=yahoo.com&fp=chrome&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&sid=106c&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-RS%F0%9F%87%B7%F0%9F%87%B8-1"
+      "rebuilt": "vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-RS%F0%9F%87%B7%F0%9F%87%B8-1"
     }
   ]
 }

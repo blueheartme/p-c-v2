@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T09:59:05.155499",
-  "count": 3,
+  "updated": "2026-06-06T17:05:14.879280",
+  "count": 5,
   "configs": [
     {
       "type": "tg",
@@ -8,23 +8,35 @@
       "port": "1443",
       "secret": "ddd0d6e111bada5511fcce9584deadbeef",
       "name": "",
-      "original": "https://t.me/proxy?server=51.83.226.39&port=1443&secret=ddd0d6e111bada5511fcce9584deadbeef&@MPT_Proxy",
+      "original": "https://t.me/proxy?server=51.83.226.39&port=1443&secret=ddd0d6e111bada5511fcce9584deadbeef",
       "ip": "51.83.226.39",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=51.83.226.39&port=1443&secret=ddd0d6e111bada5511fcce9584deadbeef&@MPT_Proxy"
+      "rebuilt": "https://t.me/proxy?server=51.83.226.39&port=1443&secret=ddd0d6e111bada5511fcce9584deadbeef"
     },
     {
       "type": "tg",
-      "address": "95.85.229.133",
-      "port": "8443",
-      "secret": "ee41e92aedf3d52bd47aa08c1c8faedc3e7777772e796f74612e7275",
+      "address": "194.147.34.135",
+      "port": "80",
+      "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=95.85.229.133&port=8443&secret=ee41e92aedf3d52bd47aa08c1c8faedc3e7777772e796f74612e7275&@MPT_Proxy",
-      "ip": "95.85.229.133",
+      "original": "https://t.me/proxy?server=194.147.34.135&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+      "ip": "194.147.34.135",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=95.85.229.133&port=8443&secret=ee41e92aedf3d52bd47aa08c1c8faedc3e7777772e796f74612e7275&@MPT_Proxy"
+      "rebuilt": "https://t.me/proxy?server=194.147.34.135&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "www.tproxy.ink",
+      "port": "443",
+      "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=www.tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275",
+      "ip": "91.221.116.168",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=www.tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
     },
     {
       "type": "tg",
@@ -37,6 +49,18 @@
       "country": "PL",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=70.34.249.250&port=8080&secret=dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "tg",
+      "address": "54.38.136.46",
+      "port": "8443",
+      "secret": "dd3353e4f80af755fdd7297ac71b319ee7",
+      "name": "",
+      "original": "https://t.me/proxy?server=54.38.136.46&port=8443&secret=dd3353e4f80af755fdd7297ac71b319ee7",
+      "ip": "54.38.136.46",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=54.38.136.46&port=8443&secret=dd3353e4f80af755fdd7297ac71b319ee7"
     }
   ]
 }

@@ -1,31 +1,7 @@
 {
-  "updated": "2026-06-06T09:59:05.109647",
-  "count": 5,
+  "updated": "2026-06-06T17:05:14.803294",
+  "count": 6,
   "configs": [
-    {
-      "type": "tg",
-      "address": "13.62.222.53",
-      "port": "15",
-      "secret": "dd1603010200010001fc030386e24c3add",
-      "name": "",
-      "original": "https://t.me/proxy?server=13.62.222.53&port=15&secret=dd1603010200010001fc030386e24c3add",
-      "ip": "13.62.222.53",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=13.62.222.53&port=15&secret=dd1603010200010001fc030386e24c3add"
-    },
-    {
-      "type": "tg",
-      "address": "51.20.91.11",
-      "port": "15",
-      "secret": "dd1603010200010001fc030386e24c3add",
-      "name": "",
-      "original": "https://t.me/proxy?server=51.20.91.11&port=15&secret=dd1603010200010001fc030386e24c3add",
-      "ip": "51.20.91.11",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=51.20.91.11&port=15&secret=dd1603010200010001fc030386e24c3add"
-    },
     {
       "type": "ss",
       "address": "45.91.171.108",
@@ -50,6 +26,50 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=56.228.13.198&port=15&secret=dd1603010200010001fc030386e24c3add"
+    },
+    {
+      "type": "tg",
+      "address": "13.62.222.53",
+      "port": "15",
+      "secret": "dd1603010200010001fc030386e24c3add",
+      "name": "",
+      "original": "https://t.me/proxy?server=13.62.222.53&port=15&secret=dd1603010200010001fc030386e24c3add",
+      "ip": "13.62.222.53",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=13.62.222.53&port=15&secret=dd1603010200010001fc030386e24c3add"
+    },
+    {
+      "type": "vless",
+      "address": "se01.goodmaximum.com",
+      "port": "443",
+      "id": "db95b766-43a8-0029-9b5d-5ca6f2735188",
+      "name": "@irshum2",
+      "network": "tcp",
+      "sni": "forms.sablefrost.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://db95b766-43a8-0029-9b5d-5ca6f2735188@se01.goodmaximum.com:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=firefox&type=tcp&sni=forms.sablefrost.com&sid=31181028b56c8704#vless-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "ip": "185.189.47.29",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://db95b766-43a8-0029-9b5d-5ca6f2735188@se01.goodmaximum.com:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=firefox&type=tcp&sni=forms.sablefrost.com&sid=31181028b56c8704#vless-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+    },
+    {
+      "type": "tg",
+      "address": "51.20.91.11",
+      "port": "15",
+      "secret": "dd1603010200010001fc030386e24c3add",
+      "name": "",
+      "original": "https://t.me/proxy?server=51.20.91.11&port=15&secret=dd1603010200010001fc030386e24c3add",
+      "ip": "51.20.91.11",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=51.20.91.11&port=15&secret=dd1603010200010001fc030386e24c3add"
     },
     {
       "type": "tg",
