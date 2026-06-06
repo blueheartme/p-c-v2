@@ -1,30 +1,102 @@
 {
-  "updated": "2026-06-05T17:50:38.076461",
-  "count": 10,
+  "updated": "2026-06-06T02:35:13.798043",
+  "count": 12,
   "configs": [
+    {
+      "type": "tg",
+      "address": "mt.corph.ru",
+      "port": "443",
+      "secret": "dd2ed7517b077ef414e24b106e0729335d",
+      "name": "",
+      "original": "https://t.me/proxy?server=mt.corph.ru&port=443&secret=dd2ed7517b077ef414e24b106e0729335d",
+      "ip": "37.139.35.12",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=mt.corph.ru&port=443&secret=dd2ed7517b077ef414e24b106e0729335d"
+    },
+    {
+      "type": "tg",
+      "address": "213.171.8.222",
+      "port": "80",
+      "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=213.171.8.222&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+      "ip": "213.171.8.222",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=213.171.8.222&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "rocket.flowaccess.site",
+      "port": "443",
+      "secret": "ee03d3d1b9bda832390669bc06167720d8726f636b65742e666c6f776163636573732e73697465",
+      "name": "",
+      "original": "https://t.me/proxy?server=rocket.flowaccess.site&port=443&secret=ee03d3d1b9bda832390669bc06167720d8726f636b65742e666c6f776163636573732e73697465",
+      "ip": "93.77.182.34",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=rocket.flowaccess.site&port=443&secret=ee03d3d1b9bda832390669bc06167720d8726f636b65742e666c6f776163636573732e73697465"
+    },
+    {
+      "type": "tg",
+      "address": "flash.quickrouteapp.xyz",
+      "port": "443",
+      "secret": "eec7b876f355b93b6b786cb4b6c9daee79666c6173682e717569636b726f7574656170702e78797a",
+      "name": "",
+      "original": "https://t.me/proxy?server=flash.quickrouteapp.xyz&port=443&secret=eec7b876f355b93b6b786cb4b6c9daee79666c6173682e717569636b726f7574656170702e78797a&@MPT_Proxy",
+      "ip": "51.250.2.62",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=flash.quickrouteapp.xyz&port=443&secret=eec7b876f355b93b6b786cb4b6c9daee79666c6173682e717569636b726f7574656170702e78797a&@MPT_Proxy"
+    },
+    {
+      "type": "tg",
+      "address": "51.250.32.76",
+      "port": "443",
+      "secret": "ee5636d7729d8726e81dbc5c3388b73549617669746f2e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=51.250.32.76&port=443&secret=ee5636d7729d8726e81dbc5c3388b73549617669746f2e7275&@MPT_Proxy",
+      "ip": "51.250.32.76",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=51.250.32.76&port=443&secret=ee5636d7729d8726e81dbc5c3388b73549617669746f2e7275&@MPT_Proxy"
+    },
+    {
+      "type": "tg",
+      "address": "sonic.quickrouteapp.xyz",
+      "port": "443",
+      "secret": "eebd8b54149182b64d403ef9c5141fc3ee736f6e69632e717569636b726f7574656170702e78797a",
+      "name": "",
+      "original": "https://t.me/proxy?server=sonic.quickrouteapp.xyz&port=443&secret=eebd8b54149182b64d403ef9c5141fc3ee736f6e69632e717569636b726f7574656170702e78797a",
+      "ip": "51.250.64.246",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=sonic.quickrouteapp.xyz&port=443&secret=eebd8b54149182b64d403ef9c5141fc3ee736f6e69632e717569636b726f7574656170702e78797a"
+    },
     {
       "type": "tg",
       "address": "blaze.flowaccess.site",
       "port": "443",
       "secret": "eec799e0af5c33d8ffc2310d4f0154379c626c617a652e666c6f776163636573732e73697465",
       "name": "",
-      "original": "https://t.me/proxy?server=blaze.flowaccess.site&port=443&secret=eec799e0af5c33d8ffc2310d4f0154379c626c617a652e666c6f776163636573732e73697465&@MPT_Proxy",
-      "ip": "51.250.72.129",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=blaze.flowaccess.site&port=443&secret=eec799e0af5c33d8ffc2310d4f0154379c626c617a652e666c6f776163636573732e73697465&@MPT_Proxy"
-    },
-    {
-      "type": "tg",
-      "address": "boost.flowstreamhub.site",
-      "port": "8443",
-      "secret": "ee7ee0a641b78ecc8d210e47981904a50a626f6f73742e666c6f7773747265616d6875622e73697465",
-      "name": "",
-      "original": "https://t.me/proxy?server=boost.flowstreamhub.site&port=8443&secret=ee7ee0a641b78ecc8d210e47981904a50a626f6f73742e666c6f7773747265616d6875622e73697465",
+      "original": "https://t.me/proxy?server=blaze.flowaccess.site&port=443&secret=eec799e0af5c33d8ffc2310d4f0154379c626c617a652e666c6f776163636573732e73697465",
       "ip": "62.84.113.133",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=boost.flowstreamhub.site&port=8443&secret=ee7ee0a641b78ecc8d210e47981904a50a626f6f73742e666c6f7773747265616d6875622e73697465"
+      "rebuilt": "https://t.me/proxy?server=blaze.flowaccess.site&port=443&secret=eec799e0af5c33d8ffc2310d4f0154379c626c617a652e666c6f776163636573732e73697465"
+    },
+    {
+      "type": "tg",
+      "address": "185.221.154.155",
+      "port": "80",
+      "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=185.221.154.155&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+      "ip": "185.221.154.155",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=185.221.154.155&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d"
     },
     {
       "type": "tg",
@@ -40,42 +112,6 @@
     },
     {
       "type": "tg",
-      "address": "mt.corph.ru",
-      "port": "443",
-      "secret": "dd2ed7517b077ef414e24b106e0729335d",
-      "name": "",
-      "original": "https://t.me/proxy?server=mt.corph.ru&port=443&secret=dd2ed7517b077ef414e24b106e0729335d",
-      "ip": "37.139.34.110",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=mt.corph.ru&port=443&secret=dd2ed7517b077ef414e24b106e0729335d"
-    },
-    {
-      "type": "tg",
-      "address": "surf.flowaccess.site",
-      "port": "8443",
-      "secret": "eeea26c2508652bcbd35ac3116045eb939737572662e666c6f776163636573732e73697465",
-      "name": "",
-      "original": "https://t.me/proxy?server=surf.flowaccess.site&port=8443&secret=eeea26c2508652bcbd35ac3116045eb939737572662e666c6f776163636573732e73697465",
-      "ip": "93.77.189.11",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=surf.flowaccess.site&port=8443&secret=eeea26c2508652bcbd35ac3116045eb939737572662e666c6f776163636573732e73697465"
-    },
-    {
-      "type": "tg",
-      "address": "186.246.28.25",
-      "port": "443",
-      "secret": "eefced0b92adbe28d8bea608c8ca7e553f6275726765726b696e677275732e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=186.246.28.25&port=443&secret=eefced0b92adbe28d8bea608c8ca7e553f6275726765726b696e677275732e7275",
-      "ip": "186.246.28.25",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=186.246.28.25&port=443&secret=eefced0b92adbe28d8bea608c8ca7e553f6275726765726b696e677275732e7275"
-    },
-    {
-      "type": "tg",
       "address": "178.159.94.179",
       "port": "53556",
       "secret": "6luuFePWbDLmmz2SYMK7kwCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -88,39 +124,27 @@
     },
     {
       "type": "tg",
-      "address": "nova.flowstreamhub.site",
-      "port": "443",
-      "secret": "eeb1a90b2bd080b288badd320bf824277c6e6f76612e666c6f7773747265616d6875622e73697465",
+      "address": "95.163.83.86",
+      "port": "80",
+      "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=nova.flowstreamhub.site&port=443&secret=eeb1a90b2bd080b288badd320bf824277c6e6f76612e666c6f7773747265616d6875622e73697465",
-      "ip": "93.77.186.169",
+      "original": "https://t.me/proxy?server=95.163.83.86&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+      "ip": "95.163.83.86",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=nova.flowstreamhub.site&port=443&secret=eeb1a90b2bd080b288badd320bf824277c6e6f76612e666c6f7773747265616d6875622e73697465"
+      "rebuilt": "https://t.me/proxy?server=95.163.83.86&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d"
     },
     {
       "type": "tg",
-      "address": "promo.dealer.ac",
+      "address": "vortex.flowstreamhub.site",
       "port": "443",
-      "secret": "ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
+      "secret": "eeafcde96fcec1b95dd190a95814b0f026766f727465782e666c6f7773747265616d6875622e73697465",
       "name": "",
-      "original": "https://t.me/proxy?server=promo.dealer.ac&port=443&secret=ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
-      "ip": "93.93.207.212",
+      "original": "https://t.me/proxy?server=vortex.flowstreamhub.site&port=443&secret=eeafcde96fcec1b95dd190a95814b0f026766f727465782e666c6f7773747265616d6875622e73697465&@MPT_Proxy",
+      "ip": "93.77.177.133",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=promo.dealer.ac&port=443&secret=ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "pulse.flowstreamhub.site",
-      "port": "8443",
-      "secret": "ee993b027bf939e8b65e48c633930c8b6770756c73652e666c6f7773747265616d6875622e73697465",
-      "name": "",
-      "original": "https://t.me/proxy?server=pulse.flowstreamhub.site&port=8443&secret=ee993b027bf939e8b65e48c633930c8b6770756c73652e666c6f7773747265616d6875622e73697465",
-      "ip": "62.84.113.133",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=pulse.flowstreamhub.site&port=8443&secret=ee993b027bf939e8b65e48c633930c8b6770756c73652e666c6f7773747265616d6875622e73697465"
+      "rebuilt": "https://t.me/proxy?server=vortex.flowstreamhub.site&port=443&secret=eeafcde96fcec1b95dd190a95814b0f026766f727465782e666c6f7773747265616d6875622e73697465&@MPT_Proxy"
     }
   ]
 }

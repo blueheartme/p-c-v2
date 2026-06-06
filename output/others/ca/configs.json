@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-05T17:50:38.027717",
+  "updated": "2026-06-06T02:35:13.752340",
   "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "ca1.niekotin.de",
+      "port": "80",
+      "id": "fceaec68-0a47-4a83-9dc3-41a8cc7f1aa1",
+      "name": "🇨🇦 CA 2",
+      "network": "ws",
+      "sni": "",
+      "host": "ca1.niekotin.de",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://fceaec68-0a47-4a83-9dc3-41a8cc7f1aa1@ca1.niekotin.de:80?security=none&encryption=none&type=ws&host=ca1.niekotin.de&path=%2fvless#vless-ws-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "158.69.60.88",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://fceaec68-0a47-4a83-9dc3-41a8cc7f1aa1@ca1.niekotin.de:80?security=none&encryption=none&type=ws&host=ca1.niekotin.de&path=%2fvless#vless-ws-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
     {
       "type": "trojan",
       "address": "103.177.136.41",
@@ -10,31 +30,11 @@
       "name": "🇭🇰 HK 1",
       "sni": "fr.01.naiun.bilibili.com",
       "host": "",
-      "original": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45619?sni=fr.01.naiun.bilibili.com&path=%2f&allow_insecure=1#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "original": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45619?sni=fr.01.naiun.bilibili.com&path=%2f&allow_insecure=1#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "103.177.136.41",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45619?sni=fr.01.naiun.bilibili.com&path=%2f&allow_insecure=1#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
-    },
-    {
-      "type": "vless",
-      "address": "ov-canada1.09vpn.com",
-      "port": "8443",
-      "id": "08f96221-9b7b-4e6f-8ffe-aee8b9c9b504",
-      "name": "Free 30 @Outline_Vpn",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
-      "ip": "148.113.196.75",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+      "rebuilt": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45619?sni=fr.01.naiun.bilibili.com&path=%2f&allow_insecure=1#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     },
     {
       "type": "vmess",
@@ -53,23 +53,23 @@
     },
     {
       "type": "vless",
-      "address": "ca1.niekotin.de",
-      "port": "80",
-      "id": "fceaec68-0a47-4a83-9dc3-41a8cc7f1aa1",
-      "name": "🇨🇦 CA 2",
+      "address": "ov-canada1.09vpn.com",
+      "port": "8443",
+      "id": "08f96221-9b7b-4e6f-8ffe-aee8b9c9b504",
+      "name": "Free 30 @Outline_Vpn",
       "network": "ws",
       "sni": "",
-      "host": "ca1.niekotin.de",
-      "security": "none",
+      "host": "",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://fceaec68-0a47-4a83-9dc3-41a8cc7f1aa1@ca1.niekotin.de:80?security=none&encryption=none&type=ws&host=ca1.niekotin.de&path=%2fvless#vless-ws-CA%F0%9F%87%A8%F0%9F%87%A6-4",
-      "ip": "158.69.60.88",
+      "original": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "ip": "148.113.196.75",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://fceaec68-0a47-4a83-9dc3-41a8cc7f1aa1@ca1.niekotin.de:80?security=none&encryption=none&type=ws&host=ca1.niekotin.de&path=%2fvless#vless-ws-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+      "rebuilt": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4"
     }
   ]
 }
