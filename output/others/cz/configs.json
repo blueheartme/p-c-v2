@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-06T02:35:13.729025",
+  "updated": "2026-06-06T09:59:05.104104",
   "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "ch-2.bexum.fun",
+      "port": "443",
+      "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
+      "name": "🇨🇿 CZ 146",
+      "sni": "ch-2.bexum.fun",
+      "host": "",
+      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?sni=ch-2.bexum.fun&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
+      "ip": "46.8.113.142",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?sni=ch-2.bexum.fun&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+    },
     {
       "type": "vless",
       "address": "2.26.160.79",
@@ -16,25 +30,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://729d3d1e-ee1a-4c42-84bc-2ff331518221@2.26.160.79:443?security=reality&encryption=none&pbk=Aak3FEVpJGzxzVz4wWkNpFA9dANDnvQg15X4eYNr_hw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=6ba8f65dee6e#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
+      "original": "vless://729d3d1e-ee1a-4c42-84bc-2ff331518221@2.26.160.79:443?security=reality&encryption=none&pbk=Aak3FEVpJGzxzVz4wWkNpFA9dANDnvQg15X4eYNr_hw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=6ba8f65dee6e#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
       "ip": "2.26.160.79",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://729d3d1e-ee1a-4c42-84bc-2ff331518221@2.26.160.79:443?security=reality&encryption=none&pbk=Aak3FEVpJGzxzVz4wWkNpFA9dANDnvQg15X4eYNr_hw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=6ba8f65dee6e#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
-    },
-    {
-      "type": "trojan",
-      "address": "ch-2.bexum.fun",
-      "port": "443",
-      "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
-      "name": "🇨🇿 CZ 146",
-      "sni": "ch-2.bexum.fun",
-      "host": "",
-      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?sni=ch-2.bexum.fun&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
-      "ip": "46.8.113.142",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?sni=ch-2.bexum.fun&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+      "rebuilt": "vless://729d3d1e-ee1a-4c42-84bc-2ff331518221@2.26.160.79:443?security=reality&encryption=none&pbk=Aak3FEVpJGzxzVz4wWkNpFA9dANDnvQg15X4eYNr_hw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=6ba8f65dee6e#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
     }
   ]
 }

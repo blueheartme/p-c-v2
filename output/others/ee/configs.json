@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-06T02:35:13.750776",
-  "count": 3,
+  "updated": "2026-06-06T09:59:05.101741",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "150.241.101.222",
+      "port": "443",
+      "id": "749a5df1-2d12-45cf-80f3-f85ea6b2e405",
+      "name": "برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "random",
+      "original": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-1",
+      "ip": "150.241.101.222",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.83.182.102",
+      "port": "2087",
+      "id": "347a56c2-a453-4b32-86cd-7522943df88c",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "api-maps.yandex.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://347a56c2-a453-4b32-86cd-7522943df88c@45.83.182.102:2087?security=reality&encryption=none&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=493c3d4e37c23c28#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "ip": "45.83.182.102",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://347a56c2-a453-4b32-86cd-7522943df88c@45.83.182.102:2087?security=reality&encryption=none&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=493c3d4e37c23c28#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%87%AA%F0%9F%87%AA-2"
+    },
     {
       "type": "ss",
       "address": "38.180.216.114",
@@ -29,31 +69,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "original": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-4",
       "ip": "185.215.184.95",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-2"
-    },
-    {
-      "type": "vless",
-      "address": "150.241.101.222",
-      "port": "443",
-      "id": "749a5df1-2d12-45cf-80f3-f85ea6b2e405",
-      "name": "برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-3",
-      "ip": "150.241.101.222",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-3"
+      "rebuilt": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-4"
     }
   ]
 }
