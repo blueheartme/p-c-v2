@@ -1,21 +1,7 @@
 {
-  "updated": "2026-06-07T02:53:46.802282",
+  "updated": "2026-06-07T10:25:18.379348",
   "count": 3,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "37.27.186.225",
-      "port": "8443",
-      "password": "SoftNetConnect",
-      "name": "@proxy_kafee ( finland",
-      "sni": "www.icloud.com",
-      "host": "",
-      "original": "trojan://SoftNetConnect@37.27.186.225:8443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.icloud.com&fp=chrome&allowInsecure=1&pbk=DJahVHFtcuTNluFrRVx-QZjtaiSMvW9XB73Yv3b2cSI&sid=e7&spx=%2F#trojan-xhttp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-10",
-      "ip": "37.27.186.225",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "trojan://SoftNetConnect@37.27.186.225:8443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.icloud.com&fp=chrome&allowInsecure=1&pbk=DJahVHFtcuTNluFrRVx-QZjtaiSMvW9XB73Yv3b2cSI&sid=e7&spx=%2F#trojan-xhttp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-10"
-    },
     {
       "type": "trojan",
       "address": "37.27.186.225",
@@ -24,11 +10,11 @@
       "name": "@proxy_kafee ( finland",
       "sni": "www.yahoo.com",
       "host": "",
-      "original": "trojan://SoftNetConnect@37.27.186.225:2053?type=grpc&security=reality&authority=37.27.186.225&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=sIE5J86PiM-WzDh8wczW0r9qGp6XG1gEaSGd6Zze5hM&sid=9448cc&spx=%2F#trojan-grpc-reality-FI%F0%9F%87%AB%F0%9F%87%AE-45",
+      "original": "trojan://SoftNetConnect@37.27.186.225:2053?type=grpc&security=reality&authority=37.27.186.225&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=sIE5J86PiM-WzDh8wczW0r9qGp6XG1gEaSGd6Zze5hM&sid=9448cc&spx=%2F#trojan-grpc-reality-FI%F0%9F%87%AB%F0%9F%87%AE-1",
       "ip": "37.27.186.225",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "trojan://SoftNetConnect@37.27.186.225:2053?type=grpc&security=reality&authority=37.27.186.225&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=sIE5J86PiM-WzDh8wczW0r9qGp6XG1gEaSGd6Zze5hM&sid=9448cc&spx=%2F#trojan-grpc-reality-FI%F0%9F%87%AB%F0%9F%87%AE-45"
+      "rebuilt": "trojan://SoftNetConnect@37.27.186.225:2053?type=grpc&security=reality&authority=37.27.186.225&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=sIE5J86PiM-WzDh8wczW0r9qGp6XG1gEaSGd6Zze5hM&sid=9448cc&spx=%2F#trojan-grpc-reality-FI%F0%9F%87%AB%F0%9F%87%AE-1"
     },
     {
       "type": "trojan",
@@ -38,11 +24,25 @@
       "name": "@proxy_kafee ( finland",
       "sni": "www.yahoo.com",
       "host": "",
-      "original": "trojan://SoftNetConnect@37.27.186.225:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=wq6HPwfbqz2tlXnN5fGhLjL_PFwCdOwIiR38ZAbHUmI&sid=1f75&spx=%2F#trojan-xhttp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-64",
+      "original": "trojan://SoftNetConnect@37.27.186.225:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=wq6HPwfbqz2tlXnN5fGhLjL_PFwCdOwIiR38ZAbHUmI&sid=1f75&spx=%2F#trojan-xhttp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-7",
       "ip": "37.27.186.225",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "trojan://SoftNetConnect@37.27.186.225:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=wq6HPwfbqz2tlXnN5fGhLjL_PFwCdOwIiR38ZAbHUmI&sid=1f75&spx=%2F#trojan-xhttp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-64"
+      "rebuilt": "trojan://SoftNetConnect@37.27.186.225:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=wq6HPwfbqz2tlXnN5fGhLjL_PFwCdOwIiR38ZAbHUmI&sid=1f75&spx=%2F#trojan-xhttp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-7"
+    },
+    {
+      "type": "trojan",
+      "address": "37.27.186.225",
+      "port": "8443",
+      "password": "SoftNetConnect",
+      "name": "",
+      "sni": "www.icloud.com",
+      "host": "",
+      "original": "trojan://SoftNetConnect@37.27.186.225:8443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=DJahVHFtcuTNluFrRVx-QZjtaiSMvW9XB73Yv3b2cSI&fp=chrome&spx=%2F&type=xhttp&sni=www.icloud.com&sid=e7#trojan-xhttp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-13",
+      "ip": "37.27.186.225",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "trojan://SoftNetConnect@37.27.186.225:8443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=DJahVHFtcuTNluFrRVx-QZjtaiSMvW9XB73Yv3b2cSI&fp=chrome&spx=%2F&type=xhttp&sni=www.icloud.com&sid=e7#trojan-xhttp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-13"
     }
   ]
 }

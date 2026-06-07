@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-07T02:53:46.711834",
+  "updated": "2026-06-07T10:25:18.289610",
   "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "65.20.90.225",
+      "port": "443",
+      "password": "Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg",
+      "name": "🇮🇳 IN 3",
+      "sni": "www.sandbox-cloud.click",
+      "host": "",
+      "original": "trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?sni=www.sandbox-cloud.click&fp=chrome&path=%2f#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "65.20.90.225",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?sni=www.sandbox-cloud.click&fp=chrome&path=%2f#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
+    {
+      "type": "tg",
+      "address": "www.roto-best.info",
+      "port": "2083",
+      "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
+      "ip": "77.93.136.232",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d"
+    },
     {
       "type": "vless",
       "address": "45.89.106.4",
@@ -16,37 +42,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&sni=microsoft.com&alpn=http%2f1.1&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "original": "vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&sni=microsoft.com&alpn=http%2f1.1&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-3",
       "ip": "45.89.106.4",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&sni=microsoft.com&alpn=http%2f1.1&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
-    },
-    {
-      "type": "trojan",
-      "address": "65.20.90.225",
-      "port": "443",
-      "password": "Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg",
-      "name": "🇮🇳 IN 3",
-      "sni": "www.sandbox-cloud.click",
-      "host": "",
-      "original": "trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?sni=www.sandbox-cloud.click&fp=chrome&path=%2f#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "65.20.90.225",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?sni=www.sandbox-cloud.click&fp=chrome&path=%2f#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-2"
-    },
-    {
-      "type": "tg",
-      "address": "www.roto-best.info",
-      "port": "2083",
-      "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-      "ip": "77.93.136.231",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d"
+      "rebuilt": "vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&sni=microsoft.com&alpn=http%2f1.1&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     }
   ]
 }

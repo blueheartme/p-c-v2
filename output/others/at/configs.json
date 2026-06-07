@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-07T02:53:46.757433",
-  "count": 1,
+  "updated": "2026-06-07T10:25:18.299008",
+  "count": 3,
   "configs": [
+    {
+      "type": "tg",
+      "address": "78.153.130.106",
+      "port": "8443",
+      "secret": "ddd48426b87876ba13c019495910fd7fd0",
+      "name": "",
+      "original": "https://t.me/proxy?server=78.153.130.106&port=8443&secret=ddd48426b87876ba13c019495910fd7fd0",
+      "ip": "78.153.130.106",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=78.153.130.106&port=8443&secret=ddd48426b87876ba13c019495910fd7fd0"
+    },
+    {
+      "type": "tg",
+      "address": "185.224.3.209",
+      "port": "80",
+      "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=185.224.3.209&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+      "ip": "185.224.3.209",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=185.224.3.209&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d"
+    },
     {
       "type": "trojan",
       "address": "185.126.236.44",
@@ -10,11 +34,11 @@
       "name": "🇦🇹 AT 2",
       "sni": "www.mesaly.click",
       "host": "",
-      "original": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "original": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-3",
       "ip": "185.126.236.44",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-3"
     }
   ]
 }

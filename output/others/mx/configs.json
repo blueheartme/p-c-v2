@@ -1,21 +1,7 @@
 {
-  "updated": "2026-06-07T02:53:46.754628",
+  "updated": "2026-06-07T10:25:18.303306",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "149.104.87.182",
-      "port": "443",
-      "password": "PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA",
-      "name": "🇲🇽 MX 2",
-      "sni": "www.jewelapp.click",
-      "host": "",
-      "original": "trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&type=tcp&path=%2f#trojan-tcp-tls-MX%F0%9F%87%B2%F0%9F%87%BD-1",
-      "ip": "149.104.87.182",
-      "country": "MX",
-      "cdn": null,
-      "rebuilt": "trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&type=tcp&path=%2f#trojan-tcp-tls-MX%F0%9F%87%B2%F0%9F%87%BD-1"
-    },
     {
       "type": "vless",
       "address": "ul-mexico1.09vpn.com",
@@ -30,11 +16,25 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?security=tls&encryption=none&sni=ul-mexico1.09vpn.com&fp=chrome&type=ws&host=ul-mexico1.09vpn.com&path=%2fvless%2f&allow_insecure=1#vless-ws-tls-chrome-MX%F0%9F%87%B2%F0%9F%87%BD-2",
+      "original": "vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?security=tls&encryption=none&sni=ul-mexico1.09vpn.com&fp=chrome&type=ws&host=ul-mexico1.09vpn.com&path=%2fvless%2f&allow_insecure=1#vless-ws-tls-chrome-MX%F0%9F%87%B2%F0%9F%87%BD-1",
       "ip": "45.134.9.133",
       "country": "MX",
       "cdn": null,
-      "rebuilt": "vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?security=tls&encryption=none&sni=ul-mexico1.09vpn.com&fp=chrome&type=ws&host=ul-mexico1.09vpn.com&path=%2fvless%2f&allow_insecure=1#vless-ws-tls-chrome-MX%F0%9F%87%B2%F0%9F%87%BD-2"
+      "rebuilt": "vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?security=tls&encryption=none&sni=ul-mexico1.09vpn.com&fp=chrome&type=ws&host=ul-mexico1.09vpn.com&path=%2fvless%2f&allow_insecure=1#vless-ws-tls-chrome-MX%F0%9F%87%B2%F0%9F%87%BD-1"
+    },
+    {
+      "type": "trojan",
+      "address": "149.104.87.182",
+      "port": "443",
+      "password": "PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA",
+      "name": "🇲🇽 MX 3",
+      "sni": "www.jewelapp.click",
+      "host": "",
+      "original": "trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-MX%F0%9F%87%B2%F0%9F%87%BD-2",
+      "ip": "149.104.87.182",
+      "country": "MX",
+      "cdn": null,
+      "rebuilt": "trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-MX%F0%9F%87%B2%F0%9F%87%BD-2"
     }
   ]
 }

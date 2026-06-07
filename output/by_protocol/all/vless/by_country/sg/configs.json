@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T02:53:46.789082",
-  "count": 2,
+  "updated": "2026-06-07T10:25:18.357525",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?path=%2f#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
-    {
-      "type": "vless",
-      "address": "43.169.18.179",
-      "port": "443",
-      "id": "b3ddc03c-0be7-4b46-8a4e-9f79de03d4f5",
-      "name": "Vip@ConfingV2RaayNG",
-      "network": "ws",
-      "sni": "unnes.ac.id.cyylr.eu.cc",
-      "host": "unnes.ac.id.cyylr.eu.cc",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://b3ddc03c-0be7-4b46-8a4e-9f79de03d4f5@43.169.18.179:443?path=%2Fid-tksi&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "43.169.18.179",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://b3ddc03c-0be7-4b46-8a4e-9f79de03d4f5@43.169.18.179:443?path=%2Fid-tksi&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }

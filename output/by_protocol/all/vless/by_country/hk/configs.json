@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-07T02:53:46.794065",
+  "updated": "2026-06-07T10:25:18.355957",
   "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "45.152.67.34",
-      "port": "47488",
-      "id": "2c36bf33-1ec0-45e8-84af-84eeccd56ca5",
-      "name": "برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩",
+      "address": "155.254.102.74",
+      "port": "443",
+      "id": "e6dbaf95-1c9e-48c5-a0b4-0bd18aecc221",
+      "name": "🇭🇰 HK 4",
       "network": "tcp",
-      "sni": "",
+      "sni": "www.microsoft.com",
       "host": "",
-      "security": "none",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "45.152.67.34",
+      "fingerprint": "chrome",
+      "original": "vless://e6dbaf95-1c9e-48c5-a0b4-0bd18aecc221@155.254.102.74:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=Vc8ycAgKqfRvtXjvGP0ry_U91o5wgrQlqOhHq72HYRs&sid=1bc2c1ef1c&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "155.254.102.74",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "vless://e6dbaf95-1c9e-48c5-a0b4-0bd18aecc221@155.254.102.74:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=Vc8ycAgKqfRvtXjvGP0ry_U91o5wgrQlqOhHq72HYRs&sid=1bc2c1ef1c&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "vless",
@@ -44,23 +44,23 @@
     },
     {
       "type": "vless",
-      "address": "155.254.102.74",
-      "port": "443",
-      "id": "e6dbaf95-1c9e-48c5-a0b4-0bd18aecc221",
-      "name": "🇭🇰 HK 4",
+      "address": "45.152.67.34",
+      "port": "47488",
+      "id": "2c36bf33-1ec0-45e8-84af-84eeccd56ca5",
+      "name": "برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩",
       "network": "tcp",
-      "sni": "www.microsoft.com",
+      "sni": "",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "security": "none",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://e6dbaf95-1c9e-48c5-a0b4-0bd18aecc221@155.254.102.74:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=Vc8ycAgKqfRvtXjvGP0ry_U91o5wgrQlqOhHq72HYRs&sid=1bc2c1ef1c&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "155.254.102.74",
+      "fingerprint": "",
+      "original": "vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "45.152.67.34",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://e6dbaf95-1c9e-48c5-a0b4-0bd18aecc221@155.254.102.74:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=Vc8ycAgKqfRvtXjvGP0ry_U91o5wgrQlqOhHq72HYRs&sid=1bc2c1ef1c&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }

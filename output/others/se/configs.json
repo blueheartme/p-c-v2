@@ -1,30 +1,30 @@
 {
-  "updated": "2026-06-07T02:53:46.745283",
+  "updated": "2026-06-07T10:25:18.292432",
   "count": 5,
   "configs": [
     {
       "type": "tg",
-      "address": "51.20.91.11",
+      "address": "13.62.222.53",
       "port": "15",
       "secret": "dd1603010200010001fc030386e24c3add",
       "name": "",
-      "original": "https://t.me/proxy?server=51.20.91.11&port=15&secret=dd1603010200010001fc030386e24c3add",
-      "ip": "51.20.91.11",
+      "original": "https://t.me/proxy?server=13.62.222.53&port=15&secret=dd1603010200010001fc030386e24c3add",
+      "ip": "13.62.222.53",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=51.20.91.11&port=15&secret=dd1603010200010001fc030386e24c3add"
+      "rebuilt": "https://t.me/proxy?server=13.62.222.53&port=15&secret=dd1603010200010001fc030386e24c3add"
     },
     {
       "type": "tg",
-      "address": "16.171.113.106",
-      "port": "15",
-      "secret": "dd1603010200010001fc030386e24c3add",
+      "address": "70.34.197.54",
+      "port": "8080",
+      "secret": "dd104462821249bd7ac519130220c25d09",
       "name": "",
-      "original": "https://t.me/proxy?server=16.171.113.106&port=15&secret=dd1603010200010001fc030386e24c3add",
-      "ip": "16.171.113.106",
+      "original": "https://t.me/proxy?server=70.34.197.54&port=8080&secret=dd104462821249bd7ac519130220c25d09",
+      "ip": "70.34.197.54",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=16.171.113.106&port=15&secret=dd1603010200010001fc030386e24c3add"
+      "rebuilt": "https://t.me/proxy?server=70.34.197.54&port=8080&secret=dd104462821249bd7ac519130220c25d09"
     },
     {
       "type": "vless",
@@ -47,28 +47,37 @@
       "rebuilt": "vless://db95b766-43a8-0029-9b5d-5ca6f2735188@se01.goodmaximum.com:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=firefox&type=tcp&sni=forms.sablefrost.com&sid=31181028b56c8704#vless-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     },
     {
-      "type": "tg",
-      "address": "70.34.197.54",
-      "port": "8080",
-      "secret": "dd104462821249bd7ac519130220c25d09",
-      "name": "",
-      "original": "https://t.me/proxy?server=70.34.197.54&port=8080&secret=dd104462821249bd7ac519130220c25d09",
-      "ip": "70.34.197.54",
+      "type": "ss",
+      "address": "45.91.171.108",
+      "port": "158",
+      "method": "chacha20-ietf-poly1305",
+      "password": "-jd43ayn1mxzQ4t6dEI7OQ",
+      "name": "Free 45 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotamQ0M2F5bjFteHpRNHQ2ZEVJN09R@45.91.171.108:158#Free%2045%20%40Outline_Vpn",
+      "ip": "45.91.171.108",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=70.34.197.54&port=8080&secret=dd104462821249bd7ac519130220c25d09"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotamQ0M2F5bjFteHpRNHQ2ZEVJN09R@45.91.171.108:158#Free%2045%20%40Outline_Vpn"
     },
     {
-      "type": "tg",
-      "address": "56.228.13.198",
-      "port": "15",
-      "secret": "dd1603010200010001fc030386e24c3add",
-      "name": "",
-      "original": "https://t.me/proxy?server=56.228.13.198&port=15&secret=dd1603010200010001fc030386e24c3add",
-      "ip": "56.228.13.198",
+      "type": "vless",
+      "address": "se-modx.nodexphere.net",
+      "port": "443",
+      "id": "be2e1543-d450-481b-a955-c691086e41b1",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "se-modx.nodexphere.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://be2e1543-d450-481b-a955-c691086e41b1@se-modx.nodexphere.net:443?security=reality&encryption=none&pbk=zBMeyXgwFrSUKT60bU85vFEKWzcsprb7NtILQAezrgI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=se-modx.nodexphere.net#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-5",
+      "ip": "88.216.214.207",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=56.228.13.198&port=15&secret=dd1603010200010001fc030386e24c3add"
+      "rebuilt": "vless://be2e1543-d450-481b-a955-c691086e41b1@se-modx.nodexphere.net:443?security=reality&encryption=none&pbk=zBMeyXgwFrSUKT60bU85vFEKWzcsprb7NtILQAezrgI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=se-modx.nodexphere.net#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-5"
     }
   ]
 }

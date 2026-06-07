@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-07T02:53:46.758879",
-  "count": 2,
+  "updated": "2026-06-07T10:25:18.307126",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "85.234.73.125",
       "port": "13278",
       "id": "e3115c84-266b-4c46-b3f2-16cc3263d555",
-      "name": "@filembad",
+      "name": "@ConfingV2RaayNG",
       "network": "grpc",
       "sni": "",
       "host": "yahoo.com",
@@ -16,31 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?mode=gun&security=reality&encryption=none&authority=yahoo.com&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&fp=chrome&spx=%2F&type=grpc&serviceName=xyz&sid=fb8e0edb66000f28#vless-grpc-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "original": "vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&fp=chrome&allowInsecure=1&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&sid=fb8e0edb66000f28&spx=%2F#vless-grpc-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
       "ip": "85.234.73.125",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?mode=gun&security=reality&encryption=none&authority=yahoo.com&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&fp=chrome&spx=%2F&type=grpc&serviceName=xyz&sid=fb8e0edb66000f28#vless-grpc-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "ae.cdn.stun.su",
-      "port": "443",
-      "id": "eb071647-72a6-46be-8e89-ff3d228d52f6",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "ae.cdn.stun.su",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "176.97.78.29",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&fp=chrome&allowInsecure=1&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&sid=fb8e0edb66000f28&spx=%2F#vless-grpc-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     }
   ]
 }
