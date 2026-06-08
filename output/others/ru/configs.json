@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T12:24:49.468149",
+  "updated": "2026-06-08T18:22:33.793574",
   "count": 8,
   "configs": [
     {
@@ -23,18 +23,6 @@
       "rebuilt": "vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.189.142:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-1"
     },
     {
-      "type": "tg",
-      "address": "turbo.proxytelega.store",
-      "port": "443",
-      "secret": "eedb7eda819ee3499ac5f5d2a8803be174747572626f2e70726f787974656c6567612e73746f7265",
-      "name": "",
-      "original": "https://t.me/proxy?server=turbo.proxytelega.store&port=443&secret=eedb7eda819ee3499ac5f5d2a8803be174747572626f2e70726f787974656c6567612e73746f7265",
-      "ip": "93.77.161.225",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=turbo.proxytelega.store&port=443&secret=eedb7eda819ee3499ac5f5d2a8803be174747572626f2e70726f787974656c6567612e73746f7265"
-    },
-    {
       "type": "vless",
       "address": "b3aa11az-k15gg1.ru.y-tun.com",
       "port": "8443",
@@ -48,23 +36,59 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://17172b99-16ae-4453-99f9-bd15191228a9@b3aa11az-k15gg1.ru.y-tun.com:8443?security=reality&encryption=none&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#vless-xtls-rprx-vision-tcp-reality-qq-RU%F0%9F%87%B7%F0%9F%87%BA-3",
+      "original": "vless://17172b99-16ae-4453-99f9-bd15191228a9@b3aa11az-k15gg1.ru.y-tun.com:8443?security=reality&encryption=none&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#vless-xtls-rprx-vision-tcp-reality-qq-RU%F0%9F%87%B7%F0%9F%87%BA-2",
       "ip": "178.154.211.116",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://17172b99-16ae-4453-99f9-bd15191228a9@b3aa11az-k15gg1.ru.y-tun.com:8443?security=reality&encryption=none&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#vless-xtls-rprx-vision-tcp-reality-qq-RU%F0%9F%87%B7%F0%9F%87%BA-3"
+      "rebuilt": "vless://17172b99-16ae-4453-99f9-bd15191228a9@b3aa11az-k15gg1.ru.y-tun.com:8443?security=reality&encryption=none&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#vless-xtls-rprx-vision-tcp-reality-qq-RU%F0%9F%87%B7%F0%9F%87%BA-2"
     },
     {
       "type": "tg",
-      "address": "russia2.loveproxy.xyz",
+      "address": "turbo.proxytelega.store",
       "port": "443",
-      "secret": "dddf514ae4da112140933c25803d720852",
+      "secret": "eedb7eda819ee3499ac5f5d2a8803be174747572626f2e70726f787974656c6567612e73746f7265",
       "name": "",
-      "original": "https://t.me/proxy?server=russia2.loveproxy.xyz&port=443&secret=dddf514ae4da112140933c25803d720852",
-      "ip": "84.201.137.250",
+      "original": "https://t.me/proxy?server=turbo.proxytelega.store&port=443&secret=eedb7eda819ee3499ac5f5d2a8803be174747572626f2e70726f787974656c6567612e73746f7265",
+      "ip": "93.77.165.94",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=russia2.loveproxy.xyz&port=443&secret=dddf514ae4da112140933c25803d720852"
+      "rebuilt": "https://t.me/proxy?server=turbo.proxytelega.store&port=443&secret=eedb7eda819ee3499ac5f5d2a8803be174747572626f2e70726f787974656c6567612e73746f7265"
+    },
+    {
+      "type": "tg",
+      "address": "zoom.flowaccess.site",
+      "port": "443",
+      "secret": "ee50179d3cf3b7e3600efe3b6001fa35c07a6f6f6d2e666c6f776163636573732e73697465",
+      "name": "",
+      "original": "https://t.me/proxy?server=zoom.flowaccess.site&port=443&secret=ee50179d3cf3b7e3600efe3b6001fa35c07a6f6f6d2e666c6f776163636573732e73697465",
+      "ip": "93.77.160.95",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=zoom.flowaccess.site&port=443&secret=ee50179d3cf3b7e3600efe3b6001fa35c07a6f6f6d2e666c6f776163636573732e73697465"
+    },
+    {
+      "type": "tg",
+      "address": "storm.proxytelega.store",
+      "port": "443",
+      "secret": "eedef3ae42d41ca0570cd030dea03fa6b373746f726d2e70726f787974656c6567612e73746f7265",
+      "name": "",
+      "original": "https://t.me/proxy?server=storm.proxytelega.store&port=443&secret=eedef3ae42d41ca0570cd030dea03fa6b373746f726d2e70726f787974656c6567612e73746f7265&@MPT_Proxy",
+      "ip": "93.77.167.20",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=storm.proxytelega.store&port=443&secret=eedef3ae42d41ca0570cd030dea03fa6b373746f726d2e70726f787974656c6567612e73746f7265&@MPT_Proxy"
+    },
+    {
+      "type": "tg",
+      "address": "rapid.quickrouteapp.xyz",
+      "port": "443",
+      "secret": "eef759f32d70c17cef76b34ab18561ff7972617069642e717569636b726f7574656170702e78797a",
+      "name": "",
+      "original": "https://t.me/proxy?server=rapid.quickrouteapp.xyz&port=443&secret=eef759f32d70c17cef76b34ab18561ff7972617069642e717569636b726f7574656170702e78797a",
+      "ip": "93.77.166.211",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=rapid.quickrouteapp.xyz&port=443&secret=eef759f32d70c17cef76b34ab18561ff7972617069642e717569636b726f7574656170702e78797a"
     },
     {
       "type": "vless",
@@ -80,47 +104,23 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-5",
+      "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-7",
       "ip": "185.147.26.21",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-5"
+      "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-7"
     },
     {
       "type": "tg",
-      "address": "rapid.quickrouteapp.xyz",
+      "address": "wave.proxytelega.store",
       "port": "443",
-      "secret": "eef759f32d70c17cef76b34ab18561ff7972617069642e717569636b726f7574656170702e78797a",
+      "secret": "eee12b7ef9718c53b06c8a416387c8d4a6776176652e70726f787974656c6567612e73746f7265",
       "name": "",
-      "original": "https://t.me/proxy?server=rapid.quickrouteapp.xyz&port=443&secret=eef759f32d70c17cef76b34ab18561ff7972617069642e717569636b726f7574656170702e78797a",
-      "ip": "93.77.164.168",
+      "original": "https://t.me/proxy?server=wave.proxytelega.store&port=443&secret=eee12b7ef9718c53b06c8a416387c8d4a6776176652e70726f787974656c6567612e73746f7265&@MPT_Proxy",
+      "ip": "93.77.160.99",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=rapid.quickrouteapp.xyz&port=443&secret=eef759f32d70c17cef76b34ab18561ff7972617069642e717569636b726f7574656170702e78797a"
-    },
-    {
-      "type": "tg",
-      "address": "russia1.loveproxy.xyz",
-      "port": "443",
-      "secret": "ddb776d0f95da6b530684f70619f03ee70",
-      "name": "",
-      "original": "https://t.me/proxy?server=russia1.loveproxy.xyz&port=443&secret=ddb776d0f95da6b530684f70619f03ee70",
-      "ip": "111.88.153.186",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=russia1.loveproxy.xyz&port=443&secret=ddb776d0f95da6b530684f70619f03ee70"
-    },
-    {
-      "type": "tg",
-      "address": "zoom.flowaccess.site",
-      "port": "443",
-      "secret": "ee50179d3cf3b7e3600efe3b6001fa35c07a6f6f6d2e666c6f776163636573732e73697465",
-      "name": "",
-      "original": "https://t.me/proxy?server=zoom.flowaccess.site&port=443&secret=ee50179d3cf3b7e3600efe3b6001fa35c07a6f6f6d2e666c6f776163636573732e73697465",
-      "ip": "93.77.165.78",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=zoom.flowaccess.site&port=443&secret=ee50179d3cf3b7e3600efe3b6001fa35c07a6f6f6d2e666c6f776163636573732e73697465"
+      "rebuilt": "https://t.me/proxy?server=wave.proxytelega.store&port=443&secret=eee12b7ef9718c53b06c8a416387c8d4a6776176652e70726f787974656c6567612e73746f7265&@MPT_Proxy"
     }
   ]
 }

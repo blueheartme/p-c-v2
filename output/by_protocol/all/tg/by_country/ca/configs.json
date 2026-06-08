@@ -1,18 +1,42 @@
 {
-  "updated": "2026-06-07T02:53:46.824200",
-  "count": 1,
+  "updated": "2026-06-08T18:22:33.856392",
+  "count": 3,
   "configs": [
     {
       "type": "tg",
-      "address": "172.105.7.137",
-      "port": "443",
-      "secret": "ee493b44400f0d95b9427221beb5c3046b636c6f7564666c6172652e636f6d",
+      "address": "148.113.233.107",
+      "port": "8443",
+      "secret": "ddfd9d11f9c36f30eeb4884832c4fdf107",
       "name": "",
-      "original": "https://t.me/proxy?server=172.105.7.137&port=443&secret=ee493b44400f0d95b9427221beb5c3046b636c6f7564666c6172652e636f6d&@MPT_Proxy",
-      "ip": "172.105.7.137",
+      "original": "https://t.me/proxy?server=148.113.233.107&port=8443&secret=ddfd9d11f9c36f30eeb4884832c4fdf107&@MPT_Proxy",
+      "ip": "148.113.233.107",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=172.105.7.137&port=443&secret=ee493b44400f0d95b9427221beb5c3046b636c6f7564666c6172652e636f6d&@MPT_Proxy"
+      "rebuilt": "https://t.me/proxy?server=148.113.233.107&port=8443&secret=ddfd9d11f9c36f30eeb4884832c4fdf107&@MPT_Proxy"
+    },
+    {
+      "type": "tg",
+      "address": "148.113.233.243",
+      "port": "8443",
+      "secret": "dd0e52217bc944183f5c90132d1a8a9e27",
+      "name": "",
+      "original": "https://t.me/proxy?server=148.113.233.243&port=8443&secret=dd0e52217bc944183f5c90132d1a8a9e27&@MPT_Proxy",
+      "ip": "148.113.233.243",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=148.113.233.243&port=8443&secret=dd0e52217bc944183f5c90132d1a8a9e27&@MPT_Proxy"
+    },
+    {
+      "type": "tg",
+      "address": "51.79.92.138",
+      "port": "1443",
+      "secret": "dd4f055e9d725fa101697de9557d9499c7",
+      "name": "",
+      "original": "https://t.me/proxy?server=51.79.92.138&port=1443&secret=dd4f055e9d725fa101697de9557d9499c7&@MPT_Proxy",
+      "ip": "51.79.92.138",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=51.79.92.138&port=1443&secret=dd4f055e9d725fa101697de9557d9499c7&@MPT_Proxy"
     }
   ]
 }

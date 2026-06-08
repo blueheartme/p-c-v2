@@ -1,26 +1,13 @@
 {
-  "updated": "2026-06-08T12:24:49.463616",
+  "updated": "2026-06-08T18:22:33.796282",
   "count": 4,
   "configs": [
     {
-      "type": "ss",
-      "address": "62.133.63.169",
-      "port": "37096",
-      "method": "chacha20-ietf-poly1305",
-      "password": "KP6FQVmJhlXPgvPhrw2gnI",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%40filembad",
-      "ip": "62.133.63.169",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%40filembad"
-    },
-    {
       "type": "vless",
-      "address": "212.64.215.53",
-      "port": "8443",
-      "id": "ed4bafcf-f822-4309-94b3-aa7be5807275",
-      "name": "برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩",
+      "address": "77.83.203.149",
+      "port": "2003",
+      "id": "336772f1-5e30-4c9b-b627-fe7c653c1c04",
+      "name": "",
       "network": "tcp",
       "sni": "play.google.com",
       "host": "",
@@ -28,12 +15,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://ed4bafcf-f822-4309-94b3-aa7be5807275@212.64.215.53:8443?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "212.64.215.53",
+      "fingerprint": "edge",
+      "original": "vless://336772f1-5e30-4c9b-b627-fe7c653c1c04@77.83.203.149:2003?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=play.google.com&sid=2418ed47b875e923&fp=edge&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "77.83.203.149",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://ed4bafcf-f822-4309-94b3-aa7be5807275@212.64.215.53:8443?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://336772f1-5e30-4c9b-b627-fe7c653c1c04@77.83.203.149:2003?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=play.google.com&sid=2418ed47b875e923&fp=edge&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
       "type": "tg",
@@ -49,10 +36,10 @@
     },
     {
       "type": "vless",
-      "address": "77.83.203.149",
-      "port": "2003",
-      "id": "336772f1-5e30-4c9b-b627-fe7c653c1c04",
-      "name": "",
+      "address": "212.64.215.53",
+      "port": "8443",
+      "id": "ed4bafcf-f822-4309-94b3-aa7be5807275",
+      "name": "برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩",
       "network": "tcp",
       "sni": "play.google.com",
       "host": "",
@@ -60,12 +47,32 @@
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://336772f1-5e30-4c9b-b627-fe7c653c1c04@77.83.203.149:2003?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=play.google.com&sid=2418ed47b875e923&fp=edge&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "77.83.203.149",
+      "fingerprint": "chrome",
+      "original": "vless://ed4bafcf-f822-4309-94b3-aa7be5807275@212.64.215.53:8443?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "212.64.215.53",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://336772f1-5e30-4c9b-b627-fe7c653c1c04@77.83.203.149:2003?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=play.google.com&sid=2418ed47b875e923&fp=edge&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "vless://ed4bafcf-f822-4309-94b3-aa7be5807275@212.64.215.53:8443?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+    },
+    {
+      "type": "vless",
+      "address": "141.98.118.70",
+      "port": "443",
+      "id": "de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c",
+      "name": "@filembad",
+      "network": "xhttp",
+      "sni": "www.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "random",
+      "original": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=random&type=xhttp&sni=www.google.com&sid=44#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "141.98.118.70",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=random&type=xhttp&sni=www.google.com&sid=44#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }

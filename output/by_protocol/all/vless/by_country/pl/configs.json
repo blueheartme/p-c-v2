@@ -1,46 +1,26 @@
 {
-  "updated": "2026-06-08T12:24:49.511288",
-  "count": 2,
+  "updated": "2026-06-08T18:22:33.837531",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "54.38.136.47",
-      "port": "80",
-      "id": "06f50d6a-423e-4c89-8cd3-608bc6cc296b",
-      "name": "Vip@ConfingV2RaayNG",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=&encryption=none&headerType=&type=tcp#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "54.38.136.47",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=&encryption=none&headerType=&type=tcp#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
     {
       "type": "vless",
       "address": "128.204.223.94",
       "port": "9815",
       "id": "37a0bd7c-8b9f-4693-8916-bd1e2da0a817",
-      "name": "Free$ 31 @Outline_Vpn",
+      "name": "@ConfingV2RaayNG",
       "network": "ws",
       "sni": "",
-      "host": "",
+      "host": "128.204.223.94",
       "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "original": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&host=128.204.223.94&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-1",
       "ip": "128.204.223.94",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&host=128.204.223.94&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     }
   ]
 }
