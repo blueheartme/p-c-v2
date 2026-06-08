@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-08T02:56:34.705259",
+  "updated": "2026-06-08T12:24:49.534418",
   "count": 4,
   "configs": [
+    {
+      "type": "tg",
+      "address": "57.130.65.16",
+      "port": "8443",
+      "secret": "dd2865155e0099f60b90072a2a1693c807",
+      "name": "",
+      "original": "https://t.me/proxy?server=57.130.65.16&port=8443&secret=dd2865155e0099f60b90072a2a1693c807",
+      "ip": "57.130.65.16",
+      "country": "FR",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=57.130.65.16&port=8443&secret=dd2865155e0099f60b90072a2a1693c807"
+    },
     {
       "type": "tg",
       "address": "91.134.33.193",
@@ -16,30 +28,6 @@
     },
     {
       "type": "tg",
-      "address": "141.95.135.243",
-      "port": "443",
-      "secret": "ddfb2ebf06b1c708b06f46137a4faed9be",
-      "name": "",
-      "original": "https://t.me/proxy?server=141.95.135.243&port=443&secret=ddfb2ebf06b1c708b06f46137a4faed9be",
-      "ip": "141.95.135.243",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=141.95.135.243&port=443&secret=ddfb2ebf06b1c708b06f46137a4faed9be"
-    },
-    {
-      "type": "tg",
-      "address": "51.254.130.47",
-      "port": "8443",
-      "secret": "a84102e409230c3b69dd4f68cef86baf",
-      "name": "",
-      "original": "https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f68cef86baf",
-      "ip": "51.254.130.47",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f68cef86baf"
-    },
-    {
-      "type": "tg",
       "address": "57.130.65.71",
       "port": "8443",
       "secret": "dd91afc5d7e1eb8445a1c044812f9899ed",
@@ -49,6 +37,18 @@
       "country": "FR",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=57.130.65.71&port=8443&secret=dd91afc5d7e1eb8445a1c044812f9899ed"
+    },
+    {
+      "type": "tg",
+      "address": "141.95.135.243",
+      "port": "443",
+      "secret": "ddfb2ebf06b1c708b06f46137a4faed9be",
+      "name": "",
+      "original": "https://t.me/proxy?server=141.95.135.243&port=443&secret=ddfb2ebf06b1c708b06f46137a4faed9be",
+      "ip": "141.95.135.243",
+      "country": "FR",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=141.95.135.243&port=443&secret=ddfb2ebf06b1c708b06f46137a4faed9be"
     }
   ]
 }

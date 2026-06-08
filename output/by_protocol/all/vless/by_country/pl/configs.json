@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T02:56:34.725175",
-  "count": 1,
+  "updated": "2026-06-08T12:24:49.511288",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=&encryption=none&headerType=&type=tcp#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "original": "vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=&encryption=none&headerType=&type=tcp#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "54.38.136.47",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=&encryption=none&headerType=&type=tcp#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=&encryption=none&headerType=&type=tcp#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "vless",
+      "address": "128.204.223.94",
+      "port": "9815",
+      "id": "37a0bd7c-8b9f-4693-8916-bd1e2da0a817",
+      "name": "Free$ 31 @Outline_Vpn",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "128.204.223.94",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     }
   ]
 }

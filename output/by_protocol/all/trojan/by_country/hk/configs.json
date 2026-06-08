@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-08T02:56:34.746343",
-  "count": 1,
+  "updated": "2026-06-08T12:24:49.501482",
+  "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "adak.sonofthewinds.com",
+      "port": "34470",
+      "password": "825929f4-c702-35ce-9124-00d3f95b8c32",
+      "name": "p",
+      "sni": "gj1.sonofthewinds.com",
+      "host": "",
+      "original": "trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "144.225.78.8",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
     {
       "type": "trojan",
       "address": "219.79.214.159",
@@ -15,6 +29,20 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
+      "type": "trojan",
+      "address": "adak.sonofthewinds.com",
+      "port": "34450",
+      "password": "825929f4-c702-35ce-9124-00d3f95b8c32",
+      "name": "Tel@p",
+      "sni": "tt1.sonofthewinds.com",
+      "host": "",
+      "original": "trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34450?sni=tt1.sonofthewinds.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "144.225.78.8",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34450?sni=tt1.sonofthewinds.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }
