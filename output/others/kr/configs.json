@@ -1,7 +1,22 @@
 {
-  "updated": "2026-06-07T17:09:54.890245",
+  "updated": "2026-06-08T02:56:34.672687",
   "count": 2,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "152.67.218.38",
+      "port": "443",
+      "id": "b5e9480a-b7aa-40a4-f9a7-5299b5e363b4",
+      "name": "🇰🇷 KR 2",
+      "network": "ws",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0xIiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "152.67.218.38",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0xIiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+    },
     {
       "type": "trojan",
       "address": "130.94.29.102",
@@ -10,26 +25,11 @@
       "name": "🇰🇷 KR 7",
       "sni": "www.ws-converter.click",
       "host": "",
-      "original": "trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?security=tls&sni=www.ws-converter.click&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "original": "trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?security=tls&sni=www.ws-converter.click&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2",
       "ip": "130.94.29.102",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?security=tls&sni=www.ws-converter.click&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vmess",
-      "address": "152.67.218.38",
-      "port": "443",
-      "id": "b5e9480a-b7aa-40a4-f9a7-5299b5e363b4",
-      "name": "🇰🇷 KR 1",
-      "network": "ws",
-      "host": "152.67.218.38",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0yIiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjE1Mi42Ny4yMTguMzgiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "152.67.218.38",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0yIiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjE1Mi42Ny4yMTguMzgiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?security=tls&sni=www.ws-converter.click&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2"
     }
   ]
 }

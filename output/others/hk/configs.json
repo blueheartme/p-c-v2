@@ -1,27 +1,7 @@
 {
-  "updated": "2026-06-07T17:09:54.899654",
-  "count": 3,
+  "updated": "2026-06-08T02:56:34.685355",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "45.152.67.34",
-      "port": "47488",
-      "id": "2c36bf33-1ec0-45e8-84af-84eeccd56ca5",
-      "name": "برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "45.152.67.34",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
     {
       "type": "vless",
       "address": "27.50.48.49",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "27.50.48.49",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "trojan",
@@ -50,11 +30,11 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }

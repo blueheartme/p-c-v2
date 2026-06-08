@@ -1,30 +1,26 @@
 {
-  "updated": "2026-06-07T17:09:54.893853",
-  "count": 2,
+  "updated": "2026-06-08T02:56:34.685879",
+  "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "185.224.3.209",
-      "port": "80",
-      "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=185.224.3.209&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-      "ip": "185.224.3.209",
+      "type": "vless",
+      "address": "as.pink-perfect.ru",
+      "port": "443",
+      "id": "5d8fcd24-9634-4dd7-845c-3dc2d6291942",
+      "name": "برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "as.pink-perfect.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=as.pink-perfect.ru&sid=8ffa160e608bf539#vless-xtls-rprx-vision-tcp-reality-qq-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "147.45.41.86",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=185.224.3.209&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "78.153.130.106",
-      "port": "8443",
-      "secret": "ddd48426b87876ba13c019495910fd7fd0",
-      "name": "",
-      "original": "https://t.me/proxy?server=78.153.130.106&port=8443&secret=ddd48426b87876ba13c019495910fd7fd0",
-      "ip": "78.153.130.106",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=78.153.130.106&port=8443&secret=ddd48426b87876ba13c019495910fd7fd0"
+      "rebuilt": "vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=as.pink-perfect.ru&sid=8ffa160e608bf539#vless-xtls-rprx-vision-tcp-reality-qq-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }
