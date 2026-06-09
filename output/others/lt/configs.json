@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-09T02:34:05.357769",
+  "updated": "2026-06-09T10:56:31.988427",
   "count": 2,
   "configs": [
+    {
+      "type": "tg",
+      "address": "185.8.104.135",
+      "port": "8443",
+      "secret": "dd104462821249bd7ac519130220c25d09",
+      "name": "",
+      "original": "https://t.me/proxy?server=185.8.104.135&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "ip": "185.8.104.135",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=185.8.104.135&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    },
     {
       "type": "vless",
       "address": "91.188.254.124",
@@ -16,23 +28,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://efffa718-6ce3-4b0f-88dc-fc68ed38ff1f@91.188.254.124:2083?mode=auto&path=%2Fapi%2Fv1%2Fuser%2Fprofile&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&host=skyroom.online&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "original": "vless://efffa718-6ce3-4b0f-88dc-fc68ed38ff1f@91.188.254.124:2083?mode=auto&path=%2Fapi%2Fv1%2Fuser%2Fprofile&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&host=skyroom.online&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-2",
       "ip": "91.188.254.124",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://efffa718-6ce3-4b0f-88dc-fc68ed38ff1f@91.188.254.124:2083?mode=auto&path=%2Fapi%2Fv1%2Fuser%2Fprofile&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&host=skyroom.online&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-1"
-    },
-    {
-      "type": "tg",
-      "address": "185.8.104.135",
-      "port": "8443",
-      "secret": "dd104462821249bd7ac519130220c25d09",
-      "name": "",
-      "original": "https://t.me/proxy?server=185.8.104.135&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-      "ip": "185.8.104.135",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=185.8.104.135&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+      "rebuilt": "vless://efffa718-6ce3-4b0f-88dc-fc68ed38ff1f@91.188.254.124:2083?mode=auto&path=%2Fapi%2Fv1%2Fuser%2Fprofile&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&host=skyroom.online&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     }
   ]
 }

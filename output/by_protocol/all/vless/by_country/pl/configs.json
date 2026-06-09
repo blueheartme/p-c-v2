@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09T02:34:05.414584",
-  "count": 4,
+  "updated": "2026-06-09T10:56:32.024254",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -16,71 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "original": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-7",
       "ip": "128.204.223.94",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
-    {
-      "type": "vless",
-      "address": "82.40.62.5",
-      "port": "8080",
-      "id": "a3ef337f-edf9-47a1-aeba-ca55f6bc9f50",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "play.google.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://a3ef337f-edf9-47a1-aeba-ca55f6bc9f50@82.40.62.5:8080?encryption=none&host=play.google.com&path=%2FManoch&security=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-4",
-      "ip": "82.40.62.5",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://a3ef337f-edf9-47a1-aeba-ca55f6bc9f50@82.40.62.5:8080?encryption=none&host=play.google.com&path=%2FManoch&security=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-4"
-    },
-    {
-      "type": "vless",
-      "address": "pl.riotvpn.eu",
-      "port": "443",
-      "id": "24a64b19-3a8d-4a4c-9af1-e76c646ec3bc",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "ads.x5.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://24a64b19-3a8d-4a4c-9af1-e76c646ec3bc@pl.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=b76dcf9e1183fe1b#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-6",
-      "ip": "83.168.91.244",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://24a64b19-3a8d-4a4c-9af1-e76c646ec3bc@pl.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=b76dcf9e1183fe1b#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-6"
-    },
-    {
-      "type": "vless",
-      "address": "82.40.62.5",
-      "port": "8080",
-      "id": "68e18c0f-51d9-4ab6-b545-e590bf38e164",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "play.google.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://68e18c0f-51d9-4ab6-b545-e590bf38e164@82.40.62.5:8080?encryption=none&host=play.google.com&path=%2FManoch&security=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-7",
-      "ip": "82.40.62.5",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://68e18c0f-51d9-4ab6-b545-e590bf38e164@82.40.62.5:8080?encryption=none&host=play.google.com&path=%2FManoch&security=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+      "rebuilt": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-7"
     }
   ]
 }
