@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T18:22:33.796282",
-  "count": 4,
+  "updated": "2026-06-09T02:34:05.361983",
+  "count": 6,
   "configs": [
     {
       "type": "vless",
@@ -24,15 +24,15 @@
     },
     {
       "type": "tg",
-      "address": "167.104.219.214",
-      "port": "777",
-      "secret": "7rN49qMp7xDgXhgdccaQ1KlnaXRodWIuY29t",
+      "address": "64.49.15.171",
+      "port": "443",
+      "secret": "7oMTS0opN3dw55f8veffuBx3ZWIuYmFsZS5haQ==",
       "name": "",
-      "original": "https://t.me/proxy?server=167.104.219.214&port=777&secret=7rN49qMp7xDgXhgdccaQ1KlnaXRodWIuY29t",
-      "ip": "167.104.219.214",
+      "original": "https://t.me/proxy?server=64.49.15.171&port=443&secret=7oMTS0opN3dw55f8veffuBx3ZWIuYmFsZS5haQ==",
+      "ip": "64.49.15.171",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=167.104.219.214&port=777&secret=7rN49qMp7xDgXhgdccaQ1KlnaXRodWIuY29t"
+      "rebuilt": "https://t.me/proxy?server=64.49.15.171&port=443&secret=7oMTS0opN3dw55f8veffuBx3ZWIuYmFsZS5haQ=="
     },
     {
       "type": "vless",
@@ -56,23 +56,55 @@
     },
     {
       "type": "vless",
-      "address": "141.98.118.70",
+      "address": "five.paliss.ir",
       "port": "443",
-      "id": "de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "www.google.com",
+      "id": "2e409cdc-d0c9-4fc0-b285-9371034b8002",
+      "name": "برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "",
       "host": "",
-      "security": "reality",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "107.161.174.170",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+    },
+    {
+      "type": "vless",
+      "address": "1.call-me-seyed.ir",
+      "port": "8080",
+      "id": "2e409cdc-d0c9-4fc0-b285-9371034b8002",
+      "name": "برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "random",
-      "original": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=random&type=xhttp&sni=www.google.com&sid=44#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "141.98.118.70",
+      "fingerprint": "",
+      "original": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=%2F&security=none&encryption=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "ip": "87.120.106.93",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=random&type=xhttp&sni=www.google.com&sid=44#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=%2F&security=none&encryption=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-5"
+    },
+    {
+      "type": "tg",
+      "address": "167.104.219.214",
+      "port": "777",
+      "secret": "7rN49qMp7xDgXhgdccaQ1KlnaXRodWIuY29t",
+      "name": "",
+      "original": "https://t.me/proxy?server=167.104.219.214&port=777&secret=7rN49qMp7xDgXhgdccaQ1KlnaXRodWIuY29t",
+      "ip": "167.104.219.214",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=167.104.219.214&port=777&secret=7rN49qMp7xDgXhgdccaQ1KlnaXRodWIuY29t"
     }
   ]
 }

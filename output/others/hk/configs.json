@@ -1,49 +1,7 @@
 {
-  "updated": "2026-06-08T18:22:33.806435",
-  "count": 4,
+  "updated": "2026-06-09T02:34:05.360442",
+  "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "219.79.214.159",
-      "port": "443",
-      "password": "BxceQaOe",
-      "name": "Hong Kong Netvigator",
-      "sni": "t.me%2Fripaojiedian",
-      "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "219.79.214.159",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
-    {
-      "type": "trojan",
-      "address": "adak.sonofthewinds.com",
-      "port": "34450",
-      "password": "825929f4-c702-35ce-9124-00d3f95b8c32",
-      "name": "Tel@p",
-      "sni": "tt1.sonofthewinds.com",
-      "host": "",
-      "original": "trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34450?sni=tt1.sonofthewinds.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "144.225.78.8",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34450?sni=tt1.sonofthewinds.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
-      "type": "trojan",
-      "address": "adak.sonofthewinds.com",
-      "port": "34470",
-      "password": "825929f4-c702-35ce-9124-00d3f95b8c32",
-      "name": "p",
-      "sni": "gj1.sonofthewinds.com",
-      "host": "",
-      "original": "trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "144.225.78.8",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
-    },
     {
       "type": "vless",
       "address": "27.50.48.49",
@@ -58,11 +16,25 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "27.50.48.49",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "trojan",
+      "address": "219.79.214.159",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "Hong Kong Netvigator",
+      "sni": "t.me%2Fripaojiedian",
+      "host": "",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "219.79.214.159",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }

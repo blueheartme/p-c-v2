@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-08T18:22:33.805750",
+  "updated": "2026-06-09T02:34:05.362756",
   "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "185.215.184.95",
+      "port": "443",
+      "id": "91e120bc-159a-4390-b4e1-197b19602ea0",
+      "name": "Free 47 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "sub.sbrf-cdn342.ru",
+      "host": "",
+      "security": "tls",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-1",
+      "ip": "185.215.184.95",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+    },
     {
       "type": "tg",
       "address": "cheetah-proxy.ir.hey-gardash.info.",
@@ -25,26 +45,6 @@
       "country": "EE",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=hamrah.net-sabet.adadb-1hgujoiah-xy1xutr095-tk.info.&port=1080&secret=79e344818749bd7ac519130220c25d09"
-    },
-    {
-      "type": "vless",
-      "address": "185.215.184.95",
-      "port": "443",
-      "id": "91e120bc-159a-4390-b4e1-197b19602ea0",
-      "name": "Free 47 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "sub.sbrf-cdn342.ru",
-      "host": "",
-      "security": "tls",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-3",
-      "ip": "185.215.184.95",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-3"
     }
   ]
 }

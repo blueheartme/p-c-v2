@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T18:22:33.877619",
+  "updated": "2026-06-09T02:34:05.381614",
   "count": 4,
   "configs": [
     {
@@ -10,39 +10,11 @@
       "name": "🇯🇵 JP 1",
       "sni": "",
       "host": "",
-      "original": "trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "original": "trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3",
       "ip": "161.34.39.108",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
-    },
-    {
-      "type": "trojan",
-      "address": "160.16.107.37",
-      "port": "3169",
-      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
-      "name": "Japan NTT Pc",
-      "sni": "www.nintendogames.net",
-      "host": "",
-      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-19",
-      "ip": "160.16.107.37",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-19"
-    },
-    {
-      "type": "trojan",
-      "address": "161.34.39.108",
-      "port": "443",
-      "password": "tsuchiya",
-      "name": "🇯🇵 JP 4",
-      "sni": "aa.ccmusic.jp",
-      "host": "",
-      "original": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-20",
-      "ip": "161.34.39.108",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-20"
+      "rebuilt": "trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3"
     },
     {
       "type": "trojan",
@@ -52,11 +24,39 @@
       "name": "Japan Klayer LLC",
       "sni": "kuame.missionsec.us",
       "host": "",
-      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-21",
+      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-8",
       "ip": "93.93.246.88",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-21"
+      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-8"
+    },
+    {
+      "type": "trojan",
+      "address": "160.16.107.37",
+      "port": "3169",
+      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
+      "name": "Japan NTT Pc",
+      "sni": "www.nintendogames.net",
+      "host": "",
+      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-10",
+      "ip": "160.16.107.37",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-10"
+    },
+    {
+      "type": "trojan",
+      "address": "161.34.39.108",
+      "port": "443",
+      "password": "tsuchiya",
+      "name": "🇯🇵 JP 4",
+      "sni": "aa.ccmusic.jp",
+      "host": "",
+      "original": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-12",
+      "ip": "161.34.39.108",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-12"
     }
   ]
 }
