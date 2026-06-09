@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-09T10:56:31.978385",
-  "count": 2,
+  "updated": "2026-06-09T17:57:16.138891",
+  "count": 4,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "v10.hdacd.com",
+      "port": "30807",
+      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "name": "🇭🇰 HK 1",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMSIsImFkZCI6InYxMC5oZGFjZC5jb20iLCJwb3J0IjozMDgwNywiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "ip": "219.79.146.43",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMSIsImFkZCI6InYxMC5oZGFjZC5jb20iLCJwb3J0IjozMDgwNywiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+    },
+    {
+      "type": "vless",
+      "address": "45.38.60.52",
+      "port": "443",
+      "id": "thugtales",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.amazon.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://thugtales@45.38.60.52:443?encryption=none&fp=chrome&pbk=kYkeZ9EqtO7Wsr6mgs6nqLA4M_FD516UOlGes4jVzFE&security=reality&sid=5e152318&sni=www.amazon.com&spx=%2FGSuPj8vP9FCeetI&type=tcp#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "45.38.60.52",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://thugtales@45.38.60.52:443?encryption=none&fp=chrome&pbk=kYkeZ9EqtO7Wsr6mgs6nqLA4M_FD516UOlGes4jVzFE&security=reality&sid=5e152318&sni=www.amazon.com&spx=%2FGSuPj8vP9FCeetI&type=tcp#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
     {
       "type": "vless",
       "address": "27.50.48.49",
@@ -16,11 +51,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
       "ip": "27.50.48.49",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     },
     {
       "type": "trojan",
@@ -30,11 +65,11 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }

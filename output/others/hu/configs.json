@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-09T10:56:31.990819",
-  "count": 1,
+  "updated": "2026-06-09T17:57:16.131009",
+  "count": 5,
   "configs": [
+    {
+      "type": "tg",
+      "address": "87.229.56.32",
+      "port": "8880",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ==",
+      "name": "",
+      "original": "https://t.me/proxy?server=87.229.56.32&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ==",
+      "ip": "87.229.56.32",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=87.229.56.32&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ=="
+    },
+    {
+      "type": "trojan",
+      "address": "hu2.vpnjantit.com",
+      "port": "4443",
+      "password": "0ldyjdhd-vpnjantit.com",
+      "name": "🇭🇺 HU 1",
+      "sni": "hu2.vpnjantit.com",
+      "host": "",
+      "original": "trojan://0ldyjdhd-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HU%F0%9F%87%AD%F0%9F%87%BA-2",
+      "ip": "46.29.142.57",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "trojan://0ldyjdhd-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HU%F0%9F%87%AD%F0%9F%87%BA-2"
+    },
     {
       "type": "tg",
       "address": "haji.acineirani-uoor1.ir",
@@ -9,10 +35,34 @@
       "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
       "name": "",
       "original": "https://t.me/proxy?server=haji.acineirani-uoor1.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.20",
+      "ip": "87.229.56.5",
       "country": "HU",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=haji.acineirani-uoor1.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "87.229.56.11",
+      "port": "443",
+      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=87.229.56.11&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "87.229.56.11",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=87.229.56.11&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "acineirani-uoor2.ir",
+      "port": "443",
+      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=acineirani-uoor2.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "87.229.56.6",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=acineirani-uoor2.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     }
   ]
 }

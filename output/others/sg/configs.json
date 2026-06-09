@@ -1,47 +1,20 @@
 {
-  "updated": "2026-06-09T10:56:31.979707",
-  "count": 3,
+  "updated": "2026-06-09T17:57:16.144065",
+  "count": 1,
   "configs": [
     {
-      "type": "tuic",
-      "address": "8.219.215.193",
-      "port": "5835",
-      "name": "🇸🇬 SG 4",
-      "original": "tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a:48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?sni=claw.isbigdick.cc.cd&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "8.219.215.193",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a:48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?sni=claw.isbigdick.cc.cd&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
-    {
-      "type": "vmess",
-      "address": "149.88.23.207",
-      "port": "18000",
-      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "type": "trojan",
+      "address": "node1.bw8848.org",
+      "port": "443",
+      "password": "5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ",
       "name": "🇸🇬 SG 1",
-      "network": "tcp",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1TR/Cfh7jwn4esLTIiLCJhZGQiOiIxNDkuODguMjMuMjA3IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "149.88.23.207",
+      "sni": "node1.bw8848.org",
+      "host": "node1.bw8848.org",
+      "original": "trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@node1.bw8848.org:443?security=tls&sni=node1.bw8848.org&type=ws&host=node1.bw8848.org&path=%2fnode1-node1-5sczzi#trojan-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "46.137.202.140",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1TR/Cfh7jwn4esLTIiLCJhZGQiOiIxNDkuODguMjMuMjA3IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
-    },
-    {
-      "type": "vmess",
-      "address": "149.88.23.202",
-      "port": "18000",
-      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
-      "name": "🇸🇬 SG 2",
-      "network": "tcp",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1TR/Cfh7jwn4esLTMiLCJhZGQiOiIxNDkuODguMjMuMjAyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "149.88.23.202",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1TR/Cfh7jwn4esLTMiLCJhZGQiOiIxNDkuODguMjMuMjAyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@node1.bw8848.org:443?security=tls&sni=node1.bw8848.org&type=ws&host=node1.bw8848.org&path=%2fnode1-node1-5sczzi#trojan-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }
