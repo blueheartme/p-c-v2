@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-10T11:35:24.304324",
-  "count": 4,
+  "updated": "2026-06-10T18:27:55.797038",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "1.call-me-seyed.ir",
-      "port": "8080",
-      "id": "2e409cdc-d0c9-4fc0-b285-9371034b8002",
-      "name": "برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩",
-      "network": "ws",
-      "sni": "",
+      "address": "141.98.118.70",
+      "port": "443",
+      "id": "de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c",
+      "name": "@filembad",
+      "network": "xhttp",
+      "sni": "www.google.com",
       "host": "",
-      "security": "none",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=%2F&security=none&encryption=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "87.120.106.93",
+      "fingerprint": "random",
+      "original": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "141.98.118.70",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=%2F&security=none&encryption=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "vmess",
@@ -56,26 +56,6 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UUvCfh7nwn4e3LTMiLCJhZGQiOiI1LjE4OC4xOTAuMjUyIiwicG9ydCI6MjIzMjQsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMSIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
-    },
-    {
-      "type": "vless",
-      "address": "141.98.118.70",
-      "port": "443",
-      "id": "de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "www.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "random",
-      "original": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "141.98.118.70",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }
