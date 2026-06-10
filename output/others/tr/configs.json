@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-10T02:47:30.915796",
+  "updated": "2026-06-10T11:35:24.304324",
   "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "five.paliss.ir",
+      "port": "443",
+      "id": "2e409cdc-d0c9-4fc0-b285-9371034b8002",
+      "name": "برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "107.161.174.170",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
     {
       "type": "vless",
       "address": "1.call-me-seyed.ir",
@@ -16,11 +36,26 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=%2F&security=none&encryption=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "original": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=%2F&security=none&encryption=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-2",
       "ip": "87.120.106.93",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=%2F&security=none&encryption=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=%2F&security=none&encryption=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vmess",
+      "address": "5.188.190.252",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "🇹🇷 TR 1",
+      "network": "tcp",
+      "host": "",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UUvCfh7nwn4e3LTMiLCJhZGQiOiI1LjE4OC4xOTAuMjUyIiwicG9ydCI6MjIzMjQsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMSIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "ip": "5.188.190.252",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UUvCfh7nwn4e3LTMiLCJhZGQiOiI1LjE4OC4xOTAuMjUyIiwicG9ydCI6MjIzMjQsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMSIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
     },
     {
       "type": "vless",
@@ -36,46 +71,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "random",
-      "original": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-4",
       "ip": "141.98.118.70",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
-      "address": "five.paliss.ir",
-      "port": "443",
-      "id": "2e409cdc-d0c9-4fc0-b285-9371034b8002",
-      "name": "برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "107.161.174.170",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vmess",
-      "address": "5.188.190.252",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "🇹🇷 TR 1",
-      "network": "tcp",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UUvCfh7nwn4e3LTQiLCJhZGQiOiI1LjE4OC4xOTAuMjUyIiwicG9ydCI6MjIzMjQsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMSIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "5.188.190.252",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UUvCfh7nwn4e3LTQiLCJhZGQiOiI1LjE4OC4xOTAuMjUyIiwicG9ydCI6MjIzMjQsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMSIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-10T02:47:30.979913",
-  "count": 1,
+  "updated": "2026-06-10T11:35:24.337422",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "bypass.ch-gt-01.com",
+      "port": "8443",
+      "id": "4fdec620-73bb-40a7-a8d5-2570a59f1832",
+      "name": "☑➜چنلمون: Express_freevpn@",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "45.197.134.89",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
     {
       "type": "vless",
       "address": "185.18.250.252",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#vless-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#vless-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-7",
       "ip": "185.18.250.252",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#vless-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#vless-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-7"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T02:47:30.913258",
+  "updated": "2026-06-10T11:35:24.305966",
   "count": 7,
   "configs": [
     {
@@ -8,26 +8,12 @@
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "8zw5j9h",
-      "name": "🇦🇲@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#%F0%9F%87%A6%F0%9F%87%B2%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88",
+      "name": "🇨🇵@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#%F0%9F%87%A8%F0%9F%87%B5%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88",
       "ip": "54.36.174.134",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#%F0%9F%87%A6%F0%9F%87%B2%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88"
-    },
-    {
-      "type": "trojan",
-      "address": "64.176.65.85",
-      "port": "443",
-      "password": "iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf",
-      "name": "Free 84 @Outline_Vpn",
-      "sni": "",
-      "host": "",
-      "original": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "64.176.65.85",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#%F0%9F%87%A8%F0%9F%87%B5%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88"
     },
     {
       "type": "vless",
@@ -43,11 +29,25 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "original": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "128.204.223.94",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#vless-ws-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "trojan",
+      "address": "78.17.8.23",
+      "port": "443",
+      "password": "2bde1095-b5d2-4749-b57b-04876d3acd10",
+      "name": "🇵🇱 PL 1",
+      "sni": "platyscelis.duckdns.org",
+      "host": "",
+      "original": "trojan://2bde1095-b5d2-4749-b57b-04876d3acd10@78.17.8.23:443?security=tls&sni=platyscelis.duckdns.org&type=ws&path=%2fvpn#trojan-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "78.17.8.23",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://2bde1095-b5d2-4749-b57b-04876d3acd10@78.17.8.23:443?security=tls&sni=platyscelis.duckdns.org&type=ws&path=%2fvpn#trojan-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     },
     {
       "type": "tg",
@@ -89,17 +89,17 @@
     },
     {
       "type": "trojan",
-      "address": "78.17.8.23",
+      "address": "64.176.65.85",
       "port": "443",
-      "password": "2bde1095-b5d2-4749-b57b-04876d3acd10",
-      "name": "🇵🇱 PL 1",
-      "sni": "platyscelis.duckdns.org",
+      "password": "iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf",
+      "name": "Free 84 @Outline_Vpn",
+      "sni": "",
       "host": "",
-      "original": "trojan://2bde1095-b5d2-4749-b57b-04876d3acd10@78.17.8.23:443?security=tls&sni=platyscelis.duckdns.org&type=ws&path=%2fvpn#trojan-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7",
-      "ip": "78.17.8.23",
+      "original": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7",
+      "ip": "64.176.65.85",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://2bde1095-b5d2-4749-b57b-04876d3acd10@78.17.8.23:443?security=tls&sni=platyscelis.duckdns.org&type=ws&path=%2fvpn#trojan-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+      "rebuilt": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7"
     }
   ]
 }
