@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-09T17:57:16.142025",
-  "count": 1,
+  "updated": "2026-06-10T02:47:30.906664",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
       "address": "185.126.236.44",
       "port": "443",
       "password": "BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL",
-      "name": "برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩",
+      "name": "برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩",
       "sni": "www.mesaly.click",
       "host": "",
       "original": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.mesaly.click#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
@@ -15,6 +15,26 @@
       "country": "AT",
       "cdn": null,
       "rebuilt": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.mesaly.click#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "as.pink-perfect.ru",
+      "port": "443",
+      "id": "5d8fcd24-9634-4dd7-845c-3dc2d6291942",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "as.pink-perfect.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=as.pink-perfect.ru&fp=qq&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "147.45.41.86",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=as.pink-perfect.ru&fp=qq&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     }
   ]
 }

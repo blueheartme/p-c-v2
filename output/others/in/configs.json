@@ -1,21 +1,20 @@
 {
-  "updated": "2026-06-09T17:57:16.125795",
+  "updated": "2026-06-10T02:47:30.908955",
   "count": 4,
   "configs": [
     {
-      "type": "vmess",
-      "address": "172.232.103.186",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "🇮🇳 IN 10",
-      "network": "tcp",
-      "host": "Koma-YT.PAGeS.Dev",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1JTvCfh67wn4ezLTEiLCJhZGQiOiIxNzIuMjMyLjEwMy4xODYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiS29tYS1ZVC5QQUdlUy5EZXYiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3RyVGVsZWdyYW3wn4eo8J+HsytAV2FuZ0NhaTIiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "172.232.103.186",
+      "type": "trojan",
+      "address": "65.20.90.225",
+      "port": "443",
+      "password": "Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg",
+      "name": "🇮🇳 IN 8",
+      "sni": "www.sandbox-cloud.click",
+      "host": "",
+      "original": "trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "65.20.90.225",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1JTvCfh67wn4ezLTEiLCJhZGQiOiIxNzIuMjMyLjEwMy4xODYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiS29tYS1ZVC5QQUdlUy5EZXYiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3RyVGVsZWdyYW3wn4eo8J+HsytAV2FuZ0NhaTIiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     },
     {
       "type": "tg",
@@ -24,24 +23,10 @@
       "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
       "name": "",
       "original": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-      "ip": "77.93.136.232",
+      "ip": "77.93.136.248",
       "country": "IN",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d"
-    },
-    {
-      "type": "trojan",
-      "address": "65.20.90.225",
-      "port": "443",
-      "password": "Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg",
-      "name": "🇮🇳 IN 4",
-      "sni": "www.sandbox-cloud.click",
-      "host": "",
-      "original": "trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?sni=www.sandbox-cloud.click&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3",
-      "ip": "65.20.90.225",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?sni=www.sandbox-cloud.click&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     },
     {
       "type": "vmess",
@@ -52,11 +37,26 @@
       "network": "ws",
       "host": "152.67.8.205",
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy00IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ==",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0zIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ==",
       "ip": "152.67.8.205",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy00IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ=="
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0zIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ=="
+    },
+    {
+      "type": "vmess",
+      "address": "172.232.103.186",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "🇮🇳 IN 9",
+      "network": "tcp",
+      "host": "",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUlO8J+HrvCfh7MtNCIsImFkZCI6IjE3Mi4yMzIuMTAzLjE4NiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6ImNocm9tZSJ9",
+      "ip": "172.232.103.186",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUlO8J+HrvCfh7MtNCIsImFkZCI6IjE3Mi4yMzIuMTAzLjE4NiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6ImNocm9tZSJ9"
     }
   ]
 }
