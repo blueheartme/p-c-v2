@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-10T18:27:55.838589",
+  "updated": "2026-06-11T02:57:15.411669",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "185.215.184.95",
+      "address": "150.241.101.222",
       "port": "443",
-      "id": "91e120bc-159a-4390-b4e1-197b19602ea0",
-      "name": "Free 47 @Outline_Vpn",
+      "id": "749a5df1-2d12-45cf-80f3-f85ea6b2e405",
+      "name": "Telegram@ConfingV2RaayNG",
       "network": "tcp",
-      "sni": "sub.sbrf-cdn342.ru",
+      "sni": "google.com",
       "host": "",
-      "security": "tls",
+      "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-1",
-      "ip": "185.215.184.95",
+      "fingerprint": "random",
+      "original": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=random&insecure=1&allowInsecure=1&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "ip": "150.241.101.222",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+      "rebuilt": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=random&insecure=1&allowInsecure=1&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-2"
     }
   ]
 }
