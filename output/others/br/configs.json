@@ -1,22 +1,7 @@
 {
-  "updated": "2026-06-11T12:07:08.027101",
+  "updated": "2026-06-11T18:44:10.840358",
   "count": 2,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "172.233.17.76",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "🇧🇷 BR 1",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUJS8J+Hp/Cfh7ctMSIsImFkZCI6IjE3Mi4yMzMuMTcuNzYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIxIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6ImNocm9tZSJ9",
-      "ip": "172.233.17.76",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUJS8J+Hp/Cfh7ctMSIsImFkZCI6IjE3Mi4yMzMuMTcuNzYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIxIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6ImNocm9tZSJ9"
-    },
     {
       "type": "tg",
       "address": "hub.nowabst.net",
@@ -24,10 +9,22 @@
       "secret": "ee55aabc9752a9d9d379e02943cf8117956164732e78352e7275",
       "name": "",
       "original": "https://t.me/proxy?server=hub.nowabst.net&port=853&secret=ee55aabc9752a9d9d379e02943cf8117956164732e78352e7275",
-      "ip": "191.44.93.40",
+      "ip": "191.44.93.58",
       "country": "BR",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=hub.nowabst.net&port=853&secret=ee55aabc9752a9d9d379e02943cf8117956164732e78352e7275"
+    },
+    {
+      "type": "tg",
+      "address": "tg.nowabst.net",
+      "port": "853",
+      "secret": "eebfbfb8093b088269716ea5262d483e1d6164732e78352e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=tg.nowabst.net&port=853&secret=eebfbfb8093b088269716ea5262d483e1d6164732e78352e7275",
+      "ip": "191.44.93.59",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=tg.nowabst.net&port=853&secret=eebfbfb8093b088269716ea5262d483e1d6164732e78352e7275"
     }
   ]
 }

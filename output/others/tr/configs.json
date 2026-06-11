@@ -1,21 +1,18 @@
 {
-  "updated": "2026-06-11T12:07:08.030511",
+  "updated": "2026-06-11T18:44:10.842703",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "5.188.190.252",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "🇹🇷 TR 1",
-      "network": "tcp",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UUvCfh7nwn4e3LTEiLCJhZGQiOiI1LjE4OC4xOTAuMjUyIiwicG9ydCI6MjIzMjQsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMSIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "5.188.190.252",
+      "type": "tg",
+      "address": "193.187.132.172",
+      "port": "443",
+      "secret": "ee28beb3e68f1cbcf4d34720bc0e97ec9a7777772e636c6f7564666c6172652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=193.187.132.172&port=443&secret=ee28beb3e68f1cbcf4d34720bc0e97ec9a7777772e636c6f7564666c6172652e636f6d&@MPT_Proxy",
+      "ip": "193.187.132.172",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UUvCfh7nwn4e3LTEiLCJhZGQiOiI1LjE4OC4xOTAuMjUyIiwicG9ydCI6MjIzMjQsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMSIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "https://t.me/proxy?server=193.187.132.172&port=443&secret=ee28beb3e68f1cbcf4d34720bc0e97ec9a7777772e636c6f7564666c6172652e636f6d&@MPT_Proxy"
     }
   ]
 }

@@ -1,20 +1,48 @@
 {
-  "updated": "2026-06-11T12:07:08.116436",
-  "count": 1,
+  "updated": "2026-06-11T18:44:10.917527",
+  "count": 3,
   "configs": [
     {
       "type": "tg",
-      "address": "bazar1.prowa.ir",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "address": "91.217.166.41",
+      "port": "8443",
+      "secret": "1603010200010001fc030386e24c3add",
       "name": "",
-      "original": "https://t.me/proxy?server=bazar1.prowa.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@MPT_Proxy",
-      "ip": "91.217.166.32",
+      "original": "https://t.me/proxy?server=91.217.166.41&port=8443&secret=1603010200010001fc030386e24c3add&@MPT_Proxy",
+      "ip": "91.217.166.41",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "https://t.me/proxy?server=bazar1.prowa.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@MPT_Proxy"
+      "rebuilt": "https://t.me/proxy?server=91.217.166.41&port=8443&secret=1603010200010001fc030386e24c3add&@MPT_Proxy"
+    },
+    {
+      "type": "tg",
+      "address": "91.217.166.40",
+      "port": "8443",
+      "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D00000000000000000000000000000000",
+      "name": "",
+      "original": "https://t.me/proxy?server=91.217.166.40&port=8443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D00000000000000000000000000000000&@MPT_Proxy",
+      "ip": "91.217.166.40",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "https://t.me/proxy?server=91.217.166.40&port=8443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D00000000000000000000000000000000&@MPT_Proxy"
+    },
+    {
+      "type": "tg",
+      "address": "185.231.180.43",
+      "port": "80",
+      "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=185.231.180.43&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+      "ip": "185.231.180.43",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "https://t.me/proxy?server=185.231.180.43&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d"
     }
   ]
 }
