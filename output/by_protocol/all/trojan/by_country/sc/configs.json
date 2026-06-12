@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T02:54:08.910210",
-  "count": 1,
+  "updated": "2026-06-12T11:40:45.300684",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -10,11 +10,25 @@
       "name": "Free 95 @Outline_Vpn",
       "sni": "api24-normal.tiktokv.com.cyylr.eu.cc",
       "host": "api24-normal.tiktokv.com.cyylr.eu.cc",
-      "original": "trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-1",
+      "original": "trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-12",
       "ip": "45.130.125.0",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-1"
+      "rebuilt": "trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-12"
+    },
+    {
+      "type": "trojan",
+      "address": "45.130.125.76",
+      "port": "443",
+      "password": "humanity",
+      "name": "@",
+      "sni": "www.calmlunch.com",
+      "host": "www.calmlunch.com",
+      "original": "trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-16",
+      "ip": "45.130.125.76",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-16"
     }
   ]
 }

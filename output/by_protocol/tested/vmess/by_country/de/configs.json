@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T02:54:08.929821",
-  "count": 4,
+  "updated": "2026-06-12T11:40:45.320434",
+  "count": 2,
   "configs": [
     {
       "type": "vmess",
@@ -11,64 +11,30 @@
       "network": "ws",
       "host": "de5.niekotin.de",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiJkZTUubmlla290aW4uZGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlNS5uaWVrb3Rpbi5kZSIsImlkIjoiODViZjU4MDEtNDY1OC00NDFjLWEyZTUtODQyYzZjNzFhNTIxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1ERfCfh6nwn4eqLTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
+      "original": "vmess://eyJhZGQiOiJkZTUubmlla290aW4uZGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlNS5uaWVrb3Rpbi5kZSIsImlkIjoiODViZjU4MDEtNDY1OC00NDFjLWEyZTUtODQyYzZjNzFhNTIxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1ERfCfh6nwn4eqLTM2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
       "ip": "135.125.159.16",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiJkZTUubmlla290aW4uZGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlNS5uaWVrb3Rpbi5kZSIsImlkIjoiODViZjU4MDEtNDY1OC00NDFjLWEyZTUtODQyYzZjNzFhNTIxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1ERfCfh6nwn4eqLTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
-    },
-    {
-      "type": "vmess",
-      "address": "91.107.154.222",
-      "port": "8087",
-      "id": "472754f2-db4f-46d5-b41c-7611231a3248",
-      "name": "vmess 8087 hles3-yfte9f9833",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiI5MS4xMDcuMTU0LjIyMiIsImlkIjoiNDcyNzU0ZjItZGI0Zi00NmQ1LWI0MWMtNzYxMTIzMWEzMjQ4IiwibmV0IjoidGNwIiwicG9ydCI6ODA4NywicHMiOiJ2bWVzcy10Y3AtREXwn4ep8J+Hqi04Iiwic2N5IjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "ip": "91.107.154.222",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiI5MS4xMDcuMTU0LjIyMiIsImlkIjoiNDcyNzU0ZjItZGI0Zi00NmQ1LWI0MWMtNzYxMTIzMWEzMjQ4IiwibmV0IjoidGNwIiwicG9ydCI6ODA4NywicHMiOiJ2bWVzcy10Y3AtREXwn4ep8J+Hqi04Iiwic2N5IjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
-    },
-    {
-      "type": "vmess",
-      "address": "91.107.154.222",
-      "port": "8087",
-      "id": "bc21a34b-664c-43ec-961e-5194fc942dbb",
-      "name": "vmess 8087 hles3-zyeouooj1z",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiI5MS4xMDcuMTU0LjIyMiIsImlkIjoiYmMyMWEzNGItNjY0Yy00M2VjLTk2MWUtNTE5NGZjOTQyZGJiIiwibmV0IjoidGNwIiwicG9ydCI6ODA4NywicHMiOiJ2bWVzcy10Y3AtREXwn4ep8J+Hqi0xNSIsInNjeSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
-      "ip": "91.107.154.222",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiI5MS4xMDcuMTU0LjIyMiIsImlkIjoiYmMyMWEzNGItNjY0Yy00M2VjLTk2MWUtNTE5NGZjOTQyZGJiIiwibmV0IjoidGNwIiwicG9ydCI6ODA4NywicHMiOiJ2bWVzcy10Y3AtREXwn4ep8J+Hqi0xNSIsInNjeSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+      "rebuilt": "vmess://eyJhZGQiOiJkZTUubmlla290aW4uZGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlNS5uaWVrb3Rpbi5kZSIsImlkIjoiODViZjU4MDEtNDY1OC00NDFjLWEyZTUtODQyYzZjNzFhNTIxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1ERfCfh6nwn4eqLTM2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
     },
     {
       "type": "vmess",
       "address": "de5.taskflowhub.org",
       "port": "2053",
       "id": "ca58b165-0f7d-49aa-9fae-a017e8a0f884",
-      "name": "برای اتصال دائمی جوین شو𓄂ꪰ𓆃 TelegramID ⌲Express_freevpn 🪩",
+      "name": "@ConfingV2RaayNG",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhNThiMTY1LTBmN2QtNDlhYS05ZmFlLWEwMTdlOGEwZjg4NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLURF8J+HqfCfh6otMjUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "original": "vmess://eyJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhNThiMTY1LTBmN2QtNDlhYS05ZmFlLWEwMTdlOGEwZjg4NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLURF8J+HqfCfh6otNDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
       "ip": "162.19.254.232",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhNThiMTY1LTBmN2QtNDlhYS05ZmFlLWEwMTdlOGEwZjg4NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLURF8J+HqfCfh6otMjUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+      "rebuilt": "vmess://eyJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhNThiMTY1LTBmN2QtNDlhYS05ZmFlLWEwMTdlOGEwZjg4NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLURF8J+HqfCfh6otNDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
     }
   ]
 }
