@@ -1,18 +1,26 @@
 {
-  "updated": "2026-06-11T12:07:08.032276",
+  "updated": "2026-06-12T18:02:42.967993",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "double.nolags.pw",
-      "port": "443",
-      "secret": "dd96d0f04ace50bb54a492c1415bfff1e5",
-      "name": "",
-      "original": "https://t.me/proxy?server=double.nolags.pw&port=443&secret=dd96d0f04ace50bb54a492c1415bfff1e5&@MPT_Proxy",
-      "ip": "34.51.235.161",
+      "type": "vless",
+      "address": "46.246.97.218",
+      "port": "2052",
+      "id": "037b730a-ea28-5191-ad7c-3424be5efe2e",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "46.246.97.218",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=double.nolags.pw&port=443&secret=dd96d0f04ace50bb54a492c1415bfff1e5&@MPT_Proxy"
+      "rebuilt": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }

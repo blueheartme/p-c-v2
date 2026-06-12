@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-12T11:40:45.270518",
+  "updated": "2026-06-12T18:02:43.000160",
   "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "2.26.88.109",
-      "port": "443",
-      "id": "749a5df1-2d12-45cf-80f3-f85ea6b2e405",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "google.com",
+      "address": "65.109.248.144",
+      "port": "5742",
+      "id": "1970926e-e41b-44e2-8f1e-e2eacb985f57",
+      "name": "NightPing🇫🇮",
+      "network": "grpc",
+      "sni": "play.google.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-FI%F0%9F%87%AB%F0%9F%87%AE-23",
-      "ip": "2.26.88.109",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://1970926e-e41b-44e2-8f1e-e2eacb985f57@65.109.248.144:5742?mode=multi&security=reality&encryption=none&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&fp=firefox&spx=%2FjVErh2En06eEq0Q&type=grpc&sni=play.google.com&sid=1d9b1242d5#vless-grpc-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-15",
+      "ip": "65.109.248.144",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-FI%F0%9F%87%AB%F0%9F%87%AE-23"
+      "rebuilt": "vless://1970926e-e41b-44e2-8f1e-e2eacb985f57@65.109.248.144:5742?mode=multi&security=reality&encryption=none&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&fp=firefox&spx=%2FjVErh2En06eEq0Q&type=grpc&sni=play.google.com&sid=1d9b1242d5#vless-grpc-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-15"
     },
     {
       "type": "vless",
@@ -36,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-44",
+      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-19",
       "ip": "171.22.114.248",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-44"
+      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-19"
     }
   ]
 }

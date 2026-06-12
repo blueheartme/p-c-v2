@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T11:40:45.246206",
-  "count": 1,
+  "updated": "2026-06-12T18:02:42.968458",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,18 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+    },
+    {
+      "type": "tg",
+      "address": "95.182.80.19",
+      "port": "443",
+      "secret": "7t3_BeRieezZ_ToooooSH_93ZWIuYmFsZS5haQ==",
+      "name": "",
+      "original": "https://t.me/proxy?server=95.182.80.19&port=443&secret=7t3_BeRieezZ_ToooooSH_93ZWIuYmFsZS5haQ==&@MPT_Proxy",
+      "ip": "95.182.80.19",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=95.182.80.19&port=443&secret=7t3_BeRieezZ_ToooooSH_93ZWIuYmFsZS5haQ==&@MPT_Proxy"
     }
   ]
 }

@@ -1,78 +1,7 @@
 {
-  "updated": "2026-06-12T11:40:45.233681",
-  "count": 6,
+  "updated": "2026-06-12T18:02:42.970184",
+  "count": 3,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "43.198.203.3",
-      "port": "29642",
-      "password": "d02e3bb7e6b3333e818d36866d40de6e",
-      "name": "🇭🇰 HK 2",
-      "sni": "www.nintendogames.net",
-      "host": "",
-      "original": "trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:29642?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "43.198.203.3",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:29642?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
-    {
-      "type": "vmess",
-      "address": "213.156.141.52",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "🇭🇰 HK 1",
-      "network": "tcp",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1IS/Cfh63wn4ewLTIiLCJhZGQiOiIyMTMuMTU2LjE0MS41MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "213.156.141.52",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1IS/Cfh63wn4ewLTIiLCJhZGQiOiIyMTMuMTU2LjE0MS41MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
-    },
-    {
-      "type": "trojan",
-      "address": "18.166.223.23",
-      "port": "17005",
-      "password": "d02e3bb7e6b3333e818d36866d40de6e",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "sni": "www.nintendogames.net",
-      "host": "",
-      "original": "trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "18.166.223.23",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
-    },
-    {
-      "type": "trojan",
-      "address": "219.79.214.159",
-      "port": "443",
-      "password": "BxceQaOe",
-      "name": "Hong Kong Netvigator",
-      "sni": "t.me%2Fripaojiedian",
-      "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
-      "ip": "219.79.214.159",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
-    },
-    {
-      "type": "trojan",
-      "address": "43.198.203.3",
-      "port": "49277",
-      "password": "d02e3bb7e6b3333e818d36866d40de6e",
-      "name": "🇭🇰 HK 4",
-      "sni": "www.nintendogames.net",
-      "host": "",
-      "original": "trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:49277?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5",
-      "ip": "43.198.203.3",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:49277?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5"
-    },
     {
       "type": "vless",
       "address": "27.50.48.49",
@@ -87,11 +16,39 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6",
+      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "27.50.48.49",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6"
+      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "trojan",
+      "address": "18.166.223.23",
+      "port": "17005",
+      "password": "d02e3bb7e6b3333e818d36866d40de6e",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "sni": "www.nintendogames.net",
+      "host": "",
+      "original": "trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "18.166.223.23",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
+      "type": "trojan",
+      "address": "219.79.214.159",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "Hong Kong Netvigator",
+      "sni": "t.me%2Fripaojiedian",
+      "host": "",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "219.79.214.159",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }

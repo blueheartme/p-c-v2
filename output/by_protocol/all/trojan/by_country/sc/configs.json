@@ -1,21 +1,7 @@
 {
-  "updated": "2026-06-12T11:40:45.300684",
+  "updated": "2026-06-12T18:02:42.986440",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "45.130.125.0",
-      "port": "443",
-      "password": "Config0plus",
-      "name": "Free 95 @Outline_Vpn",
-      "sni": "api24-normal.tiktokv.com.cyylr.eu.cc",
-      "host": "api24-normal.tiktokv.com.cyylr.eu.cc",
-      "original": "trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-12",
-      "ip": "45.130.125.0",
-      "country": "SC",
-      "cdn": null,
-      "rebuilt": "trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-12"
-    },
     {
       "type": "trojan",
       "address": "45.130.125.76",
@@ -24,11 +10,25 @@
       "name": "@",
       "sni": "www.calmlunch.com",
       "host": "www.calmlunch.com",
-      "original": "trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-16",
+      "original": "trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-14",
       "ip": "45.130.125.76",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-16"
+      "rebuilt": "trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-14"
+    },
+    {
+      "type": "trojan",
+      "address": "45.130.125.0",
+      "port": "443",
+      "password": "Config0plus",
+      "name": "Free 95 @Outline_Vpn",
+      "sni": "api24-normal.tiktokv.com.cyylr.eu.cc",
+      "host": "api24-normal.tiktokv.com.cyylr.eu.cc",
+      "original": "trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-15",
+      "ip": "45.130.125.0",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#trojan-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-15"
     }
   ]
 }

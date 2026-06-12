@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-11T02:57:15.419665",
+  "updated": "2026-06-12T18:02:43.000577",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "api.yandex-dev.online",
-      "port": "443",
-      "id": "c3d866fa-e679-4b10-9bb1-e4075ef4a1cd",
+      "address": "45.82.245.173",
+      "port": "80",
+      "id": "1dbfb57c-164e-47c5-9355-8e0c429e7b99",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "api.yandex-dev.online",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "network": "ws",
+      "sni": "",
+      "host": "---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net",
+      "security": "none",
+      "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "qq",
-      "original": "vless://c3d866fa-e679-4b10-9bb1-e4075ef4a1cd@api.yandex-dev.online:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api.yandex-dev.online&sid=122218f4c1f172e4#vless-xtls-rprx-vision-tcp-reality-qq-BR%F0%9F%87%A7%F0%9F%87%B7-3",
-      "ip": "189.74.115.34",
+      "fingerprint": "",
+      "original": "vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "ip": "45.82.245.173",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vless://c3d866fa-e679-4b10-9bb1-e4075ef4a1cd@api.yandex-dev.online:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api.yandex-dev.online&sid=122218f4c1f172e4#vless-xtls-rprx-vision-tcp-reality-qq-BR%F0%9F%87%A7%F0%9F%87%B7-3"
+      "rebuilt": "vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1"
     }
   ]
 }
