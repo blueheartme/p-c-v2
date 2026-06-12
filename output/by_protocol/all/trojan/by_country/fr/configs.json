@@ -1,34 +1,34 @@
 {
-  "updated": "2026-06-11T18:44:10.892536",
-  "count": 12,
+  "updated": "2026-06-12T02:54:08.909140",
+  "count": 14,
   "configs": [
     {
       "type": "trojan",
-      "address": "15.236.71.30",
-      "port": "22223",
-      "password": "telegram-id-directvpn",
-      "name": "OurChannel",
+      "address": "52.47.70.99",
+      "port": "22222",
+      "password": "telegram-id-privatevpns",
+      "name": "(S104)",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-directvpn@15.236.71.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-2",
-      "ip": "15.236.71.30",
+      "original": "trojan://telegram-id-privatevpns@52.47.70.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-1",
+      "ip": "52.47.70.99",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-directvpn@15.236.71.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-2"
+      "rebuilt": "trojan://telegram-id-privatevpns@52.47.70.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-1"
     },
     {
       "type": "trojan",
-      "address": "13.37.194.137",
-      "port": "22223",
-      "password": "telegram-id-directvpn",
-      "name": "OurChannel",
+      "address": "13.38.194.86",
+      "port": "22222",
+      "password": "telegram-id-privatevpns",
+      "name": "(S104)",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-directvpn@13.37.194.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-3",
-      "ip": "13.37.194.137",
+      "original": "trojan://telegram-id-privatevpns@13.38.194.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-5",
+      "ip": "13.38.194.86",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-directvpn@13.37.194.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-3"
+      "rebuilt": "trojan://telegram-id-privatevpns@13.38.194.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-5"
     },
     {
       "type": "trojan",
@@ -38,11 +38,11 @@
       "name": "(S103)",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@13.37.194.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-5",
+      "original": "trojan://telegram-id-privatevpns@13.37.194.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-6",
       "ip": "13.37.194.137",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@13.37.194.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-5"
+      "rebuilt": "trojan://telegram-id-privatevpns@13.37.194.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-6"
     },
     {
       "type": "trojan",
@@ -52,11 +52,25 @@
       "name": "(S104)",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@15.237.134.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-8",
+      "original": "trojan://telegram-id-privatevpns@15.237.134.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-7",
       "ip": "15.237.134.240",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@15.237.134.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-8"
+      "rebuilt": "trojan://telegram-id-privatevpns@15.237.134.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-7"
+    },
+    {
+      "type": "trojan",
+      "address": "15.236.71.30",
+      "port": "22223",
+      "password": "telegram-id-directvpn",
+      "name": "OurChannel",
+      "sni": "trojan.burgerip.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-directvpn@15.236.71.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-8",
+      "ip": "15.236.71.30",
+      "country": "FR",
+      "cdn": null,
+      "rebuilt": "trojan://telegram-id-directvpn@15.236.71.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-8"
     },
     {
       "type": "trojan",
@@ -66,39 +80,11 @@
       "name": "(S103)",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@13.37.43.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-9",
+      "original": "trojan://telegram-id-privatevpns@13.37.43.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-10",
       "ip": "13.37.43.57",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@13.37.43.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-9"
-    },
-    {
-      "type": "trojan",
-      "address": "52.47.70.99",
-      "port": "22222",
-      "password": "telegram-id-privatevpns",
-      "name": "(S104)",
-      "sni": "trojan.burgerip.co.uk",
-      "host": "",
-      "original": "trojan://telegram-id-privatevpns@52.47.70.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-10",
-      "ip": "52.47.70.99",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@52.47.70.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-10"
-    },
-    {
-      "type": "trojan",
-      "address": "13.38.194.86",
-      "port": "22223",
-      "password": "telegram-id-directvpn",
-      "name": "OurChannel",
-      "sni": "trojan.burgerip.co.uk",
-      "host": "",
-      "original": "trojan://telegram-id-directvpn@13.38.194.86:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-11",
-      "ip": "13.38.194.86",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "trojan://telegram-id-directvpn@13.38.194.86:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-11"
+      "rebuilt": "trojan://telegram-id-privatevpns@13.37.43.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-10"
     },
     {
       "type": "trojan",
@@ -108,11 +94,25 @@
       "name": "OurChannel",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-directvpn@15.237.134.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-13",
+      "original": "trojan://telegram-id-directvpn@15.237.134.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-11",
       "ip": "15.237.134.240",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-directvpn@15.237.134.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-13"
+      "rebuilt": "trojan://telegram-id-directvpn@15.237.134.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-11"
+    },
+    {
+      "type": "trojan",
+      "address": "52.47.178.252",
+      "port": "22222",
+      "password": "telegram-id-privatevpns",
+      "name": "(S104)",
+      "sni": "trojan.burgerip.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-privatevpns@52.47.178.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-12",
+      "ip": "52.47.178.252",
+      "country": "FR",
+      "cdn": null,
+      "rebuilt": "trojan://telegram-id-privatevpns@52.47.178.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-12"
     },
     {
       "type": "trojan",
@@ -122,11 +122,53 @@
       "name": "(S103)",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@15.236.71.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-14",
+      "original": "trojan://telegram-id-privatevpns@15.236.71.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-15",
       "ip": "15.236.71.30",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@15.236.71.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-14"
+      "rebuilt": "trojan://telegram-id-privatevpns@15.236.71.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-15"
+    },
+    {
+      "type": "trojan",
+      "address": "13.38.194.86",
+      "port": "22223",
+      "password": "telegram-id-directvpn",
+      "name": "OurChannel",
+      "sni": "trojan.burgerip.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-directvpn@13.38.194.86:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-16",
+      "ip": "13.38.194.86",
+      "country": "FR",
+      "cdn": null,
+      "rebuilt": "trojan://telegram-id-directvpn@13.38.194.86:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-16"
+    },
+    {
+      "type": "trojan",
+      "address": "52.47.178.252",
+      "port": "22223",
+      "password": "telegram-id-directvpn",
+      "name": "OurChannel",
+      "sni": "trojan.burgerip.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-directvpn@52.47.178.252:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-18",
+      "ip": "52.47.178.252",
+      "country": "FR",
+      "cdn": null,
+      "rebuilt": "trojan://telegram-id-directvpn@52.47.178.252:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-18"
+    },
+    {
+      "type": "trojan",
+      "address": "51.44.149.159",
+      "port": "22222",
+      "password": "telegram-id-privatevpns",
+      "name": "(S103)",
+      "sni": "trojan.burgerip.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-privatevpns@51.44.149.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-19",
+      "ip": "51.44.149.159",
+      "country": "FR",
+      "cdn": null,
+      "rebuilt": "trojan://telegram-id-privatevpns@51.44.149.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-19"
     },
     {
       "type": "trojan",
@@ -136,39 +178,25 @@
       "name": "OurChannel",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-directvpn@51.44.149.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-16",
+      "original": "trojan://telegram-id-directvpn@51.44.149.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-20",
       "ip": "51.44.149.159",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-directvpn@51.44.149.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-16"
+      "rebuilt": "trojan://telegram-id-directvpn@51.44.149.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-20"
     },
     {
       "type": "trojan",
-      "address": "51.44.146.0",
-      "port": "22222",
-      "password": "telegram-id-privatevpns",
-      "name": "(S104)",
+      "address": "13.37.194.137",
+      "port": "22223",
+      "password": "telegram-id-directvpn",
+      "name": "OurChannel",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@51.44.146.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-17",
-      "ip": "51.44.146.0",
+      "original": "trojan://telegram-id-directvpn@13.37.194.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-21",
+      "ip": "13.37.194.137",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@51.44.146.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-17"
-    },
-    {
-      "type": "trojan",
-      "address": "13.38.194.86",
-      "port": "22222",
-      "password": "telegram-id-privatevpns",
-      "name": "(S104)",
-      "sni": "trojan.burgerip.co.uk",
-      "host": "",
-      "original": "trojan://telegram-id-privatevpns@13.38.194.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-20",
-      "ip": "13.38.194.86",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@13.38.194.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-20"
+      "rebuilt": "trojan://telegram-id-directvpn@13.37.194.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-21"
     }
   ]
 }
