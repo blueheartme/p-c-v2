@@ -1,23 +1,7 @@
 {
-  "updated": "2026-06-13T02:46:37.034854",
+  "updated": "2026-06-13T10:24:33.924035",
   "count": 3,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "188.114.97.6",
-      "port": "443",
-      "password": "mitivpn",
-      "name": "Channel@ConfingV2RaayNG",
-      "sni": "global.fastly.com.mitivpn-a.site",
-      "host": "sdasdfgv.global.ssl.fastly.net.mitivpn-a.site",
-      "original": "trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&sni=global.fastly.com.mitivpn-a.site&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "188.114.97.6",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&sni=global.fastly.com.mitivpn-a.site&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
-    },
     {
       "type": "trojan",
       "address": "188.114.97.6",
@@ -26,29 +10,45 @@
       "name": "Channel@ConfingV2RaayNG",
       "sni": "www.calmlunch.com",
       "host": "www.calmlunch.com",
-      "original": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-12",
+      "original": "trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
       "ip": "188.114.97.6",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-12"
+      "rebuilt": "trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+    },
+    {
+      "type": "trojan",
+      "address": "188.114.97.6",
+      "port": "443",
+      "password": "mitivpn",
+      "name": "@filembad",
+      "sni": "www.ssl.global.digi.my.mitivpn.xyz",
+      "host": "eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz",
+      "original": "trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=www.ssl.global.digi.my.mitivpn.xyz#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "188.114.97.6",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=www.ssl.global.digi.my.mitivpn.xyz#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     },
     {
       "type": "trojan",
       "address": "185.231.112.217",
       "port": "40443",
       "password": "humanity",
-      "name": "☑➜چنلمون: Express_freevpn@",
+      "name": "@filembad",
       "sni": "www.creationlong.org",
       "host": "www.creationlong.org",
-      "original": "trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#trojan-ws-tls-IR%F0%9F%87%AE%F0%9F%87%B7-15",
+      "original": "trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#trojan-ws-tls-IR%F0%9F%87%AE%F0%9F%87%B7-12",
       "ip": "185.231.112.217",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#trojan-ws-tls-IR%F0%9F%87%AE%F0%9F%87%B7-15"
+      "rebuilt": "trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#trojan-ws-tls-IR%F0%9F%87%AE%F0%9F%87%B7-12"
     }
   ]
 }
