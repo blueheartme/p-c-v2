@@ -1,46 +1,26 @@
 {
-  "updated": "2026-06-10T18:27:55.837400",
-  "count": 2,
+  "updated": "2026-06-13T17:17:15.298178",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "five.paliss.ir",
+      "address": "tr.go-vpn.club",
       "port": "443",
-      "id": "2e409cdc-d0c9-4fc0-b285-9371034b8002",
-      "name": "برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩",
+      "id": "870d3183-17a1-4a87-9021-e12e3ac2939f",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
       "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "107.161.174.170",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "141.98.118.70",
-      "port": "443",
-      "id": "de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "www.google.com",
+      "sni": "gateway.icloud.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "random",
-      "original": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "141.98.118.70",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "185.181.209.209",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     }
   ]
 }
