@@ -1,13 +1,33 @@
 {
-  "updated": "2026-06-13T17:17:15.248955",
-  "count": 1,
+  "updated": "2026-06-14T02:58:39.930415",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "37.140.242.53",
+      "port": "85",
+      "id": "4e1d78b7-7e9c-4cc7-a390-43e95f1c711e",
+      "name": "برای اتصال دائمی جوین شو⛩️ TelegramID ⌲Express_freevpn 🪩",
+      "network": "xhttp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://4e1d78b7-7e9c-4cc7-a390-43e95f1c711e@37.140.242.53:85?mode=auto&path=%2Fhh&security=none&encryption=none&type=xhttp#vless-xhttp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "37.140.242.53",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://4e1d78b7-7e9c-4cc7-a390-43e95f1c711e@37.140.242.53:85?mode=auto&path=%2Fhh&security=none&encryption=none&type=xhttp#vless-xhttp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
     {
       "type": "vless",
       "address": "tr.go-vpn.club",
       "port": "443",
       "id": "870d3183-17a1-4a87-9021-e12e3ac2939f",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "name": "برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩",
       "network": "tcp",
       "sni": "gateway.icloud.com",
       "host": "",
@@ -16,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "185.181.209.209",
+      "original": "vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "185.181.209.206",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vless",
+      "address": "37.140.242.53",
+      "port": "8080",
+      "id": "4e1d78b7-7e9c-4cc7-a390-43e95f1c711e",
+      "name": "برای اتصال دائمی جوین شو⛩️ TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://4e1d78b7-7e9c-4cc7-a390-43e95f1c711e@37.140.242.53:8080?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "37.140.242.53",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://4e1d78b7-7e9c-4cc7-a390-43e95f1c711e@37.140.242.53:8080?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }
