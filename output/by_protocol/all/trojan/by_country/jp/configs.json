@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-14T02:58:39.990860",
+  "updated": "2026-06-14T10:47:01.845784",
   "count": 4,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "aa.ccmusic.jp",
+      "port": "443",
+      "password": "tsuchiya",
+      "name": "🇯🇵 JP 4",
+      "sni": "aa.ccmusic.jp",
+      "host": "",
+      "original": "trojan://tsuchiya@aa.ccmusic.jp:443?sni=aa.ccmusic.jp&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "ip": "161.34.39.108",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://tsuchiya@aa.ccmusic.jp:443?sni=aa.ccmusic.jp&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+    },
     {
       "type": "trojan",
       "address": "kuame.missionsec.us",
@@ -18,31 +32,17 @@
     },
     {
       "type": "trojan",
-      "address": "aa.ccmusic.jp",
-      "port": "443",
-      "password": "tsuchiya",
-      "name": "🇯🇵 JP 5",
-      "sni": "",
-      "host": "",
-      "original": "trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3",
-      "ip": "161.34.39.108",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3"
-    },
-    {
-      "type": "trojan",
       "address": "161.34.39.108",
       "port": "443",
       "password": "tsuchiya",
-      "name": "🇯🇵 JP 2",
+      "name": "🇯🇵 JP 1",
       "sni": "aa.ccmusic.jp",
       "host": "",
-      "original": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4",
+      "original": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3",
       "ip": "161.34.39.108",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4"
+      "rebuilt": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3"
     },
     {
       "type": "trojan",
