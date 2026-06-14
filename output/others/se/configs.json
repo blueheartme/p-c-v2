@@ -1,17 +1,49 @@
 {
-  "updated": "2026-06-14T10:47:01.806225",
-  "count": 1,
+  "updated": "2026-06-14T17:15:37.453603",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "46.246.97.218",
+      "port": "2052",
+      "id": "037b730a-ea28-5191-ad7c-3424be5efe2e",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "46.246.97.218",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
     {
       "type": "hysteria2",
       "address": "31.22.91.243",
       "port": "443",
-      "name": "@filembad",
-      "original": "hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?sni=se.esimpson.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=EsimObfs_9mK2x7#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "original": "hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-2",
       "ip": "31.22.91.243",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?sni=se.esimpson.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=EsimObfs_9mK2x7#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "tg",
+      "address": "70.34.201.97",
+      "port": "443",
+      "secret": "6093c4c86fbf5ef0dba78281d21b9f28",
+      "name": "",
+      "original": "https://t.me/proxy?server=70.34.201.97&port=443&secret=6093c4c86fbf5ef0dba78281d21b9f28&@MPT_Proxy",
+      "ip": "70.34.201.97",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=70.34.201.97&port=443&secret=6093c4c86fbf5ef0dba78281d21b9f28&@MPT_Proxy"
     }
   ]
 }

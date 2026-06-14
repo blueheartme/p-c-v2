@@ -1,26 +1,21 @@
 {
-  "updated": "2026-06-12T18:02:42.953576",
+  "updated": "2026-06-14T17:15:37.454556",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.82.245.173",
-      "port": "80",
-      "id": "1dbfb57c-164e-47c5-9355-8e0c429e7b99",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "45.82.245.173",
+      "type": "vmess",
+      "address": "172.233.17.76",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "🇧🇷 BR 1",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUJS8J+Hp/Cfh7ctMSIsImFkZCI6IjE3Mi4yMzMuMTcuNzYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "172.233.17.76",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUJS8J+Hp/Cfh7ctMSIsImFkZCI6IjE3Mi4yMzMuMTcuNzYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     }
   ]
 }
