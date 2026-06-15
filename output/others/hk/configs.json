@@ -1,20 +1,26 @@
 {
-  "updated": "2026-06-15T03:31:54.969815",
+  "updated": "2026-06-15T13:50:13.661078",
   "count": 4,
   "configs": [
     {
-      "type": "trojan",
-      "address": "18.166.223.23",
-      "port": "17005",
-      "password": "d02e3bb7e6b3333e818d36866d40de6e",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "sni": "www.nintendogames.net",
-      "host": "",
-      "original": "trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "18.166.223.23",
+      "type": "vless",
+      "address": "27.50.48.49",
+      "port": "443",
+      "id": "228639b0-48de-4162-a818-d5651ee297b3",
+      "name": "Free 73 @Outline_Vpn",
+      "network": "ws",
+      "sni": "investors.spotify.com.cyylr.eu.cc",
+      "host": "investors.spotify.com.cyylr.eu.cc",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "27.50.48.49",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "tg",
@@ -23,7 +29,7 @@
       "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
       "name": "",
       "original": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-      "ip": "77.93.136.239",
+      "ip": "77.93.136.231",
       "country": "HK",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d"
@@ -43,24 +49,18 @@
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     },
     {
-      "type": "vless",
-      "address": "27.50.48.49",
-      "port": "443",
-      "id": "228639b0-48de-4162-a818-d5651ee297b3",
-      "name": "Free 73 @Outline_Vpn",
-      "network": "ws",
-      "sni": "investors.spotify.com.cyylr.eu.cc",
-      "host": "investors.spotify.com.cyylr.eu.cc",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4",
-      "ip": "27.50.48.49",
+      "type": "trojan",
+      "address": "18.166.223.23",
+      "port": "17005",
+      "password": "d02e3bb7e6b3333e818d36866d40de6e",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "sni": "www.nintendogames.net",
+      "host": "",
+      "original": "trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "18.166.223.23",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+      "rebuilt": "trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }

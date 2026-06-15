@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-07T17:09:54.928161",
+  "updated": "2026-06-15T13:50:13.699376",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "31.43.179.111",
-      "port": "8443",
-      "id": "70a719c5-663e-4186-a32d-29a3f6361a72",
-      "name": "³🇩🇪 @irshum2(تلگرام)",
-      "network": "ws",
-      "sni": "aFaRiNbEsHoMa.X-uPlOaD.oRg",
-      "host": "aFaRiNbEsHoMa.X-uPlOaD.oRg",
-      "security": "tls",
+      "address": "91.224.74.160",
+      "port": "33040",
+      "id": "f46c7524-ddd2-4e55-9f2f-d54c58cfd093",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.amd.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://70a719c5-663e-4186-a32d-29a3f6361a72@31.43.179.111:8443?path=%2Fws&security=tls&encryption=none&insecure=0&host=aFaRiNbEsHoMa.X-uPlOaD.oRg&type=ws&allowInsecure=0&sni=aFaRiNbEsHoMa.X-uPlOaD.oRg#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "31.43.179.111",
+      "fingerprint": "chrome",
+      "original": "vless://f46c7524-ddd2-4e55-9f2f-d54c58cfd093@91.224.74.160:33040?encryption=none&fp=chrome&pbk=qkNG-YnEDpsFr_H66k8EZ0pqRW_epcvky5DfkNFDS3w&security=reality&sid=dadf4cb3b9&sni=www.amd.com&spx=%2F2KBe8WARvX0Y71y&type=tcp#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "91.224.74.160",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://70a719c5-663e-4186-a32d-29a3f6361a72@31.43.179.111:8443?path=%2Fws&security=tls&encryption=none&insecure=0&host=aFaRiNbEsHoMa.X-uPlOaD.oRg&type=ws&allowInsecure=0&sni=aFaRiNbEsHoMa.X-uPlOaD.oRg#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vless://f46c7524-ddd2-4e55-9f2f-d54c58cfd093@91.224.74.160:33040?encryption=none&fp=chrome&pbk=qkNG-YnEDpsFr_H66k8EZ0pqRW_epcvky5DfkNFDS3w&security=reality&sid=dadf4cb3b9&sni=www.amd.com&spx=%2F2KBe8WARvX0Y71y&type=tcp#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }

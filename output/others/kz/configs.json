@@ -1,20 +1,26 @@
 {
-  "updated": "2026-06-14T10:47:01.798829",
+  "updated": "2026-06-15T13:50:13.667407",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "45.82.14.144",
-      "port": "2025",
-      "password": "vpn",
-      "name": "🇰🇿 KZ 1",
-      "sni": "",
-      "host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
-      "original": "trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "45.82.14.144",
+      "type": "vless",
+      "address": "91.224.74.160",
+      "port": "33040",
+      "id": "f46c7524-ddd2-4e55-9f2f-d54c58cfd093",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.amd.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://f46c7524-ddd2-4e55-9f2f-d54c58cfd093@91.224.74.160:33040?encryption=none&fp=chrome&pbk=qkNG-YnEDpsFr_H66k8EZ0pqRW_epcvky5DfkNFDS3w&security=reality&sid=dadf4cb3b9&sni=www.amd.com&spx=%2F2KBe8WARvX0Y71y&type=tcp#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "91.224.74.160",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vless://f46c7524-ddd2-4e55-9f2f-d54c58cfd093@91.224.74.160:33040?encryption=none&fp=chrome&pbk=qkNG-YnEDpsFr_H66k8EZ0pqRW_epcvky5DfkNFDS3w&security=reality&sid=dadf4cb3b9&sni=www.amd.com&spx=%2F2KBe8WARvX0Y71y&type=tcp#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }
