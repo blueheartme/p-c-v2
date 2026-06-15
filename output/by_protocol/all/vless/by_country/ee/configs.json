@@ -1,27 +1,7 @@
 {
-  "updated": "2026-06-14T17:15:37.481914",
+  "updated": "2026-06-15T03:31:55.026440",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "150.241.101.222",
-      "port": "443",
-      "id": "749a5df1-2d12-45cf-80f3-f85ea6b2e405",
-      "name": "➡️🍑🍌⬅️(1)@proxy_kafee",
-      "network": "tcp",
-      "sni": "google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-1",
-      "ip": "150.241.101.222",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-1"
-    },
     {
       "type": "vless",
       "address": "centos.ubuntuhosting.host",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://8871d6a1-85cf-4588-b6f5-830043781ee9@centos.ubuntuhosting.host:443?security=reality&encryption=none&sni=centos.ubuntuhosting.host&fp=chrome&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&type=grpc&headerType=none&serviceName=gun&path=%2f#vless-grpc-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "original": "vless://8871d6a1-85cf-4588-b6f5-830043781ee9@centos.ubuntuhosting.host:443?security=reality&encryption=none&sni=centos.ubuntuhosting.host&fp=chrome&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&type=grpc&headerType=none&serviceName=gun&path=%2f#vless-grpc-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1",
       "ip": "38.180.230.147",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://8871d6a1-85cf-4588-b6f5-830043781ee9@centos.ubuntuhosting.host:443?security=reality&encryption=none&sni=centos.ubuntuhosting.host&fp=chrome&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&type=grpc&headerType=none&serviceName=gun&path=%2f#vless-grpc-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-2"
+      "rebuilt": "vless://8871d6a1-85cf-4588-b6f5-830043781ee9@centos.ubuntuhosting.host:443?security=reality&encryption=none&sni=centos.ubuntuhosting.host&fp=chrome&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&type=grpc&headerType=none&serviceName=gun&path=%2f#vless-grpc-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "150.241.101.222",
+      "port": "443",
+      "id": "749a5df1-2d12-45cf-80f3-f85ea6b2e405",
+      "name": "➡️🍑🍌⬅️(1)@proxy_kafee",
+      "network": "tcp",
+      "sni": "google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "random",
+      "original": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "ip": "150.241.101.222",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-2"
     }
   ]
 }
