@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-15T13:50:13.663599",
-  "count": 5,
+  "updated": "2026-06-15T19:41:20.873907",
+  "count": 6,
   "configs": [
     {
       "type": "vless",
@@ -24,6 +24,32 @@
     },
     {
       "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9000",
+      "method": "aes-256-cfb",
+      "password": "a3GFYt36Sm82Vys9",
+      "name": "🇵🇱 PL 1",
+      "original": "ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.70:9000#%f0%9f%87%b5%f0%9f%87%b1%20PL%201",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.70:9000#%f0%9f%87%b5%f0%9f%87%b1%20PL%201"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9006",
+      "method": "aes-256-cfb",
+      "password": "FAdUvMJUq5vDgKEq",
+      "name": "🇵🇱 PL 2",
+      "original": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#%f0%9f%87%b5%f0%9f%87%b1%20PL%202",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#%f0%9f%87%b5%f0%9f%87%b1%20PL%202"
+    },
+    {
+      "type": "ss",
       "address": "54.36.174.134",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
@@ -36,24 +62,18 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#Free%20103%20%40Outline_Vpn"
     },
     {
-      "type": "vless",
-      "address": "panel.dibaux.ir",
-      "port": "80",
-      "id": "31ec5e0c-f88d-402c-a363-1d931519ed4f",
-      "name": "🇵🇱 PL 1",
-      "network": "ws",
+      "type": "trojan",
+      "address": "64.176.65.85",
+      "port": "443",
+      "password": "iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf",
+      "name": "Free 84 @Outline_Vpn",
       "sni": "",
-      "host": "panel.dibaux.ir",
-      "security": "false",
-      "flow": "",
-      "encryption": "",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@panel.dibaux.ir:80?security=false&fp=chrome&type=ws&headerType=none&host=panel.dibaux.ir&path=%2fstream#vless-ws-false-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "82.40.62.134",
+      "host": "",
+      "original": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "ip": "64.176.65.85",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@panel.dibaux.ir:80?security=false&fp=chrome&type=ws&headerType=none&host=panel.dibaux.ir&path=%2fstream#vless-ws-false-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-5"
     },
     {
       "type": "vless",
@@ -69,25 +89,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@144.31.4.220:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "original": "vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@144.31.4.220:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-6",
       "ip": "144.31.4.220",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@144.31.4.220:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-4"
-    },
-    {
-      "type": "trojan",
-      "address": "64.176.65.85",
-      "port": "443",
-      "password": "iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf",
-      "name": "Free 84 @Outline_Vpn",
-      "sni": "",
-      "host": "",
-      "original": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-5",
-      "ip": "64.176.65.85",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+      "rebuilt": "vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@144.31.4.220:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-6"
     }
   ]
 }

@@ -1,20 +1,40 @@
 {
-  "updated": "2026-06-15T13:50:13.652440",
-  "count": 1,
+  "updated": "2026-06-15T19:41:20.880679",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "152.53.47.24",
+      "port": "443",
+      "id": "f64cab0a-75a4-44f1-b2f6-8ecc6c73c249",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "at-c1.buycloud.app",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.47.24:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at-c1.buycloud.app&sid=42134e531ea5db75#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "152.53.47.24",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.47.24:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at-c1.buycloud.app&sid=42134e531ea5db75#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
     {
       "type": "trojan",
       "address": "185.126.236.44",
       "port": "443",
       "password": "BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL",
-      "name": "➡️🍑🍌⬅️(8)@proxy_kafee",
+      "name": "🇦🇹 AT 1",
       "sni": "www.mesaly.click",
       "host": "",
-      "original": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.mesaly.click#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "original": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&path=%2f#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2",
       "ip": "185.126.236.44",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.mesaly.click#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&path=%2f#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     }
   ]
 }

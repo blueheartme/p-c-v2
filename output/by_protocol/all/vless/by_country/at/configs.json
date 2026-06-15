@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-10T18:27:55.840698",
+  "updated": "2026-06-15T19:41:20.915082",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "as.pink-perfect.ru",
+      "address": "152.53.47.24",
       "port": "443",
-      "id": "5d8fcd24-9634-4dd7-845c-3dc2d6291942",
+      "id": "f64cab0a-75a4-44f1-b2f6-8ecc6c73c249",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "as.pink-perfect.ru",
+      "sni": "at-c1.buycloud.app",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=as.pink-perfect.ru&fp=qq&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-AT%F0%9F%87%A6%F0%9F%87%B9-2",
-      "ip": "77.110.110.206",
+      "fingerprint": "chrome",
+      "original": "vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.47.24:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at-c1.buycloud.app&sid=42134e531ea5db75#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "152.53.47.24",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=as.pink-perfect.ru&fp=qq&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+      "rebuilt": "vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@152.53.47.24:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at-c1.buycloud.app&sid=42134e531ea5db75#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }

@@ -1,18 +1,34 @@
 {
-  "updated": "2026-06-15T03:31:54.967367",
-  "count": 1,
+  "updated": "2026-06-15T19:41:20.864424",
+  "count": 2,
   "configs": [
     {
-      "type": "tg",
-      "address": "iranian-cheetah.ir.the-nice-mtproto.info.",
-      "port": "88",
-      "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=iranian-cheetah.ir.the-nice-mtproto.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-      "ip": "194.182.79.219",
+      "type": "trojan",
+      "address": "ch-2.bexum.fun",
+      "port": "443",
+      "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
+      "name": "🇨🇿 CZ 10",
+      "sni": "ch-2.bexum.fun",
+      "host": "",
+      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
+      "ip": "46.8.113.142",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=iranian-cheetah.ir.the-nice-mtproto.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+    },
+    {
+      "type": "trojan",
+      "address": "46.8.113.142",
+      "port": "443",
+      "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
+      "name": "🇨🇿 CZ 12",
+      "sni": "ch-2.bexum.fun",
+      "host": "",
+      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "ip": "46.8.113.142",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
     }
   ]
 }

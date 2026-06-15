@@ -1,26 +1,21 @@
 {
-  "updated": "2026-06-15T13:50:13.668127",
-  "count": 3,
+  "updated": "2026-06-15T19:41:20.880029",
+  "count": 4,
   "configs": [
     {
-      "type": "vless",
-      "address": "46.137.225.209",
-      "port": "32946",
-      "id": "0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1",
-      "name": "Free$ 74 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "www.amd.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&encryption=none&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=984d9ea72b9e81#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "46.137.225.209",
+      "type": "vmess",
+      "address": "172.104.48.151",
+      "port": "8080",
+      "id": "c8bab0e9-fad7-46ef-e74a-9cb2022ed9c9",
+      "name": "🏳️ Jafar [MTN] 🛡️ 4015ms",
+      "network": "ws",
+      "host": "172.104.48.151",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNzIuMTA0LjQ4LjE1MSIsImFpZCI6MCwiaG9zdCI6IjE3Mi4xMDQuNDguMTUxIiwiaWQiOiJjOGJhYjBlOS1mYWQ3LTQ2ZWYtZTc0YS05Y2IyMDIyZWQ5YzkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODA4MCwicHMiOiJ2bWVzcy13cy1hdXRvLVNH8J+HuPCfh6wtMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
+      "ip": "172.104.48.151",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&encryption=none&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=984d9ea72b9e81#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vmess://eyJhZGQiOiIxNzIuMTA0LjQ4LjE1MSIsImFpZCI6MCwiaG9zdCI6IjE3Mi4xMDQuNDguMTUxIiwiaWQiOiJjOGJhYjBlOS1mYWQ3LTQ2ZWYtZTc0YS05Y2IyMDIyZWQ5YzkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODA4MCwicHMiOiJ2bWVzcy13cy1hdXRvLVNH8J+HuPCfh6wtMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
     },
     {
       "type": "vless",
@@ -44,6 +39,26 @@
     },
     {
       "type": "vless",
+      "address": "46.137.225.209",
+      "port": "32946",
+      "id": "0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1",
+      "name": "Free$ 74 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "www.amd.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&encryption=none&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=984d9ea72b9e81#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "46.137.225.209",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&encryption=none&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=984d9ea72b9e81#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+    },
+    {
+      "type": "vless",
       "address": "54.151.254.107",
       "port": "46799",
       "id": "f232a803-ff05-4219-b16f-b4dc8497b938",
@@ -56,11 +71,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://f232a803-ff05-4219-b16f-b4dc8497b938@54.151.254.107:46799?security=reality&encryption=none&pbk=inxRtKQbaiuz18TGXqdYu0dyO_RplIhR7MDZ6rL42UA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=af0d579034a74916#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "original": "vless://f232a803-ff05-4219-b16f-b4dc8497b938@54.151.254.107:46799?security=reality&encryption=none&pbk=inxRtKQbaiuz18TGXqdYu0dyO_RplIhR7MDZ6rL42UA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=af0d579034a74916#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-4",
       "ip": "54.151.254.107",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://f232a803-ff05-4219-b16f-b4dc8497b938@54.151.254.107:46799?security=reality&encryption=none&pbk=inxRtKQbaiuz18TGXqdYu0dyO_RplIhR7MDZ6rL42UA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=af0d579034a74916#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "vless://f232a803-ff05-4219-b16f-b4dc8497b938@54.151.254.107:46799?security=reality&encryption=none&pbk=inxRtKQbaiuz18TGXqdYu0dyO_RplIhR7MDZ6rL42UA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=af0d579034a74916#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }
