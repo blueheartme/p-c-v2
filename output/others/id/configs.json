@@ -1,21 +1,20 @@
 {
-  "updated": "2026-06-15T03:31:54.972248",
+  "updated": "2026-06-16T19:31:38.143976",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "v9.hdacd.com",
-      "port": "30809",
-      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
-      "name": "🇮🇩 ID 1",
-      "network": null,
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUlE8J+HrvCfh6ktMSIsImFkZCI6InY5LmhkYWNkLmNvbSIsInBvcnQiOjMwODA5LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "70.153.148.176",
+      "type": "trojan",
+      "address": "130.94.94.15",
+      "port": "443",
+      "password": "tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR",
+      "name": "🇮🇩 ID 3",
+      "sni": "130.94.94.15",
+      "host": "",
+      "original": "trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15&path=%2f#trojan-tcp-tls-ID%F0%9F%87%AE%F0%9F%87%A9-1",
+      "ip": "130.94.94.15",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUlE8J+HrvCfh6ktMSIsImFkZCI6InY5LmhkYWNkLmNvbSIsInBvcnQiOjMwODA5LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15&path=%2f#trojan-tcp-tls-ID%F0%9F%87%AE%F0%9F%87%A9-1"
     }
   ]
 }

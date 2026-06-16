@@ -1,20 +1,21 @@
 {
-  "updated": "2026-06-07T10:25:18.297329",
+  "updated": "2026-06-16T19:31:38.145210",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "130.94.3.146",
-      "port": "443",
-      "password": "DX4wKmVl.CNIjwO5CYf7_qg+f1eMN4yt_F",
-      "name": "🇻🇳 VN 1",
-      "sni": "www.event-snapshot.click",
+      "type": "vmess",
+      "address": "161.248.30.3",
+      "port": "20086",
+      "id": "1006a928-2021-4a3b-beb5-d5853c6281c5",
+      "name": "@filembad",
+      "network": "ws",
       "host": "",
-      "original": "trojan://DX4wKmVl.CNIjwO5CYf7_qg+f1eMN4yt_F@130.94.3.146:443?sni=www.event-snapshot.click&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-VN%F0%9F%87%BB%F0%9F%87%B3-1",
-      "ip": "130.94.3.146",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNjEuMjQ4LjMwLjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTAwNmE5MjgtMjAyMS00YTNiLWJlYjUtZDU4NTNjNjI4MWM1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDA4NiIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVk7wn4e78J+Hsy0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
+      "ip": "161.248.30.3",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "trojan://DX4wKmVl.CNIjwO5CYf7_qg+f1eMN4yt_F@130.94.3.146:443?sni=www.event-snapshot.click&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-VN%F0%9F%87%BB%F0%9F%87%B3-1"
+      "rebuilt": "vmess://eyJhZGQiOiIxNjEuMjQ4LjMwLjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTAwNmE5MjgtMjAyMS00YTNiLWJlYjUtZDU4NTNjNjI4MWM1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDA4NiIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVk7wn4e78J+Hsy0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
     }
   ]
 }
