@@ -1,18 +1,26 @@
 {
-  "updated": "2026-06-10T11:35:24.314496",
+  "updated": "2026-06-16T12:49:38.478926",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "185.8.104.135",
+      "type": "vless",
+      "address": "45.194.10.139",
       "port": "8443",
-      "secret": "dd104462821249bd7ac519130220c25d09",
-      "name": "",
-      "original": "https://t.me/proxy?server=185.8.104.135&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-      "ip": "185.8.104.135",
+      "id": "d70f104e-03a3-45d1-bf30-29dc6f35447d",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://d70f104e-03a3-45d1-bf30-29dc6f35447d@45.194.10.139:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "45.194.10.139",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=185.8.104.135&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+      "rebuilt": "vless://d70f104e-03a3-45d1-bf30-29dc6f35447d@45.194.10.139:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1"
     }
   ]
 }

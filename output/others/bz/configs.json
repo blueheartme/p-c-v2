@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-16T03:29:10.111758",
-  "count": 1,
+  "updated": "2026-06-16T12:49:38.472564",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "BZ",
       "cdn": null,
       "rebuilt": "vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Itsrezu2.dr-ping.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Itsrezu2.dr-ping.com#vless-xhttp-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.131.7.30",
+      "port": "8880",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🫐14@oneclickvpnkeys",
+      "network": "ws",
+      "sni": "",
+      "host": "vms.lifetime02.workers.dev",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime02.workers.dev&path=%2F&security=none&type=ws#vless-ws-BZ%F0%9F%87%A7%F0%9F%87%BF-2",
+      "ip": "45.131.7.30",
+      "country": "BZ",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime02.workers.dev&path=%2F&security=none&type=ws#vless-ws-BZ%F0%9F%87%A7%F0%9F%87%BF-2"
     }
   ]
 }

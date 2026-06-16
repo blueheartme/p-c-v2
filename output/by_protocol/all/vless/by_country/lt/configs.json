@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-09T10:56:32.031511",
+  "updated": "2026-06-16T12:49:38.534694",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "91.188.254.124",
-      "port": "2083",
-      "id": "efffa718-6ce3-4b0f-88dc-fc68ed38ff1f",
-      "name": "برای اتصال دائمی جوین شو🗾 prrofile_purple@",
-      "network": "xhttp",
-      "sni": "",
-      "host": "skyroom.online",
-      "security": "none",
-      "flow": "",
+      "address": "45.194.10.139",
+      "port": "8443",
+      "id": "d70f104e-03a3-45d1-bf30-29dc6f35447d",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://efffa718-6ce3-4b0f-88dc-fc68ed38ff1f@91.188.254.124:2083?mode=auto&path=%2Fapi%2Fv1%2Fuser%2Fprofile&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&host=skyroom.online&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-2",
-      "ip": "91.188.254.124",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://d70f104e-03a3-45d1-bf30-29dc6f35447d@45.194.10.139:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "45.194.10.139",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://efffa718-6ce3-4b0f-88dc-fc68ed38ff1f@91.188.254.124:2083?mode=auto&path=%2Fapi%2Fv1%2Fuser%2Fprofile&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&host=skyroom.online&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-2"
+      "rebuilt": "vless://d70f104e-03a3-45d1-bf30-29dc6f35447d@45.194.10.139:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1"
     }
   ]
 }
