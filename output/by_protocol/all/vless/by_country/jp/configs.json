@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-16T19:31:38.198759",
-  "count": 4,
+  "updated": "2026-06-17T03:00:57.413683",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "31.76.91.18",
+      "port": "443",
+      "id": "dfc0cb9d-f005-41b0-848c-7703bd39d0de",
+      "name": "برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "jp.s3-cloud.org",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "edge",
+      "original": "vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.18:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#vless-xtls-rprx-vision-tcp-reality-edge-JP%F0%9F%87%AF%F0%9F%87%B5-4",
+      "ip": "31.76.91.18",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.18:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#vless-xtls-rprx-vision-tcp-reality-edge-JP%F0%9F%87%AF%F0%9F%87%B5-4"
+    },
     {
       "type": "vless",
       "address": "15.168.173.144",
@@ -16,38 +36,18 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-5",
       "ip": "15.168.173.144",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-1"
-    },
-    {
-      "type": "vless",
-      "address": "57.180.22.236",
-      "port": "12524",
-      "id": "c8a930cb-7a41-403f-922a-0b2148a75e05",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.intel.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://c8a930cb-7a41-403f-922a-0b2148a75e05@57.180.22.236:12524?security=reality&encryption=none&pbk=snK07S_XyboGtyPOcmLFn4aNuxaRwHBG8w8JH2K0RS4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=2895e9532d0c#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-6",
-      "ip": "57.180.22.236",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vless://c8a930cb-7a41-403f-922a-0b2148a75e05@57.180.22.236:12524?security=reality&encryption=none&pbk=snK07S_XyboGtyPOcmLFn4aNuxaRwHBG8w8JH2K0RS4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=2895e9532d0c#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-6"
+      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-5"
     },
     {
       "type": "vless",
       "address": "31.76.91.28",
       "port": "443",
       "id": "dfc0cb9d-f005-41b0-848c-7703bd39d0de",
-      "name": "برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩",
+      "name": "برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩",
       "network": "tcp",
       "sni": "jp.s3-cloud.org",
       "host": "",
@@ -61,26 +61,6 @@
       "country": "JP",
       "cdn": null,
       "rebuilt": "vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.28:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#vless-xtls-rprx-vision-tcp-reality-edge-JP%F0%9F%87%AF%F0%9F%87%B5-8"
-    },
-    {
-      "type": "vless",
-      "address": "31.76.91.18",
-      "port": "443",
-      "id": "dfc0cb9d-f005-41b0-848c-7703bd39d0de",
-      "name": "برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "jp.s3-cloud.org",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.18:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#vless-xtls-rprx-vision-tcp-reality-edge-JP%F0%9F%87%AF%F0%9F%87%B5-13",
-      "ip": "31.76.91.18",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.18:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#vless-xtls-rprx-vision-tcp-reality-edge-JP%F0%9F%87%AF%F0%9F%87%B5-13"
     }
   ]
 }

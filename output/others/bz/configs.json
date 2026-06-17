@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-16T19:31:38.151380",
-  "count": 1,
+  "updated": "2026-06-17T03:00:57.384083",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.131.6.203",
+      "port": "80",
+      "id": "3ee169b8-54b0-482a-beff-6490d31e5328",
+      "name": "@filembad",
+      "network": "xhttp",
+      "sni": "",
+      "host": "DEY.cdnpros.ir",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://3ee169b8-54b0-482a-beff-6490d31e5328@45.131.6.203:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=DEY.cdnpros.ir&mode=auto&path=%2F&security=none&type=xhttp#vless-xhttp-BZ%F0%9F%87%A7%F0%9F%87%BF-1",
+      "ip": "45.131.6.203",
+      "country": "BZ",
+      "cdn": null,
+      "rebuilt": "vless://3ee169b8-54b0-482a-beff-6490d31e5328@45.131.6.203:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=DEY.cdnpros.ir&mode=auto&path=%2F&security=none&type=xhttp#vless-xhttp-BZ%F0%9F%87%A7%F0%9F%87%BF-1"
+    },
     {
       "type": "vless",
       "address": "45.131.4.173",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Itsrezu2.dr-ping.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Itsrezu2.dr-ping.com#vless-xhttp-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-1",
+      "original": "vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Itsrezu2.dr-ping.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Itsrezu2.dr-ping.com#vless-xhttp-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-2",
       "ip": "45.131.4.173",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Itsrezu2.dr-ping.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Itsrezu2.dr-ping.com#vless-xhttp-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-1"
+      "rebuilt": "vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Itsrezu2.dr-ping.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Itsrezu2.dr-ping.com#vless-xhttp-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-2"
     }
   ]
 }
