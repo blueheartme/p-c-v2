@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-17T03:00:57.354448",
+  "updated": "2026-06-17T18:12:11.388427",
   "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "88.216.67.230",
-      "port": "80",
-      "id": "fab395a9-f09f-4bff-a389-74b019dc114a",
+      "port": "443",
+      "id": "00cba2b0-3c3a-45e7-a9de-7004676d3169",
       "name": "@filembad",
       "network": "xhttp",
-      "sni": "",
-      "host": "KUI.torprospeed.ir",
-      "security": "none",
+      "sni": "Pedram.jynmarket.shop",
+      "host": "Pedram.jynmarket.shop",
+      "security": "tls",
       "flow": "",
-      "encryption": "none",
+      "encryption": "mlkem768x25519plus.native.0rtt.0ppvwxx7zt20brf38xuaiqop21-sgf-vto9lr3ntnlw",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://fab395a9-f09f-4bff-a389-74b019dc114a@88.216.67.230:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI.torprospeed.ir&mode=auto&path=%2F&security=none&type=xhttp#vless-xhttp-CW%F0%9F%87%A8%F0%9F%87%BC-1",
+      "fingerprint": "chrome",
+      "original": "vless://00cba2b0-3c3a-45e7-a9de-7004676d3169@88.216.67.230:443?mode=auto&path=%2FJynMarket%2FTel&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.0pPvwXx7ZT20bRf38xUAiQOP21-sgf-VTO9lR3NTnlw&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Pedram.jynmarket.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=Pedram.jynmarket.shop#vless-mlkem768x25519plus.native.0rtt.0ppvwxx7zt20brf38xuaiqop21-sgf-vto9lr3ntnlw-xhttp-tls-chrome-CW%F0%9F%87%A8%F0%9F%87%BC-1",
       "ip": "88.216.67.230",
       "country": "CW",
       "cdn": null,
-      "rebuilt": "vless://fab395a9-f09f-4bff-a389-74b019dc114a@88.216.67.230:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI.torprospeed.ir&mode=auto&path=%2F&security=none&type=xhttp#vless-xhttp-CW%F0%9F%87%A8%F0%9F%87%BC-1"
+      "rebuilt": "vless://00cba2b0-3c3a-45e7-a9de-7004676d3169@88.216.67.230:443?mode=auto&path=%2FJynMarket%2FTel&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.0pPvwXx7ZT20bRf38xUAiQOP21-sgf-VTO9lR3NTnlw&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Pedram.jynmarket.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=Pedram.jynmarket.shop#vless-mlkem768x25519plus.native.0rtt.0ppvwxx7zt20brf38xuaiqop21-sgf-vto9lr3ntnlw-xhttp-tls-chrome-CW%F0%9F%87%A8%F0%9F%87%BC-1"
     }
   ]
 }

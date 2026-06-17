@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17T12:13:49.676714",
-  "count": 3,
+  "updated": "2026-06-17T18:12:11.385952",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -11,16 +11,16 @@
       "network": "ws",
       "sni": "",
       "host": "",
-      "security": "none",
+      "security": "",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "original": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "46.246.97.218",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
@@ -52,6 +52,26 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+    },
+    {
+      "type": "vless",
+      "address": "13.51.238.84",
+      "port": "42316",
+      "id": "4f160454-fbf5-4e61-9d83-78f6b6c25d80",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=&encryption=none&headerType=none&type=tcp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "ip": "13.51.238.84",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=&encryption=none&headerType=none&type=tcp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-4"
     }
   ]
 }
