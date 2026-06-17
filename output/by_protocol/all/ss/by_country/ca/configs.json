@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-17T03:00:57.454386",
+  "updated": "2026-06-17T12:13:49.767412",
   "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "149.22.95.183",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇨🇦 CA 4",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%204",
+      "ip": "149.22.95.183",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%204"
+    },
+    {
+      "type": "ss",
+      "address": "3.96.152.83",
+      "port": "443",
+      "method": "aes-256-cfb",
+      "password": "amazonskr05",
+      "name": "🇨🇦 CA 1",
+      "original": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.152.83:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201",
+      "ip": "3.96.152.83",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.152.83:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
+    },
     {
       "type": "ss",
       "address": "3.97.8.224",
@@ -27,32 +53,6 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.60.99.199:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%203"
-    },
-    {
-      "type": "ss",
-      "address": "3.96.152.83",
-      "port": "443",
-      "method": "aes-256-cfb",
-      "password": "amazonskr05",
-      "name": "🇨🇦 CA 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.152.83:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201",
-      "ip": "3.96.152.83",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.152.83:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
-    },
-    {
-      "type": "ss",
-      "address": "149.22.95.183",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇨🇦 CA 4",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%204",
-      "ip": "149.22.95.183",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%204"
     }
   ]
 }

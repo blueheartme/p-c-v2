@@ -1,34 +1,20 @@
 {
-  "updated": "2026-06-17T03:00:57.374183",
+  "updated": "2026-06-17T12:13:49.677292",
   "count": 3,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "ch-2.bexum.fun",
-      "port": "443",
-      "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
-      "name": "🇨🇿 CZ 19",
-      "sni": "ch-2.bexum.fun",
-      "host": "",
-      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "46.8.113.142",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
-    },
     {
       "type": "trojan",
       "address": "46.8.113.142",
       "port": "443",
       "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
-      "name": "🇨🇿 CZ 11",
+      "name": "🇨🇿 CZ 17",
       "sni": "ch-2.bexum.fun",
       "host": "",
-      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?sni=ch-2.bexum.fun&fp=chrome&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
       "ip": "46.8.113.142",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?sni=ch-2.bexum.fun&fp=chrome&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
     },
     {
       "type": "tg",
@@ -41,6 +27,20 @@
       "country": "CZ",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=iranian-cheetah.ir.the-nice-mtproto.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+    },
+    {
+      "type": "trojan",
+      "address": "ch-2.bexum.fun",
+      "port": "443",
+      "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
+      "name": "🇨🇿 CZ 13",
+      "sni": "",
+      "host": "",
+      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
+      "ip": "46.8.113.142",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
     }
   ]
 }
