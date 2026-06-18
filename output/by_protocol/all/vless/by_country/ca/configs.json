@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T11:47:51.026886",
+  "updated": "2026-06-18T18:24:23.422350",
   "count": 3,
   "configs": [
     {
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "ov-canada1.09vpn.com",
-      "port": "8443",
-      "id": "08f96221-9b7b-4e6f-8ffe-aee8b9c9b504",
-      "name": "برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
-      "ip": "148.113.196.75",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
-    },
-    {
-      "type": "vless",
       "address": "ca.skymailg.com",
       "port": "443",
       "id": "91172cee-7d4f-45aa-bb25-af2034ed2d98",
@@ -56,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://91172cee-7d4f-45aa-bb25-af2034ed2d98@ca.skymailg.com:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=yahoo.com&sid=b6517ba82171c34e&fp=chrome&pbk=cw-LDv8DYV42XV44jtEr38BddAEXyUrjtZGNG0LtIW0&spx=/&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "original": "vless://91172cee-7d4f-45aa-bb25-af2034ed2d98@ca.skymailg.com:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=yahoo.com&sid=b6517ba82171c34e&fp=chrome&pbk=cw-LDv8DYV42XV44jtEr38BddAEXyUrjtZGNG0LtIW0&spx=/&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-4",
       "ip": "184.107.106.84",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://91172cee-7d4f-45aa-bb25-af2034ed2d98@ca.skymailg.com:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=yahoo.com&sid=b6517ba82171c34e&fp=chrome&pbk=cw-LDv8DYV42XV44jtEr38BddAEXyUrjtZGNG0LtIW0&spx=/&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+      "rebuilt": "vless://91172cee-7d4f-45aa-bb25-af2034ed2d98@ca.skymailg.com:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=yahoo.com&sid=b6517ba82171c34e&fp=chrome&pbk=cw-LDv8DYV42XV44jtEr38BddAEXyUrjtZGNG0LtIW0&spx=/&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+    },
+    {
+      "type": "vless",
+      "address": "ov-canada1.09vpn.com",
+      "port": "8443",
+      "id": "08f96221-9b7b-4e6f-8ffe-aee8b9c9b504",
+      "name": "برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-7",
+      "ip": "148.113.196.75",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-7"
     }
   ]
 }

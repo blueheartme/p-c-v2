@@ -1,20 +1,51 @@
 {
-  "updated": "2026-06-18T11:47:50.970401",
-  "count": 1,
+  "updated": "2026-06-18T18:24:23.397107",
+  "count": 3,
   "configs": [
     {
-      "type": "trojan",
-      "address": "130.94.94.15",
-      "port": "443",
-      "password": "tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR",
-      "name": "🇮🇩 ID 1",
-      "sni": "",
-      "host": "",
-      "original": "trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&fp=chrome&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-ID%F0%9F%87%AE%F0%9F%87%A9-1",
-      "ip": "130.94.94.15",
+      "type": "vmess",
+      "address": "v4.hdacd.com",
+      "port": "30804",
+      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "name": "🇲🇾 MY 1",
+      "network": null,
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUlE8J+HrvCfh6ktMSIsImFkZCI6InY0LmhkYWNkLmNvbSIsInBvcnQiOjMwODA0LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "70.153.87.29",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&fp=chrome&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-ID%F0%9F%87%AE%F0%9F%87%A9-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUlE8J+HrvCfh6ktMSIsImFkZCI6InY0LmhkYWNkLmNvbSIsInBvcnQiOjMwODA0LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
+    {
+      "type": "vmess",
+      "address": "v9.hdacd.com",
+      "port": "30809",
+      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "name": "🇮🇩 ID 2",
+      "network": null,
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUlE8J+HrvCfh6ktMiIsImFkZCI6InY5LmhkYWNkLmNvbSIsInBvcnQiOjMwODA5LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "70.153.87.29",
+      "country": "ID",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUlE8J+HrvCfh6ktMiIsImFkZCI6InY5LmhkYWNkLmNvbSIsInBvcnQiOjMwODA5LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
+    {
+      "type": "vmess",
+      "address": "v6.hdacd.com",
+      "port": "30806",
+      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "name": "🇮🇩 ID 1",
+      "network": null,
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUlE8J+HrvCfh6ktMyIsImFkZCI6InY2LmhkYWNkLmNvbSIsInBvcnQiOjMwODA2LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "70.153.87.29",
+      "country": "ID",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUlE8J+HrvCfh6ktMyIsImFkZCI6InY2LmhkYWNkLmNvbSIsInBvcnQiOjMwODA2LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     }
   ]
 }
