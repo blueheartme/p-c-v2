@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T18:12:11.456362",
+  "updated": "2026-06-18T02:55:12.918006",
   "count": 6,
   "configs": [
     {
@@ -17,19 +17,6 @@
     },
     {
       "type": "ss",
-      "address": "167.233.151.227",
-      "port": "53650/?type=tcp&encryption=none&flow=",
-      "method": "q|{8_~z",
-      "password": "",
-      "name": "channel→@networld_vpn",
-      "original": "ss://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650/?type=tcp&encryption=none&flow=#channel%E2%86%92%40networld_vpn",
-      "ip": "167.233.151.227",
-      "country": "DE",
-      "cdn": null,
-      "rebuilt": "ss://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650/?type=tcp&encryption=none&flow=#channel%E2%86%92%40networld_vpn"
-    },
-    {
-      "type": "ss",
       "address": "194.59.183.134",
       "port": "46114",
       "method": "chacha20-ietf-poly1305",
@@ -40,6 +27,19 @@
       "country": "DE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH"
+    },
+    {
+      "type": "ss",
+      "address": "95.133.245.133",
+      "port": "443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7e77e7e2cf2b7a79",
+      "method": "}{ּw6<_~_\u001ds\u001eѮ",
+      "password": "",
+      "name": "channel→@networld_vpn",
+      "original": "ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7e77e7e2cf2b7a79#channel%E2%86%92%40networld_vpn",
+      "ip": "95.133.245.133",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7e77e7e2cf2b7a79#channel%E2%86%92%40networld_vpn"
     },
     {
       "type": "ss",
@@ -56,6 +56,19 @@
     },
     {
       "type": "ss",
+      "address": "167.233.151.227",
+      "port": "53650/?type=tcp&encryption=none&flow=",
+      "method": "q|{8_~z",
+      "password": "",
+      "name": "channel→@networld_vpn",
+      "original": "ss://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650/?type=tcp&encryption=none&flow=#channel%E2%86%92%40networld_vpn",
+      "ip": "167.233.151.227",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "ss://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650/?type=tcp&encryption=none&flow=#channel%E2%86%92%40networld_vpn"
+    },
+    {
+      "type": "ss",
       "address": "49.13.3.249",
       "port": "23997",
       "method": "2022-blake3-aes-256-gcm",
@@ -66,19 +79,6 @@
       "country": "DE",
       "cdn": null,
       "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#Free%24%203%20%40Outline_Vpn"
-    },
-    {
-      "type": "ss",
-      "address": "95.133.245.133",
-      "port": "443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7e77e7e2cf2b7a79",
-      "method": "}{ּw6<_~_\u001ds\u001eѮ",
-      "password": "",
-      "name": "channel→@networld_vpn",
-      "original": "ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7e77e7e2cf2b7a79#channel%E2%86%92%40networld_vpn",
-      "ip": "95.133.245.133",
-      "country": "DE",
-      "cdn": null,
-      "rebuilt": "ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7e77e7e2cf2b7a79#channel%E2%86%92%40networld_vpn"
     }
   ]
 }

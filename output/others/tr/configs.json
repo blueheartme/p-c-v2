@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T18:12:11.389383",
+  "updated": "2026-06-18T02:55:12.860497",
   "count": 5,
   "configs": [
     {
@@ -18,6 +18,39 @@
     },
     {
       "type": "vless",
+      "address": "203.202.232.11",
+      "port": "36068",
+      "id": "ZoRoVpN",
+      "name": "6@ConfingV2RaayNG",
+      "network": "ws",
+      "sni": "",
+      "host": "Play.google.com",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=&encryption=none&host=Play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "203.202.232.11",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=&encryption=none&host=Play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "ss",
+      "address": "62.133.63.169",
+      "port": "37096",
+      "method": "chacha20-ietf-poly1305",
+      "password": "KP6FQVmJhlXPgvPhrw2gnI",
+      "name": "برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A6%8B%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+      "ip": "62.133.63.169",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A6%8B%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
+    },
+    {
+      "type": "vless",
       "address": "tr.go-vpn.club",
       "port": "443",
       "id": "870d3183-17a1-4a87-9021-e12e3ac2939f",
@@ -30,11 +63,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "185.181.209.206",
+      "original": "vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "185.181.209.209",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     },
     {
       "type": "vless",
@@ -50,44 +83,11 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://b2f996bf-620e-47b8-8f75-5823467c552e@185.226.93.107:443?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "original": "vless://b2f996bf-620e-47b8-8f75-5823467c552e@185.226.93.107:443?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-5",
       "ip": "185.226.93.107",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://b2f996bf-620e-47b8-8f75-5823467c552e@185.226.93.107:443?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vless",
-      "address": "203.202.232.11",
-      "port": "36068",
-      "id": "ZoRoVpN",
-      "name": "6@ConfingV2RaayNG",
-      "network": "ws",
-      "sni": "",
-      "host": "Play.google.com",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=&encryption=none&host=Play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "203.202.232.11",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=&encryption=none&host=Play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-4"
-    },
-    {
-      "type": "ss",
-      "address": "62.133.63.169",
-      "port": "37096",
-      "method": "chacha20-ietf-poly1305",
-      "password": "KP6FQVmJhlXPgvPhrw2gnI",
-      "name": "برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A6%8B%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
-      "ip": "62.133.63.169",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A6%8B%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
+      "rebuilt": "vless://b2f996bf-620e-47b8-8f75-5823467c552e@185.226.93.107:443?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-5"
     }
   ]
 }
