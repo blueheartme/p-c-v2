@@ -1,27 +1,7 @@
 {
-  "updated": "2026-06-18T02:55:12.867292",
+  "updated": "2026-06-18T11:47:50.972998",
   "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "ov-canada1.09vpn.com",
-      "port": "8443",
-      "id": "08f96221-9b7b-4e6f-8ffe-aee8b9c9b504",
-      "name": "برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "148.113.196.75",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
-    },
     {
       "type": "vless",
       "address": "165.245.236.251",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://6f9fdc63-abd0-4cf6-90cf-2ca0eb5cc15a@165.245.236.251:2053?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "original": "vless://6f9fdc63-abd0-4cf6-90cf-2ca0eb5cc15a@165.245.236.251:2053?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1",
       "ip": "165.245.236.251",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://6f9fdc63-abd0-4cf6-90cf-2ca0eb5cc15a@165.245.236.251:2053?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+      "rebuilt": "vless://6f9fdc63-abd0-4cf6-90cf-2ca0eb5cc15a@165.245.236.251:2053?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
+    {
+      "type": "vless",
+      "address": "ov-canada1.09vpn.com",
+      "port": "8443",
+      "id": "08f96221-9b7b-4e6f-8ffe-aee8b9c9b504",
+      "name": "برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "ip": "148.113.196.75",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     },
     {
       "type": "vless",
