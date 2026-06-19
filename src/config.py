@@ -31,6 +31,9 @@ TELEGRAM_CHANNELS = [
     "https://t.me/s/Express_freevpn" ,
     "https://t.me/s/ConfingV2RaayNG" ,
     "https://t.me/s/NightPing" ,
+    "https://t.me/s/Maznet" ,
+    "https://t.me/s/YamYamProxy" ,
+    "https://t.me/s/meliproxyy" ,
 ]
 
 GITHUB_REPOS = [
