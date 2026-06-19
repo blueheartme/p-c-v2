@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-18T18:24:23.398903",
-  "count": 4,
+  "updated": "2026-06-19T03:41:43.229554",
+  "count": 5,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "160.16.107.37",
+      "port": "3169",
+      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
+      "name": "Japan NTT Pc",
+      "sni": "www.nintendogames.net",
+      "host": "",
+      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "ip": "160.16.107.37",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+    },
+    {
+      "type": "vmess",
+      "address": "43.167.162.191",
+      "port": "34017",
+      "id": "dbe306b3-f28c-4176-83d7-b75506c38488",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI0My4xNjcuMTYyLjE5MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkYmUzMDZiMy1mMjhjLTQxNzYtODNkNy1iNzU1MDZjMzg0ODgiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNDAxNyIsInBzIjoidm1lc3MtYXV0by10Y3AtSlDwn4ev8J+HtS0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "ip": "43.167.162.191",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI0My4xNjcuMTYyLjE5MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkYmUzMDZiMy1mMjhjLTQxNzYtODNkNy1iNzU1MDZjMzg0ODgiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNDAxNyIsInBzIjoidm1lc3MtYXV0by10Y3AtSlDwn4ev8J+HtS0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+    },
     {
       "type": "vless",
       "address": "47.79.144.103",
@@ -16,11 +45,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?security=none&encryption=none&type=ws&path=%2fa12b0d31#vless-ws-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "original": "vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?security=none&encryption=none&type=ws&path=%2fa12b0d31#vless-ws-JP%F0%9F%87%AF%F0%9F%87%B5-3",
       "ip": "47.79.144.103",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?security=none&encryption=none&type=ws&path=%2fa12b0d31#vless-ws-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+      "rebuilt": "vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?security=none&encryption=none&type=ws&path=%2fa12b0d31#vless-ws-JP%F0%9F%87%AF%F0%9F%87%B5-3"
     },
     {
       "type": "trojan",
@@ -30,11 +59,11 @@
       "name": "Japan Klayer LLC",
       "sni": "kuame.missionsec.us",
       "host": "",
-      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
+      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4",
       "ip": "93.93.246.88",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4"
     },
     {
       "type": "vless",
@@ -50,25 +79,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-5",
       "ip": "15.168.173.144",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-3"
-    },
-    {
-      "type": "trojan",
-      "address": "160.16.107.37",
-      "port": "3169",
-      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
-      "name": "Japan NTT Pc",
-      "sni": "www.nintendogames.net",
-      "host": "",
-      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4",
-      "ip": "160.16.107.37",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4"
+      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-5"
     }
   ]
 }

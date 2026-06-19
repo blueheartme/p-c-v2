@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-18T18:24:23.428330",
+  "updated": "2026-06-19T03:41:43.263050",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "27.50.48.49",
-      "port": "443",
-      "id": "228639b0-48de-4162-a818-d5651ee297b3",
-      "name": "Free 104 @Outline_Vpn",
-      "network": "ws",
-      "sni": "investors.spotify.com.cyylr.eu.cc",
-      "host": "investors.spotify.com.cyylr.eu.cc",
-      "security": "tls",
-      "flow": "",
+      "address": "1.sdwan.realm-sync.com",
+      "port": "5457",
+      "id": "e0c3a80e-6290-4c29-9605-fbd6c4fb3322",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "swcdn.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "27.50.48.49",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://e0c3a80e-6290-4c29-9605-fbd6c4fb3322@1.sdwan.realm-sync.com:5457?security=reality&encryption=none&pbk=8Ct9wBZLha-ePZMWbSau9ViKgbwlCgEsbGMjNnoVDzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swcdn.apple.com&sid=9da3779ceafd#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "203.175.12.217",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "vless://e0c3a80e-6290-4c29-9605-fbd6c4fb3322@1.sdwan.realm-sync.com:5457?security=reality&encryption=none&pbk=8Ct9wBZLha-ePZMWbSau9ViKgbwlCgEsbGMjNnoVDzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swcdn.apple.com&sid=9da3779ceafd#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }
