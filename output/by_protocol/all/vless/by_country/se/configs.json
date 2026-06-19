@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-19T12:01:43.888338",
+  "updated": "2026-06-19T17:51:01.768247",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "46.246.97.218",
+      "port": "2052",
+      "id": "037b730a-ea28-5191-ad7c-3424be5efe2e",
+      "name": "🇦🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "46.246.97.218",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
     {
       "type": "vless",
       "address": "se1.textin.ir",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://c77d5867-7528-4062-8370-700eaf351560@se1.textin.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "original": "vless://c77d5867-7528-4062-8370-700eaf351560@se1.textin.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-3",
       "ip": "70.34.218.10",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://c77d5867-7528-4062-8370-700eaf351560@se1.textin.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-2"
-    },
-    {
-      "type": "vless",
-      "address": "13.63.126.48",
-      "port": "8444",
-      "id": "242f3b82-7c52-4b3c-a576-c3c8d775e3ed",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
-      "sni": "play.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "mlkem768x25519plus.native.0rtt.itfk-ftxinrlwgajpp72iaz8c2i6veu0w3yatybvsgo",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://242f3b82-7c52-4b3c-a576-c3c8d775e3ed@13.63.126.48:8444?security=reality&encryption=mlkem768x25519plus.native.0rtt.iTfk-FtxINrlWgajpp72IAz8c2i6vEU0W3YatYBVsgo&pbk=LINfckLkgXuI1-3SeeRrjtjymGEsus3vLypmcI8N6nY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e3e064f1196a7ba1#vless-mlkem768x25519plus.native.0rtt.itfk-ftxinrlwgajpp72iaz8c2i6veu0w3yatybvsgo-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3",
-      "ip": "13.63.126.48",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://242f3b82-7c52-4b3c-a576-c3c8d775e3ed@13.63.126.48:8444?security=reality&encryption=mlkem768x25519plus.native.0rtt.iTfk-FtxINrlWgajpp72IAz8c2i6vEU0W3YatYBVsgo&pbk=LINfckLkgXuI1-3SeeRrjtjymGEsus3vLypmcI8N6nY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e3e064f1196a7ba1#vless-mlkem768x25519plus.native.0rtt.itfk-ftxinrlwgajpp72iaz8c2i6veu0w3yatybvsgo-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+      "rebuilt": "vless://c77d5867-7528-4062-8370-700eaf351560@se1.textin.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }

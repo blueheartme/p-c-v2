@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-17T03:00:57.420967",
+  "updated": "2026-06-19T17:51:01.767028",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "89.116.250.135",
-      "port": "80",
-      "id": "69d7ef52-e1bf-441c-a04d-4a4ee24df681",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "",
-      "host": "KUI.fastspeeds.ir",
-      "security": "none",
-      "flow": "",
+      "address": "84.32.25.137",
+      "port": "443",
+      "id": "09da719f-0160-490e-a269-e4d0e4906883",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "lt-vno-2.blook.network",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://69d7ef52-e1bf-441c-a04d-4a4ee24df681@89.116.250.135:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI.fastspeeds.ir&mode=auto&path=%2F&security=none&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-1",
-      "ip": "89.116.250.135",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://09da719f-0160-490e-a269-e4d0e4906883@84.32.25.137:443?security=reality&encryption=none&pbk=ocQPA5ysaQo8n7TkQmPy8iy-m-WSKEMy7gXGnP0Fdic&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lt-vno-2.blook.network&sid=5246981c#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "84.32.25.137",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://69d7ef52-e1bf-441c-a04d-4a4ee24df681@89.116.250.135:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI.fastspeeds.ir&mode=auto&path=%2F&security=none&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+      "rebuilt": "vless://09da719f-0160-490e-a269-e4d0e4906883@84.32.25.137:443?security=reality&encryption=none&pbk=ocQPA5ysaQo8n7TkQmPy8iy-m-WSKEMy7gXGnP0Fdic&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lt-vno-2.blook.network&sid=5246981c#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1"
     }
   ]
 }

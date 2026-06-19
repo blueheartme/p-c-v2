@@ -1,21 +1,36 @@
 {
-  "updated": "2026-06-17T12:13:49.757101",
-  "count": 1,
+  "updated": "2026-06-19T17:51:01.776034",
+  "count": 2,
   "configs": [
     {
       "type": "vmess",
-      "address": "node-fr.connectsuite.org",
+      "address": "51.254.142.162",
+      "port": "2096",
+      "id": "388add20-90e0-40b7-b891-74ed3b817d71",
+      "name": "@meliproxyy",
+      "network": "grpc",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI1MS4yNTQuMTQyLjE2MiIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjM4OGFkZDIwLTkwZTAtNDBiNy1iODkxLTc0ZWQzYjgxN2Q3MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6ImdycGMiLCJwYXRoIjoiYXBpIiwicG9ydCI6IjIwOTYiLCJwcyI6InZtZXNzLWF1dG8tZ3JwYy1ndW4tdGxzLUZS8J+Hq/Cfh7ctMTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=",
+      "ip": "51.254.142.162",
+      "country": "FR",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI1MS4yNTQuMTQyLjE2MiIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjM4OGFkZDIwLTkwZTAtNDBiNy1iODkxLTc0ZWQzYjgxN2Q3MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6ImdycGMiLCJwYXRoIjoiYXBpIiwicG9ydCI6IjIwOTYiLCJwcyI6InZtZXNzLWF1dG8tZ3JwYy1ndW4tdGxzLUZS8J+Hq/Cfh7ctMTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0="
+    },
+    {
+      "type": "vmess",
+      "address": "137.74.119.18",
       "port": "2053",
       "id": "2f4234f9-8f33-4c7f-952f-565ffa5f5fb7",
-      "name": "🇫🇷 FR 1",
+      "name": "🇫🇷 FR 4",
       "network": "tcp",
       "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1GUvCfh6vwn4e3LTE4IiwiYWRkIjoibm9kZS1mci5jb25uZWN0c3VpdGUub3JnIiwicG9ydCI6MjA1MywiaWQiOiIyZjQyMzRmOS04ZjMzLTRjN2YtOTUyZi01NjVmZmE1ZjVmYjciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "sni": "node-fr.connectsuite.org",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1GUvCfh6vwn4e3LTMxIiwiYWRkIjoiMTM3Ljc0LjExOS4xOCIsInBvcnQiOjIwNTMsImlkIjoiMmY0MjM0ZjktOGYzMy00YzdmLTk1MmYtNTY1ZmZhNWY1ZmI3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6Im5vZGUtZnIuY29ubmVjdHN1aXRlLm9yZyIsImZwIjpudWxsfQ==",
       "ip": "137.74.119.18",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1GUvCfh6vwn4e3LTE4IiwiYWRkIjoibm9kZS1mci5jb25uZWN0c3VpdGUub3JnIiwicG9ydCI6MjA1MywiaWQiOiIyZjQyMzRmOS04ZjMzLTRjN2YtOTUyZi01NjVmZmE1ZjVmYjciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1GUvCfh6vwn4e3LTMxIiwiYWRkIjoiMTM3Ljc0LjExOS4xOCIsInBvcnQiOjIwNTMsImlkIjoiMmY0MjM0ZjktOGYzMy00YzdmLTk1MmYtNTY1ZmZhNWY1ZmI3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6Im5vZGUtZnIuY29ubmVjdHN1aXRlLm9yZyIsImZwIjpudWxsfQ=="
     }
   ]
 }

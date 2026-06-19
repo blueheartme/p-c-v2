@@ -1,18 +1,20 @@
 {
-  "updated": "2026-06-19T12:01:43.916191",
+  "updated": "2026-06-19T17:51:01.805903",
   "count": 1,
   "configs": [
     {
       "type": "tg",
-      "address": "193.24.120.41",
-      "port": "80",
-      "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+      "address": "79.175.149.108",
+      "port": "443",
+      "secret": "dd3eeaa8db47c95929171e551a0295b922",
       "name": "",
-      "original": "https://t.me/proxy?server=193.24.120.41&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d&@MPT_Proxy",
-      "ip": "193.24.120.41",
+      "original": "https://t.me/proxy?server=79.175.149.108&port=443&secret=dd3eeaa8db47c95929171e551a0295b922&@MPT_Proxy",
+      "ip": "79.175.149.108",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=193.24.120.41&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d&@MPT_Proxy"
+      "tested": true,
+      "working": true,
+      "rebuilt": "https://t.me/proxy?server=79.175.149.108&port=443&secret=dd3eeaa8db47c95929171e551a0295b922&@MPT_Proxy"
     }
   ]
 }
