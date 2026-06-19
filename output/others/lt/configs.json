@@ -1,26 +1,18 @@
 {
-  "updated": "2026-06-17T03:00:57.387192",
+  "updated": "2026-06-19T12:01:43.860982",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "89.116.250.135",
-      "port": "80",
-      "id": "69d7ef52-e1bf-441c-a04d-4a4ee24df681",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "",
-      "host": "KUI.fastspeeds.ir",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://69d7ef52-e1bf-441c-a04d-4a4ee24df681@89.116.250.135:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI.fastspeeds.ir&mode=auto&path=%2F&security=none&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-1",
-      "ip": "89.116.250.135",
+      "type": "tg",
+      "address": "185.8.104.142",
+      "port": "8443",
+      "secret": "dd104462821249bd7ac519130220c25d09",
+      "name": "",
+      "original": "https://t.me/proxy?server=185.8.104.142&port=8443&secret=dd104462821249bd7ac519130220c25d09&@MPT_Proxy",
+      "ip": "185.8.104.142",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://69d7ef52-e1bf-441c-a04d-4a4ee24df681@89.116.250.135:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI.fastspeeds.ir&mode=auto&path=%2F&security=none&type=xhttp#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+      "rebuilt": "https://t.me/proxy?server=185.8.104.142&port=8443&secret=dd104462821249bd7ac519130220c25d09&@MPT_Proxy"
     }
   ]
 }
