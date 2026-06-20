@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T02:45:26.708382",
+  "updated": "2026-06-20T10:29:33.506487",
   "count": 4,
   "configs": [
     {
@@ -7,41 +7,41 @@
       "address": "ch-2.bexum.fun",
       "port": "443",
       "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
-      "name": "🇨🇿 CZ 178",
-      "sni": "",
+      "name": "🇨🇿 CZ 183",
+      "sni": "ch-2.bexum.fun",
       "host": "",
-      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
+      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?sni=ch-2.bexum.fun&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
       "ip": "46.8.113.142",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?sni=ch-2.bexum.fun&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
     },
     {
       "type": "trojan",
       "address": "46.8.113.142",
       "port": "443",
       "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
-      "name": "🇨🇿 CZ 185",
+      "name": "🇨🇿 CZ 182",
       "sni": "ch-2.bexum.fun",
       "host": "",
-      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&type=tcp&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
       "ip": "46.8.113.142",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&type=tcp&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
     },
     {
       "type": "ss",
       "address": "31.76.7.28",
-      "port": "8388?",
+      "port": "8388",
       "method": "chacha20-ietf-poly1305",
       "password": "cAqbBYBB0f9CAmpU_mc_7FyvvLCcwzt0",
       "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA@31.76.7.28:8388?#@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA@31.76.7.28:8388#@meliproxyy",
       "ip": "31.76.7.28",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA@31.76.7.28:8388?#@meliproxyy"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA@31.76.7.28:8388#@meliproxyy"
     },
     {
       "type": "vless",

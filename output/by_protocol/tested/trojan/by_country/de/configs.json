@@ -1,38 +1,54 @@
 {
-  "updated": "2026-06-20T02:45:26.814955",
-  "count": 5,
+  "updated": "2026-06-20T10:29:33.604854",
+  "count": 6,
   "configs": [
     {
       "type": "trojan",
-      "address": "de-1.hysteria.ltd",
-      "port": "9443",
-      "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
-      "name": "🇩🇪 DE 5",
-      "sni": "",
+      "address": "45.80.111.7",
+      "port": "443",
+      "password": "humanity",
+      "name": "برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn 🪩",
+      "sni": "www.calmlunch.com",
       "host": "",
-      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2",
-      "ip": "94.103.173.70",
+      "original": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1",
+      "ip": "45.80.111.7",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2"
+      "rebuilt": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1"
     },
     {
       "type": "trojan",
       "address": "94.103.173.70",
       "port": "9443",
       "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
-      "name": "🇩🇪 DE 15",
+      "name": "🇩🇪 DE 20",
       "sni": "de-1.hysteria.ltd",
       "host": "",
-      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&sni=de-1.hysteria.ltd&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-17",
+      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&sni=de-1.hysteria.ltd&type=tcp&path=%2f&allow_insecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-11",
       "ip": "94.103.173.70",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&sni=de-1.hysteria.ltd&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-17"
+      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&sni=de-1.hysteria.ltd&type=tcp&path=%2f&allow_insecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-11"
+    },
+    {
+      "type": "trojan",
+      "address": "63.181.146.220",
+      "port": "22223",
+      "password": "telegram-id-directvpn",
+      "name": "OurChannel",
+      "sni": "trojan.burgerip.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-directvpn@63.181.146.220:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-22",
+      "ip": "63.181.146.220",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://telegram-id-directvpn@63.181.146.220:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-22"
     },
     {
       "type": "trojan",
@@ -42,29 +58,29 @@
       "name": "🇩🇪 DE 1",
       "sni": "",
       "host": "",
-      "original": "trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-49",
+      "original": "trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-25",
       "ip": "51.75.86.196",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-49"
+      "rebuilt": "trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-25"
     },
     {
       "type": "trojan",
-      "address": "194.5.193.150",
-      "port": "443",
-      "password": "SoftNetConnect",
-      "name": "@filembad",
-      "sni": "www.yahoo.com",
+      "address": "de-1.hysteria.ltd",
+      "port": "9443",
+      "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
+      "name": "🇩🇪 DE 16",
+      "sni": "",
       "host": "",
-      "original": "trojan://SoftNetConnect@194.5.193.150:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#trojan-xhttp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-59",
-      "ip": "194.5.193.150",
+      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-32",
+      "ip": "94.103.173.70",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://SoftNetConnect@194.5.193.150:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#trojan-xhttp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-59"
+      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-32"
     },
     {
       "type": "trojan",
@@ -74,13 +90,13 @@
       "name": "🇭🇰 HK 1",
       "sni": "",
       "host": "",
-      "original": "trojan://cc7ad2444ad9481b9d038924cc5916cd@191.40.5.169:2087?security=none&type=ws&path=%2f#trojan-ws-DE%F0%9F%87%A9%F0%9F%87%AA-71",
+      "original": "trojan://cc7ad2444ad9481b9d038924cc5916cd@191.40.5.169:2087?security=none&type=ws&path=%2f#trojan-ws-DE%F0%9F%87%A9%F0%9F%87%AA-49",
       "ip": "191.40.5.169",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://cc7ad2444ad9481b9d038924cc5916cd@191.40.5.169:2087?security=none&type=ws&path=%2f#trojan-ws-DE%F0%9F%87%A9%F0%9F%87%AA-71"
+      "rebuilt": "trojan://cc7ad2444ad9481b9d038924cc5916cd@191.40.5.169:2087?security=none&type=ws&path=%2f#trojan-ws-DE%F0%9F%87%A9%F0%9F%87%AA-49"
     }
   ]
 }

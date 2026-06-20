@@ -1,33 +1,7 @@
 {
-  "updated": "2026-06-20T02:45:26.789237",
-  "count": 4,
+  "updated": "2026-06-20T10:29:33.591535",
+  "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "149.22.87.204",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#@meliproxyy",
-      "ip": "149.22.87.204",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "47.79.144.115",
-      "port": "40003",
-      "method": "aes-256-gcm",
-      "password": "GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E@47.79.144.115:40003#@meliproxyy",
-      "ip": "47.79.144.115",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E@47.79.144.115:40003#@meliproxyy"
-    },
     {
       "type": "ss",
       "address": "149.22.87.241",
@@ -43,16 +17,29 @@
     },
     {
       "type": "ss",
-      "address": "149.22.87.240",
+      "address": "149.22.87.204",
       "port": "443",
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#@meliproxyy",
-      "ip": "149.22.87.240",
+      "name": "🇯🇵 JP 1",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201",
+      "ip": "149.22.87.204",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#@meliproxyy"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201"
+    },
+    {
+      "type": "ss",
+      "address": "47.79.144.115",
+      "port": "40003",
+      "method": "aes-256-gcm",
+      "password": "GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E@47.79.144.115:40003#@meliproxyy",
+      "ip": "47.79.144.115",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E@47.79.144.115:40003#@meliproxyy"
     }
   ]
 }
