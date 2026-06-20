@@ -18,16 +18,26 @@ logger = logging.getLogger(__name__)
 class ConfigParser:
     """Parser for different proxy config formats"""
 
+    # ------------------------------------------------------------------
+    #  Helpers
+    # ------------------------------------------------------------------
+
     @staticmethod
     def _safe_base64_decode(data: str) -> str:
         """Helper method to safely decode Base64 strings with various quirks"""
         if not data:
             return ""
 
+        # ممکن است لینک URL-encoded باشد
         data = unquote(data)
+
+        # حذف فاصله‌ها
         data = data.strip()
+
+        # استانداردسازی کاراکترهای URL-safe
         data = data.replace("-", "+").replace("_", "/")
 
+        # اصلاح Padding
         padding = 4 - len(data) % 4
         if padding < 4:
             data += "=" * padding
@@ -48,44 +58,82 @@ class ConfigParser:
         return name.strip()
 
     @staticmethod
+    def _is_printable_ascii(s: str) -> bool:
+        """Check that all chars are printable ASCII (no control / binary)"""
+        return all(32 <= ord(ch) <= 126 for ch in s)
+
+    # ------------------------------------------------------------------
+    #  Main dispatcher
+    # ------------------------------------------------------------------
+
+    @staticmethod
     def parse_config(config: str) -> Optional[Dict]:
         """Parse a proxy config and extract information"""
         try:
             config = config.strip().strip('\'"')
             lower = config.lower()
 
+            # VMess
             if lower.startswith("vmess://"):
                 return ConfigParser._parse_vmess(config)
-            elif lower.startswith("vless://"):
+
+            # VLESS
+            if lower.startswith("vless://"):
                 return ConfigParser._parse_vless(config)
-            elif lower.startswith("trojan://"):
+
+            # TROJAN
+            if lower.startswith("trojan://"):
                 return ConfigParser._parse_trojan(config)
-            elif lower.startswith("ss://"):
+
+            # Shadowsocks
+            if lower.startswith("ss://"):
                 return ConfigParser._parse_shadowsocks(config)
-            elif lower.startswith("ssr://"):
+
+            # SSR
+            if lower.startswith("ssr://"):
                 return ConfigParser._parse_ssr(config)
-            elif lower.startswith("hysteria://") or lower.startswith("hysteria2://"):
+
+            # Hysteria / Hysteria2
+            if lower.startswith("hysteria://") or lower.startswith("hysteria2://"):
                 return ConfigParser._parse_hysteria(config)
-            elif lower.startswith("tuic://"):
+
+            # TUIC
+            if lower.startswith("tuic://"):
                 return ConfigParser._parse_tuic(config)
-            # پروکسی‌های تلگرام
-            elif lower.startswith("tg://proxy?") or lower.startswith(
+
+            # پروکسی‌های تلگرام (tg:// و https://t.me/proxy)
+            if lower.startswith("tg://proxy?") or lower.startswith(
                 "https://t.me/proxy?"
             ):
                 return ConfigParser._parse_tg_proxy(config)
-            # Slipnet (کانفیگ متنی)
-            elif lower.startswith("slipnet"):
+
+            # Slipnet
+            if lower.startswith("slipnet"):
                 return ConfigParser._parse_slipnet(config)
-            # لینک‌های http/https (ممکن است #filename هم داشته باشند)
-            elif lower.startswith("http://") or lower.startswith("https://"):
+
+            # لینک‌های http/https:
+            # - فقط اگر پسوند فایل معتبر داشته باشند (ovpn, npvt, conf, config, txt)
+            # - URLهای ساده مثل https://t.me:443 یا http://1.2.3.4:8080 را نادیده می‌گیریم
+            if lower.startswith("http://") or lower.startswith("https://"):
+                parsed = urlparse(config)
+                path = parsed.path or ""
+                fragment = parsed.fragment or ""
+
+                # اگر هیچ "." در path و fragment نیست، این لینک فایل/کانفیگ نیست → رد
+                if "." not in path and "." not in fragment:
+                    return None
+
                 return ConfigParser._parse_file_link(config)
-            else:
-                return None
+
+            return None
+
         except Exception as e:
             logger.debug(f"Error parsing config: {e}")
             return None
 
-    # ======================= V2Ray / Shadowsocks / ... =======================
+    # ------------------------------------------------------------------
+    #  V2Ray family
+    # ------------------------------------------------------------------
 
     @staticmethod
     def _parse_vmess(config: str) -> Optional[Dict]:
@@ -116,36 +164,59 @@ class ConfigParser:
 
     @staticmethod
     def _parse_vless(config: str) -> Optional[Dict]:
-        """Parse VLESS config (پایدار و کامل‌تر)"""
+        """
+        Parse VLESS config (پایدار و کامل‌تر)
+        """
         try:
+            # اگر از HTML (تلگرام) آمده باشد، &amp; و ... را به شکل عادی برمی‌گردانیم
             cfg_str = html.unescape(config)
             parsed = urlparse(cfg_str)
 
             if parsed.scheme.lower() != "vless":
                 return None
 
+            # uuid معمولاً در قسمت user (قبل از @) است
             uuid = parsed.username or ""
+            # آدرس و پورت
             address = parsed.hostname or ""
             port = str(parsed.port or "")
 
+            # نام (Remark) در fragment است
             name = parsed.fragment or ""
             name = ConfigParser._clean_name(name)
 
+            # پارامترهای query
             params = parse_qs(parsed.query or "")
 
+            # network type: tcp, ws, grpc, xhttp, ...
             network = params.get("type", [""])[0].lower()
+
+            # security: tls, reality, ...
             security = params.get("security", [""])[0].lower()
+
+            # flow (برای reality و ... )
             flow = params.get("flow", [""])[0]
+
+            # encryption: none, ...
             encryption = params.get("encryption", [""])[0].lower()
+
+            # headerType: http, none, ...
             header_type = params.get("headerType", [""])[0].lower()
+
+            # fingerprint: chrome, firefox, ...
             fingerprint = params.get(
                 "fp", params.get("fingerprint", [""])
             )[0].lower()
+
+            # sni
             sni = params.get("sni", [""])[0]
+
+            # header host / authority
             host_header = params.get("host", [""])[0] or params.get(
                 "authority", [""]
             )[0]
 
+            # در برخی لینک‌ها uuid در query با id آمده
             if not uuid:
                 uuid = params.get("id", [""])[0]
 
@@ -197,12 +268,29 @@ class ConfigParser:
             logger.debug(f"Error parsing Trojan: {e}")
             return None
 
+    # ------------------------------------------------------------------
+    #  Shadowsocks / SSR
+    # ------------------------------------------------------------------
+
     @staticmethod
     def _parse_shadowsocks(config: str) -> Optional[Dict]:
-        """Parse Shadowsocks config"""
+        """
+        Parse Shadowsocks config
+
+        پشتیبانی از:
+        1) فرمت SIP002:
+           ss://BASE64(method:password)@host:port#name
+        2) فرمت legacy:
+           ss://BASE64(method:password@host:port)#name
+        3) در صورت لزوم، می‌توانیم ss2022 (بدون base64) را هم اضافه کنیم.
+
+        منطق:
+        - اگر نتوانیم هم method و هم password و هم address و port را مطمئن استخراج کنیم → این کانفیگ ss را رد می‌کنیم.
+        """
         try:
             clean_config = config.replace("ss://", "")
 
+            # 1. جدا کردن نام (Remark)
             name = ""
             if "#" in clean_config:
                 clean_config, name_raw = clean_config.split("#", 1)
@@ -210,39 +298,61 @@ class ConfigParser:
 
             address = ""
             port = ""
-            decoded_info = ""
+            method = ""
+            password = ""
 
+            # 2. اگر @ وجود دارد: userinfo با base64 است (فرمت SIP002)
             if "@" in clean_config:
+                # userinfo@host:port
                 user_info_raw, server_part = clean_config.rsplit("@", 1)
 
-                if ":" in server_part:
-                    address, port = server_part.rsplit(":", 1)
-                    address = address.strip("[]")
-                else:
+                if ":" not in server_part:
                     return None
 
-                decoded_info = ConfigParser._safe_base64_decode(user_info_raw)
+                address, port = server_part.rsplit(":", 1)
+                address = address.strip("[]")
+
+                # user_info_raw = BASE64(method:password)
+                decoded_user = ConfigParser._safe_base64_decode(user_info_raw)
+                if not decoded_user or ":" not in decoded_user:
+                    return None
+
+                method, password = decoded_user.split(":", 1)
 
             else:
+                # 3. حالت legacy: کل رشته base64(method:password@host:port)
                 full_decoded = ConfigParser._safe_base64_decode(clean_config)
-
-                if "@" in full_decoded:
-                    decoded_info, server_part = full_decoded.rsplit("@", 1)
-                    if ":" in server_part:
-                        address, port = server_part.rsplit(":", 1)
-                    else:
-                        return None
-                else:
+                if not full_decoded:
                     return None
 
-            if not decoded_info:
+                # انتظار: method:password@host:port
+                if "@" not in full_decoded:
+                    return None
+
+                creds, server_part = full_decoded.rsplit("@", 1)
+                if ":" not in server_part:
+                    return None
+
+                address, port = server_part.rsplit(":", 1)
+
+                if ":" not in creds:
+                    return None
+                method, password = creds.split(":", 1)
+
+            # حالا باید method, password, address, port همگی قابل‌اعتماد باشند:
+
+            if not address or not port or not method or not password:
                 return None
 
-            if ":" in decoded_info:
-                method, password = decoded_info.split(":", 1)
-            else:
-                method = decoded_info
-                password = ""
+            # method باید فقط حروف/عدد/نقطه/خط تیره/خط زیرین/علامت + داشته باشد
+            if not re.fullmatch(r"[0-9A-Za-z._+\-]+", method):
+                logger.debug(f"Invalid Shadowsocks method: {method!r} in {config!r}")
+                return None
+
+            # password نباید حاوی کاراکترهای کنترلی یا غیرچاپی باشد
+            if not ConfigParser._is_printable_ascii(password):
+                logger.debug(f"Invalid Shadowsocks password in {config!r}")
+                return None
 
             return {
                 "type": "ss",
@@ -282,9 +392,13 @@ class ConfigParser:
             logger.debug(f"Error parsing SSR: {e}")
             return None
 
+    # ------------------------------------------------------------------
+    #  Hysteria / TUIC
+    # ------------------------------------------------------------------
+
     @staticmethod
     def _parse_hysteria(config: str) -> Optional[Dict]:
-        """Parse Hysteria config"""
+        """Parse Hysteria / Hysteria2 config"""
         try:
             parsed = urlparse(config)
             name = parsed.fragment if parsed.fragment else ""
@@ -318,7 +432,9 @@ class ConfigParser:
             logger.debug(f"Error parsing TUIC: {e}")
             return None
 
-    # ======================= Telegram proxy (tg://proxy) =======================
+    # ------------------------------------------------------------------
+    #  Telegram proxy (tg://proxy)
+    # ------------------------------------------------------------------
 
     @staticmethod
     def _parse_tg_proxy(config: str) -> Optional[Dict]:
@@ -331,10 +447,12 @@ class ConfigParser:
             path = (parsed.path or "").lower()
 
             if scheme == "tg" and parsed.path.lower().startswith("proxy"):
+                # tg://proxy?server=...&port=...&secret=...
                 query = parsed.query or ""
             elif scheme in ("http", "https") and netloc == "t.me" and path.startswith(
                 "/proxy"
             ):
+                # https://t.me/proxy?server=...&port=...&secret=...
                 query = parsed.query or ""
             else:
                 return None
@@ -345,6 +463,7 @@ class ConfigParser:
             port = params.get("port", [""])[0]
             secret = params.get("secret", [""])[0]
 
+            # name می‌تواند در query (پارامتر name) یا در fragment باشد
             name = params.get("name", [parsed.fragment or ""])[0]
             name = ConfigParser._clean_name(name)
 
@@ -364,12 +483,15 @@ class ConfigParser:
             logger.debug(f"Error parsing Telegram proxy: {e}")
             return None
 
-    # ======================= Slipnet =======================
+    # ------------------------------------------------------------------
+    #  Slipnet
+    # ------------------------------------------------------------------
 
     @staticmethod
     def _parse_slipnet(config: str) -> Optional[Dict]:
         """
         Parse Slipnet config.
+
         فعلاً فقط خود رشته‌ی کانفیگ را نگه می‌داریم.
         """
         try:
@@ -390,7 +512,9 @@ class ConfigParser:
             logger.debug(f"Error parsing Slipnet: {e}")
             return None
 
-    # ======================= File-based configs =======================
+    # ------------------------------------------------------------------
+    #  File-based configs (.ovpn / .npvt / .config / .txt)
+    # ------------------------------------------------------------------
 
     @staticmethod
     def _parse_file_link(config: str) -> Optional[Dict]:
@@ -402,6 +526,8 @@ class ConfigParser:
           - .txt (فایل متنی)
 
         پسوند هم از path و هم از fragment (مثلاً #@proxy_kafee🚀🌜.ovpn) بررسی می‌شود.
+
+        لینک‌های ساده بدون پسوند (مثل https://t.me:443) این‌جا نمی‌آیند، چون در parse_config رد شده‌اند.
         """
         try:
             url = config.strip().strip('\'"')
