@@ -1,21 +1,7 @@
 {
-  "updated": "2026-06-19T17:51:01.797418",
+  "updated": "2026-06-20T02:45:26.777447",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "78.159.131.12",
-      "port": "28259",
-      "password": "MeaDiUmPlkWbZJ2BON8tz",
-      "name": "🇦🇱 AL 3",
-      "sni": "ads.x5.ru",
-      "host": "",
-      "original": "trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=ads.x5.ru&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-19",
-      "ip": "78.159.131.12",
-      "country": "NL",
-      "cdn": null,
-      "rebuilt": "trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=ads.x5.ru&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-19"
-    },
     {
       "type": "trojan",
       "address": "144.31.55.10",
@@ -24,11 +10,25 @@
       "name": "🇳🇱 NL 2",
       "sni": "www.spotwebs.click",
       "host": "",
-      "original": "trojan://c-SRHpnT4DGR3W3W639LbOUKHYR.Ls71kU@144.31.55.10:10295?security=tls&sni=www.spotwebs.click&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-26",
+      "original": "trojan://c-SRHpnT4DGR3W3W639LbOUKHYR.Ls71kU@144.31.55.10:10295?security=tls&sni=www.spotwebs.click&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-25",
       "ip": "144.31.55.10",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://c-SRHpnT4DGR3W3W639LbOUKHYR.Ls71kU@144.31.55.10:10295?security=tls&sni=www.spotwebs.click&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-26"
+      "rebuilt": "trojan://c-SRHpnT4DGR3W3W639LbOUKHYR.Ls71kU@144.31.55.10:10295?security=tls&sni=www.spotwebs.click&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-25"
+    },
+    {
+      "type": "trojan",
+      "address": "78.159.131.12",
+      "port": "28259",
+      "password": "MeaDiUmPlkWbZJ2BON8tz",
+      "name": "🇦🇱 AL 2",
+      "sni": "",
+      "host": "",
+      "original": "trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-66",
+      "ip": "78.159.131.12",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-66"
     }
   ]
 }
