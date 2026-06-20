@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-18T11:47:50.970996",
+  "updated": "2026-06-20T17:06:13.859266",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "88.216.67.230",
-      "port": "443",
-      "id": "15767113-9f48-b71b-718c-d36fdae8b8c6",
-      "name": "@filembad",
+      "address": "cdn4.sudonetwork.com",
+      "port": "2096",
+      "id": "b2c5c367-4530-4ee4-92e7-6ac0d2a97980",
+      "name": "@meliproxyy",
       "network": "ws",
-      "sni": "camrz1.nekagsm.com",
-      "host": "",
+      "sni": "fiterchinakoooon.sudonetwork.com",
+      "host": "fiterchinakoooon.sudonetwork.com",
       "security": "tls",
       "flow": "",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://15767113-9f48-b71b-718c-d36fdae8b8c6@88.216.67.230:443?security=tls&type=ws&path=%2F&sni=camrz1.nekagsm.com#vless-ws-tls-CW%F0%9F%87%A8%F0%9F%87%BC-1",
+      "fingerprint": "firefox",
+      "original": "vless://b2c5c367-4530-4ee4-92e7-6ac0d2a97980@cdn4.sudonetwork.com:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=fiterchinakoooon.sudonetwork.com&fp=firefox&type=ws&allowInsecure=0&sni=fiterchinakoooon.sudonetwork.com#vless-ws-tls-firefox-CW%F0%9F%87%A8%F0%9F%87%BC-1",
       "ip": "88.216.67.230",
       "country": "CW",
       "cdn": null,
-      "rebuilt": "vless://15767113-9f48-b71b-718c-d36fdae8b8c6@88.216.67.230:443?security=tls&type=ws&path=%2F&sni=camrz1.nekagsm.com#vless-ws-tls-CW%F0%9F%87%A8%F0%9F%87%BC-1"
+      "rebuilt": "vless://b2c5c367-4530-4ee4-92e7-6ac0d2a97980@cdn4.sudonetwork.com:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=fiterchinakoooon.sudonetwork.com&fp=firefox&type=ws&allowInsecure=0&sni=fiterchinakoooon.sudonetwork.com#vless-ws-tls-firefox-CW%F0%9F%87%A8%F0%9F%87%BC-1"
     }
   ]
 }

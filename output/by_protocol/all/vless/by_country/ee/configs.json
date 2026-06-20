@@ -1,46 +1,26 @@
 {
-  "updated": "2026-06-15T13:50:13.696064",
-  "count": 2,
+  "updated": "2026-06-20T17:06:13.907846",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "centos.ubuntuhosting.host",
+      "address": "cdn2-09.cdn-vkvideo.com",
       "port": "443",
-      "id": "8871d6a1-85cf-4588-b6f5-830043781ee9",
-      "name": "🇪🇪 EE 1",
-      "network": "grpc",
-      "sni": "centos.ubuntuhosting.host",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://8871d6a1-85cf-4588-b6f5-830043781ee9@centos.ubuntuhosting.host:443?security=reality&encryption=none&sni=centos.ubuntuhosting.host&fp=chrome&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&type=grpc&headerType=none&serviceName=gun&path=%2f#vless-grpc-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1",
-      "ip": "38.180.230.147",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://8871d6a1-85cf-4588-b6f5-830043781ee9@centos.ubuntuhosting.host:443?security=reality&encryption=none&sni=centos.ubuntuhosting.host&fp=chrome&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&type=grpc&headerType=none&serviceName=gun&path=%2f#vless-grpc-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "150.241.101.222",
-      "port": "443",
-      "id": "749a5df1-2d12-45cf-80f3-f85ea6b2e405",
-      "name": "➡️🍑🍌⬅️(1)@proxy_kafee",
+      "id": "9a2573c5-936f-4f93-8409-e43164793176",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "google.com",
+      "sni": "cdn2-09.cdn-vkvideo.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-2",
-      "ip": "150.241.101.222",
+      "fingerprint": "firefox",
+      "original": "vless://9a2573c5-936f-4f93-8409-e43164793176@cdn2-09.cdn-vkvideo.com:443?security=reality&encryption=none&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&headerType=none&fp=firefox&spx=%2Fapi%2Fv1%2Fvideo%2Finit&type=tcp&flow=xtls-rprx-vision&sni=cdn2-09.cdn-vkvideo.com&sid=b0d8f964b7ac8ac0#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-1",
+      "ip": "138.124.100.10",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-2"
+      "rebuilt": "vless://9a2573c5-936f-4f93-8409-e43164793176@cdn2-09.cdn-vkvideo.com:443?security=reality&encryption=none&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&headerType=none&fp=firefox&spx=%2Fapi%2Fv1%2Fvideo%2Finit&type=tcp&flow=xtls-rprx-vision&sni=cdn2-09.cdn-vkvideo.com&sid=b0d8f964b7ac8ac0#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-1"
     }
   ]
 }
