@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-21T11:12:41.142686",
+  "updated": "2026-06-21T17:23:55.763706",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "132.243.65.121",
+      "address": "45.80.108.236",
       "port": "443",
-      "id": "dd47f0f6-e503-44d5-8243-0f48c1c20c28",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
+      "id": "48ba1134-5f61-5d52-d902-195aec4a0191",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "namystelf.awdadsaw1311321.workers.dev",
+      "host": "namystelf.awdadsaw1311321.workers.dev",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#vless-grpc-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1",
-      "ip": "132.243.65.121",
+      "original": "vless://48ba1134-5f61-5d52-d902-195aec4a0191@45.80.108.236:443?encryption=none&type=ws&security=tls&path=%2Fsync&host=namystelf.awdadsaw1311321.workers.dev&sni=namystelf.awdadsaw1311321.workers.dev&fp=chrome&insecure=1&allowInsecure=1#vless-ws-tls-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1",
+      "ip": "45.80.108.236",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#vless-grpc-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+      "rebuilt": "vless://48ba1134-5f61-5d52-d902-195aec4a0191@45.80.108.236:443?encryption=none&type=ws&security=tls&path=%2Fsync&host=namystelf.awdadsaw1311321.workers.dev&sni=namystelf.awdadsaw1311321.workers.dev&fp=chrome&insecure=1&allowInsecure=1#vless-ws-tls-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1"
     }
   ]
 }

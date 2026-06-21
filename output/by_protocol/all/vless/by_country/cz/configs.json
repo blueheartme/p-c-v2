@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-20T10:29:33.569132",
+  "updated": "2026-06-21T17:23:55.793621",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "31.76.7.28",
+      "address": "193.93.194.61",
       "port": "443",
-      "id": "b6f29f8d-016e-4f30-b57f-c0cdafab2a40",
+      "id": "5c417415-5c79-4447-a8bd-fd9f73a89fb9",
       "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "ads.x5.ru",
+      "sni": "www.microsoft.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://b6f29f8d-016e-4f30-b57f-c0cdafab2a40@31.76.7.28:443?security=reality&encryption=none&fm=%7B%22fragment%22%3A%7B%22length%22%3A%2250-100%22%2C%22packets%22%3A%22tlshello%22%2C%22interval%22%3A%2210-20%22%7D%7D&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-4",
-      "ip": "31.76.7.28",
+      "original": "vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?security=reality&encryption=none&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
+      "ip": "193.93.194.61",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://b6f29f8d-016e-4f30-b57f-c0cdafab2a40@31.76.7.28:443?security=reality&encryption=none&fm=%7B%22fragment%22%3A%7B%22length%22%3A%2250-100%22%2C%22packets%22%3A%22tlshello%22%2C%22interval%22%3A%2210-20%22%7D%7D&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-4"
+      "rebuilt": "vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?security=reality&encryption=none&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
     }
   ]
 }
