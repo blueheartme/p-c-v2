@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T03:26:38.551653",
+  "updated": "2026-06-21T11:12:41.211661",
   "count": 5,
   "configs": [
     {
@@ -17,16 +17,16 @@
     },
     {
       "type": "ss",
-      "address": "47.79.144.115",
-      "port": "40003",
-      "method": "aes-256-gcm",
-      "password": "GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA",
-      "name": "🇯🇵 JP 2",
-      "original": "ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#%f0%9f%87%af%f0%9f%87%b5%20JP%202",
-      "ip": "47.79.144.115",
+      "address": "149.22.87.241",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇯🇵 JP 3",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%203",
+      "ip": "149.22.87.241",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#%f0%9f%87%af%f0%9f%87%b5%20JP%202"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%203"
     },
     {
       "type": "ss",
@@ -56,16 +56,16 @@
     },
     {
       "type": "ss",
-      "address": "149.22.87.241",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇯🇵 JP 3",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%203",
-      "ip": "149.22.87.241",
+      "address": "47.79.144.115",
+      "port": "40003",
+      "method": "aes-256-gcm",
+      "password": "GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA",
+      "name": "🇯🇵 JP 2",
+      "original": "ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#%f0%9f%87%af%f0%9f%87%b5%20JP%202",
+      "ip": "47.79.144.115",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%203"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#%f0%9f%87%af%f0%9f%87%b5%20JP%202"
     }
   ]
 }
