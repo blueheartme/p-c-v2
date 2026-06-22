@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-16T12:49:38.534254",
+  "updated": "2026-06-22T19:24:55.626712",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "45.89.106.4",
-      "port": "443",
-      "id": "ee6ca40f-57e4-5943-8e4c-7a9b911aff44",
+      "address": "45.89.106.99",
+      "port": "40443",
+      "id": "df724c8a-5c5a-4859-974e-6e911b14955c",
       "name": "🇮🇳 IN 2",
       "network": "tcp",
-      "sni": "microsoft.com",
-      "host": "/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI",
+      "sni": "deepl.com",
+      "host": "",
       "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&type=tcp&headerType=none&host=%2f%3fBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2f&allow_insecure=1#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "45.89.106.4",
+      "original": "vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&sid=a852&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "45.89.106.99",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&type=tcp&headerType=none&host=%2f%3fBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2f&allow_insecure=1#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&sid=a852&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }

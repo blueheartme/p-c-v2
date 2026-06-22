@@ -1,26 +1,46 @@
 {
-  "updated": "2026-06-22T13:30:19.152159",
-  "count": 1,
+  "updated": "2026-06-22T19:24:55.617688",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "95.173.199.80",
+      "address": "77.81.98.70",
+      "port": "443",
+      "id": "43488128-319e-f480-64ea-0acdc712e2a8",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.aliexpress.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#vless-xtls-rprx-vision-tcp-reality-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "ip": "77.81.98.70",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#vless-xtls-rprx-vision-tcp-reality-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+    },
+    {
+      "type": "vless",
+      "address": "95.173.199.98",
       "port": "8443",
       "id": "394f6981-a782-4779-9a85-e6cf22935d93",
-      "name": "@YamYamProxy 🇮🇹",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "buh-ro-01.fromblancwithlove.com",
-      "host": "/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy",
+      "sni": "ams1.fromblancwithlove.com",
+      "host": "",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&type=tcp&allowInsecure=0&sni=buh-ro-01.fromblancwithlove.com#vless-tcp-tls-RO%F0%9F%87%B7%F0%9F%87%B4-1",
-      "ip": "95.173.199.80",
+      "fingerprint": "chrome",
+      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.98:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&type=tcp&headerType=none#vless-tcp-tls-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-2",
+      "ip": "95.173.199.98",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&type=tcp&allowInsecure=0&sni=buh-ro-01.fromblancwithlove.com#vless-tcp-tls-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.98:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&type=tcp&headerType=none#vless-tcp-tls-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-2"
     }
   ]
 }

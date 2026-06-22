@@ -1,27 +1,7 @@
 {
-  "updated": "2026-06-22T13:30:19.112571",
-  "count": 2,
+  "updated": "2026-06-22T19:24:55.584690",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "156.243.83.52",
-      "port": "8443",
-      "id": "8525fe74-67e6-4a55-8a26-95f227bd1384",
-      "name": "channel→@networld_vpn",
-      "network": "ws",
-      "sni": "weathered-brook-18b6.alvlirm741.workers.dev",
-      "host": "weathered-brook-18b6.alvlirm741.workers.dev",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.243.83.52:8443/?type=ws&encryption=none&flow=&host=weathered-brook-18b6.alvlirm741.workers.dev&path=%2Fproxyip%3D212.193.35.100%2C185.218.0.16%2C83.147.255.88%2C138.124.255.49%2C185.147.26.135%2C79.174.80.62%2C185.72.145.79%2C82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev#vless-ws-tls-PT%F0%9F%87%B5%F0%9F%87%B9-1",
-      "ip": "156.243.83.52",
-      "country": "PT",
-      "cdn": null,
-      "rebuilt": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.243.83.52:8443/?type=ws&encryption=none&flow=&host=weathered-brook-18b6.alvlirm741.workers.dev&path=%2Fproxyip%3D212.193.35.100%2C185.218.0.16%2C83.147.255.88%2C138.124.255.49%2C185.147.26.135%2C79.174.80.62%2C185.72.145.79%2C82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev#vless-ws-tls-PT%F0%9F%87%B5%F0%9F%87%B9-1"
-    },
     {
       "type": "vless",
       "address": "95.93.3.5",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-2",
+      "original": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1",
       "ip": "95.93.3.5",
       "country": "PT",
       "cdn": null,
-      "rebuilt": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-2"
+      "rebuilt": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1"
     }
   ]
 }

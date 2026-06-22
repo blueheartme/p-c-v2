@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-22T13:30:19.109992",
+  "updated": "2026-06-22T19:24:55.583344",
   "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "108.181.121.226",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "WSyL4XTwNsdv",
+      "name": "🇪🇸 ES 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%201",
+      "ip": "108.181.121.226",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%201"
+    },
     {
       "type": "vless",
       "address": "94.249.176.68",
@@ -16,11 +29,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14@94.249.176.68:443?encryption=none&type=tcp&security=tls&headerType=none&sni=spain1.potatosubge20.org&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-tls-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "original": "vless://a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14@94.249.176.68:443?encryption=none&type=tcp&security=tls&headerType=none&sni=spain1.potatosubge20.org&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-tls-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2",
       "ip": "94.249.176.68",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14@94.249.176.68:443?encryption=none&type=tcp&security=tls&headerType=none&sni=spain1.potatosubge20.org&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-tls-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "vless://a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14@94.249.176.68:443?encryption=none&type=tcp&security=tls&headerType=none&sni=spain1.potatosubge20.org&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-tls-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     },
     {
       "type": "ss",
@@ -49,31 +62,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "original": "vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?encryption=none&type=tcp&security=reality&headerType=none&sni=www.googletagmanager.com&fp=chrome&insecure=1&allowInsecure=1&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-4",
       "ip": "5.180.173.222",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-3"
-    },
-    {
-      "type": "vless",
-      "address": "free06.tunnely.ru",
-      "port": "8080",
-      "id": "111aa362-0fbe-43a6-a2c0-94bbdbd8d980",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://111aa362-0fbe-43a6-a2c0-94bbdbd8d980@free06.tunnely.ru:8080?encryption=none&path=%2Fws%2F&security=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-4",
-      "ip": "138.124.62.30",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://111aa362-0fbe-43a6-a2c0-94bbdbd8d980@free06.tunnely.ru:8080?encryption=none&path=%2Fws%2F&security=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-4"
+      "rebuilt": "vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?encryption=none&type=tcp&security=reality&headerType=none&sni=www.googletagmanager.com&fp=chrome&insecure=1&allowInsecure=1&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-4"
     }
   ]
 }

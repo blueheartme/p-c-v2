@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T13:30:19.162850",
-  "count": 1,
+  "updated": "2026-06-22T19:24:55.602522",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -10,11 +10,25 @@
       "name": "🇦🇹 AT 2",
       "sni": "185.126.236.190",
       "host": "",
-      "original": "trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&sni=185.126.236.190&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "original": "trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&sni=185.126.236.190&path=%2f#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
       "ip": "185.126.236.190",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&sni=185.126.236.190&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&sni=185.126.236.190&path=%2f#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "trojan",
+      "address": "185.126.236.44",
+      "port": "443",
+      "password": "BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL",
+      "name": "🇦🇹 AT 8",
+      "sni": "www.mesaly.click",
+      "host": "",
+      "original": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?sni=www.mesaly.click&fp=chrome&path=%2f#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "185.126.236.44",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?sni=www.mesaly.click&fp=chrome&path=%2f#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     }
   ]
 }
