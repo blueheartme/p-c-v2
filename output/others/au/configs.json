@@ -1,26 +1,18 @@
 {
-  "updated": "2026-06-20T10:29:33.523284",
+  "updated": "2026-06-22T13:30:19.114235",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "103.160.204.239",
+      "type": "tg",
+      "address": "okey.miresadandrooz.info.",
       "port": "443",
-      "id": "b73c4e65-46f0-4949-ac8c-a437ef6bc6e6",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "site.iotem.workers.dev",
-      "host": "site.iotem.workers.dev",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://b73c4e65-46f0-4949-ac8c-a437ef6bc6e6@103.160.204.239:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=1&host=site.iotem.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=site.iotem.workers.dev#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "103.160.204.239",
+      "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=okey.miresadandrooz.info.&port=443&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+      "ip": "1.1.1.1",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://b73c4e65-46f0-4949-ac8c-a437ef6bc6e6@103.160.204.239:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=1&host=site.iotem.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=site.iotem.workers.dev#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "https://t.me/proxy?server=okey.miresadandrooz.info.&port=443&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
     }
   ]
 }

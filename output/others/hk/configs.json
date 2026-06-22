@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T03:32:27.182180",
-  "count": 2,
+  "updated": "2026-06-22T13:30:19.106100",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
@@ -23,10 +23,30 @@
       "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
       "name": "",
       "original": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-      "ip": "77.93.136.232",
+      "ip": "77.93.136.248",
       "country": "HK",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d"
+    },
+    {
+      "type": "vless",
+      "address": "103.166.127.195",
+      "port": "448",
+      "id": "8224aa92-4a38-4756-a7d9-a9e7cde12a31",
+      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "tcp",
+      "sni": "www.samsung.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://8224aa92-4a38-4756-a7d9-a9e7cde12a31@103.166.127.195:448?security=reality&encryption=none&pbk=nE2H52_rX3dHXENKxpHFDfZPKP40AjGoHyJv9olrr20&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=124107a81dcd5199#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "103.166.127.195",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://8224aa92-4a38-4756-a7d9-a9e7cde12a31@103.166.127.195:448?security=reality&encryption=none&pbk=nE2H52_rX3dHXENKxpHFDfZPKP40AjGoHyJv9olrr20&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=124107a81dcd5199#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }
