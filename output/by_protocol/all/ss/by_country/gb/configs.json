@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-21T17:23:55.827028",
-  "count": 4,
+  "updated": "2026-06-22T03:32:27.242953",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "141.98.101.182",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "United Kingdom M247",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
+      "ip": "141.98.101.182",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
+    },
     {
       "type": "ss",
       "address": "94.156.250.148",
@@ -14,32 +27,6 @@
       "country": "GB",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%E2%98%91%E2%9E%9C%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86%3A%20Express_freevpn%40"
-    },
-    {
-      "type": "ss",
-      "address": "78.129.155.63",
-      "port": "3030?",
-      "method": "aes-256-gcm",
-      "password": "kSLjbrBc84",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206a1NMamJyQmM4NA@78.129.155.63:3030?#@meliproxyy",
-      "ip": "78.129.155.63",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206a1NMamJyQmM4NA@78.129.155.63:3030?#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "141.98.101.182",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "proxymelimon",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#proxymelimon",
-      "ip": "141.98.101.182",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#proxymelimon"
     },
     {
       "type": "ss",

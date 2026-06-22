@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T17:23:55.800898",
-  "count": 2,
+  "updated": "2026-06-22T03:32:27.219888",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,6 +24,26 @@
     },
     {
       "type": "vless",
+      "address": "94.249.176.68",
+      "port": "443",
+      "id": "a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14",
+      "name": "🇩🇪DE-🚀@proxy_kafee",
+      "network": "tcp",
+      "sni": "spain1.potatosubge20.org",
+      "host": "",
+      "security": "tls",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14@94.249.176.68:443?encryption=none&type=tcp&security=tls&headerType=none&sni=spain1.potatosubge20.org&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-tls-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "ip": "94.249.176.68",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14@94.249.176.68:443?encryption=none&type=tcp&security=tls&headerType=none&sni=spain1.potatosubge20.org&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-tls-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+    },
+    {
+      "type": "vless",
       "address": "free06.tunnely.ru",
       "port": "8080",
       "id": "111aa362-0fbe-43a6-a2c0-94bbdbd8d980",
@@ -36,11 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://111aa362-0fbe-43a6-a2c0-94bbdbd8d980@free06.tunnely.ru:8080?encryption=none&path=%2Fws%2F&security=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "original": "vless://111aa362-0fbe-43a6-a2c0-94bbdbd8d980@free06.tunnely.ru:8080?encryption=none&path=%2Fws%2F&security=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-4",
       "ip": "138.124.62.30",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://111aa362-0fbe-43a6-a2c0-94bbdbd8d980@free06.tunnely.ru:8080?encryption=none&path=%2Fws%2F&security=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+      "rebuilt": "vless://111aa362-0fbe-43a6-a2c0-94bbdbd8d980@free06.tunnely.ru:8080?encryption=none&path=%2Fws%2F&security=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-4"
     }
   ]
 }

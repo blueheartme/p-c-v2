@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T17:23:55.741041",
+  "updated": "2026-06-22T03:32:27.166208",
   "count": 3,
   "configs": [
     {
@@ -7,28 +7,14 @@
       "address": "46.8.113.142",
       "port": "443",
       "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
-      "name": "🇨🇿 CZ 14",
+      "name": "🇨🇿 CZ 13",
       "sni": "ch-2.bexum.fun",
       "host": "",
-      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
+      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
       "ip": "46.8.113.142",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
-    },
-    {
-      "type": "trojan",
-      "address": "ch-2.bexum.fun",
-      "port": "443",
-      "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
-      "name": "🇨🇿 CZ 8",
-      "sni": "ch-2.bexum.fun",
-      "host": "",
-      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
-      "ip": "46.8.113.142",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
     },
     {
       "type": "vless",
@@ -44,11 +30,25 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?security=reality&encryption=none&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
+      "original": "vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?security=reality&encryption=none&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
       "ip": "193.93.194.61",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?security=reality&encryption=none&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
+      "rebuilt": "vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?security=reality&encryption=none&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+    },
+    {
+      "type": "trojan",
+      "address": "ch-2.bexum.fun",
+      "port": "443",
+      "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
+      "name": "🇨🇿 CZ 8",
+      "sni": "ch-2.bexum.fun",
+      "host": "",
+      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
+      "ip": "46.8.113.142",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
     }
   ]
 }

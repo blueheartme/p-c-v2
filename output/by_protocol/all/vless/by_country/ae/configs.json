@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-21T17:23:55.794913",
+  "updated": "2026-06-22T03:32:27.218557",
   "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "94.140.0.255",
+      "port": "443",
+      "id": "78485147-82d0-4fc4-80cf-dd08c54bbaa1",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "",
+      "host": "mozconfigs.mohammadaz2sub.ir",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?path=%2Fws%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=mozconfigs.mohammadaz2sub.ir&fp=chrome&ech=udp%3A%2F%2F1.1.1.1%3A53&type=ws&allowInsecure=0#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "94.140.0.255",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?path=%2Fws%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=mozconfigs.mohammadaz2sub.ir&fp=chrome&ech=udp%3A%2F%2F1.1.1.1%3A53&type=ws&allowInsecure=0#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
     {
       "type": "vless",
       "address": "109.61.18.135",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?encryption=none&type=tcp&security=reality&headerType=none&sni=www.wechat.com&fp=chrome&insecure=1&allowInsecure=1&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&sid=a7&spx=%2FqEkmsqpbLOu9tps#vless-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "original": "vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?encryption=none&type=tcp&security=reality&headerType=none&sni=www.wechat.com&fp=chrome&insecure=1&allowInsecure=1&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&sid=a7&spx=%2FqEkmsqpbLOu9tps#vless-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
       "ip": "109.61.18.135",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?encryption=none&type=tcp&security=reality&headerType=none&sni=www.wechat.com&fp=chrome&insecure=1&allowInsecure=1&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&sid=a7&spx=%2FqEkmsqpbLOu9tps#vless-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?encryption=none&type=tcp&security=reality&headerType=none&sni=www.wechat.com&fp=chrome&insecure=1&allowInsecure=1&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&sid=a7&spx=%2FqEkmsqpbLOu9tps#vless-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     },
     {
       "type": "vless",
@@ -36,31 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "38.180.26.28",
+      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "176.97.78.29",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
-    },
-    {
-      "type": "vless",
-      "address": "94.140.0.255",
-      "port": "443",
-      "id": "78485147-82d0-4fc4-80cf-dd08c54bbaa1",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "",
-      "host": "mozconfigs.mohammadaz2sub.ir",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?path=%2Fws%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=mozconfigs.mohammadaz2sub.ir&fp=chrome&ech=udp%3A%2F%2F1.1.1.1%3A53&type=ws&allowInsecure=0#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3",
-      "ip": "94.140.0.255",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?path=%2Fws%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=mozconfigs.mohammadaz2sub.ir&fp=chrome&ech=udp%3A%2F%2F1.1.1.1%3A53&type=ws&allowInsecure=0#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     }
   ]
 }
