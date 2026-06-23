@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T19:24:55.584690",
-  "count": 1,
+  "updated": "2026-06-23T02:38:53.675942",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "PT",
       "cdn": null,
       "rebuilt": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "156.243.83.52",
+      "port": "8443",
+      "id": "8525fe74-67e6-4a55-8a26-95f227bd1384",
+      "name": "🏳️ Jafar | 🛡️🔥 164ms",
+      "network": "ws",
+      "sni": "weathered-brook-18b6.alvlirm741.workers.dev",
+      "host": "weathered-brook-18b6.alvlirm741.workers.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.243.83.52:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=weathered-brook-18b6.alvlirm741.workers.dev&path=/proxyip=212.193.35.100,185.218.0.16,83.147.255.88,138.124.255.49,185.147.26.135,79.174.80.62,185.72.145.79,82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev&type=ws#vless-ws-tls-PT%F0%9F%87%B5%F0%9F%87%B9-2",
+      "ip": "156.243.83.52",
+      "country": "PT",
+      "cdn": null,
+      "rebuilt": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.243.83.52:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=weathered-brook-18b6.alvlirm741.workers.dev&path=/proxyip=212.193.35.100,185.218.0.16,83.147.255.88,138.124.255.49,185.147.26.135,79.174.80.62,185.72.145.79,82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev&type=ws#vless-ws-tls-PT%F0%9F%87%B5%F0%9F%87%B9-2"
     }
   ]
 }

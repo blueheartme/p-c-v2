@@ -1,26 +1,19 @@
 {
-  "updated": "2026-06-22T13:30:19.115863",
+  "updated": "2026-06-23T02:38:53.676726",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.80.108.236",
-      "port": "443",
-      "id": "48ba1134-5f61-5d52-d902-195aec4a0191",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "namystelf.awdadsaw1311321.workers.dev",
-      "host": "namystelf.awdadsaw1311321.workers.dev",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://48ba1134-5f61-5d52-d902-195aec4a0191@45.80.108.236:443?encryption=none&type=ws&security=tls&path=%2Fsync&host=namystelf.awdadsaw1311321.workers.dev&sni=namystelf.awdadsaw1311321.workers.dev&fp=chrome&insecure=1&allowInsecure=1#vless-ws-tls-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1",
-      "ip": "45.80.108.236",
+      "type": "ss",
+      "address": "45.129.96.62",
+      "port": "41348",
+      "method": "chacha20-ietf-poly1305",
+      "password": "6U3psR0sQuQxWXoBHB4KTD3YacwQwS21XvSEy9",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#%40filembad",
+      "ip": "45.129.96.62",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://48ba1134-5f61-5d52-d902-195aec4a0191@45.80.108.236:443?encryption=none&type=ws&security=tls&path=%2Fsync&host=namystelf.awdadsaw1311321.workers.dev&sni=namystelf.awdadsaw1311321.workers.dev&fp=chrome&insecure=1&allowInsecure=1#vless-ws-tls-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#%40filembad"
     }
   ]
 }

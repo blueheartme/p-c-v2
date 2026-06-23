@@ -1,21 +1,19 @@
 {
-  "updated": "2026-06-09T10:56:31.985538",
+  "updated": "2026-06-23T02:38:53.683990",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "61.245.11.60",
-      "port": "80",
-      "id": "a3e3a710-79f8-4ae0-b83c-607aab40d197",
+      "type": "ss",
+      "address": "149.104.109.74",
+      "port": "21273",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Ll6cYfXM5DzQbdtMMb72A_jqVnNljU3yqe",
       "name": "🇵🇭 PH 1",
-      "network": "ws",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtUEjwn4e18J+HrS0xIiwiYWRkIjoiNjEuMjQ1LjExLjYwIiwicG9ydCI6ODAsImlkIjoiYTNlM2E3MTAtNzlmOC00YWUwLWI4M2MtNjA3YWFiNDBkMTk3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "61.245.11.60",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbDZjWWZYTTVEelFiZHRNTWI3MkFfanFWbk5salUzeXFl@149.104.109.74:21273#%f0%9f%87%b5%f0%9f%87%ad%20PH%201",
+      "ip": "149.104.109.74",
       "country": "PH",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtUEjwn4e18J+HrS0xIiwiYWRkIjoiNjEuMjQ1LjExLjYwIiwicG9ydCI6ODAsImlkIjoiYTNlM2E3MTAtNzlmOC00YWUwLWI4M2MtNjA3YWFiNDBkMTk3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbDZjWWZYTTVEelFiZHRNTWI3MkFfanFWbk5salUzeXFl@149.104.109.74:21273#%f0%9f%87%b5%f0%9f%87%ad%20PH%201"
     }
   ]
 }
