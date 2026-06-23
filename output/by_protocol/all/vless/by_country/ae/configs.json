@@ -1,27 +1,7 @@
 {
-  "updated": "2026-06-23T02:38:53.720572",
-  "count": 3,
+  "updated": "2026-06-23T10:58:03.143266",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "94.140.0.255",
-      "port": "443",
-      "id": "78485147-82d0-4fc4-80cf-dd08c54bbaa1",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "",
-      "host": "mozconfigs.mohammadaz2sub.ir",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?path=%2Fws%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=mozconfigs.mohammadaz2sub.ir&fp=chrome&ech=udp%3A%2F%2F1.1.1.1%3A53&type=ws&allowInsecure=0#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "94.140.0.255",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?path=%2Fws%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=mozconfigs.mohammadaz2sub.ir&fp=chrome&ech=udp%3A%2F%2F1.1.1.1%3A53&type=ws&allowInsecure=0#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
-    },
     {
       "type": "vless",
       "address": "ae.cdn.stun.su",
@@ -36,31 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3",
-      "ip": "176.97.78.3",
+      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "38.180.11.103",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
-      "address": "109.61.18.75",
-      "port": "8044",
-      "id": "6e25f7b4-efce-425a-af98-3f310623bfa2",
-      "name": "🇦🇪 AE 2",
-      "network": "tcp",
+      "address": "cd2.videobazi.com",
+      "port": "8080",
+      "id": "0058c215-ab1e-400c-a403-b5b2fda7e846",
+      "name": "@meliproxyy",
+      "network": "ws",
       "sni": "",
-      "host": "play.google.com",
-      "security": "none",
+      "host": "tr-cd.sublink-vip2.com",
+      "security": "",
       "flow": "",
-      "encryption": "",
-      "headerType": "http",
+      "encryption": "none",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://6e25f7b4-efce-425a-af98-3f310623bfa2@109.61.18.75:8044?security=none&type=tcp&headerType=http&host=play.google.com&path=%2f#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-4",
-      "ip": "109.61.18.75",
+      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd2.videobazi.com:8080?encryption=none&type=ws&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "94.140.0.100",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://6e25f7b4-efce-425a-af98-3f310623bfa2@109.61.18.75:8044?security=none&type=tcp&headerType=http&host=play.google.com&path=%2f#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-4"
+      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd2.videobazi.com:8080?encryption=none&type=ws&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     }
   ]
 }
