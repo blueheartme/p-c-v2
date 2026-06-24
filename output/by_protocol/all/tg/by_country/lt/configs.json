@@ -1,19 +1,7 @@
 {
-  "updated": "2026-06-24T02:39:36.818999",
-  "count": 5,
+  "updated": "2026-06-24T10:44:16.170368",
+  "count": 3,
   "configs": [
-    {
-      "type": "tg",
-      "address": "see.bein-norway.co.uk",
-      "port": "25565",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=see.bein-norway.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "89.117.222.12",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=see.bein-norway.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
     {
       "type": "tg",
       "address": "89.117.222.21",
@@ -28,6 +16,18 @@
     },
     {
       "type": "tg",
+      "address": "see.bein-norway.co.uk",
+      "port": "25565",
+      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=see.bein-norway.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "89.117.222.12",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=see.bein-norway.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    },
+    {
+      "type": "tg",
       "address": "blue.protocolsix.info",
       "port": "22",
       "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
@@ -37,30 +37,6 @@
       "country": "LT",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=blue.protocolsix.info&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "malmo.viking-vibe.co.uk",
-      "port": "25565",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=malmo.viking-vibe.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "89.117.222.14",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=malmo.viking-vibe.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "form.quickdl.info",
-      "port": "22",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=form.quickdl.info&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "89.117.222.15",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=form.quickdl.info&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     }
   ]
 }

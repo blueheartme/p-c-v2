@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T02:39:36.792303",
-  "count": 2,
+  "updated": "2026-06-24T10:44:16.153822",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "KR",
       "cdn": null,
       "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "193.123.232.91",
-      "port": "443",
-      "id": "eeb6823c-b926-4ea2-866a-5542edd26e59",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "t1s1.rittbo.kdns.fr",
-      "host": "t1s1.rittbo.kdns.fr",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@193.123.232.91:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2",
-      "ip": "193.123.232.91",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@193.123.232.91:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T02:39:36.753267",
-  "count": 1,
+  "updated": "2026-06-24T10:44:16.099254",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,18 @@
       "country": "BR",
       "cdn": null,
       "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+    },
+    {
+      "type": "tg",
+      "address": "mt.nowabst.net",
+      "port": "853",
+      "secret": "ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275",
+      "ip": "191.44.124.252",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275"
     }
   ]
 }

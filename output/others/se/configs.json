@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T02:39:36.743129",
-  "count": 6,
+  "updated": "2026-06-24T10:44:16.058800",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -23,59 +23,35 @@
       "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
-      "type": "tg",
-      "address": "89.22.236.159",
-      "port": "443",
-      "secret": "eef838b6a55fa5e8393c63def771cf1014766b2e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=89.22.236.159&port=443&secret=eef838b6a55fa5e8393c63def771cf1014766b2e636f6d&@MPT_Proxy",
-      "ip": "89.22.236.159",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=89.22.236.159&port=443&secret=eef838b6a55fa5e8393c63def771cf1014766b2e636f6d&@MPT_Proxy"
-    },
-    {
       "type": "hysteria2",
       "address": "31.22.91.243",
       "port": "443",
       "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "original": "hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "original": "hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-2",
       "ip": "31.22.91.243",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+      "rebuilt": "hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     },
     {
       "type": "vless",
-      "address": "sw-1.coinbridge.nl",
-      "port": "443",
-      "id": "b0f08ae1-7cf9-4612-ad61-72681e0b92da",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "google.com",
+      "address": "13.63.126.48",
+      "port": "8444",
+      "id": "242f3b82-7c52-4b3c-a576-c3c8d775e3ed",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "network": "tcp",
+      "sni": "play.google.com",
       "host": "",
       "security": "reality",
       "flow": "",
-      "encryption": "none",
-      "headerType": "",
+      "encryption": "mlkem768x25519plus.native.0rtt.itfk-ftxinrlwgajpp72iaz8c2i6veu0w3yatybvsgo",
+      "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@sw-1.coinbridge.nl:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d&type=grpc&authority=&serviceName=data-sync&mode=gun#vless-grpc-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4",
-      "ip": "83.219.250.194",
+      "original": "vless://242f3b82-7c52-4b3c-a576-c3c8d775e3ed@13.63.126.48:8444?security=reality&encryption=mlkem768x25519plus.native.0rtt.iTfk-FtxINrlWgajpp72IAz8c2i6vEU0W3YatYBVsgo&pbk=LINfckLkgXuI1-3SeeRrjtjymGEsus3vLypmcI8N6nY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e3e064f1196a7ba1#vless-mlkem768x25519plus.native.0rtt.itfk-ftxinrlwgajpp72iaz8c2i6veu0w3yatybvsgo-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "13.63.126.48",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@sw-1.coinbridge.nl:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d&type=grpc&authority=&serviceName=data-sync&mode=gun#vless-grpc-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4"
-    },
-    {
-      "type": "tg",
-      "address": "176.125.240.195",
-      "port": "443",
-      "secret": "eeae49fc0cb49514612b72494665fffa167777772e79616e6465782e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=176.125.240.195&port=443&secret=eeae49fc0cb49514612b72494665fffa167777772e79616e6465782e7275&@MPT_Proxy",
-      "ip": "176.125.240.195",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=176.125.240.195&port=443&secret=eeae49fc0cb49514612b72494665fffa167777772e79616e6465782e7275&@MPT_Proxy"
+      "rebuilt": "vless://242f3b82-7c52-4b3c-a576-c3c8d775e3ed@13.63.126.48:8444?security=reality&encryption=mlkem768x25519plus.native.0rtt.iTfk-FtxINrlWgajpp72IAz8c2i6vEU0W3YatYBVsgo&pbk=LINfckLkgXuI1-3SeeRrjtjymGEsus3vLypmcI8N6nY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e3e064f1196a7ba1#vless-mlkem768x25519plus.native.0rtt.itfk-ftxinrlwgajpp72iaz8c2i6veu0w3yatybvsgo-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     },
     {
       "type": "vless",
@@ -91,11 +67,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-6",
+      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4",
       "ip": "45.159.12.34",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-6"
+      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4"
     }
   ]
 }
