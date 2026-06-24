@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-23T17:47:32.621843",
-  "count": 1,
+  "updated": "2026-06-24T02:39:36.786345",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "108.165.152.140",
+      "port": "80",
+      "id": "f9255507-1b65-433f-bfd8-193b35e068e2",
+      "name": "channel→@networld_vpn",
+      "network": "ws",
+      "sni": "",
+      "host": "s5.868001.xyz",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "108.165.152.140",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
     {
       "type": "vless",
       "address": "45.89.106.99",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "original": "vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-2",
       "ip": "45.89.106.99",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     }
   ]
 }

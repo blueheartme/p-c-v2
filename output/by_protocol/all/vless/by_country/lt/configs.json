@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-23T10:58:03.143760",
+  "updated": "2026-06-24T02:39:36.788200",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "lt.edge-9d7c.com",
+      "address": "5.199.170.105",
       "port": "443",
-      "id": "966db920-cb72-446c-9dd6-45ba53372275",
-      "name": "@filembad",
+      "id": "fd47216b-4217-4ec1-85b9-98304634a391",
+      "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "lt.edge-9d7c.com",
+      "sni": "amd.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://966db920-cb72-446c-9dd6-45ba53372275@lt.edge-9d7c.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&security=reality&sid=9d84de9d9f7b85e9&sni=lt.edge-9d7c.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-3",
-      "ip": "46.166.169.95",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-2",
+      "ip": "5.199.170.105",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://966db920-cb72-446c-9dd6-45ba53372275@lt.edge-9d7c.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&security=reality&sid=9d84de9d9f7b85e9&sni=lt.edge-9d7c.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-3"
+      "rebuilt": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     }
   ]
 }

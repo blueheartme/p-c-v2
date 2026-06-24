@@ -1,22 +1,7 @@
 {
-  "updated": "2026-06-23T17:47:32.651866",
+  "updated": "2026-06-24T02:39:36.831000",
   "count": 2,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "v4.hdacd.com",
-      "port": "30804",
-      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
-      "name": "🇸🇬 SG 2",
-      "network": null,
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLVNH8J+HuPCfh6wtNSIsImFkZCI6InY0LmhkYWNkLmNvbSIsInBvcnQiOjMwODA0LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "34.143.253.247",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLVNH8J+HuPCfh6wtNSIsImFkZCI6InY0LmhkYWNkLmNvbSIsInBvcnQiOjMwODA0LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
-    },
     {
       "type": "vmess",
       "address": "149.88.23.207",
@@ -26,11 +11,26 @@
       "network": "tcp",
       "host": "",
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1TR/Cfh7jwn4esLTEwIiwiYWRkIjoiMTQ5Ljg4LjIzLjIwNyIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1TR/Cfh7jwn4esLTgiLCJhZGQiOiIxNDkuODguMjMuMjA3IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
       "ip": "149.88.23.207",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1TR/Cfh7jwn4esLTEwIiwiYWRkIjoiMTQ5Ljg4LjIzLjIwNyIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1TR/Cfh7jwn4esLTgiLCJhZGQiOiIxNDkuODguMjMuMjA3IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+    },
+    {
+      "type": "vmess",
+      "address": "v4.hdacd.com",
+      "port": "30804",
+      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "name": "🇸🇬 SG 2",
+      "network": null,
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLVNH8J+HuPCfh6wtOSIsImFkZCI6InY0LmhkYWNkLmNvbSIsInBvcnQiOjMwODA0LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "34.124.143.126",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLVNH8J+HuPCfh6wtOSIsImFkZCI6InY0LmhkYWNkLmNvbSIsInBvcnQiOjMwODA0LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     }
   ]
 }

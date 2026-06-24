@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23T17:47:32.573317",
-  "count": 3,
+  "updated": "2026-06-24T02:39:36.735946",
+  "count": 6,
   "configs": [
     {
       "type": "tg",
@@ -13,6 +13,38 @@
       "country": "LT",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=see.bein-norway.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    },
+    {
+      "type": "vless",
+      "address": "5.199.170.105",
+      "port": "443",
+      "id": "fd47216b-4217-4ec1-85b9-98304634a391",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "amd.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-2",
+      "ip": "5.199.170.105",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-2"
+    },
+    {
+      "type": "tg",
+      "address": "89.117.222.21",
+      "port": "25565",
+      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=89.117.222.21&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "89.117.222.21",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=89.117.222.21&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     },
     {
       "type": "tg",
@@ -28,15 +60,27 @@
     },
     {
       "type": "tg",
-      "address": "89.117.222.21",
+      "address": "malmo.viking-vibe.co.uk",
       "port": "25565",
       "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=89.117.222.21&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "89.117.222.21",
+      "original": "https://t.me/proxy?server=malmo.viking-vibe.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "89.117.222.14",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=89.117.222.21&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+      "rebuilt": "https://t.me/proxy?server=malmo.viking-vibe.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "form.quickdl.info",
+      "port": "22",
+      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=form.quickdl.info&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "89.117.222.15",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=form.quickdl.info&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     }
   ]
 }

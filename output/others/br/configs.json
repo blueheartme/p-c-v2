@@ -1,21 +1,26 @@
 {
-  "updated": "2026-06-16T12:49:38.471781",
+  "updated": "2026-06-24T02:39:36.753267",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "172.233.17.76",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "🇧🇷 BR 1",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUJS8J+Hp/Cfh7ctMSIsImFkZCI6IjE3Mi4yMzMuMTcuNzYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "172.233.17.76",
+      "type": "vless",
+      "address": "185.133.35.140",
+      "port": "80",
+      "id": "f9255507-1b65-433f-bfd8-193b35e068e2",
+      "name": "channel→@networld_vpn",
+      "network": "ws",
+      "sni": "",
+      "host": "s5.868001.xyz",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "ip": "185.133.35.140",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUJS8J+Hp/Cfh7ctMSIsImFkZCI6IjE3Mi4yMzMuMTcuNzYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1"
     }
   ]
 }
