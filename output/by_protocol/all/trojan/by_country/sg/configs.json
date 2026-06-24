@@ -1,34 +1,48 @@
 {
-  "updated": "2026-06-24T10:44:16.119457",
-  "count": 2,
+  "updated": "2026-06-24T17:50:04.458606",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
-      "address": "188.253.12.99",
-      "port": "45553",
+      "address": "188.253.12.96",
+      "port": "41943",
       "password": "4f4d1167-ef14-4304-9bce-0740472503ef",
       "name": "@filembad",
-      "sni": "ch.01.naiun.bilibili.com",
+      "sni": "az.01.naiun.bilibili.com",
       "host": "",
-      "original": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45553?security=tls&headerType=none&type=tcp&sni=ch.01.naiun.bilibili.com#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-8",
-      "ip": "188.253.12.99",
+      "original": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "188.253.12.96",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45553?security=tls&headerType=none&type=tcp&sni=ch.01.naiun.bilibili.com#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-8"
+      "rebuilt": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     },
     {
       "type": "trojan",
-      "address": "188.253.12.91",
+      "address": "188.253.12.99",
+      "port": "45619",
+      "password": "4f4d1167-ef14-4304-9bce-0740472503ef",
+      "name": "@filembad",
+      "sni": "fr.01.naiun.bilibili.com",
+      "host": "",
+      "original": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "188.253.12.99",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+    },
+    {
+      "type": "trojan",
+      "address": "188.253.12.94",
       "port": "46424",
       "password": "4f4d1167-ef14-4304-9bce-0740472503ef",
       "name": "@filembad",
       "sni": "de.01.naiun.bilibili.com",
       "host": "",
-      "original": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:46424?security=tls&headerType=none&type=tcp&sni=de.01.naiun.bilibili.com#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-9",
-      "ip": "188.253.12.91",
+      "original": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "188.253.12.94",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:46424?security=tls&headerType=none&type=tcp&sni=de.01.naiun.bilibili.com#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-9"
+      "rebuilt": "trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }

@@ -1,21 +1,20 @@
 {
-  "updated": "2026-06-23T10:58:03.102142",
+  "updated": "2026-06-24T17:50:04.444417",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "160.250.247.70",
-      "port": "49178",
-      "id": "d7c13e10-2ba9-4677-a877-d9e9d1738394",
-      "name": "@filembad",
-      "network": "tcp",
-      "host": "varzesh3.com",
+      "type": "trojan",
+      "address": "38.60.252.118",
+      "port": "443",
+      "password": "NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw",
+      "name": "🇻🇳 VN 1",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNjAuMjUwLjI0Ny43MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidmFyemVzaDMuY29tIiwiaWQiOiJkN2MxM2UxMC0yYmE5LTQ2NzctYTg3Ny1kOWU5ZDE3MzgzOTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI0OTE3OCIsInBzIjoidm1lc3MtYXV0by10Y3AtVk7wn4e78J+Hsy0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJ2Y24iOiIifQ==",
-      "ip": "160.250.247.70",
+      "host": "",
+      "original": "trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-VN%F0%9F%87%BB%F0%9F%87%B3-1",
+      "ip": "38.60.252.118",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNjAuMjUwLjI0Ny43MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidmFyemVzaDMuY29tIiwiaWQiOiJkN2MxM2UxMC0yYmE5LTQ2NzctYTg3Ny1kOWU5ZDE3MzgzOTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI0OTE3OCIsInBzIjoidm1lc3MtYXV0by10Y3AtVk7wn4e78J+Hsy0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+      "rebuilt": "trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-VN%F0%9F%87%BB%F0%9F%87%B3-1"
     }
   ]
 }

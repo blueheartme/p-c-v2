@@ -1,19 +1,26 @@
 {
-  "updated": "2026-06-23T10:58:03.111262",
+  "updated": "2026-06-24T17:50:04.430408",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "185.213.23.63",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇳🇴 NO 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%f0%9f%87%b3%f0%9f%87%b4%20NO%201",
-      "ip": "185.213.23.63",
+      "type": "vless",
+      "address": "irancell.cloud-play.ir",
+      "port": "80",
+      "id": "dcbb2940-bb24-41fd-953e-2a24e34a9790",
+      "name": "@filembad",
+      "network": "xhttp",
+      "sni": "",
+      "host": "xenoengineer.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://dcbb2940-bb24-41fd-953e-2a24e34a9790@irancell.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#vless-xhttp-NO%F0%9F%87%B3%F0%9F%87%B4-1",
+      "ip": "104.156.82.3",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%f0%9f%87%b3%f0%9f%87%b4%20NO%201"
+      "rebuilt": "vless://dcbb2940-bb24-41fd-953e-2a24e34a9790@irancell.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#vless-xhttp-NO%F0%9F%87%B3%F0%9F%87%B4-1"
     }
   ]
 }

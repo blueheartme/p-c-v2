@@ -1,32 +1,84 @@
 {
-  "updated": "2026-06-24T10:44:16.172726",
-  "count": 4,
+  "updated": "2026-06-24T17:50:04.495804",
+  "count": 7,
   "configs": [
+    {
+      "type": "ss",
+      "address": "108.181.0.177",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "G5p6ww4o67HB",
+      "name": "🇺🇸 US 2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#%f0%9f%87%ba%f0%9f%87%b8%20US%202",
+      "ip": "108.181.0.177",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#%f0%9f%87%ba%f0%9f%87%b8%20US%202"
+    },
+    {
+      "type": "ss",
+      "address": "173.244.56.6",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇺🇸 US 4",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%f0%9f%87%ba%f0%9f%87%b8%20US%204",
+      "ip": "173.244.56.6",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%f0%9f%87%ba%f0%9f%87%b8%20US%204"
+    },
+    {
+      "type": "ss",
+      "address": "147.90.234.133",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "hbGrpfvNrJsUmKmPbR3iY2",
+      "name": "🇺🇸 US 27",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2027",
+      "ip": "147.90.234.133",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2027"
+    },
+    {
+      "type": "ss",
+      "address": "tinkered-pennies-puppies.freesocks.work",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "gaM3vd5zfR1ay1v7hfn4X6",
+      "name": "🇺🇸 US 31",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnYU0zdmQ1emZSMWF5MXY3aGZuNFg2@tinkered-pennies-puppies.freesocks.work:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2031",
+      "ip": "147.90.234.133",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnYU0zdmQ1emZSMWF5MXY3aGZuNFg2@tinkered-pennies-puppies.freesocks.work:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2031"
+    },
     {
       "type": "ss",
       "address": "37.19.198.244",
       "port": "443",
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "name": "🇺🇸 US 6",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%f0%9f%87%ba%f0%9f%87%b8%20US%206",
+      "name": "🇺🇸 US 23",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2023",
       "ip": "37.19.198.244",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%f0%9f%87%ba%f0%9f%87%b8%20US%206"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2023"
     },
     {
       "type": "ss",
-      "address": "156.146.38.168",
+      "address": "156.146.38.170",
       "port": "443",
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "name": "🇺🇸 US 1",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%f0%9f%87%ba%f0%9f%87%b8%20US%201",
-      "ip": "156.146.38.168",
+      "name": "🇺🇸 US 10",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2010",
+      "ip": "156.146.38.170",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%f0%9f%87%ba%f0%9f%87%b8%20US%201"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2010"
     },
     {
       "type": "ss",
@@ -40,19 +92,6 @@
       "country": "US",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
-    },
-    {
-      "type": "ss",
-      "address": "173.244.56.6",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇺🇸 US 5",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%f0%9f%87%ba%f0%9f%87%b8%20US%205",
-      "ip": "173.244.56.6",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%f0%9f%87%ba%f0%9f%87%b8%20US%205"
     }
   ]
 }
