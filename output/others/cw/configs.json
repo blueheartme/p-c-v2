@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T10:38:07.854787",
-  "count": 1,
+  "updated": "2026-06-25T18:06:11.202386",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "CW",
       "cdn": null,
       "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-CW%F0%9F%87%A8%F0%9F%87%BC-1"
+    },
+    {
+      "type": "vless",
+      "address": "de11.xonline.sbs",
+      "port": "8443",
+      "id": "9cbe9ddd-85e0-46de-8a53-212d8c7d33b8",
+      "name": "@meliproxyy",
+      "network": "xhttp",
+      "sni": "xco.trevor.ir",
+      "host": "xco.trevor.ir",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://9cbe9ddd-85e0-46de-8a53-212d8c7d33b8@de11.xonline.sbs:8443?mode=auto&path=%2FgetFile&security=tls&encryption=none&alpn=h2,http/1.1,h3&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xco.trevor.ir&fp=chrome&allowinsecure=0&type=xhttp&sni=xco.trevor.ir#vless-xhttp-tls-chrome-CW%F0%9F%87%A8%F0%9F%87%BC-2",
+      "ip": "88.216.67.230",
+      "country": "CW",
+      "cdn": null,
+      "rebuilt": "vless://9cbe9ddd-85e0-46de-8a53-212d8c7d33b8@de11.xonline.sbs:8443?mode=auto&path=%2FgetFile&security=tls&encryption=none&alpn=h2,http/1.1,h3&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xco.trevor.ir&fp=chrome&allowinsecure=0&type=xhttp&sni=xco.trevor.ir#vless-xhttp-tls-chrome-CW%F0%9F%87%A8%F0%9F%87%BC-2"
     }
   ]
 }

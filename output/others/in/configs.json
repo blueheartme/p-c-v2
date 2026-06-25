@@ -1,40 +1,7 @@
 {
-  "updated": "2026-06-25T10:38:07.832083",
-  "count": 7,
+  "updated": "2026-06-25T18:06:11.196011",
+  "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "103.120.178.193",
-      "port": "31348",
-      "method": "chacha20-ietf-poly1305",
-      "password": "EBDRo9THx4CqiFU7h5gfov76oNwzZURAh0ZwbWjBKddtUhvz",
-      "name": "🇮🇳 IN 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno=@103.120.178.193:31348#%f0%9f%87%ae%f0%9f%87%b3%20IN%201",
-      "ip": "103.120.178.193",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno=@103.120.178.193:31348#%f0%9f%87%ae%f0%9f%87%b3%20IN%201"
-    },
-    {
-      "type": "vless",
-      "address": "108.165.152.140",
-      "port": "80",
-      "id": "f9255507-1b65-433f-bfd8-193b35e068e2",
-      "name": "channel→@networld_vpn",
-      "network": "ws",
-      "sni": "",
-      "host": "s5.868001.xyz",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "108.165.152.140",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-2"
-    },
     {
       "type": "tg",
       "address": "31.57.208.3",
@@ -46,18 +13,6 @@
       "country": "IN",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=31.57.208.3&port=20&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "31.57.208.5",
-      "port": "20",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=31.57.208.5&port=20&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@MPT_Proxy",
-      "ip": "31.57.208.5",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=31.57.208.5&port=20&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@MPT_Proxy"
     },
     {
       "type": "vless",
@@ -73,35 +28,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-5",
+      "original": "vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-2",
       "ip": "45.89.106.99",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-5"
+      "rebuilt": "vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     },
     {
-      "type": "tg",
-      "address": "31.57.208.4",
-      "port": "20",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=31.57.208.4&port=20&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@MPT_Proxy",
-      "ip": "31.57.208.4",
+      "type": "vless",
+      "address": "108.165.152.140",
+      "port": "80",
+      "id": "f9255507-1b65-433f-bfd8-193b35e068e2",
+      "name": "channel→@networld_vpn",
+      "network": "ws",
+      "sni": "",
+      "host": "s5.868001.xyz",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-3",
+      "ip": "108.165.152.140",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=31.57.208.4&port=20&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@MPT_Proxy"
-    },
-    {
-      "type": "tg",
-      "address": "31.57.208.6",
-      "port": "20",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=31.57.208.6&port=20&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@MPT_Proxy",
-      "ip": "31.57.208.6",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=31.57.208.6&port=20&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@MPT_Proxy"
+      "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     }
   ]
 }
