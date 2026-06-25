@@ -1,27 +1,7 @@
 {
-  "updated": "2026-06-25T02:40:37.701635",
+  "updated": "2026-06-25T10:38:07.892146",
   "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "45.159.12.34",
-      "port": "8443",
-      "id": "394f6981-a782-4779-9a85-e6cf22935d93",
-      "name": "https://t.me/GGVPNHOP",
-      "network": "tcp",
-      "sni": "ams1.fromblancwithlove.com",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "45.159.12.34",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
     {
       "type": "vless",
       "address": "79.127.249.196",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "79.127.249.196",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.159.12.34",
+      "port": "8443",
+      "id": "394f6981-a782-4779-9a85-e6cf22935d93",
+      "name": "https://t.me/GGVPNHOP",
+      "network": "tcp",
+      "sni": "ams1.fromblancwithlove.com",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "45.159.12.34",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     },
     {
       "type": "vless",

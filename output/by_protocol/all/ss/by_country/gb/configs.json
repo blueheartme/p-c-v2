@@ -1,19 +1,45 @@
 {
-  "updated": "2026-06-25T02:40:37.672933",
-  "count": 4,
+  "updated": "2026-06-25T10:38:07.915924",
+  "count": 6,
   "configs": [
     {
       "type": "ss",
-      "address": "141.98.101.178",
+      "address": "141.98.101.182",
       "port": "443",
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "name": "🇬🇧 GB 4",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%204",
-      "ip": "141.98.101.178",
+      "name": "proxymelimon",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#proxymelimon",
+      "ip": "141.98.101.182",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%204"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#proxymelimon"
+    },
+    {
+      "type": "ss",
+      "address": "141.98.101.181",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇬🇧 GB 5",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%205",
+      "ip": "141.98.101.181",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%205"
+    },
+    {
+      "type": "ss",
+      "address": "141.98.101.179",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇬🇧 GB 7",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%207",
+      "ip": "141.98.101.179",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%207"
     },
     {
       "type": "ss",
@@ -30,6 +56,19 @@
     },
     {
       "type": "ss",
+      "address": "141.98.101.178",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇬🇧 GB 4",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%204",
+      "ip": "141.98.101.178",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%204"
+    },
+    {
+      "type": "ss",
       "address": "78.129.155.63",
       "port": "3030",
       "method": "aes-256-gcm",
@@ -40,19 +79,6 @@
       "country": "GB",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206a1NMamJyQmM4NA==@78.129.155.63:3030#%f0%9f%87%ac%f0%9f%87%a7%20GB%201"
-    },
-    {
-      "type": "ss",
-      "address": "141.98.101.182",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "proxymelimon",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#proxymelimon",
-      "ip": "141.98.101.182",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#proxymelimon"
     }
   ]
 }

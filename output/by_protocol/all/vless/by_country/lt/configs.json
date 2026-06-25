@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T02:40:37.707078",
-  "count": 4,
+  "updated": "2026-06-25T10:38:07.890661",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -24,50 +24,10 @@
     },
     {
       "type": "vless",
-      "address": "cd4.videobazi.com",
-      "port": "8080",
-      "id": "0058c215-ab1e-400c-a403-b5b2fda7e846",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "tr-cd.sublink-vip2.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd4.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-LT%F0%9F%87%B1%F0%9F%87%B9-2",
-      "ip": "86.38.214.33",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd4.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-LT%F0%9F%87%B1%F0%9F%87%B9-2"
-    },
-    {
-      "type": "vless",
-      "address": "cd5.videobazi.com",
-      "port": "2083",
-      "id": "0058c215-ab1e-400c-a403-b5b2fda7e846",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "fast-domain-de.dhbhvfbhfbvhfbvhfbhv.shop",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd5.videobazi.com:2083?security=tls&type=xhttp&headerType=&path=&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=fast-domain-de.dhbhvfbhfbvhfbvhfbhv.shop&fp=chrome#vless-xhttp-tls-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-3",
-      "ip": "86.38.214.33",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd5.videobazi.com:2083?security=tls&type=xhttp&headerType=&path=&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=fast-domain-de.dhbhvfbhfbvhfbvhfbhv.shop&fp=chrome#vless-xhttp-tls-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-3"
-    },
-    {
-      "type": "vless",
       "address": "5.199.170.105",
       "port": "443",
       "id": "fd47216b-4217-4ec1-85b9-98304634a391",
-      "name": "@meliproxyy",
+      "name": "@filembad",
       "network": "tcp",
       "sni": "amd.com",
       "host": "",
@@ -76,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?encryption=none&type=tcp&security=reality&headerType=none&sni=amd.com&fp=chrome&insecure=1&allowInsecure=1&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-4",
+      "original": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-2",
       "ip": "5.199.170.105",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?encryption=none&type=tcp&security=reality&headerType=none&sni=amd.com&fp=chrome&insecure=1&allowInsecure=1&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-4"
+      "rebuilt": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     }
   ]
 }
