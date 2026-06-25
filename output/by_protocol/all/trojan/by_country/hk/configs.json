@@ -1,21 +1,7 @@
 {
-  "updated": "2026-06-24T17:50:04.461973",
+  "updated": "2026-06-25T02:40:37.723387",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "jpbgp.netvigor.cc",
-      "port": "19128",
-      "password": "OccIqeORGQwiNkwS",
-      "name": "🇭🇰 HK 3",
-      "sni": "yazhou10.dynu.net",
-      "host": "",
-      "original": "trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "1.36.238.199",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
     {
       "type": "trojan",
       "address": "219.79.214.159",
@@ -24,11 +10,25 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "trojan",
+      "address": "jpbgp.netvigor.cc",
+      "port": "19128",
+      "password": "OccIqeORGQwiNkwS",
+      "name": "🇭🇰 HK 3",
+      "sni": "yazhou10.dynu.net",
+      "host": "",
+      "original": "trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "203.218.28.67",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }

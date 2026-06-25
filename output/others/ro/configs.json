@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T19:24:55.549930",
-  "count": 2,
+  "updated": "2026-06-25T02:40:37.655398",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -15,32 +15,12 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#vless-xtls-rprx-vision-tcp-reality-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "fingerprint": "chrome",
+      "original": "vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-1",
       "ip": "77.81.98.70",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#vless-xtls-rprx-vision-tcp-reality-RO%F0%9F%87%B7%F0%9F%87%B4-1"
-    },
-    {
-      "type": "vless",
-      "address": "95.173.199.98",
-      "port": "8443",
-      "id": "394f6981-a782-4779-9a85-e6cf22935d93",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "ams1.fromblancwithlove.com",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.98:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&type=tcp&headerType=none#vless-tcp-tls-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-2",
-      "ip": "95.173.199.98",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.98:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&type=tcp&headerType=none#vless-tcp-tls-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-2"
+      "rebuilt": "vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-1"
     }
   ]
 }

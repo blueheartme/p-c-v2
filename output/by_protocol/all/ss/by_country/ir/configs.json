@@ -1,19 +1,47 @@
 {
-  "updated": "2026-06-24T17:50:04.494262",
-  "count": 3,
+  "updated": "2026-06-25T02:40:37.676446",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
-      "address": "103.130.147.40",
-      "port": "1122",
-      "method": "aes-256-gcm",
-      "password": "wc/eqRPrYjnxfAJ2JKnio7cG2Ko9K9DiMwzonRjU3LI=",
+      "address": "ir5.nextping.xyz",
+      "port": "44812",
+      "method": "chacha20-ietf-poly1305",
+      "password": "YzS2km30FhLKkU8Q",
       "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0@103.130.147.40:1122#@meliproxyy",
-      "ip": "103.130.147.40",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelMya20zMEZoTEtrVThR@ir5.nextping.xyz:44812#@meliproxyy",
+      "ip": "46.38.143.11",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0@103.130.147.40:1122#@meliproxyy"
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelMya20zMEZoTEtrVThR@ir5.nextping.xyz:44812#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "e2.cover20.ir",
+      "port": "30874?type=tcp",
+      "method": "chacha20-ietf-poly1305",
+      "password": "pf1BozsIFaJeK9yVaraePPMdOMO5iauFm23w4+Ffqck=",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwZjFCb3pzSUZhSmVLOXlWYXJhZVBQTWRPTU81aWF1Rm0yM3c0K0ZmcWNrPQ@e2.cover20.ir:30874?type=tcp#@meliproxyy",
+      "ip": "185.84.158.195",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwZjFCb3pzSUZhSmVLOXlWYXJhZVBQTWRPTU81aWF1Rm0yM3c0K0ZmcWNrPQ@e2.cover20.ir:30874?type=tcp#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "e1.cover20.ir",
+      "port": "51570?type=tcp",
+      "method": "chacha20-ietf-poly1305",
+      "password": "6SjeAjXcDrovE45S0NyCGgQfIQLSFV04JyMhMtmZiGQ=",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U2plQWpYY0Ryb3ZFNDVTME55Q0dnUWZJUUxTRlYwNEp5TWhNdG1aaUdRPQ@e1.cover20.ir:51570?type=tcp#@meliproxyy",
+      "ip": "85.9.99.80",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U2plQWpYY0Ryb3ZFNDVTME55Q0dnUWZJUUxTRlYwNEp5TWhNdG1aaUdRPQ@e1.cover20.ir:51570?type=tcp#@meliproxyy"
     },
     {
       "type": "ss",
@@ -30,18 +58,16 @@
     },
     {
       "type": "ss",
-      "address": "ir5.nextping.xyz",
-      "port": "44812",
+      "address": "e3.cover20.ir",
+      "port": "56985?type=tcp",
       "method": "chacha20-ietf-poly1305",
-      "password": "YzS2km30FhLKkU8Q",
+      "password": "emUqALCVC8Lv4TGiGBZbdYBsWyKPI1zUjkh8s2SGqNg=",
       "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelMya20zMEZoTEtrVThR@ir5.nextping.xyz:44812#@meliproxyy",
-      "ip": "46.38.143.11",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbVVxQUxDVkM4THY0VEdpR0JaYmRZQnNXeUtQSTF6VWpraDhzMlNHcU5nPQ@e3.cover20.ir:56985?type=tcp#@meliproxyy",
+      "ip": "185.84.158.165",
       "country": "IR",
       "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelMya20zMEZoTEtrVThR@ir5.nextping.xyz:44812#@meliproxyy"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbVVxQUxDVkM4THY0VEdpR0JaYmRZQnNXeUtQSTF6VWpraDhzMlNHcU5nPQ@e3.cover20.ir:56985?type=tcp#@meliproxyy"
     }
   ]
 }

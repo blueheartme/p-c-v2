@@ -1,45 +1,32 @@
 {
-  "updated": "2026-06-24T17:50:04.495804",
-  "count": 7,
+  "updated": "2026-06-25T02:40:37.671630",
+  "count": 11,
   "configs": [
     {
       "type": "ss",
-      "address": "108.181.0.177",
-      "port": "8388",
+      "address": "217.60.249.112",
+      "port": "443",
       "method": "chacha20-ietf-poly1305",
-      "password": "G5p6ww4o67HB",
-      "name": "🇺🇸 US 2",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#%f0%9f%87%ba%f0%9f%87%b8%20US%202",
-      "ip": "108.181.0.177",
+      "password": "0eC4ZBvStOgQEzTpCYjWN5",
+      "name": "United State CGI",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI",
+      "ip": "217.60.249.112",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#%f0%9f%87%ba%f0%9f%87%b8%20US%202"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
     },
     {
       "type": "ss",
-      "address": "173.244.56.6",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇺🇸 US 4",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%f0%9f%87%ba%f0%9f%87%b8%20US%204",
-      "ip": "173.244.56.6",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%f0%9f%87%ba%f0%9f%87%b8%20US%204"
-    },
-    {
-      "type": "ss",
-      "address": "147.90.234.133",
-      "port": "443",
+      "address": "172.234.202.34",
+      "port": "24833",
       "method": "chacha20-ietf-poly1305",
-      "password": "hbGrpfvNrJsUmKmPbR3iY2",
-      "name": "🇺🇸 US 27",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2027",
-      "ip": "147.90.234.133",
+      "password": "hRd=IXkjozMEKLeGR_0q09jtwly5J2la2O",
+      "name": "🇺🇸 US 19",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#%f0%9f%87%ba%f0%9f%87%b8%20US%2019",
+      "ip": "172.234.202.34",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2027"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#%f0%9f%87%ba%f0%9f%87%b8%20US%2019"
     },
     {
       "type": "ss",
@@ -56,16 +43,16 @@
     },
     {
       "type": "ss",
-      "address": "37.19.198.244",
+      "address": "173.244.56.6",
       "port": "443",
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "name": "🇺🇸 US 23",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2023",
-      "ip": "37.19.198.244",
+      "name": "🇺🇸 US 4",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%f0%9f%87%ba%f0%9f%87%b8%20US%204",
+      "ip": "173.244.56.6",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2023"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%f0%9f%87%ba%f0%9f%87%b8%20US%204"
     },
     {
       "type": "ss",
@@ -82,16 +69,81 @@
     },
     {
       "type": "ss",
-      "address": "217.60.249.112",
-      "port": "443",
+      "address": "108.181.118.10",
+      "port": "8388",
       "method": "chacha20-ietf-poly1305",
-      "password": "0eC4ZBvStOgQEzTpCYjWN5",
-      "name": "United State CGI",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI",
-      "ip": "217.60.249.112",
+      "password": "G5p6ww4o67HB",
+      "name": "🇺🇸 US 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#%f0%9f%87%ba%f0%9f%87%b8%20US%201",
+      "ip": "108.181.118.10",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#%f0%9f%87%ba%f0%9f%87%b8%20US%201"
+    },
+    {
+      "type": "ss",
+      "address": "108.181.0.177",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "G5p6ww4o67HB",
+      "name": "🇺🇸 US 2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#%f0%9f%87%ba%f0%9f%87%b8%20US%202",
+      "ip": "108.181.0.177",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#%f0%9f%87%ba%f0%9f%87%b8%20US%202"
+    },
+    {
+      "type": "ss",
+      "address": "147.90.234.133",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "hbGrpfvNrJsUmKmPbR3iY2",
+      "name": "🇺🇸 US 27",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2027",
+      "ip": "147.90.234.133",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2027"
+    },
+    {
+      "type": "ss",
+      "address": "37.19.198.243",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇺🇸 US 22",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2022",
+      "ip": "37.19.198.243",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2022"
+    },
+    {
+      "type": "ss",
+      "address": "198.98.53.130",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "eDfN7SODQceIOmIAbtJJtK",
+      "name": "🇺🇸 US 26",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2026",
+      "ip": "198.98.53.130",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2026"
+    },
+    {
+      "type": "ss",
+      "address": "37.19.198.160",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇺🇸 US 24",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2024",
+      "ip": "37.19.198.160",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2024"
     }
   ]
 }
