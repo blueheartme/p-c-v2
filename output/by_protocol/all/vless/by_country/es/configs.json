@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-26T02:44:12.016374",
-  "count": 1,
+  "updated": "2026-06-26T10:46:47.055899",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.198.80.187",
+      "port": "8443",
+      "id": "d44fc964-652c-4790-bfdc-be9ae1e281f3",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
+      "host": "Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://d44fc964-652c-4790-bfdc-be9ae1e281f3@45.198.80.187:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "45.198.80.187",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://d44fc964-652c-4790-bfdc-be9ae1e281f3@45.198.80.187:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+    },
+    {
+      "type": "vless",
+      "address": "5.180.173.222",
+      "port": "448",
+      "id": "626b07bd-81c4-4212-be7a-27442a579620",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.googletagmanager.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "5.180.173.222",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
     {
       "type": "vless",
       "address": "5.180.173.171",
@@ -16,11 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@5.180.173.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "original": "vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@5.180.173.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-3",
       "ip": "5.180.173.171",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@5.180.173.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@5.180.173.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-3"
     }
   ]
 }

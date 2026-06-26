@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-26T02:44:11.966933",
+  "updated": "2026-06-26T10:46:47.087743",
   "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "45.77.227.183",
+      "port": "443",
+      "password": "kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP",
+      "name": "@filembad",
+      "sni": "",
+      "host": "",
+      "original": "trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-GB%F0%9F%87%AC%F0%9F%87%A7-1",
+      "ip": "45.77.227.183",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-GB%F0%9F%87%AC%F0%9F%87%A7-1"
+    },
     {
       "type": "trojan",
       "address": "151.101.189.242",
@@ -10,25 +24,11 @@
       "name": "@meliproxyy",
       "sni": "www.f6r.ir",
       "host": "www.f6r.ir",
-      "original": "trojan://MiTiVPN@151.101.189.242:443?security=tls&sni=www.f6r.ir&insecure=0&allowInsecure=0&type=ws&host=www.f6r.ir&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-5",
+      "original": "trojan://MiTiVPN@151.101.189.242:443?security=tls&sni=www.f6r.ir&insecure=0&allowInsecure=0&type=ws&host=www.f6r.ir&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-14",
       "ip": "151.101.189.242",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@151.101.189.242:443?security=tls&sni=www.f6r.ir&insecure=0&allowInsecure=0&type=ws&host=www.f6r.ir&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-5"
-    },
-    {
-      "type": "trojan",
-      "address": "45.77.227.183",
-      "port": "443",
-      "password": "kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP",
-      "name": "🇬🇧 GB 1",
-      "sni": "45.77.227.183",
-      "host": "",
-      "original": "trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&sni=45.77.227.183&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-GB%F0%9F%87%AC%F0%9F%87%A7-28",
-      "ip": "45.77.227.183",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&sni=45.77.227.183&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-GB%F0%9F%87%AC%F0%9F%87%A7-28"
+      "rebuilt": "trojan://MiTiVPN@151.101.189.242:443?security=tls&sni=www.f6r.ir&insecure=0&allowInsecure=0&type=ws&host=www.f6r.ir&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-14"
     }
   ]
 }

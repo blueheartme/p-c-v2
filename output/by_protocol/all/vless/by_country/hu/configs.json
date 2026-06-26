@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-26T02:44:12.005597",
-  "count": 2,
+  "updated": "2026-06-26T10:46:47.054903",
+  "count": 5,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.198.87.34",
+      "port": "8443",
+      "id": "7896c501-248f-4068-bc2f-363c91ba5122",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.34:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-1",
+      "ip": "45.198.87.34",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.34:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.198.87.210",
+      "port": "8443",
+      "id": "7896c501-248f-4068-bc2f-363c91ba5122",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.210:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-6",
+      "ip": "45.198.87.210",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.210:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-6"
+    },
     {
       "type": "vless",
       "address": "45.198.87.184",
@@ -16,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.184:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-9",
+      "original": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.184:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-10",
       "ip": "45.198.87.184",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.184:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-9"
+      "rebuilt": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.184:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-10"
     },
     {
       "type": "vless",
@@ -41,6 +81,26 @@
       "country": "HU",
       "cdn": null,
       "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@74.49.214.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-HU%F0%9F%87%AD%F0%9F%87%BA-11"
+    },
+    {
+      "type": "vless",
+      "address": "45.198.87.243",
+      "port": "8443",
+      "id": "7896c501-248f-4068-bc2f-363c91ba5122",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.243:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-17",
+      "ip": "45.198.87.243",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.243:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-17"
     }
   ]
 }

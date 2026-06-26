@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T02:44:11.939979",
-  "count": 3,
+  "updated": "2026-06-26T10:46:47.002208",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
@@ -31,7 +31,7 @@
       "headerType": "none",
       "fingerprint": "chrome",
       "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "176.97.78.3",
+      "ip": "38.180.11.103",
       "country": "AE",
       "cdn": null,
       "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
@@ -55,6 +55,26 @@
       "country": "AE",
       "cdn": null,
       "rebuilt": "vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@erosan.appleseraj.ir:443?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=falkinichlol.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=falkinichlol.appleseraj.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+    },
+    {
+      "type": "vless",
+      "address": "solar.appleseraj.ir",
+      "port": "2083",
+      "id": "53feb5dd-9bb2-44ff-80ec-4d00debf1de4",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "network": "ws",
+      "sni": "nurenbbbb.appleseraj.ir",
+      "host": "nurenbbbb.appleseraj.ir",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nurenbbbb.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbbbb.appleseraj.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-4",
+      "ip": "94.140.0.100",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nurenbbbb.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbbbb.appleseraj.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-4"
     }
   ]
 }
