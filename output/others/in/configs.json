@@ -1,7 +1,22 @@
 {
-  "updated": "2026-06-26T10:46:47.004792",
-  "count": 3,
+  "updated": "2026-06-26T17:43:15.940016",
+  "count": 2,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "152.67.8.205",
+      "port": "80",
+      "id": "9db4c708-aef8-4359-821b-38e47990be0d",
+      "name": "🇮🇳 IN 1",
+      "network": "ws",
+      "host": "152.67.8.205",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0xIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ==",
+      "ip": "152.67.8.205",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0xIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ=="
+    },
     {
       "type": "tg",
       "address": "31.57.208.3",
@@ -13,38 +28,6 @@
       "country": "IN",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=31.57.208.3&port=20&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "vless",
-      "address": "108.165.152.140",
-      "port": "80",
-      "id": "f9255507-1b65-433f-bfd8-193b35e068e2",
-      "name": "channel→@networld_vpn",
-      "network": "ws",
-      "sni": "",
-      "host": "s5.868001.xyz",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "108.165.152.140",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-2"
-    },
-    {
-      "type": "tg",
-      "address": "002baran.ir-vlue3.ir",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add666172616b61762e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=002baran.ir-vlue3.ir&port=443&secret=ee1603010200010001fc030386e24c3add666172616b61762e636f6d&@MPT_Proxy",
-      "ip": "31.57.208.12",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=002baran.ir-vlue3.ir&port=443&secret=ee1603010200010001fc030386e24c3add666172616b61762e636f6d&@MPT_Proxy"
     }
   ]
 }

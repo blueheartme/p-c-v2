@@ -1,21 +1,7 @@
 {
-  "updated": "2026-06-26T10:46:47.010940",
-  "count": 2,
+  "updated": "2026-06-26T17:43:15.957570",
+  "count": 1,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "38.54.64.247",
-      "port": "443",
-      "password": "ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk",
-      "name": "🇿🇦 ZA 3",
-      "sni": "",
-      "host": "",
-      "original": "trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-ZA%F0%9F%87%BF%F0%9F%87%A6-1",
-      "ip": "38.54.64.247",
-      "country": "ZA",
-      "cdn": null,
-      "rebuilt": "trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-ZA%F0%9F%87%BF%F0%9F%87%A6-1"
-    },
     {
       "type": "vless",
       "address": "34.35.11.97",
@@ -24,17 +10,17 @@
       "name": "@meliproxyy",
       "network": "tcp",
       "sni": "www.icloud.com",
-      "host": "/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI",
+      "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?security=reality&encryption=none&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=32a8bfa2939125#vless-xtls-rprx-vision-tcp-reality-ZA%F0%9F%87%BF%F0%9F%87%A6-2",
+      "original": "vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125#vless-xtls-rprx-vision-tcp-reality-ZA%F0%9F%87%BF%F0%9F%87%A6-1",
       "ip": "34.35.11.97",
       "country": "ZA",
       "cdn": null,
-      "rebuilt": "vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?security=reality&encryption=none&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=32a8bfa2939125#vless-xtls-rprx-vision-tcp-reality-ZA%F0%9F%87%BF%F0%9F%87%A6-2"
+      "rebuilt": "vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125#vless-xtls-rprx-vision-tcp-reality-ZA%F0%9F%87%BF%F0%9F%87%A6-1"
     }
   ]
 }

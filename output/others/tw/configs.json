@@ -1,26 +1,21 @@
 {
-  "updated": "2026-06-26T10:46:46.986892",
+  "updated": "2026-06-26T17:43:15.941440",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "tw3.miyazono-kaori.com",
-      "port": "443",
-      "id": "580d81f8-4f30-49d6-ad90-59fb4a850313",
+      "type": "vmess",
+      "address": "165.154.195.38",
+      "port": "35034",
+      "id": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
       "name": "🇹🇼 TW 1",
-      "network": "",
-      "sni": "dlcdnets.asus.com",
-      "host": "",
-      "security": "tls",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://580d81f8-4f30-49d6-ad90-59fb4a850313@tw3.miyazono-kaori.com:443?flow=xtls-rprx-vision&security=tls&sni=dlcdnets.asus.com&fp=chrome&pbk=JE82iOR_U_H7ffxJ5yfoxXeRkMlE-aVu1wxR7n6jrVM&sid=473277e2&path=%2f#vless-xtls-rprx-vision-tcp-tls-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1",
-      "ip": "43.212.145.56",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLVRX8J+HufCfh7wtMSIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6MzUwMzQsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "ip": "165.154.195.38",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://580d81f8-4f30-49d6-ad90-59fb4a850313@tw3.miyazono-kaori.com:443?flow=xtls-rprx-vision&security=tls&sni=dlcdnets.asus.com&fp=chrome&pbk=JE82iOR_U_H7ffxJ5yfoxXeRkMlE-aVu1wxR7n6jrVM&sid=473277e2&path=%2f#vless-xtls-rprx-vision-tcp-tls-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLVRX8J+HufCfh7wtMSIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6MzUwMzQsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0="
     }
   ]
 }
