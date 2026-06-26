@@ -1,19 +1,26 @@
 {
-  "updated": "2026-06-25T10:38:07.856087",
+  "updated": "2026-06-26T02:44:11.952005",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "108.181.121.226",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "WSyL4XTwNsdv",
-      "name": "🇪🇸 ES 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%201",
-      "ip": "108.181.121.226",
+      "type": "vless",
+      "address": "5.180.173.171",
+      "port": "443",
+      "id": "e89a8012-7794-4e54-9b6e-14b12b7e0802",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@5.180.173.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "5.180.173.171",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%201"
+      "rebuilt": "vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@5.180.173.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-1"
     }
   ]
 }
