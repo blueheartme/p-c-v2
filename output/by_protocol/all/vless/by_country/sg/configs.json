@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-27T02:35:58.621834",
-  "count": 2,
+  "updated": "2026-06-27T09:59:48.718927",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "122.248.202.201",
+      "port": "45075",
+      "id": "452da0f8-3034-4e5d-9e7f-9c3f58abb8ff",
+      "name": "Free$ 71 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "www.tesla.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?security=reality&encryption=none&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7185b14179922a5c#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "122.248.202.201",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?security=reality&encryption=none&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7185b14179922a5c#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
     {
       "type": "vless",
       "address": "54.151.254.107",
@@ -24,23 +44,23 @@
     },
     {
       "type": "vless",
-      "address": "122.248.202.201",
-      "port": "45075",
-      "id": "452da0f8-3034-4e5d-9e7f-9c3f58abb8ff",
-      "name": "Free$ 71 @Outline_Vpn",
+      "address": "46.137.225.209",
+      "port": "32946",
+      "id": "0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1",
+      "name": "Free$ 74 @Outline_Vpn",
       "network": "tcp",
-      "sni": "www.tesla.com",
+      "sni": "www.amd.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?security=reality&encryption=none&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7185b14179922a5c#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "122.248.202.201",
+      "original": "vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&encryption=none&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=984d9ea72b9e81#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "46.137.225.209",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?security=reality&encryption=none&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7185b14179922a5c#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&encryption=none&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=984d9ea72b9e81#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     }
   ]
 }

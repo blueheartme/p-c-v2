@@ -1,20 +1,26 @@
 {
-  "updated": "2026-06-25T10:38:07.837667",
+  "updated": "2026-06-27T09:59:48.670172",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "185.126.236.44",
+      "type": "vless",
+      "address": "77.73.131.154",
       "port": "443",
-      "password": "BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL",
-      "name": "🇦🇹 AT 9",
-      "sni": "www.mesaly.click",
+      "id": "1f4c983e-382c-d2fa-b2dc-7981f02b34de",
+      "name": "$Free 242 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "vindobona.org",
       "host": "",
-      "original": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "185.126.236.44",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "77.73.131.154",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }

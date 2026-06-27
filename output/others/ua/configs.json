@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-27T02:35:58.567848",
-  "count": 1,
+  "updated": "2026-06-27T09:59:48.655123",
+  "count": 4,
   "configs": [
+    {
+      "type": "tg",
+      "address": "node.nowabst.net",
+      "port": "853",
+      "secret": "eef17eaf287401413739814ccc05a709a66164732e78352e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275",
+      "ip": "195.123.190.15",
+      "country": "UA",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275"
+    },
     {
       "type": "trojan",
       "address": "89.116.180.49",
@@ -10,11 +22,35 @@
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "sni": "f6r.ir",
       "host": "f6r.ir",
-      "original": "trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#trojan-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "original": "trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#trojan-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-2",
       "ip": "89.116.180.49",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#trojan-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#trojan-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-2"
+    },
+    {
+      "type": "tg",
+      "address": "br.nowabst.net",
+      "port": "853",
+      "secret": "ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=br.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275",
+      "ip": "195.123.190.10",
+      "country": "UA",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=br.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275"
+    },
+    {
+      "type": "tg",
+      "address": "relay.nowabst.net",
+      "port": "853",
+      "secret": "ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=relay.nowabst.net&port=853&secret=ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275",
+      "ip": "195.123.190.26",
+      "country": "UA",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=relay.nowabst.net&port=853&secret=ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275"
     }
   ]
 }
