@@ -1,34 +1,26 @@
 {
-  "updated": "2026-06-25T10:38:07.836062",
-  "count": 2,
+  "updated": "2026-06-27T17:03:29.275159",
+  "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "ch-2.bexum.fun",
+      "type": "vless",
+      "address": "193.93.194.120",
       "port": "443",
-      "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
-      "name": "🇨🇿 CZ 10",
-      "sni": "ch-2.bexum.fun",
+      "id": "cfb5b3d3-c094-4222-99e8-53faa787c857",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "site.rumedia-cdn.com",
       "host": "",
-      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?sni=ch-2.bexum.fun&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "46.8.113.142",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443?security=reality&encryption=none&pbk=dgrcO3r5wkEjcsWdEsNtgtWCe9vER6mgADXYclWXVxg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=8de54d32a8d3fdf9#vless-xtls-rprx-vision-tcp-reality-qq-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
+      "ip": "193.93.194.120",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?sni=ch-2.bexum.fun&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
-    },
-    {
-      "type": "trojan",
-      "address": "46.8.113.142",
-      "port": "443",
-      "password": "LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu",
-      "name": "🇨🇿 CZ 11",
-      "sni": "ch-2.bexum.fun",
-      "host": "",
-      "original": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?sni=ch-2.bexum.fun&fp=chrome&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
-      "ip": "46.8.113.142",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?sni=ch-2.bexum.fun&fp=chrome&path=%2f#trojan-tcp-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+      "rebuilt": "vless://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443?security=reality&encryption=none&pbk=dgrcO3r5wkEjcsWdEsNtgtWCe9vER6mgADXYclWXVxg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=8de54d32a8d3fdf9#vless-xtls-rprx-vision-tcp-reality-qq-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
     }
   ]
 }

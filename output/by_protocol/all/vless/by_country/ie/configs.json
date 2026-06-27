@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-17T03:00:57.416251",
+  "updated": "2026-06-27T17:03:29.327637",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "34.255.64.207",
-      "port": "2003",
-      "id": "3adaa55a-d79d-4e67-be4a-5baad181eeb2",
-      "name": "",
+      "address": "176.34.140.103",
+      "port": "31660",
+      "id": "538d4749-33ba-435f-8fbb-57d7f22f996b",
+      "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "play.google.com",
+      "sni": "",
       "host": "",
-      "security": "reality",
+      "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://3adaa55a-d79d-4e67-be4a-5baad181eeb2@34.255.64.207:2003?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=play.google.com&sid=2418ed47b875e923&fp=firefox&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none#vless-tcp-reality-firefox-IE%F0%9F%87%AE%F0%9F%87%AA-1",
-      "ip": "34.255.64.207",
+      "fingerprint": "",
+      "original": "vless://538d4749-33ba-435f-8fbb-57d7f22f996b@176.34.140.103:31660?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IE%F0%9F%87%AE%F0%9F%87%AA-2",
+      "ip": "176.34.140.103",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "vless://3adaa55a-d79d-4e67-be4a-5baad181eeb2@34.255.64.207:2003?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=play.google.com&sid=2418ed47b875e923&fp=firefox&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none#vless-tcp-reality-firefox-IE%F0%9F%87%AE%F0%9F%87%AA-1"
+      "rebuilt": "vless://538d4749-33ba-435f-8fbb-57d7f22f996b@176.34.140.103:31660?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IE%F0%9F%87%AE%F0%9F%87%AA-2"
     }
   ]
 }
