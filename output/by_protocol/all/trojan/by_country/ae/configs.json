@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T17:43:16.015637",
-  "count": 1,
+  "updated": "2026-06-27T02:35:58.589614",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,20 @@
       "country": "AE",
       "cdn": null,
       "rebuilt": "trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?type=tcp&security=tls&headerType=none&insecure=0&allowInsecure=0#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+    },
+    {
+      "type": "trojan",
+      "address": "94.140.0.100",
+      "port": "443",
+      "password": "MITIVPN",
+      "name": "@proxy_kafee -  🇺🇲",
+      "sni": "95r.ir",
+      "host": "95r.ir",
+      "original": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "94.140.0.100",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     }
   ]
 }

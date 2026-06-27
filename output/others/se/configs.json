@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-26T17:43:15.899369",
-  "count": 4,
+  "updated": "2026-06-27T02:35:58.544242",
+  "count": 6,
   "configs": [
+    {
+      "type": "hysteria2",
+      "address": "31.22.91.243",
+      "port": "443",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "original": "hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "31.22.91.243",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
     {
       "type": "vless",
       "address": "79.127.249.196",
@@ -16,11 +27,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2",
       "ip": "79.127.249.196",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "192.71.82.2",
+      "port": "443",
+      "id": "a5c05c1e-aa68-443f-8598-09800244bd4b",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "kingcloud.biack.ir",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "192.71.82.2",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     },
     {
       "type": "vless",
@@ -36,31 +67,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4",
       "ip": "45.159.12.34",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2"
-    },
-    {
-      "type": "vless",
-      "address": "13.63.126.48",
-      "port": "8444",
-      "id": "242f3b82-7c52-4b3c-a576-c3c8d775e3ed",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
-      "sni": "play.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "mlkem768x25519plus.native.0rtt.itfk-ftxinrlwgajpp72iaz8c2i6veu0w3yatybvsgo",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://242f3b82-7c52-4b3c-a576-c3c8d775e3ed@13.63.126.48:8444?security=reality&encryption=mlkem768x25519plus.native.0rtt.iTfk-FtxINrlWgajpp72IAz8c2i6vEU0W3YatYBVsgo&pbk=LINfckLkgXuI1-3SeeRrjtjymGEsus3vLypmcI8N6nY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e3e064f1196a7ba1#vless-mlkem768x25519plus.native.0rtt.itfk-ftxinrlwgajpp72iaz8c2i6veu0w3yatybvsgo-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3",
-      "ip": "13.63.126.48",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://242f3b82-7c52-4b3c-a576-c3c8d775e3ed@13.63.126.48:8444?security=reality&encryption=mlkem768x25519plus.native.0rtt.iTfk-FtxINrlWgajpp72IAz8c2i6vEU0W3YatYBVsgo&pbk=LINfckLkgXuI1-3SeeRrjtjymGEsus3vLypmcI8N6nY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e3e064f1196a7ba1#vless-mlkem768x25519plus.native.0rtt.itfk-ftxinrlwgajpp72iaz8c2i6veu0w3yatybvsgo-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4"
     },
     {
       "type": "vless",
@@ -76,11 +87,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://f7a656e5-e37d-442b-9693-29d293dba6bb@blog.matcloud.ir:22186?security=reality&encryption=none&pbk=a9j2B879xBNVXjzvGqsPb_aikYqo5VbTtsIJ8jss5Ug&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=39aa597373aa1e5a#vless-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "original": "vless://f7a656e5-e37d-442b-9693-29d293dba6bb@blog.matcloud.ir:22186?security=reality&encryption=none&pbk=a9j2B879xBNVXjzvGqsPb_aikYqo5VbTtsIJ8jss5Ug&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=39aa597373aa1e5a#vless-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-5",
       "ip": "93.93.205.227",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://f7a656e5-e37d-442b-9693-29d293dba6bb@blog.matcloud.ir:22186?security=reality&encryption=none&pbk=a9j2B879xBNVXjzvGqsPb_aikYqo5VbTtsIJ8jss5Ug&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=39aa597373aa1e5a#vless-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+      "rebuilt": "vless://f7a656e5-e37d-442b-9693-29d293dba6bb@blog.matcloud.ir:22186?security=reality&encryption=none&pbk=a9j2B879xBNVXjzvGqsPb_aikYqo5VbTtsIJ8jss5Ug&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=39aa597373aa1e5a#vless-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-5"
+    },
+    {
+      "type": "vless",
+      "address": "dl.google.ssl-4.aiteamplus.ir",
+      "port": "2087",
+      "id": "481969d4-60bc-48ab-9e34-82e6922a4aaa",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "dl.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://481969d4-60bc-48ab-9e34-82e6922a4aaa@dl.google.ssl-4.aiteamplus.ir:2087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&fp=chrome&pbk=4OIOh3Ln3d2q3USqev7GGZcOIIMOhXcxtSg2EiBu6Cs&sid=7bbd0412575b0262&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-6",
+      "ip": "84.32.217.191",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://481969d4-60bc-48ab-9e34-82e6922a4aaa@dl.google.ssl-4.aiteamplus.ir:2087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&fp=chrome&pbk=4OIOh3Ln3d2q3USqev7GGZcOIIMOhXcxtSg2EiBu6Cs&sid=7bbd0412575b0262&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-6"
     }
   ]
 }
