@@ -1,30 +1,18 @@
 {
-  "updated": "2026-06-28T10:23:46.576617",
-  "count": 17,
+  "updated": "2026-06-28T17:03:05.698942",
+  "count": 14,
   "configs": [
     {
       "type": "tg",
-      "address": "2.telbet.lol",
+      "address": "own.telbet.lol",
       "port": "25565",
-      "secret": "dd79e7010200010007f0030386e24c3add",
+      "secret": "dd79e344818749bd7ac519130220c25d09",
       "name": "",
-      "original": "https://t.me/proxy?server=2.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add",
+      "original": "https://t.me/proxy?server=own.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
       "ip": "172.65.114.45",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=2.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add"
-    },
-    {
-      "type": "tg",
-      "address": "172.65.117.172",
-      "port": "22",
-      "secret": "dd79e344818749bd7ac519130220c25d09",
-      "name": "",
-      "original": "https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09",
-      "ip": "172.65.117.172",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+      "rebuilt": "https://t.me/proxy?server=own.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
     },
     {
       "type": "tg",
@@ -40,15 +28,27 @@
     },
     {
       "type": "tg",
-      "address": "172.65.102.115",
-      "port": "22",
-      "secret": "dd79e344818749bd7ac519130220c25d09",
+      "address": "3.telbet.lol",
+      "port": "25565",
+      "secret": "dd79e7010200010007f0030386e24c3add",
       "name": "",
-      "original": "https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09",
-      "ip": "172.65.102.115",
+      "original": "https://t.me/proxy?server=3.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add",
+      "ip": "172.65.114.45",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+      "rebuilt": "https://t.me/proxy?server=3.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add"
+    },
+    {
+      "type": "tg",
+      "address": "zoomit.telbet.lol",
+      "port": "25565",
+      "secret": "dd79e344818749bd7ac519130220c25d09",
+      "name": "",
+      "original": "https://t.me/proxy?server=zoomit.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
+      "ip": "172.65.114.45",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=zoomit.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
     },
     {
       "type": "tg",
@@ -64,27 +64,15 @@
     },
     {
       "type": "tg",
-      "address": "2A.telbet.lol",
+      "address": "i.telbet.lol",
       "port": "25565",
       "secret": "dd79e344818749bd7ac519130220c25d09",
       "name": "",
-      "original": "https://t.me/proxy?server=2A.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
+      "original": "https://t.me/proxy?server=i.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
       "ip": "172.65.114.45",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=2A.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
-    },
-    {
-      "type": "tg",
-      "address": "6161627.telbet.lol",
-      "port": "25565",
-      "secret": "dd79e344818749bd7ac519130220c25d09",
-      "name": "",
-      "original": "https://t.me/proxy?server=6161627.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
-      "ip": "172.65.114.45",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=6161627.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
+      "rebuilt": "https://t.me/proxy?server=i.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
     },
     {
       "type": "tg",
@@ -100,75 +88,39 @@
     },
     {
       "type": "tg",
-      "address": "how.telbet.lol",
-      "port": "25565",
+      "address": "172.65.102.115",
+      "port": "22",
       "secret": "dd79e344818749bd7ac519130220c25d09",
       "name": "",
-      "original": "https://t.me/proxy?server=how.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
-      "ip": "172.65.114.45",
+      "original": "https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09",
+      "ip": "172.65.102.115",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=how.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
+      "rebuilt": "https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09"
     },
     {
       "type": "tg",
-      "address": "i.telbet.lol",
-      "port": "25565",
-      "secret": "dd79e344818749bd7ac519130220c25d09",
-      "name": "",
-      "original": "https://t.me/proxy?server=i.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
-      "ip": "172.65.114.45",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=i.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
-    },
-    {
-      "type": "tg",
-      "address": "mc-ssh.t-proxyru.info.",
-      "port": "25565",
-      "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-      "ip": "172.65.126.40",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "fresh.t-proxy.info.",
-      "port": "25565",
-      "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-      "ip": "172.65.121.181",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "3.telbet.lol",
+      "address": "2.telbet.lol",
       "port": "25565",
       "secret": "dd79e7010200010007f0030386e24c3add",
       "name": "",
-      "original": "https://t.me/proxy?server=3.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add",
+      "original": "https://t.me/proxy?server=2.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add",
       "ip": "172.65.114.45",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=3.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add"
+      "rebuilt": "https://t.me/proxy?server=2.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add"
     },
     {
       "type": "tg",
-      "address": "own.telbet.lol",
+      "address": "2A.telbet.lol",
       "port": "25565",
       "secret": "dd79e344818749bd7ac519130220c25d09",
       "name": "",
-      "original": "https://t.me/proxy?server=own.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
+      "original": "https://t.me/proxy?server=2A.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
       "ip": "172.65.114.45",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=own.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
+      "rebuilt": "https://t.me/proxy?server=2A.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
     },
     {
       "type": "tg",
@@ -184,15 +136,27 @@
     },
     {
       "type": "tg",
-      "address": "zoomit.telbet.lol",
+      "address": "fresh.t-proxy.info.",
+      "port": "25565",
+      "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+      "ip": "172.65.121.181",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "how.telbet.lol",
       "port": "25565",
       "secret": "dd79e344818749bd7ac519130220c25d09",
       "name": "",
-      "original": "https://t.me/proxy?server=zoomit.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
+      "original": "https://t.me/proxy?server=how.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
       "ip": "172.65.114.45",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=zoomit.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
+      "rebuilt": "https://t.me/proxy?server=how.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
     },
     {
       "type": "tg",

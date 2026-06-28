@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T10:23:46.539700",
-  "count": 2,
+  "updated": "2026-06-28T17:03:05.644798",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
@@ -15,26 +15,6 @@
       "country": "MY",
       "cdn": null,
       "rebuilt": "trojan://Lw_DP4%2BW.J5K33MD2Jy5zQVuT5n71%2B%3DBcD@38.60.168.129:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-MY%F0%9F%87%B2%F0%9F%87%BE-1"
-    },
-    {
-      "type": "vless",
-      "address": "47.250.195.25",
-      "port": "19108",
-      "id": "bc23e569-a9d3-4079-cd35-4c60ee060c3e",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://bc23e569-a9d3-4079-cd35-4c60ee060c3e@47.250.195.25:19108?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-MY%F0%9F%87%B2%F0%9F%87%BE-2",
-      "ip": "47.250.195.25",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "vless://bc23e569-a9d3-4079-cd35-4c60ee060c3e@47.250.195.25:19108?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-MY%F0%9F%87%B2%F0%9F%87%BE-2"
     }
   ]
 }
