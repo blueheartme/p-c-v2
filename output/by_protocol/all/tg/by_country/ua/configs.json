@@ -1,42 +1,30 @@
 {
-  "updated": "2026-06-27T17:03:29.343617",
+  "updated": "2026-06-28T02:49:41.226556",
   "count": 5,
   "configs": [
     {
       "type": "tg",
-      "address": "node.nowabst.net",
-      "port": "853",
-      "secret": "eef17eaf287401413739814ccc05a709a66164732e78352e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275",
-      "ip": "195.123.190.83",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275"
-    },
-    {
-      "type": "tg",
       "address": "relay.nowabst.net",
       "port": "853",
-      "secret": "ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275",
+      "secret": "ee56b3978999960e7b1612c25557e1b9c1766b2e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=relay.nowabst.net&port=853&secret=ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275",
-      "ip": "195.123.190.205",
+      "original": "https://t.me/proxy?server=relay.nowabst.net&port=853&secret=ee56b3978999960e7b1612c25557e1b9c1766b2e636f6d",
+      "ip": "195.123.190.90",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=relay.nowabst.net&port=853&secret=ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275"
+      "rebuilt": "https://t.me/proxy?server=relay.nowabst.net&port=853&secret=ee56b3978999960e7b1612c25557e1b9c1766b2e636f6d"
     },
     {
       "type": "tg",
-      "address": "br.nowabst.net",
+      "address": "cdn.nowabst.net",
       "port": "853",
-      "secret": "ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275",
+      "secret": "ee55aabc9752a9d9d379e02943cf811795766b2e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=br.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275",
-      "ip": "195.123.190.222",
+      "original": "https://t.me/proxy?server=cdn.nowabst.net&port=853&secret=ee55aabc9752a9d9d379e02943cf811795766b2e636f6d",
+      "ip": "195.123.190.144",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=br.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275"
+      "rebuilt": "https://t.me/proxy?server=cdn.nowabst.net&port=853&secret=ee55aabc9752a9d9d379e02943cf811795766b2e636f6d"
     },
     {
       "type": "tg",
@@ -44,23 +32,35 @@
       "port": "853",
       "secret": "ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=mt.nowabst.net&port=853&secret=ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d&@MPT_Proxy",
-      "ip": "195.123.190.22",
+      "original": "https://t.me/proxy?server=mt.nowabst.net&port=853&secret=ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d",
+      "ip": "195.123.190.51",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=mt.nowabst.net&port=853&secret=ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d&@MPT_Proxy"
+      "rebuilt": "https://t.me/proxy?server=mt.nowabst.net&port=853&secret=ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d"
     },
     {
       "type": "tg",
-      "address": "mtp.nowabst.net",
+      "address": "node.nowabst.net",
       "port": "853",
-      "secret": "eeceaec97c86b6332adc48b3c081954e60766b2e636f6d",
+      "secret": "ee1bbdcdcfd200974bb999813180a12738766b2e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=mtp.nowabst.net&port=853&secret=eeceaec97c86b6332adc48b3c081954e60766b2e636f6d&@MPT_Proxy",
-      "ip": "195.123.190.74",
+      "original": "https://t.me/proxy?server=node.nowabst.net&port=853&secret=ee1bbdcdcfd200974bb999813180a12738766b2e636f6d",
+      "ip": "195.123.190.83",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=mtp.nowabst.net&port=853&secret=eeceaec97c86b6332adc48b3c081954e60766b2e636f6d&@MPT_Proxy"
+      "rebuilt": "https://t.me/proxy?server=node.nowabst.net&port=853&secret=ee1bbdcdcfd200974bb999813180a12738766b2e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "ge.nowabst.net",
+      "port": "853",
+      "secret": "ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=ge.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d",
+      "ip": "195.123.190.55",
+      "country": "UA",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=ge.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d"
     }
   ]
 }
