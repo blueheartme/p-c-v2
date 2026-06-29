@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-29T12:26:43.650108",
+  "updated": "2026-06-29T18:05:49.349675",
   "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "103.36.91.23",
+      "port": "8388",
+      "method": "chacha20-ietf",
+      "password": "asd123456",
+      "name": "🇸🇬 SG 2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#%f0%9f%87%b8%f0%9f%87%ac%20SG%202",
+      "ip": "103.36.91.23",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#%f0%9f%87%b8%f0%9f%87%ac%20SG%202"
+    },
     {
       "type": "tg",
       "address": "www.roto-best.info",
@@ -9,30 +22,10 @@
       "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
       "name": "",
       "original": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-      "ip": "77.93.136.239",
+      "ip": "77.93.136.248",
       "country": "HK",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d"
-    },
-    {
-      "type": "vless",
-      "address": "64.49.45.57",
-      "port": "15540",
-      "id": "f8e32ccb-7e0b-4966-837a-2a9503bc3d82",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "www.intel.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://f8e32ccb-7e0b-4966-837a-2a9503bc3d82@64.49.45.57:15540?security=reality&encryption=none&pbk=Yg0SBHkbrgAxsRKnsNXn4SStVURNYMiPor2oMSRTblA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=3a81ee2c998d0e#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "64.49.45.57",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://f8e32ccb-7e0b-4966-837a-2a9503bc3d82@64.49.45.57:15540?security=reality&encryption=none&pbk=Yg0SBHkbrgAxsRKnsNXn4SStVURNYMiPor2oMSRTblA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=3a81ee2c998d0e#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     },
     {
       "type": "trojan",
@@ -54,12 +47,12 @@
       "port": "38388",
       "method": "aes-256-cfb",
       "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV",
-      "name": "🇭🇰 HK 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388#%f0%9f%87%ad%f0%9f%87%b0%20HK%201",
+      "name": "🇭🇰 HK 2",
+      "original": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388#%f0%9f%87%ad%f0%9f%87%b0%20HK%202",
       "ip": "216.250.97.82",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388#%f0%9f%87%ad%f0%9f%87%b0%20HK%201"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388#%f0%9f%87%ad%f0%9f%87%b0%20HK%202"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T12:26:43.685922",
-  "count": 1,
+  "updated": "2026-06-29T18:05:49.403585",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,51 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "original": "vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-1",
       "ip": "77.73.131.154",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+      "rebuilt": "vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "185.119.117.146",
+      "port": "8443",
+      "id": "3ed507c9-cf4e-446d-8f8f-c9572ddfd76e",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "nova-river-bridge-5096.nova-d1f9fe.workers.dev",
+      "host": "nova-river-bridge-5096.nova-d1f9fe.workers.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://3ed507c9-cf4e-446d-8f8f-c9572ddfd76e@185.119.117.146:8443?path=%2Fproxyip%3D91.228.154.10%3Fu%3Dcf4dcf81ac&security=tls&encryption=none&insecure=1&host=nova-river-bridge-5096.nova-d1f9fe.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=nova-river-bridge-5096.nova-d1f9fe.workers.dev#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "185.119.117.146",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://3ed507c9-cf4e-446d-8f8f-c9572ddfd76e@185.119.117.146:8443?path=%2Fproxyip%3D91.228.154.10%3Fu%3Dcf4dcf81ac&security=tls&encryption=none&insecure=1&host=nova-river-bridge-5096.nova-d1f9fe.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=nova-river-bridge-5096.nova-d1f9fe.workers.dev#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+    },
+    {
+      "type": "vless",
+      "address": "193.233.233.188",
+      "port": "2053",
+      "id": "3ed507c9-cf4e-446d-8f8f-c9572ddfd76e",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "nova-river-bridge-5096.nova-d1f9fe.workers.dev",
+      "host": "nova-river-bridge-5096.nova-d1f9fe.workers.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://3ed507c9-cf4e-446d-8f8f-c9572ddfd76e@193.233.233.188:2053?path=%2Fproxyip%3D91.228.154.10%3Fu%3Dcf4dcf81ac&security=tls&encryption=none&insecure=1&host=nova-river-bridge-5096.nova-d1f9fe.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=nova-river-bridge-5096.nova-d1f9fe.workers.dev#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-3",
+      "ip": "193.233.233.188",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://3ed507c9-cf4e-446d-8f8f-c9572ddfd76e@193.233.233.188:2053?path=%2Fproxyip%3D91.228.154.10%3Fu%3Dcf4dcf81ac&security=tls&encryption=none&insecure=1&host=nova-river-bridge-5096.nova-d1f9fe.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=nova-river-bridge-5096.nova-d1f9fe.workers.dev#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-3"
     }
   ]
 }

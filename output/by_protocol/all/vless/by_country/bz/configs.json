@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-25T02:40:37.699465",
+  "updated": "2026-06-29T18:05:49.396600",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "cd3.videobazi.com",
-      "port": "8080",
-      "id": "0058c215-ab1e-400c-a403-b5b2fda7e846",
+      "address": "45.131.4.246",
+      "port": "2096",
+      "id": "3ed507c9-cf4e-446d-8f8f-c9572ddfd76e",
       "name": "@filembad",
       "network": "ws",
-      "sni": "",
-      "host": "tr-cd.sublink-vip2.com",
-      "security": "none",
+      "sni": "nova-river-bridge-5096.nova-d1f9fe.workers.dev",
+      "host": "nova-river-bridge-5096.nova-d1f9fe.workers.dev",
+      "security": "tls",
       "flow": "",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd3.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-BZ%F0%9F%87%A7%F0%9F%87%BF-2",
+      "fingerprint": "chrome",
+      "original": "vless://3ed507c9-cf4e-446d-8f8f-c9572ddfd76e@45.131.4.246:2096?path=%2Fproxyip%3D91.228.154.10%3Fu%3Dcf4dcf81ac&security=tls&encryption=none&insecure=1&host=nova-river-bridge-5096.nova-d1f9fe.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=nova-river-bridge-5096.nova-d1f9fe.workers.dev#vless-ws-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-2",
       "ip": "45.131.4.246",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd3.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-BZ%F0%9F%87%A7%F0%9F%87%BF-2"
+      "rebuilt": "vless://3ed507c9-cf4e-446d-8f8f-c9572ddfd76e@45.131.4.246:2096?path=%2Fproxyip%3D91.228.154.10%3Fu%3Dcf4dcf81ac&security=tls&encryption=none&insecure=1&host=nova-river-bridge-5096.nova-d1f9fe.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=nova-river-bridge-5096.nova-d1f9fe.workers.dev#vless-ws-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-2"
     }
   ]
 }

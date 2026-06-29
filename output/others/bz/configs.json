@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-29T12:26:43.644481",
-  "count": 2,
+  "updated": "2026-06-29T18:05:49.345637",
+  "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "45.131.4.118",
+      "port": "443",
+      "password": "MiTiVPN",
+      "name": "@meliproxyy",
+      "sni": "95r.ir",
+      "host": "95r.ir",
+      "original": "trojan://MiTiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-1",
+      "ip": "45.131.4.118",
+      "country": "BZ",
+      "cdn": null,
+      "rebuilt": "trojan://MiTiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.131.4.246",
+      "port": "2096",
+      "id": "3ed507c9-cf4e-446d-8f8f-c9572ddfd76e",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "nova-river-bridge-5096.nova-d1f9fe.workers.dev",
+      "host": "nova-river-bridge-5096.nova-d1f9fe.workers.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://3ed507c9-cf4e-446d-8f8f-c9572ddfd76e@45.131.4.246:2096?path=%2Fproxyip%3D91.228.154.10%3Fu%3Dcf4dcf81ac&security=tls&encryption=none&insecure=1&host=nova-river-bridge-5096.nova-d1f9fe.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=nova-river-bridge-5096.nova-d1f9fe.workers.dev#vless-ws-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-2",
+      "ip": "45.131.4.246",
+      "country": "BZ",
+      "cdn": null,
+      "rebuilt": "vless://3ed507c9-cf4e-446d-8f8f-c9572ddfd76e@45.131.4.246:2096?path=%2Fproxyip%3D91.228.154.10%3Fu%3Dcf4dcf81ac&security=tls&encryption=none&insecure=1&host=nova-river-bridge-5096.nova-d1f9fe.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=nova-river-bridge-5096.nova-d1f9fe.workers.dev#vless-ws-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-2"
+    },
     {
       "type": "trojan",
       "address": "45.131.4.118",
@@ -10,25 +44,11 @@
       "name": "@meliproxyy",
       "sni": "95r.ir",
       "host": "95r.ir",
-      "original": "trojan://%4D%69%54%69%56%50%4E@45.131.4.118:443?path=%2F%4D%69%54%69%56%50%4E%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-1",
+      "original": "trojan://%4D%69%54%69%56%50%4E@45.131.4.118:443?path=%2F%4D%69%54%69%56%50%4E%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-3",
       "ip": "45.131.4.118",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "trojan://%4D%69%54%69%56%50%4E@45.131.4.118:443?path=%2F%4D%69%54%69%56%50%4E%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-1"
-    },
-    {
-      "type": "trojan",
-      "address": "45.131.4.118",
-      "port": "443",
-      "password": "MiTiVPN",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "sni": "linkkon-w.ir",
-      "host": "linkkon-w.ir",
-      "original": "trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#trojan-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-2",
-      "ip": "45.131.4.118",
-      "country": "BZ",
-      "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#trojan-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-2"
+      "rebuilt": "trojan://%4D%69%54%69%56%50%4E@45.131.4.118:443?path=%2F%4D%69%54%69%56%50%4E%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-3"
     }
   ]
 }
