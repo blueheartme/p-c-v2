@@ -1,40 +1,54 @@
 {
-  "updated": "2026-06-30T10:52:02.417221",
-  "count": 3,
+  "updated": "2026-06-30T17:49:10.734048",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
-      "address": "94.140.0.100",
+      "address": "38.60.202.163",
       "port": "443",
-      "password": "MITIVPN",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "sni": "95r.ir",
-      "host": "95r.ir",
-      "original": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "94.140.0.100",
+      "password": "ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed",
+      "name": "🇦🇪 AE 1",
+      "sni": "38.60.202.163",
+      "host": "",
+      "original": "trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163&path=%2f#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "38.60.202.163",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163&path=%2f#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
-      "address": "erosan.appleseraj.ir",
-      "port": "443",
+      "address": "solar.appleseraj.ir",
+      "port": "2083",
       "id": "53feb5dd-9bb2-44ff-80ec-4d00debf1de4",
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "network": "ws",
-      "sni": "falkinichlol.appleseraj.ir",
-      "host": "falkinichlol.appleseraj.ir",
+      "sni": "nurenbbbb.appleseraj.ir",
+      "host": "nurenbbbb.appleseraj.ir",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@erosan.appleseraj.ir:443?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=falkinichlol.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=falkinichlol.appleseraj.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "original": "vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nurenbbbb.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbbbb.appleseraj.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
       "ip": "94.140.0.100",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@erosan.appleseraj.ir:443?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=falkinichlol.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=falkinichlol.appleseraj.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nurenbbbb.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbbbb.appleseraj.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+    },
+    {
+      "type": "trojan",
+      "address": "94.140.0.100",
+      "port": "443",
+      "password": "MITIVPN",
+      "name": "@meliproxyy",
+      "sni": "95r.ir",
+      "host": "95r.ir",
+      "original": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "94.140.0.100",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     },
     {
       "type": "vless",
@@ -50,11 +64,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3",
-      "ip": "38.180.26.28",
+      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-4",
+      "ip": "38.180.11.103",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-4"
     }
   ]
 }

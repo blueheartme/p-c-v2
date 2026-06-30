@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-29T02:50:07.129937",
+  "updated": "2026-06-30T17:49:10.797335",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "cdn1.portalcode.ir",
-      "port": "2095",
-      "id": "0b6c7593-9163-4ca5-875b-3040aa43d94c",
-      "name": "@filembad",
-      "network": "httpupgrade",
-      "sni": "",
-      "host": "francev1.rainzone.ir",
-      "security": "",
-      "flow": "",
+      "address": "109.69.218.217",
+      "port": "8443",
+      "id": "7d14f1cf-3740-4fbd-a31c-6f7d078f97d7",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.engage.edgedoor.ink",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://0b6c7593-9163-4ca5-875b-3040aa43d94c@cdn1.portalcode.ir:2095?path=%2F&security=&encryption=none&host=francev1.rainzone.ir&type=httpupgrade#vless-httpupgrade-BE%F0%9F%87%A7%F0%9F%87%AA-1",
-      "ip": "188.95.12.226",
+      "original": "vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@109.69.218.217:8443?security=reality&encryption=none&pbk=_BMcBaQjBV5AXRtl7yWxV6vYR8Jm7nfwXY6VhltMtBo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.engage.edgedoor.ink#vless-xtls-rprx-vision-tcp-reality-BE%F0%9F%87%A7%F0%9F%87%AA-1",
+      "ip": "109.69.218.217",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://0b6c7593-9163-4ca5-875b-3040aa43d94c@cdn1.portalcode.ir:2095?path=%2F&security=&encryption=none&host=francev1.rainzone.ir&type=httpupgrade#vless-httpupgrade-BE%F0%9F%87%A7%F0%9F%87%AA-1"
+      "rebuilt": "vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@109.69.218.217:8443?security=reality&encryption=none&pbk=_BMcBaQjBV5AXRtl7yWxV6vYR8Jm7nfwXY6VhltMtBo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.engage.edgedoor.ink#vless-xtls-rprx-vision-tcp-reality-BE%F0%9F%87%A7%F0%9F%87%AA-1"
     }
   ]
 }

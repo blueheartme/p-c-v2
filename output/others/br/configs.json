@@ -1,26 +1,19 @@
 {
-  "updated": "2026-06-26T10:46:47.017499",
+  "updated": "2026-06-30T17:49:10.763552",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "185.133.35.140",
-      "port": "80",
-      "id": "f9255507-1b65-433f-bfd8-193b35e068e2",
-      "name": "channel→@networld_vpn",
-      "network": "ws",
-      "sni": "",
-      "host": "s5.868001.xyz",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "185.133.35.140",
+      "type": "ss",
+      "address": "38.180.221.145",
+      "port": "17283",
+      "method": "chacha20-ietf-poly1305",
+      "password": "bwjNPcwgz5+1gCyi+rB+nfqugw38B7tqVa",
+      "name": "🇧🇷 BR 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.145:17283#%f0%9f%87%a7%f0%9f%87%b7%20BR%201",
+      "ip": "38.180.221.145",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.145:17283#%f0%9f%87%a7%f0%9f%87%b7%20BR%201"
     }
   ]
 }
