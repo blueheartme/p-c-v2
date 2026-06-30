@@ -1,20 +1,48 @@
 {
-  "updated": "2026-06-29T18:05:49.410487",
-  "count": 4,
+  "updated": "2026-06-30T02:44:27.710601",
+  "count": 5,
   "configs": [
     {
       "type": "trojan",
       "address": "91.193.58.201",
       "port": "443",
+      "password": "MiTiVPN",
+      "name": "@meliproxyy",
+      "sni": "95r.ir",
+      "host": "95r.ir",
+      "original": "trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-1",
+      "ip": "91.193.58.201",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-1"
+    },
+    {
+      "type": "trojan",
+      "address": "45.77.227.183",
+      "port": "443",
+      "password": "kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP",
+      "name": "☑➜چنلمون: Express_freevpn@",
+      "sni": "",
+      "host": "",
+      "original": "trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-GB%F0%9F%87%AC%F0%9F%87%A7-23",
+      "ip": "45.77.227.183",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-GB%F0%9F%87%AC%F0%9F%87%A7-23"
+    },
+    {
+      "type": "trojan",
+      "address": "164.38.155.135",
+      "port": "443",
       "password": "%4D%69%54%69%56%50%4E",
       "name": "@meliproxyy",
       "sni": "95r.ir",
       "host": "95r.ir",
-      "original": "trojan://%4D%69%54%69%56%50%4E@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-3",
-      "ip": "91.193.58.201",
+      "original": "trojan://%4D%69%54%69%56%50%4E@164.38.155.135:443?path=%2F%4D%69%54%69%56%50%4E%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-24",
+      "ip": "164.38.155.135",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "trojan://%4D%69%54%69%56%50%4E@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-3"
+      "rebuilt": "trojan://%4D%69%54%69%56%50%4E@164.38.155.135:443?path=%2F%4D%69%54%69%56%50%4E%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-24"
     },
     {
       "type": "trojan",
@@ -24,39 +52,25 @@
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "sni": "95r.ir",
       "host": "95r.ir",
-      "original": "trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-8",
+      "original": "trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-28",
       "ip": "164.38.155.135",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-8"
+      "rebuilt": "trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-28"
     },
     {
       "type": "trojan",
       "address": "91.193.58.201",
       "port": "443",
-      "password": "MiTiVPN",
-      "name": "@filembad",
-      "sni": "95r.ir",
-      "host": "95r.ir",
-      "original": "trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&host=95r.ir&fp=firefox&type=ws&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-9",
-      "ip": "91.193.58.201",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&host=95r.ir&fp=firefox&type=ws&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-9"
-    },
-    {
-      "type": "trojan",
-      "address": "164.38.155.135",
-      "port": "443",
       "password": "%4D%69%54%69%56%50%4E",
       "name": "@meliproxyy",
       "sni": "95r.ir",
       "host": "95r.ir",
-      "original": "trojan://%4D%69%54%69%56%50%4E@164.38.155.135:443?path=%2F%4D%69%54%69%56%50%4E%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-11",
-      "ip": "164.38.155.135",
+      "original": "trojan://%4D%69%54%69%56%50%4E@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-33",
+      "ip": "91.193.58.201",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "trojan://%4D%69%54%69%56%50%4E@164.38.155.135:443?path=%2F%4D%69%54%69%56%50%4E%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-11"
+      "rebuilt": "trojan://%4D%69%54%69%56%50%4E@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-33"
     }
   ]
 }

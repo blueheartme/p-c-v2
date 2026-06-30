@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T18:05:49.352226",
-  "count": 5,
+  "updated": "2026-06-30T02:44:27.641480",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -29,26 +29,6 @@
       "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%202"
     },
     {
-      "type": "vless",
-      "address": "130.107.73.148",
-      "port": "41373",
-      "id": "a71c8954-66a8-4321-bedb-2336230d81ce",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&security=reality&flow=xtls-rprx-vision&encryption=none&sni=google.com&sid=0e&fp=chrome&spx=%2F#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3",
-      "ip": "130.107.73.148",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&security=reality&flow=xtls-rprx-vision&encryption=none&sni=google.com&sid=0e&fp=chrome&spx=%2F#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3"
-    },
-    {
       "type": "vmess",
       "address": "23.162.200.198",
       "port": "18000",
@@ -57,23 +37,11 @@
       "network": "tcp",
       "host": "",
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DQfCfh6jwn4emLTQiLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DQfCfh6jwn4emLTMiLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
       "ip": "23.162.200.198",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DQfCfh6jwn4emLTQiLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
-    },
-    {
-      "type": "tg",
-      "address": "148.113.233.11",
-      "port": "443",
-      "secret": "dd34dd3729a55e977300dfcf2cf05a14f0AAAAAAAAAAAAAAAAAAA",
-      "name": "",
-      "original": "https://t.me/proxy?server=148.113.233.11&port=443&secret=dd34dd3729a55e977300dfcf2cf05a14f0AAAAAAAAAAAAAAAAAAA&@MPT_Proxy",
-      "ip": "148.113.233.11",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=148.113.233.11&port=443&secret=dd34dd3729a55e977300dfcf2cf05a14f0AAAAAAAAAAAAAAAAAAA&@MPT_Proxy"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DQfCfh6jwn4emLTMiLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     }
   ]
 }
