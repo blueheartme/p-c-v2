@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T11:19:59.092121",
-  "count": 1,
+  "updated": "2026-07-01T17:50:09.832007",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-4",
+      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2",
       "ip": "47.80.60.254",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-4"
+      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vless",
+      "address": "152.67.211.233",
+      "port": "8899",
+      "id": "ebf0f3c7-323f-431e-944f-67297178f5bb",
+      "name": "🇰🇷 KR 7",
+      "network": "",
+      "sni": "www.lovelive-anime.jp",
+      "host": "",
+      "security": "tls",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://ebf0f3c7-323f-431e-944f-67297178f5bb@152.67.211.233:8899?flow=xtls-rprx-vision&security=tls&sni=www.lovelive-anime.jp&fp=chrome&pbk=B7eELUOn0QM6fKSrr5v_AE4JPHQIxvb9-xX3WLqnLAk&sid=11d27eb4&path=%2f#vless-xtls-rprx-vision-tcp-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-4",
+      "ip": "152.67.211.233",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vless://ebf0f3c7-323f-431e-944f-67297178f5bb@152.67.211.233:8899?flow=xtls-rprx-vision&security=tls&sni=www.lovelive-anime.jp&fp=chrome&pbk=B7eELUOn0QM6fKSrr5v_AE4JPHQIxvb9-xX3WLqnLAk&sid=11d27eb4&path=%2f#vless-xtls-rprx-vision-tcp-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-4"
     }
   ]
 }

@@ -1,20 +1,26 @@
 {
-  "updated": "2026-06-11T12:07:08.025536",
+  "updated": "2026-07-01T17:50:09.776403",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "149.104.87.182",
-      "port": "443",
-      "password": "PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA",
-      "name": "🇲🇽 MX 2",
-      "sni": "www.jewelapp.click",
-      "host": "",
-      "original": "trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?security=tls&sni=www.jewelapp.click&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-MX%F0%9F%87%B2%F0%9F%87%BD-1",
-      "ip": "149.104.87.182",
+      "type": "vless",
+      "address": "216.238.94.140",
+      "port": "8880",
+      "id": "f40e17fc-2718-4e4a-ac29-ba7e28dd3164",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "",
+      "host": "t.codmgiftcp.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f40e17fc-2718-4e4a-ac29-ba7e28dd3164@216.238.94.140:8880?encryption=none&security=none&type=ws&host=t.codmgiftcp.com&path=%2Ft-me-V2RayyNGvpn#vless-ws-MX%F0%9F%87%B2%F0%9F%87%BD-1",
+      "ip": "216.238.94.140",
       "country": "MX",
       "cdn": null,
-      "rebuilt": "trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?security=tls&sni=www.jewelapp.click&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-MX%F0%9F%87%B2%F0%9F%87%BD-1"
+      "rebuilt": "vless://f40e17fc-2718-4e4a-ac29-ba7e28dd3164@216.238.94.140:8880?encryption=none&security=none&type=ws&host=t.codmgiftcp.com&path=%2Ft-me-V2RayyNGvpn#vless-ws-MX%F0%9F%87%B2%F0%9F%87%BD-1"
     }
   ]
 }
