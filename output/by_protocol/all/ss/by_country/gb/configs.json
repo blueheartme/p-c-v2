@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T02:50:23.138534",
+  "updated": "2026-07-01T11:19:59.128801",
   "count": 5,
   "configs": [
     {
@@ -17,32 +17,6 @@
     },
     {
       "type": "ss",
-      "address": "141.98.101.182",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "United Kingdom M247",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
-      "ip": "141.98.101.182",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
-    },
-    {
-      "type": "ss",
-      "address": "146.70.61.37",
-      "port": "8080",
-      "method": "rc4-md5",
-      "password": "14fFPrbezE3HDZzsMOr6",
-      "name": "🇬🇧 GB 4",
-      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%f0%9f%87%ac%f0%9f%87%a7%20GB%204",
-      "ip": "146.70.61.37",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%f0%9f%87%ac%f0%9f%87%a7%20GB%204"
-    },
-    {
-      "type": "ss",
       "address": "141.98.101.181",
       "port": "443",
       "method": "aes-128-gcm",
@@ -56,6 +30,19 @@
     },
     {
       "type": "ss",
+      "address": "141.98.101.182",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "United Kingdom M247",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
+      "ip": "141.98.101.182",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
+    },
+    {
+      "type": "ss",
       "address": "94.156.250.148",
       "port": "7001",
       "method": "aes-256-gcm",
@@ -66,6 +53,19 @@
       "country": "GB",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%f0%9f%87%ac%f0%9f%87%a7%20GB%201"
+    },
+    {
+      "type": "ss",
+      "address": "146.70.61.37",
+      "port": "8080",
+      "method": "rc4-md5",
+      "password": "14fFPrbezE3HDZzsMOr6",
+      "name": "🇬🇧 GB 4",
+      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%f0%9f%87%ac%f0%9f%87%a7%20GB%204",
+      "ip": "146.70.61.37",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%f0%9f%87%ac%f0%9f%87%a7%20GB%204"
     }
   ]
 }
