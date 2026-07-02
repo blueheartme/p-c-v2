@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-01T02:50:23.123675",
+  "updated": "2026-07-02T02:40:11.346755",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "45.131.4.118",
-      "port": "443",
-      "id": "73629677-d9a5-4746-bfb9-fc9586cafe9f",
-      "name": "@filembad",
+      "address": "45.131.6.203",
+      "port": "2053",
+      "id": "1e7e0537-c23d-43c2-afd5-4d7753831278",
+      "name": "@meliproxyy",
       "network": "ws",
-      "sni": "c.denizmoda.tr",
-      "host": "c.denizmoda.tr",
+      "sni": "cache-h2.persia.my",
+      "host": "",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://73629677-d9a5-4746-bfb9-fc9586cafe9f@45.131.4.118:443?path=%2Fmonji%3DCF&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=c.denizmoda.tr&fp=firefox&type=ws&allowInsecure=0&sni=c.denizmoda.tr#vless-ws-tls-firefox-BZ%F0%9F%87%A7%F0%9F%87%BF-3",
-      "ip": "45.131.4.118",
+      "fingerprint": "chrome",
+      "original": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@45.131.6.203:2053?encryption=none&security=tls&sni=cache-h2.persia.my&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#vless-ws-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-4",
+      "ip": "45.131.6.203",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "vless://73629677-d9a5-4746-bfb9-fc9586cafe9f@45.131.4.118:443?path=%2Fmonji%3DCF&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=c.denizmoda.tr&fp=firefox&type=ws&allowInsecure=0&sni=c.denizmoda.tr#vless-ws-tls-firefox-BZ%F0%9F%87%A7%F0%9F%87%BF-3"
+      "rebuilt": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@45.131.6.203:2053?encryption=none&security=tls&sni=cache-h2.persia.my&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#vless-ws-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-4"
     }
   ]
 }

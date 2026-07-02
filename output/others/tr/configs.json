@@ -1,38 +1,26 @@
 {
-  "updated": "2026-07-01T17:50:09.771710",
-  "count": 3,
+  "updated": "2026-07-02T02:40:11.299012",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
-      "address": "45.74.158.246",
-      "port": "8443",
-      "id": "Telegram%3AX_RAY_VPN1",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "address": "87.120.106.108",
+      "port": "443",
+      "id": "91a91ad7-c7e4-4e04-9fc0-9b09258b6b32",
+      "name": "@filembad",
       "network": "tcp",
       "sni": "www.yahoo.com",
       "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "http",
       "fingerprint": "chrome",
-      "original": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "45.74.158.246",
+      "original": "vless://91a91ad7-c7e4-4e04-9fc0-9b09258b6b32@87.120.106.108:443?security=reality&encryption=none&pbk=KqHciQyC2W9Eq_ePB6VEIyCbnPJHUsxWPrbMlocS6mo&headerType=http&fp=chrome&spx=%2FD4HumbnInqQmWHR&type=tcp&sni=www.yahoo.com&sid=8c19389a3280cd#vless-tcp-http-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "87.120.106.108",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "tg",
-      "address": "31.210.40.211",
-      "port": "1010",
-      "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-      "name": "",
-      "original": "https://t.me/proxy?server=31.210.40.211&port=1010&secret=3XnnAQIAAQAH8AMDhuJMOt0",
-      "ip": "31.210.40.211",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=31.210.40.211&port=1010&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+      "rebuilt": "vless://91a91ad7-c7e4-4e04-9fc0-9b09258b6b32@87.120.106.108:443?security=reality&encryption=none&pbk=KqHciQyC2W9Eq_ePB6VEIyCbnPJHUsxWPrbMlocS6mo&headerType=http&fp=chrome&spx=%2FD4HumbnInqQmWHR&type=tcp&sni=www.yahoo.com&sid=8c19389a3280cd#vless-tcp-http-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
       "type": "vless",
@@ -48,11 +36,43 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://Telegram%3ATurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "original": "vless://Telegram%3ATurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
       "ip": "45.74.158.246",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://Telegram%3ATurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://Telegram%3ATurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "tg",
+      "address": "31.210.40.211",
+      "port": "1010",
+      "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+      "name": "",
+      "original": "https://t.me/proxy?server=31.210.40.211&port=1010&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+      "ip": "31.210.40.211",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=31.210.40.211&port=1010&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    },
+    {
+      "type": "vless",
+      "address": "45.136.5.98",
+      "port": "443",
+      "id": "e82277d0-9a7f-4217-aac4-b587529d4f95",
+      "name": "☑➜چنلمون: Express_freevpn@",
+      "network": "tcp",
+      "sni": "icloud.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://e82277d0-9a7f-4217-aac4-b587529d4f95@45.136.5.98:443?security=reality&encryption=none&pbk=Ytg9Ug4dn1gyWsduSUsWREP2OnfLptkOjevFrJoy7nA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=icloud.com&sid=0d45#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "45.136.5.98",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://e82277d0-9a7f-4217-aac4-b587529d4f95@45.136.5.98:443?security=reality&encryption=none&pbk=Ytg9Ug4dn1gyWsduSUsWREP2OnfLptkOjevFrJoy7nA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=icloud.com&sid=0d45#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }

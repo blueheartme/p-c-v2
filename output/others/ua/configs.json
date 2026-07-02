@@ -1,46 +1,20 @@
 {
-  "updated": "2026-07-01T17:50:09.761402",
-  "count": 2,
+  "updated": "2026-07-02T02:40:11.298348",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "mio2.game2lizard.com",
-      "port": "2087",
-      "id": "527561c6-bed1-44c5-8404-f322fbf7ced2",
-      "name": "@meliproxyy",
-      "network": "xhttp",
-      "sni": "fr0.eorqen.ir",
-      "host": "fr0.eorqen.ir",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "random",
-      "original": "vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio2.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=fr0.eorqen.ir&mode=auto&sni=fr0.eorqen.ir&fp=random&insecure=0&allowInsecure=0#vless-xhttp-tls-random-UA%F0%9F%87%BA%F0%9F%87%A6-1",
-      "ip": "89.116.180.207",
+      "type": "trojan",
+      "address": "89.116.180.49",
+      "port": "443",
+      "password": "MiTiVPN",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "sni": "f6r.ir",
+      "host": "f6r.ir",
+      "original": "trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#trojan-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "ip": "89.116.180.49",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio2.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=fr0.eorqen.ir&mode=auto&sni=fr0.eorqen.ir&fp=random&insecure=0&allowInsecure=0#vless-xhttp-tls-random-UA%F0%9F%87%BA%F0%9F%87%A6-1"
-    },
-    {
-      "type": "vless",
-      "address": "kim2.wiziii.xyz",
-      "port": "2083",
-      "id": "4a836d89-0655-4c77-9702-b47219afaa5d",
-      "name": "@meliproxyy",
-      "network": "xhttp",
-      "sni": "pin4.jafarparty.lat",
-      "host": "pin4.jafarparty.lat",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "qq",
-      "original": "vless://4a836d89-0655-4c77-9702-b47219afaa5d@kim2.wiziii.xyz:2083?encryption=none&type=xhttp&security=tls&path=%2F&host=pin4.jafarparty.lat&mode=auto&sni=pin4.jafarparty.lat&fp=qq&insecure=0&allowInsecure=0#vless-xhttp-tls-qq-UA%F0%9F%87%BA%F0%9F%87%A6-2",
-      "ip": "89.116.180.207",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "vless://4a836d89-0655-4c77-9702-b47219afaa5d@kim2.wiziii.xyz:2083?encryption=none&type=xhttp&security=tls&path=%2F&host=pin4.jafarparty.lat&mode=auto&sni=pin4.jafarparty.lat&fp=qq&insecure=0&allowInsecure=0#vless-xhttp-tls-qq-UA%F0%9F%87%BA%F0%9F%87%A6-2"
+      "rebuilt": "trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#trojan-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1"
     }
   ]
 }

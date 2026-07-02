@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-01T17:50:09.806075",
+  "updated": "2026-07-02T02:40:11.326881",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "38.60.202.163",
-      "port": "443",
-      "password": "ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed",
-      "name": "🇦🇪 AE 2",
-      "sni": "38.60.202.163",
-      "host": "",
-      "original": "trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "38.60.202.163",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2"
-    },
     {
       "type": "trojan",
       "address": "94.140.0.100",
@@ -24,11 +10,25 @@
       "name": "@meliproxyy",
       "sni": "95r.ir",
       "host": "95r.ir",
-      "original": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-4",
+      "original": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&insecure=0&host=95r.ir&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1",
       "ip": "94.140.0.100",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-4"
+      "rebuilt": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&insecure=0&host=95r.ir&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
+    {
+      "type": "trojan",
+      "address": "38.60.202.163",
+      "port": "443",
+      "password": "ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed",
+      "name": "🇦🇪 AE 1",
+      "sni": "",
+      "host": "",
+      "original": "trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&path=%2f#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "38.60.202.163",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&path=%2f#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }
