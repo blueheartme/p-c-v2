@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T10:32:50.953492",
+  "updated": "2026-07-02T17:40:16.350511",
   "count": 1,
   "configs": [
     {
@@ -8,13 +8,13 @@
       "port": "443",
       "password": "p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S",
       "name": "🇮🇸 IS 1",
-      "sni": "",
+      "sni": "37.235.49.118",
       "host": "",
-      "original": "trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?security=tls&path=%2f#trojan-tcp-tls-IS%F0%9F%87%AE%F0%9F%87%B8-1",
+      "original": "trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?security=tls&sni=37.235.49.118&type=tcp&path=%2f#trojan-tcp-tls-IS%F0%9F%87%AE%F0%9F%87%B8-1",
       "ip": "37.235.49.118",
       "country": "IS",
       "cdn": null,
-      "rebuilt": "trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?security=tls&path=%2f#trojan-tcp-tls-IS%F0%9F%87%AE%F0%9F%87%B8-1"
+      "rebuilt": "trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?security=tls&sni=37.235.49.118&type=tcp&path=%2f#trojan-tcp-tls-IS%F0%9F%87%AE%F0%9F%87%B8-1"
     }
   ]
 }
