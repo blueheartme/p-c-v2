@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-03T02:15:28.089581",
-  "count": 2,
+  "updated": "2026-07-03T10:30:23.898168",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "14.102.228.201",
-      "port": "80",
-      "id": "1e7e0537-c23d-43c2-afd5-4d7753831278",
-      "name": "@meliproxyy",
-      "network": "xhttp",
-      "sni": "",
-      "host": "fi-hel-1.chapjavan.ir",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:80?encryption=none&security=none&type=xhttp&host=fi-hel-1.chapjavan.ir&path=%2F&mode=auto#vless-xhttp-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "14.102.228.201",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:80?encryption=none&security=none&type=xhttp&host=fi-hel-1.chapjavan.ir&path=%2F&mode=auto#vless-xhttp-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
-    },
     {
       "type": "vless",
       "address": "14.102.228.201",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:2053?encryption=none&security=tls&sni=gw-f1.orgspeed.net&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#vless-ws-tls-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "original": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:2053?encryption=none&security=tls&sni=gw-f1.orgspeed.net&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#vless-ws-tls-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
       "ip": "14.102.228.201",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:2053?encryption=none&security=tls&sni=gw-f1.orgspeed.net&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#vless-ws-tls-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+      "rebuilt": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:2053?encryption=none&security=tls&sni=gw-f1.orgspeed.net&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#vless-ws-tls-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
     }
   ]
 }

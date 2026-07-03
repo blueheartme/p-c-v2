@@ -1,26 +1,31 @@
 {
-  "updated": "2026-07-03T02:15:28.053418",
-  "count": 1,
+  "updated": "2026-07-03T10:30:23.857844",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "149.28.136.177",
+      "type": "tg",
+      "address": "194.233.82.137",
       "port": "443",
-      "id": "c7d5062b-604e-42b0-85d0-0ba354cee311",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.apple.com",
-      "host": "www.apple.com",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://c7d5062b-604e-42b0-85d0-0ba354cee311@149.28.136.177:443?security=reality&encryption=none&pbk=KpSo5m7AfnERJz2zbqi_Gqek65yGKzqvMYWiy9cMxCI&host=www.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=4f3d16240bb853f8#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "149.28.136.177",
+      "secret": "ee853310ac258556e04970d42f4d2c0023676f6f676c65617069732e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=194.233.82.137&port=443&secret=ee853310ac258556e04970d42f4d2c0023676f6f676c65617069732e636f6d",
+      "ip": "194.233.82.137",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://c7d5062b-604e-42b0-85d0-0ba354cee311@149.28.136.177:443?security=reality&encryption=none&pbk=KpSo5m7AfnERJz2zbqi_Gqek65yGKzqvMYWiy9cMxCI&host=www.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=4f3d16240bb853f8#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "https://t.me/proxy?server=194.233.82.137&port=443&secret=ee853310ac258556e04970d42f4d2c0023676f6f676c65617069732e636f6d"
+    },
+    {
+      "type": "ss",
+      "address": "103.106.229.69",
+      "port": "9090?",
+      "method": "aes-256-gcm",
+      "password": "Y6R9pAtvxxzmGC",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090?#%40filembad",
+      "ip": "103.106.229.69",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090?#%40filembad"
     }
   ]
 }
