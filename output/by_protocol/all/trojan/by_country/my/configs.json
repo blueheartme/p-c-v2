@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T10:30:23.909148",
+  "updated": "2026-07-03T17:18:40.877439",
   "count": 2,
   "configs": [
     {
@@ -7,14 +7,14 @@
       "address": "38.60.168.129",
       "port": "443",
       "password": "Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD",
-      "name": "🇲🇾 MY 4",
-      "sni": "",
+      "name": "🇲🇾 MY 2",
+      "sni": "38.60.168.129",
       "host": "",
-      "original": "trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-MY%F0%9F%87%B2%F0%9F%87%BE-1",
+      "original": "trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?sni=38.60.168.129&path=%2f#trojan-tcp-tls-MY%F0%9F%87%B2%F0%9F%87%BE-1",
       "ip": "38.60.168.129",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-MY%F0%9F%87%B2%F0%9F%87%BE-1"
+      "rebuilt": "trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?sni=38.60.168.129&path=%2f#trojan-tcp-tls-MY%F0%9F%87%B2%F0%9F%87%BE-1"
     },
     {
       "type": "trojan",
