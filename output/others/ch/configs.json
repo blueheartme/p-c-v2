@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T17:40:16.349961",
-  "count": 6,
+  "updated": "2026-07-03T02:15:28.042934",
+  "count": 5,
   "configs": [
     {
       "type": "trojan",
@@ -17,30 +17,38 @@
       "rebuilt": "trojan://3%43%4f%50%45----%41%5a--%4b%41N%41L---%4a%4b%56%50N-----@179.237.74.127:47533?security=reality&pbk=fugzpb3z2l5oTdaJ_Aqs3Lw1q9GNajQSCpUwVzXj41w&host=%2F%54ELE%47R%41M--%42Y%41--%43H%41NEL---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N--@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=promotion.yahoo.com#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
-      "type": "tg",
-      "address": "cdn3new.fiban.cloud",
-      "port": "443",
-      "secret": "eec44fdd6fac8f9b38695dd7acc6b2736063646e336e65772e666962616e2e636c6f7564",
-      "name": "",
-      "original": "https://t.me/proxy?server=cdn3new.fiban.cloud&port=443&secret=eec44fdd6fac8f9b38695dd7acc6b2736063646e336e65772e666962616e2e636c6f7564",
-      "ip": "188.213.131.95",
+      "type": "vless",
+      "address": "ch-zicid.locations-sub.com",
+      "port": "6200",
+      "id": "5c9ca141-62fb-4c9a-8ba2-af48afdeafaa",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "network": "tcp",
+      "sni": "play.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "141.227.138.106",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=cdn3new.fiban.cloud&port=443&secret=eec44fdd6fac8f9b38695dd7acc6b2736063646e336e65772e666962616e2e636c6f7564"
+      "rebuilt": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
       "type": "trojan",
-      "address": "179.237.75.181",
-      "port": "34521",
-      "password": "fdlpnbw31g886u39",
-      "name": "@melioroxyy",
+      "address": "179.237.75.217",
+      "port": "14771",
+      "password": "---------BanV2ray---------",
+      "name": "@meliproxyy",
       "sni": "promotion.yahoo.com",
       "host": "",
-      "original": "trojan://fdlpnbw31g886u39@179.237.75.181:34521?type=tcp&security=reality&headerType=none&sni=promotion.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=_GEGd2Dmkftju4_zfVaPGy2vDnEiobonHuO9aUcamFE&sid=75337431211f&spx=%2FGL3vhHyn1NxIvsE#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "179.237.75.181",
+      "original": "trojan://---------BanV2ray---------@179.237.75.217:14771?security=reality&sni=promotion.yahoo.com&fp=chrome&pbk=KxROfjoX03DrY-S0chPO5LzYgSXFqt4-x4KWIRl4jl0&sid=ba&spx=%2F6Iazy983oFVVWY8&type=tcp&headerType=none#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "179.237.75.217",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://fdlpnbw31g886u39@179.237.75.181:34521?type=tcp&security=reality&headerType=none&sni=promotion.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=_GEGd2Dmkftju4_zfVaPGy2vDnEiobonHuO9aUcamFE&sid=75337431211f&spx=%2FGL3vhHyn1NxIvsE#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "trojan://---------BanV2ray---------@179.237.75.217:14771?security=reality&sni=promotion.yahoo.com&fp=chrome&pbk=KxROfjoX03DrY-S0chPO5LzYgSXFqt4-x4KWIRl4jl0&sid=ba&spx=%2F6Iazy983oFVVWY8&type=tcp&headerType=none#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     },
     {
       "type": "vless",
@@ -64,37 +72,17 @@
     },
     {
       "type": "trojan",
-      "address": "179.237.75.217",
-      "port": "14771",
-      "password": "---------BanV2ray---------",
-      "name": "@meliproxyy",
+      "address": "179.237.75.181",
+      "port": "34521",
+      "password": "fdlpnbw31g886u39",
+      "name": "@melioroxyy",
       "sni": "promotion.yahoo.com",
       "host": "",
-      "original": "trojan://---------BanV2ray---------@179.237.75.217:14771?security=reality&sni=promotion.yahoo.com&fp=chrome&pbk=KxROfjoX03DrY-S0chPO5LzYgSXFqt4-x4KWIRl4jl0&sid=ba&spx=%2F6Iazy983oFVVWY8&type=tcp&headerType=none#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-5",
-      "ip": "179.237.75.217",
+      "original": "trojan://fdlpnbw31g886u39@179.237.75.181:34521?type=tcp&security=reality&headerType=none&sni=promotion.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=_GEGd2Dmkftju4_zfVaPGy2vDnEiobonHuO9aUcamFE&sid=75337431211f&spx=%2FGL3vhHyn1NxIvsE#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-5",
+      "ip": "179.237.75.181",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://---------BanV2ray---------@179.237.75.217:14771?security=reality&sni=promotion.yahoo.com&fp=chrome&pbk=KxROfjoX03DrY-S0chPO5LzYgSXFqt4-x4KWIRl4jl0&sid=ba&spx=%2F6Iazy983oFVVWY8&type=tcp&headerType=none#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-5"
-    },
-    {
-      "type": "vless",
-      "address": "208.69.78.205",
-      "port": "443",
-      "id": "ff19693c-11f3-4df9-8713-79a85a5ca090",
-      "name": "$Free 166 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "sellflow.org",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-6",
-      "ip": "208.69.78.205",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-6"
+      "rebuilt": "trojan://fdlpnbw31g886u39@179.237.75.181:34521?type=tcp&security=reality&headerType=none&sni=promotion.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=_GEGd2Dmkftju4_zfVaPGy2vDnEiobonHuO9aUcamFE&sid=75337431211f&spx=%2FGL3vhHyn1NxIvsE#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-5"
     }
   ]
 }
