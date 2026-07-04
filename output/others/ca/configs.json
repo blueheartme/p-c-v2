@@ -1,26 +1,33 @@
 {
-  "updated": "2026-07-02T02:40:11.301086",
-  "count": 1,
+  "updated": "2026-07-04T16:58:15.497316",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "130.107.73.148",
-      "port": "41373",
-      "id": "a71c8954-66a8-4321-bedb-2336230d81ce",
-      "name": "@meliproxyy",
+      "type": "vmess",
+      "address": "23.162.200.198",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "🇨🇦 CA 1",
       "network": "tcp",
-      "sni": "google.com",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&sni=google.com&flow=xtls-rprx-vision&headerType=none&spx=%2F&security=reality&sid=0e&encryption=none&fp=chrome&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "130.107.73.148",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DQfCfh6jwn4emLTEiLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "23.162.200.198",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&sni=google.com&flow=xtls-rprx-vision&headerType=none&spx=%2F&security=reality&sid=0e&encryption=none&fp=chrome&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DQfCfh6jwn4emLTEiLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
+    {
+      "type": "tg",
+      "address": "148.113.235.23",
+      "port": "443",
+      "secret": "eeea6e790b60cd439d5f35bff0baf1caf2626973636f7474692e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=148.113.235.23&port=443&secret=eeea6e790b60cd439d5f35bff0baf1caf2626973636f7474692e79656b74616e65742e636f6d&@MPT_Proxy",
+      "ip": "148.113.235.23",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=148.113.235.23&port=443&secret=eeea6e790b60cd439d5f35bff0baf1caf2626973636f7474692e79656b74616e65742e636f6d&@MPT_Proxy"
     }
   ]
 }

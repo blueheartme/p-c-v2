@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-04T10:03:28.679192",
-  "count": 5,
+  "updated": "2026-07-04T16:58:15.606215",
+  "count": 4,
   "configs": [
+    {
+      "type": "tg",
+      "address": "79.175.149.108",
+      "port": "443",
+      "secret": "38a6dbaadc4df74bd3f977d6ade0bbc5",
+      "name": "",
+      "original": "https://t.me/proxy?server=79.175.149.108&port=443&secret=38a6dbaadc4df74bd3f977d6ade0bbc5",
+      "ip": "79.175.149.108",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "https://t.me/proxy?server=79.175.149.108&port=443&secret=38a6dbaadc4df74bd3f977d6ade0bbc5"
+    },
     {
       "type": "tg",
       "address": "85.133.238.4",
@@ -13,18 +27,6 @@
       "country": "IR",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?port=443&secret=dd8b5dc967fdbf6dcbf7e8f8bebcc6b6fe&server=85.133.238.4&@ProxyVPN11"
-    },
-    {
-      "type": "tg",
-      "address": "pi-pi.help.meshdrip.ir.",
-      "port": "8443",
-      "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?port=8443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d&server=pi-pi.help.meshdrip.ir.&@ProxyVPN11",
-      "ip": "85.133.216.10",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?port=8443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d&server=pi-pi.help.meshdrip.ir.&@ProxyVPN11"
     },
     {
       "type": "tg",
@@ -40,27 +42,15 @@
     },
     {
       "type": "tg",
-      "address": "31.57.208.23",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add7268706f7579616e2e69722d766c7565332e6972",
+      "address": "pi-pi.help.meshdrip.ir.",
+      "port": "8443",
+      "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=31.57.208.23&port=443&secret=ee1603010200010001fc030386e24c3add7268706f7579616e2e69722d766c7565332e6972",
-      "ip": "31.57.208.23",
+      "original": "https://t.me/proxy?port=8443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d&server=pi-pi.help.meshdrip.ir.&@ProxyVPN11",
+      "ip": "85.133.216.9",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=31.57.208.23&port=443&secret=ee1603010200010001fc030386e24c3add7268706f7579616e2e69722d766c7565332e6972"
-    },
-    {
-      "type": "tg",
-      "address": "85.133.236.19",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add7268706f7579616e2e69722d766c7565332e6972",
-      "name": "",
-      "original": "https://t.me/proxy?server=85.133.236.19&port=443&secret=ee1603010200010001fc030386e24c3add7268706f7579616e2e69722d766c7565332e6972",
-      "ip": "85.133.236.19",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=85.133.236.19&port=443&secret=ee1603010200010001fc030386e24c3add7268706f7579616e2e69722d766c7565332e6972"
+      "rebuilt": "https://t.me/proxy?port=8443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d&server=pi-pi.help.meshdrip.ir.&@ProxyVPN11"
     }
   ]
 }
