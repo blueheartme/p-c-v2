@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-03T17:18:40.851442",
-  "count": 5,
+  "updated": "2026-07-04T02:13:48.471710",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "138.252.100.85",
+      "port": "19643",
+      "password": "scq6ijdslc23rwea",
+      "name": "🇮🇳 IN 3",
+      "sni": "",
+      "host": "",
+      "original": "trojan://scq6ijdslc23rwea@138.252.100.85:19643?security=none&type=ws&path=%2f#trojan-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "138.252.100.85",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "trojan://scq6ijdslc23rwea@138.252.100.85:19643?security=none&type=ws&path=%2f#trojan-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
     {
       "type": "vmess",
       "address": "152.67.8.205",
@@ -11,74 +25,11 @@
       "network": "ws",
       "host": "152.67.8.205",
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0xIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ==",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0yIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ==",
       "ip": "152.67.8.205",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0xIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ=="
-    },
-    {
-      "type": "trojan",
-      "address": "138.252.100.85",
-      "port": "19643",
-      "password": "scq6ijdslc23rwea",
-      "name": "🇮🇳 IN 5",
-      "sni": "",
-      "host": "",
-      "original": "trojan://scq6ijdslc23rwea@138.252.100.85:19643?security=none&type=ws&path=%2f#trojan-ws-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "138.252.100.85",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "trojan://scq6ijdslc23rwea@138.252.100.85:19643?security=none&type=ws&path=%2f#trojan-ws-IN%F0%9F%87%AE%F0%9F%87%B3-2"
-    },
-    {
-      "type": "trojan",
-      "address": "138.252.100.85",
-      "port": "19643",
-      "password": "t3cmheqzfgmittar",
-      "name": "🇮🇳 IN 2",
-      "sni": "",
-      "host": "",
-      "original": "trojan://t3cmheqzfgmittar@138.252.100.85:19643?security=none&type=ws&path=%2f#trojan-ws-IN%F0%9F%87%AE%F0%9F%87%B3-3",
-      "ip": "138.252.100.85",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "trojan://t3cmheqzfgmittar@138.252.100.85:19643?security=none&type=ws&path=%2f#trojan-ws-IN%F0%9F%87%AE%F0%9F%87%B3-3"
-    },
-    {
-      "type": "vmess",
-      "address": "138.252.100.85",
-      "port": "18746",
-      "id": "5cae7714-9c61-4c5c-876e-c45a1cb13be4",
-      "name": "@filembad",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxMzguMjUyLjEwMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2FlNzcxNC05YzYxLTRjNWMtODc2ZS1jNDVhMWNiMTNiZTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE4NzQ2IiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1JTvCfh67wn4ezLTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
-      "ip": "138.252.100.85",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxMzguMjUyLjEwMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2FlNzcxNC05YzYxLTRjNWMtODc2ZS1jNDVhMWNiMTNiZTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE4NzQ2IiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1JTvCfh67wn4ezLTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
-    },
-    {
-      "type": "vless",
-      "address": "143.110.247.61",
-      "port": "2053",
-      "id": "0970324b-8c61-4ae7-8c3f-385a6f1e17e4",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "vpn47.cc.cd",
-      "host": "vpn47.cc.cd",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@143.110.247.61:2053?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#vless-ws-tls-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-5",
-      "ip": "143.110.247.61",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@143.110.247.61:2053?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#vless-ws-tls-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-5"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0yIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ=="
     }
   ]
 }

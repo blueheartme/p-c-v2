@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-03T17:18:40.877948",
-  "count": 1,
+  "updated": "2026-07-04T02:13:48.550853",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "188.114.98.193",
+      "port": "443",
+      "password": "%4D%69%54%69%56%50%4E",
+      "name": "@meliproxyy",
+      "sni": "Ge.App-Cloud.ir",
+      "host": "Ge.App-Cloud.ir",
+      "original": "trojan://%4D%69%54%69%56%50%4E@188.114.98.193:443?path=%2F%4D%69%54%69%56%50%4E%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=Ge.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ge.App-Cloud.ir#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-10",
+      "ip": "188.114.98.193",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://%4D%69%54%69%56%50%4E@188.114.98.193:443?path=%2F%4D%69%54%69%56%50%4E%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=Ge.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ge.App-Cloud.ir#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-10"
+    },
     {
       "type": "trojan",
       "address": "188.114.98.0",
@@ -10,13 +26,13 @@
       "name": "☑➜چنلمون: Express_freevpn@",
       "sni": "www.creationlong.org",
       "host": "www.creationlong.org",
-      "original": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-12",
+      "original": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-15",
       "ip": "188.114.98.0",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-12"
+      "rebuilt": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-15"
     }
   ]
 }
