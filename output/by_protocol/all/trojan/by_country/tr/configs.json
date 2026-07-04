@@ -1,20 +1,34 @@
 {
-  "updated": "2026-07-04T02:13:48.548666",
-  "count": 1,
+  "updated": "2026-07-04T10:03:28.670756",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "193.124.46.134",
+      "port": "8441",
+      "password": "tunnel-ljlcf",
+      "name": "🇹🇷 TR 1",
+      "sni": "tr-1.stunnel.cc",
+      "host": "",
+      "original": "trojan://tunnel-ljlcf@193.124.46.134:8441?sni=tr-1.stunnel.cc&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "193.124.46.134",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "trojan://tunnel-ljlcf@193.124.46.134:8441?sni=tr-1.stunnel.cc&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
     {
       "type": "trojan",
       "address": "tr-1.stunnel.cc",
       "port": "8441",
       "password": "tunnel-ljlcf",
-      "name": "🇹🇷 TR 4",
+      "name": "🇹🇷 TR 2",
       "sni": "",
       "host": "",
-      "original": "trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?path=%2f#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-7",
+      "original": "trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls&path=%2f#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-3",
       "ip": "193.124.46.134",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?path=%2f#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-7"
+      "rebuilt": "trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls&path=%2f#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }

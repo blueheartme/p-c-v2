@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-04T02:13:48.549205",
-  "count": 1,
+  "updated": "2026-07-04T10:03:28.669775",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "138.252.100.85",
+      "port": "19643",
+      "password": "t3cmheqzfgmittar",
+      "name": "🇮🇳 IN 2",
+      "sni": "",
+      "host": "",
+      "original": "trojan://t3cmheqzfgmittar@138.252.100.85:19643?security=none&type=ws&path=%2f#trojan-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "138.252.100.85",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "trojan://t3cmheqzfgmittar@138.252.100.85:19643?security=none&type=ws&path=%2f#trojan-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
     {
       "type": "trojan",
       "address": "138.252.100.85",
@@ -10,11 +24,11 @@
       "name": "🇮🇳 IN 3",
       "sni": "",
       "host": "",
-      "original": "trojan://scq6ijdslc23rwea@138.252.100.85:19643?security=none&type=ws&path=%2f#trojan-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "original": "trojan://scq6ijdslc23rwea@138.252.100.85:19643?security=none&type=ws&path=%2f#trojan-ws-IN%F0%9F%87%AE%F0%9F%87%B3-3",
       "ip": "138.252.100.85",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "trojan://scq6ijdslc23rwea@138.252.100.85:19643?security=none&type=ws&path=%2f#trojan-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "trojan://scq6ijdslc23rwea@138.252.100.85:19643?security=none&type=ws&path=%2f#trojan-ws-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-27T09:59:48.723084",
+  "updated": "2026-07-04T10:03:28.663756",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "5.180.173.171",
-      "port": "443",
-      "id": "e89a8012-7794-4e54-9b6e-14b12b7e0802",
+      "address": "5.180.173.222",
+      "port": "448",
+      "id": "626b07bd-81c4-4212-be7a-27442a579620",
       "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "yahoo.com",
+      "sni": "www.googletagmanager.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@5.180.173.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-1",
-      "ip": "5.180.173.171",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?encryption=none&type=tcp&security=reality&headerType=none&sni=www.googletagmanager.com&fp=chrome&insecure=1&allowInsecure=1&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "5.180.173.222",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@5.180.173.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?encryption=none&type=tcp&security=reality&headerType=none&sni=www.googletagmanager.com&fp=chrome&insecure=1&allowInsecure=1&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1"
     }
   ]
 }
