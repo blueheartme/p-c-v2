@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-04T16:58:15.569070",
+  "updated": "2026-07-05T02:29:40.209979",
   "count": 3,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "152.67.218.38",
+      "port": "443",
+      "id": "b5e9480a-b7aa-40a4-f9a7-5299b5e363b4",
+      "name": "🇰🇷 KR 12",
+      "network": "ws",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0xIiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "152.67.218.38",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0xIiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+    },
     {
       "type": "vmess",
       "address": "146.56.112.110",
@@ -11,26 +26,11 @@
       "network": "tcp",
       "host": "",
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1LUvCfh7Dwn4e3LTEiLCJhZGQiOiIxNDYuNTYuMTEyLjExMCIsInBvcnQiOjg4ODgsImlkIjoiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1LUvCfh7Dwn4e3LTIiLCJhZGQiOiIxNDYuNTYuMTEyLjExMCIsInBvcnQiOjg4ODgsImlkIjoiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
       "ip": "146.56.112.110",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1LUvCfh7Dwn4e3LTEiLCJhZGQiOiIxNDYuNTYuMTEyLjExMCIsInBvcnQiOjg4ODgsImlkIjoiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
-    },
-    {
-      "type": "vmess",
-      "address": "152.67.218.38",
-      "port": "443",
-      "id": "b5e9480a-b7aa-40a4-f9a7-5299b5e363b4",
-      "name": "🇰🇷 KR 11",
-      "network": "ws",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLUtS8J+HsPCfh7ctMiIsImFkZCI6IjE1Mi42Ny4yMTguMzgiLCJwb3J0Ijo0NDMsImlkIjoiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "152.67.218.38",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLUtS8J+HsPCfh7ctMiIsImFkZCI6IjE1Mi42Ny4yMTguMzgiLCJwb3J0Ijo0NDMsImlkIjoiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1LUvCfh7Dwn4e3LTIiLCJhZGQiOiIxNDYuNTYuMTEyLjExMCIsInBvcnQiOjg4ODgsImlkIjoiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
     },
     {
       "type": "vmess",
@@ -41,11 +41,11 @@
       "network": "ws",
       "host": "seoul01.zgjok.com",
       "sni": "seoul01.zgjok.com",
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1LUvCfh7Dwn4e3LTgiLCJhZGQiOiJzZW91bDAxLnpnam9rLmNvbSIsInBvcnQiOjQ0MywiaWQiOiIxODJmMTY1MC1jYTEzLTQ4MGMtYjBiNC0xY2E0NGVkMDUwNGUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJzZW91bDAxLnpnam9rLmNvbSIsImFscG4iOm51bGwsInBhdGgiOiIvaGVuaXMwMSIsInRscyI6InRscyIsInNuaSI6InNlb3VsMDEuemdqb2suY29tIiwiZnAiOm51bGx9",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1LUvCfh7Dwn4e3LTQiLCJhZGQiOiJzZW91bDAxLnpnam9rLmNvbSIsInBvcnQiOjQ0MywiaWQiOiIxODJmMTY1MC1jYTEzLTQ4MGMtYjBiNC0xY2E0NGVkMDUwNGUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJzZW91bDAxLnpnam9rLmNvbSIsImFscG4iOm51bGwsInBhdGgiOiIvaGVuaXMwMSIsInRscyI6InRscyIsInNuaSI6InNlb3VsMDEuemdqb2suY29tIiwiZnAiOm51bGx9",
       "ip": "130.162.155.46",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1LUvCfh7Dwn4e3LTgiLCJhZGQiOiJzZW91bDAxLnpnam9rLmNvbSIsInBvcnQiOjQ0MywiaWQiOiIxODJmMTY1MC1jYTEzLTQ4MGMtYjBiNC0xY2E0NGVkMDUwNGUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJzZW91bDAxLnpnam9rLmNvbSIsImFscG4iOm51bGwsInBhdGgiOiIvaGVuaXMwMSIsInRscyI6InRscyIsInNuaSI6InNlb3VsMDEuemdqb2suY29tIiwiZnAiOm51bGx9"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1LUvCfh7Dwn4e3LTQiLCJhZGQiOiJzZW91bDAxLnpnam9rLmNvbSIsInBvcnQiOjQ0MywiaWQiOiIxODJmMTY1MC1jYTEzLTQ4MGMtYjBiNC0xY2E0NGVkMDUwNGUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJzZW91bDAxLnpnam9rLmNvbSIsImFscG4iOm51bGwsInBhdGgiOiIvaGVuaXMwMSIsInRscyI6InRscyIsInNuaSI6InNlb3VsMDEuemdqb2suY29tIiwiZnAiOm51bGx9"
     }
   ]
 }

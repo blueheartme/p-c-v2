@@ -1,20 +1,34 @@
 {
-  "updated": "2026-07-04T16:58:15.625886",
-  "count": 1,
+  "updated": "2026-07-05T02:29:40.265479",
+  "count": 2,
   "configs": [
     {
       "type": "tg",
-      "address": "79.175.149.108",
-      "port": "443",
-      "secret": "38a6dbaadc4df74bd3f977d6ade0bbc5",
+      "address": "bazar5.iransport.observer",
+      "port": "8443",
+      "secret": "ee1603010200010001fc030386e24c3add67662e6972616e73706f72742e6f62736572766572",
       "name": "",
-      "original": "https://t.me/proxy?server=79.175.149.108&port=443&secret=38a6dbaadc4df74bd3f977d6ade0bbc5",
-      "ip": "79.175.149.108",
+      "original": "https://t.me/proxy?server=bazar5.iransport.observer&port=8443&secret=ee1603010200010001fc030386e24c3add67662e6972616e73706f72742e6f62736572766572",
+      "ip": "85.133.236.52",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "https://t.me/proxy?server=79.175.149.108&port=443&secret=38a6dbaadc4df74bd3f977d6ade0bbc5"
+      "rebuilt": "https://t.me/proxy?server=bazar5.iransport.observer&port=8443&secret=ee1603010200010001fc030386e24c3add67662e6972616e73706f72742e6f62736572766572"
+    },
+    {
+      "type": "tg",
+      "address": "pi-pi.help.meshdrip.ir.",
+      "port": "8443",
+      "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?port=8443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d&server=pi-pi.help.meshdrip.ir.&@ProxyVPN11",
+      "ip": "85.133.216.10",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "https://t.me/proxy?port=8443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d&server=pi-pi.help.meshdrip.ir.&@ProxyVPN11"
     }
   ]
 }
