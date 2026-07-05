@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-05T10:06:27.647365",
-  "count": 3,
+  "updated": "2026-07-05T17:01:35.886116",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
-      "address": "45.74.158.246",
-      "port": "8443",
-      "id": "Telegram%3ATurboConfigs",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
-      "sni": "www.yahoo.com",
-      "host": "",
+      "address": "144.225.65.205",
+      "port": "443",
+      "id": "4fb30f87-a9c2-43de-994f-9228fe4dac17",
+      "name": "4 𝗝𝗼𝗶𝗻 ➠ @proxy_kafee",
+      "network": "grpc",
+      "sni": "yahoo.com",
+      "host": "yahoo.com",
       "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://Telegram%3ATurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "45.74.158.246",
+      "original": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@144.225.65.205:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "144.225.65.205",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://Telegram%3ATurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@144.225.65.205:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -36,11 +36,51 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://4bab9727-7075-4260-a30b-369b3e54ee14@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "vless://4bab9727-7075-4260-a30b-369b3e54ee14@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-3",
       "ip": "87.120.106.128",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://4bab9727-7075-4260-a30b-369b3e54ee14@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://4bab9727-7075-4260-a30b-369b3e54ee14@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+    },
+    {
+      "type": "vless",
+      "address": "turkish.goldhadi.ir",
+      "port": "443",
+      "id": "d637f889-18d2-4a9a-8290-091864b6d690",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d637f889-18d2-4a9a-8290-091864b6d690@turkish.goldhadi.ir:443?security=reality&encryption=none&pbk=8CTtaXTF1XWffPu4Zm_VN0Vj4_m4Is6MuYxkAa0agx8&headerType=&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=d48200#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "45.74.159.104",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://d637f889-18d2-4a9a-8290-091864b6d690@turkish.goldhadi.ir:443?security=reality&encryption=none&pbk=8CTtaXTF1XWffPu4Zm_VN0Vj4_m4Is6MuYxkAa0agx8&headerType=&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=d48200#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+    },
+    {
+      "type": "vless",
+      "address": "143.246.136.174",
+      "port": "8896",
+      "id": "1e031b69-f2eb-42cb-b0e8-97ed64163767",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.play.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://1e031b69-f2eb-42cb-b0e8-97ed64163767@143.246.136.174:8896?security=reality&encryption=none&pbk=k8SeTD6AcL6sQrek1DXbIGYya6SvFpfOwNo_2QYAbkw&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.play.google.com&sid=ee383485a23223b1#vless-xtls-rprx-vision-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "ip": "143.246.136.174",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://1e031b69-f2eb-42cb-b0e8-97ed64163767@143.246.136.174:8896?security=reality&encryption=none&pbk=k8SeTD6AcL6sQrek1DXbIGYya6SvFpfOwNo_2QYAbkw&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.play.google.com&sid=ee383485a23223b1#vless-xtls-rprx-vision-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-5"
     },
     {
       "type": "vless",
@@ -56,11 +96,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "original": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-6",
       "ip": "45.74.158.246",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-6"
     }
   ]
 }

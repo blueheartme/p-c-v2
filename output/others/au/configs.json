@@ -1,26 +1,27 @@
 {
-  "updated": "2026-07-05T10:06:27.561252",
-  "count": 3,
+  "updated": "2026-07-05T17:01:35.826194",
+  "count": 4,
   "configs": [
     {
-      "type": "ss",
-      "address": "103.106.231.82",
-      "port": "5600",
-      "method": "aes-256-gcm",
-      "password": "Y6R9pAtvxxzmGC",
-      "name": "🇦🇺 AU 1",
-      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#%f0%9f%87%a6%f0%9f%87%ba%20AU%201",
-      "ip": "103.106.231.82",
+      "type": "trojan",
+      "address": "tight-possum.rooster465.autos",
+      "port": "443",
+      "password": "PI36027154",
+      "name": "🇱🇺 LU 1",
+      "sni": "tight-possum.rooster465.autos",
+      "host": "",
+      "original": "trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls&sni=tight-possum.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "87.121.33.208",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#%f0%9f%87%a6%f0%9f%87%ba%20AU%201"
+      "rebuilt": "trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls&sni=tight-possum.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     },
     {
       "type": "trojan",
       "address": "87.121.33.208",
       "port": "443",
       "password": "PI36027154",
-      "name": "🏳️ Jafar | 🛡️🔥 672ms",
+      "name": "🏳️ Jafar | 🛡️🔥 666ms",
       "sni": "tight-possum.rooster465.autos",
       "host": "",
       "original": "trojan://PI36027154@87.121.33.208:443?security=tls&sni=tight-possum.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
@@ -30,18 +31,37 @@
       "rebuilt": "trojan://PI36027154@87.121.33.208:443?security=tls&sni=tight-possum.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     },
     {
-      "type": "trojan",
-      "address": "tight-possum.rooster465.autos",
-      "port": "443",
-      "password": "PI36027154",
-      "name": "🇱🇺 LU 1",
-      "sni": "tight-possum.rooster465.autos",
-      "host": "",
-      "original": "trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls&sni=tight-possum.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3",
-      "ip": "87.121.33.208",
+      "type": "ss",
+      "address": "104.156.233.234",
+      "port": "27116",
+      "method": "chacha20-ietf-poly1305",
+      "password": "bIOoi5TuImG2KccxV7-jcA7Cez+vun-c_E",
+      "name": "$Free 273 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%24Free%20273%20%40Outline_Vpn",
+      "ip": "104.156.233.234",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls&sni=tight-possum.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%24Free%20273%20%40Outline_Vpn"
+    },
+    {
+      "type": "vless",
+      "address": "103.160.204.56",
+      "port": "443",
+      "id": "0970324b-8c61-4ae7-8c3f-385a6f1e17e4",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "vpn47.cc.cd",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@103.160.204.56:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-4",
+      "ip": "103.160.204.56",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@103.160.204.56:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-4"
     }
   ]
 }

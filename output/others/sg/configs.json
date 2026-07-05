@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-05T10:06:27.589227",
-  "count": 2,
+  "updated": "2026-07-05T17:01:35.825265",
+  "count": 6,
   "configs": [
+    {
+      "type": "ss",
+      "address": "sgp02.network-cdn-gw-yd.net",
+      "port": "45507?",
+      "method": "chacha20-ietf-poly1305",
+      "password": "1348a838-9105-4f3e-bd04-699a9be10480",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@sgp02.network-cdn-gw-yd.net:45507?#@meliproxyy",
+      "ip": "103.190.179.88",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@sgp02.network-cdn-gw-yd.net:45507?#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "103.106.229.69",
+      "port": "9090",
+      "method": "aes-256-gcm",
+      "password": "Y6R9pAtvxxzmGC",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#%40filembad",
+      "ip": "103.106.229.69",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "sgp01.network-cdn-gw-yd.net",
+      "port": "45506?",
+      "method": "chacha20-ietf-poly1305",
+      "password": "b3813e01-e131-4ed2-98fd-c3a805fc515f",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzgxM2UwMS1lMTMxLTRlZDItOThmZC1jM2E4MDVmYzUxNWY@sgp01.network-cdn-gw-yd.net:45506?#@meliproxyy",
+      "ip": "103.190.179.88",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzgxM2UwMS1lMTMxLTRlZDItOThmZC1jM2E4MDVmYzUxNWY@sgp01.network-cdn-gw-yd.net:45506?#@meliproxyy"
+    },
     {
       "type": "vless",
       "address": "45.8.211.217",
@@ -16,24 +55,44 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4",
       "ip": "45.8.211.217",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     },
     {
       "type": "ss",
-      "address": "sgp02.network-cdn-gw-yd.net",
-      "port": "45507?",
+      "address": "sgp01.network-cdn-gw-yd.net",
+      "port": "45506?",
       "method": "chacha20-ietf-poly1305",
       "password": "1348a838-9105-4f3e-bd04-699a9be10480",
       "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@sgp02.network-cdn-gw-yd.net:45507?#@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@sgp01.network-cdn-gw-yd.net:45506?#@meliproxyy",
       "ip": "103.190.179.88",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@sgp02.network-cdn-gw-yd.net:45507?#@meliproxyy"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@sgp01.network-cdn-gw-yd.net:45506?#@meliproxyy"
+    },
+    {
+      "type": "vless",
+      "address": "5.223.67.129",
+      "port": "8443",
+      "id": "eb295947-24de-4fe3-9b8f-85431e5fe493",
+      "name": "🇸🇬 SG 1",
+      "network": "tcp",
+      "sni": "apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://eb295947-24de-4fe3-9b8f-85431e5fe493@5.223.67.129:8443?flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=firefox&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-6",
+      "ip": "5.223.67.129",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://eb295947-24de-4fe3-9b8f-85431e5fe493@5.223.67.129:8443?flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=firefox&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-6"
     }
   ]
 }
