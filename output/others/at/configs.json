@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-05T02:29:40.161738",
-  "count": 2,
+  "updated": "2026-07-05T10:06:27.566831",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
       "address": "185.126.236.44",
       "port": "443",
       "password": "BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL",
-      "name": "🇦🇹 AT 2",
+      "name": "🇦🇹 AT 1",
       "sni": "www.mesaly.click",
       "host": "",
-      "original": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&path=%2f#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "original": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
       "ip": "185.126.236.44",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&path=%2f#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     },
     {
       "type": "vless",
@@ -35,6 +35,26 @@
       "country": "AT",
       "cdn": null,
       "rebuilt": "vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+    },
+    {
+      "type": "vless",
+      "address": "au-aeza.t1n2.com",
+      "port": "443",
+      "id": "d272ab5b-b5e9-4e5d-b235-6bee4970787c",
+      "name": "@filembad",
+      "network": "xhttp",
+      "sni": "au-aeza.t1n2.com",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://d272ab5b-b5e9-4e5d-b235-6bee4970787c@au-aeza.t1n2.com:443?mode=packet-up&path=%2Fvideo%2Fv5%2Fchunks%2F&security=tls&encryption=none&extra=%7B%22path%22%3A%22%2Fvideo%2Fv5%2Fchunks%2F%22%2C%22sessionKey%22%3A%22sid%22%2C%22noSSEHeader%22%3Atrue%2C%22xPaddingKey%22%3A%22az%22%2C%22noGRPCHeader%22%3Atrue%2C%22uplinkDataKey%22%3A%22X-Payload%22%2C%22xPaddingBytes%22%3A%22100-800%22%2C%22xPaddingHeader%22%3A%22X-Api-Key%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkChunkSize%22%3A4096%2C%22sessionPlacement%22%3A%22cookie%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22header%22%2C%22uplinkDataPlacement%22%3A%22body%22%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=au-aeza.t1n2.com#vless-xhttp-tls-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-3",
+      "ip": "193.233.201.201",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://d272ab5b-b5e9-4e5d-b235-6bee4970787c@au-aeza.t1n2.com:443?mode=packet-up&path=%2Fvideo%2Fv5%2Fchunks%2F&security=tls&encryption=none&extra=%7B%22path%22%3A%22%2Fvideo%2Fv5%2Fchunks%2F%22%2C%22sessionKey%22%3A%22sid%22%2C%22noSSEHeader%22%3Atrue%2C%22xPaddingKey%22%3A%22az%22%2C%22noGRPCHeader%22%3Atrue%2C%22uplinkDataKey%22%3A%22X-Payload%22%2C%22xPaddingBytes%22%3A%22100-800%22%2C%22xPaddingHeader%22%3A%22X-Api-Key%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkChunkSize%22%3A4096%2C%22sessionPlacement%22%3A%22cookie%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22header%22%2C%22uplinkDataPlacement%22%3A%22body%22%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=au-aeza.t1n2.com#vless-xhttp-tls-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-3"
     }
   ]
 }

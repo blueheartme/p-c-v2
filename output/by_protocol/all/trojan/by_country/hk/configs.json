@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T02:29:40.233967",
-  "count": 3,
+  "updated": "2026-07-05T10:06:27.629498",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -10,39 +10,25 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-8",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-8"
     },
     {
       "type": "trojan",
-      "address": "185.244.208.219",
-      "port": "443",
-      "password": "PI36027154",
-      "name": "🏳️ Jafar | 🛡️🔥 485ms",
-      "sni": "moved-osprey.rooster465.autos",
+      "address": "jpbgp.netvigor.cc",
+      "port": "19128",
+      "password": "OccIqeORGQwiNkwS",
+      "name": "🇭🇰 HK 3",
+      "sni": "yazhou10.dynu.net",
       "host": "",
-      "original": "trojan://PI36027154@185.244.208.219:443?security=tls&sni=moved-osprey.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7",
-      "ip": "185.244.208.219",
+      "original": "trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-11",
+      "ip": "1.64.239.1",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://PI36027154@185.244.208.219:443?security=tls&sni=moved-osprey.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7"
-    },
-    {
-      "type": "trojan",
-      "address": "moved-osprey.rooster465.autos",
-      "port": "443",
-      "password": "PI36027154",
-      "name": "🇭🇰 HK 2",
-      "sni": "moved-osprey.rooster465.autos",
-      "host": "",
-      "original": "trojan://PI36027154@moved-osprey.rooster465.autos:443?sni=moved-osprey.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-10",
-      "ip": "185.244.208.219",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://PI36027154@moved-osprey.rooster465.autos:443?sni=moved-osprey.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-10"
+      "rebuilt": "trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-11"
     }
   ]
 }
