@@ -1,19 +1,57 @@
 {
-  "updated": "2026-07-06T11:59:17.530396",
-  "count": 4,
+  "updated": "2026-07-06T18:07:52.168488",
+  "count": 7,
   "configs": [
+    {
+      "type": "ss",
+      "address": "45.32.122.179",
+      "port": "23027",
+      "method": "chacha20-ietf-poly1305",
+      "password": "I-bP3lFh.dTG3XitF7XtVK83CZ7rI2Ut=n",
+      "name": "🇸🇬 SG 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJLWJQM2xGaC5kVEczWGl0RjdYdFZLODNDWjdySTJVdD1u@45.32.122.179:23027#%f0%9f%87%b8%f0%9f%87%ac%20SG%201",
+      "ip": "45.32.122.179",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJLWJQM2xGaC5kVEczWGl0RjdYdFZLODNDWjdySTJVdD1u@45.32.122.179:23027#%f0%9f%87%b8%f0%9f%87%ac%20SG%201"
+    },
     {
       "type": "ss",
       "address": "103.106.229.69",
       "port": "9090",
       "method": "aes-256-gcm",
       "password": "Y6R9pAtvxxzmGC",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#@meliproxyy",
+      "name": "🇫🇮@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@103.106.229.69:9090#%F0%9F%87%AB%F0%9F%87%AE%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88",
       "ip": "103.106.229.69",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#@meliproxyy"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@103.106.229.69:9090#%F0%9F%87%AB%F0%9F%87%AE%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88"
+    },
+    {
+      "type": "trojan",
+      "address": "rich-mule.rooster465.autos",
+      "port": "443",
+      "password": "PI36027154",
+      "name": "@meliproxyy",
+      "sni": "",
+      "host": "",
+      "original": "trojan://PI36027154@rich-mule.rooster465.autos:443#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "13.212.105.193",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://PI36027154@rich-mule.rooster465.autos:443#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+    },
+    {
+      "type": "hysteria2",
+      "address": "13.229.106.122",
+      "port": "443",
+      "name": "@filembad",
+      "original": "hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#hysteria2-udp-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "13.229.106.122",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#hysteria2-udp-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     },
     {
       "type": "vless",
@@ -29,11 +67,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5",
       "ip": "45.8.211.217",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5"
     },
     {
       "type": "tg",
@@ -41,31 +79,22 @@
       "port": "443",
       "secret": "eee3727d72c23452d6928e9a5ea16f0940676f6f676c65617069732e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=194.233.94.9&port=443&secret=eee3727d72c23452d6928e9a5ea16f0940676f6f676c65617069732e636f6d&@MPT_Proxy",
+      "original": "https://t.me/proxy?server=194.233.94.9&port=443&secret=eee3727d72c23452d6928e9a5ea16f0940676f6f676c65617069732e636f6d",
       "ip": "194.233.94.9",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=194.233.94.9&port=443&secret=eee3727d72c23452d6928e9a5ea16f0940676f6f676c65617069732e636f6d&@MPT_Proxy"
+      "rebuilt": "https://t.me/proxy?server=194.233.94.9&port=443&secret=eee3727d72c23452d6928e9a5ea16f0940676f6f676c65617069732e636f6d"
     },
     {
-      "type": "vless",
-      "address": "5.223.67.129",
-      "port": "8443",
-      "id": "eb295947-24de-4fe3-9b8f-85431e5fe493",
-      "name": "🇸🇬 SG 1",
-      "network": "tcp",
-      "sni": "apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://eb295947-24de-4fe3-9b8f-85431e5fe493@5.223.67.129:8443?flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=firefox&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-4",
-      "ip": "5.223.67.129",
+      "type": "hysteria2",
+      "address": "52.221.230.24",
+      "port": "443",
+      "name": "@filembad",
+      "original": "hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.230.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#hysteria2-udp-SG%F0%9F%87%B8%F0%9F%87%AC-7",
+      "ip": "52.221.230.24",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://eb295947-24de-4fe3-9b8f-85431e5fe493@5.223.67.129:8443?flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=firefox&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+      "rebuilt": "hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.230.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#hysteria2-udp-SG%F0%9F%87%B8%F0%9F%87%AC-7"
     }
   ]
 }
