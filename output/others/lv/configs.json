@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T17:01:35.834746",
-  "count": 4,
+  "updated": "2026-07-06T02:34:07.202536",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -23,46 +23,6 @@
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
     },
     {
-      "type": "vless",
-      "address": "46.8.236.129",
-      "port": "26140",
-      "id": "ee443a49-47a0-445c-8e2a-c7efbc74f483",
-      "name": "@Maznet -SOS491",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://ee443a49-47a0-445c-8e2a-c7efbc74f483@46.8.236.129:26140?security=reality&encryption=none&pbk=cEKeWhExRbsgjk8qAd0KvDNnWRK4Sm9NYHH62sdVUH0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=fa893256a458b8a0#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2",
-      "ip": "46.8.236.129",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://ee443a49-47a0-445c-8e2a-c7efbc74f483@46.8.236.129:26140?security=reality&encryption=none&pbk=cEKeWhExRbsgjk8qAd0KvDNnWRK4Sm9NYHH62sdVUH0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=fa893256a458b8a0#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2"
-    },
-    {
-      "type": "vless",
-      "address": "fn.fifapes.monster",
-      "port": "2090",
-      "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=http#vless-tcp-http-LV%F0%9F%87%B1%F0%9F%87%BB-3",
-      "ip": "46.8.236.194",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=http#vless-tcp-http-LV%F0%9F%87%B1%F0%9F%87%BB-3"
-    },
-    {
       "type": "tg",
       "address": "46.8.71.94",
       "port": "443",
@@ -73,6 +33,26 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=46.8.71.94&port=443&secret=ee3d8fd874cbcaf86cb4d3f57788efd6cc7777772e636c6f7564666c6172652e636f6d&@MPT_Proxy"
+    },
+    {
+      "type": "vless",
+      "address": "46.8.236.129",
+      "port": "26140",
+      "id": "9b68c32d-953c-423f-a2e8-6447cc77cbf8",
+      "name": "@Maznet -SOS490",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "yahoo.com",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://9b68c32d-953c-423f-a2e8-6447cc77cbf8@46.8.236.129:26140?security=reality&encryption=none&pbk=Y8cdqmsCNqujpWKxRPfXQLB1CwJMhQRSKHaKOzBMFAY&host=yahoo.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c73dd5d128e6bd3d#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3",
+      "ip": "46.8.236.129",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://9b68c32d-953c-423f-a2e8-6447cc77cbf8@46.8.236.129:26140?security=reality&encryption=none&pbk=Y8cdqmsCNqujpWKxRPfXQLB1CwJMhQRSKHaKOzBMFAY&host=yahoo.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c73dd5d128e6bd3d#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3"
     }
   ]
 }

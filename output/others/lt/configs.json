@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-05T17:01:35.840166",
-  "count": 2,
+  "updated": "2026-07-06T02:34:07.232109",
+  "count": 3,
   "configs": [
+    {
+      "type": "tg",
+      "address": "ocean.babysharkollah.co.uk",
+      "port": "8443",
+      "secret": "EERighJJvXrFGRMCIMJdCQ",
+      "name": "",
+      "original": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "ip": "89.117.222.42",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    },
     {
       "type": "vless",
       "address": "cherry-lt-01.live",
@@ -16,23 +28,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1",
-      "ip": "45.196.31.193",
+      "original": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-2",
+      "ip": "45.196.31.87",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+      "rebuilt": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     },
     {
-      "type": "tg",
-      "address": "ocean.babysharkollah.co.uk",
-      "port": "8443",
-      "secret": "EERighJJvXrFGRMCIMJdCQ",
-      "name": "",
-      "original": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
-      "ip": "89.117.222.42",
+      "type": "vless",
+      "address": "89.116.250.135",
+      "port": "443",
+      "id": "14b59caf-a196-4ec2-8c70-c7b388062f5b",
+      "name": "برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩",
+      "network": "ws",
+      "sni": "vangoghhh.info",
+      "host": "vangoghhh.info",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-3",
+      "ip": "89.116.250.135",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-3"
     }
   ]
 }
