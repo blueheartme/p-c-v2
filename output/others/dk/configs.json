@@ -1,26 +1,18 @@
 {
-  "updated": "2026-06-11T02:57:15.350266",
+  "updated": "2026-07-06T11:59:17.491019",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.148.31.0",
-      "port": "15855",
-      "id": "e4fc4761-154f-490e-bbaa-b4fa193f1073",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "Join---V2rayBaaz---Join---V2rayBaaz---Join---V2rayBaaz",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=&encryption=none&type=ws&sni=Join---V2rayBaaz---Join---V2rayBaaz---Join---V2rayBaaz#vless-ws-DK%F0%9F%87%A9%F0%9F%87%B0-1",
-      "ip": "45.148.31.0",
+      "type": "tg",
+      "address": "193.181.209.158",
+      "port": "443",
+      "secret": "eed4b1474ad337bcc477f7ce9ea47da6ac636c6f7564666c6172652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=193.181.209.158&port=443&secret=eed4b1474ad337bcc477f7ce9ea47da6ac636c6f7564666c6172652e636f6d&@MPT_Proxy",
+      "ip": "193.181.209.158",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=&encryption=none&type=ws&sni=Join---V2rayBaaz---Join---V2rayBaaz---Join---V2rayBaaz#vless-ws-DK%F0%9F%87%A9%F0%9F%87%B0-1"
+      "rebuilt": "https://t.me/proxy?server=193.181.209.158&port=443&secret=eed4b1474ad337bcc477f7ce9ea47da6ac636c6f7564666c6172652e636f6d&@MPT_Proxy"
     }
   ]
 }
