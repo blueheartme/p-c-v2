@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-06T18:07:52.171157",
-  "count": 2,
+  "updated": "2026-07-07T02:29:21.915148",
+  "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "61.231.25.172",
+      "port": "50099",
+      "method": "chacha20-ietf-poly1305",
+      "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
+      "name": "🇹🇼 TW 2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@61.231.25.172:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%202",
+      "ip": "61.231.25.172",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@61.231.25.172:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%202"
+    },
+    {
+      "type": "ss",
+      "address": "r3mrcg001286ek2.cybervena.com",
+      "port": "50099?",
+      "method": "chacha20-ietf-poly1305",
+      "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099?#@meliproxyy",
+      "ip": "36.224.142.78",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099?#@meliproxyy"
+    },
+    {
+      "type": "vless",
+      "address": "188.253.6.80",
+      "port": "443",
+      "id": "50668c7e-1325-7314-1626-685d580c48fc",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.asus.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://50668c7e-1325-7314-1626-685d580c48fc@188.253.6.80:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=W215rLzeq2f2CVCVmhEbw715wrMYHK7oPg2F0iotbRA&security=reality&sid=20180cfd&sni=www.asus.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-TW%F0%9F%87%B9%F0%9F%87%BC-3",
+      "ip": "188.253.6.80",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vless://50668c7e-1325-7314-1626-685d580c48fc@188.253.6.80:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=W215rLzeq2f2CVCVmhEbw715wrMYHK7oPg2F0iotbRA&security=reality&sid=20180cfd&sni=www.asus.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-TW%F0%9F%87%B9%F0%9F%87%BC-3"
+    },
     {
       "type": "ss",
       "address": "r3mrcg001286ek2.cybervena.com",
@@ -10,23 +56,10 @@
       "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
       "name": "🇹🇼 TW 1",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201",
-      "ip": "61.231.25.172",
+      "ip": "36.224.142.78",
       "country": "TW",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201"
-    },
-    {
-      "type": "ss",
-      "address": "61.231.25.172",
-      "port": "50099",
-      "method": "chacha20-ietf-poly1305",
-      "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
-      "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.25.172:50099#@meliproxyy",
-      "ip": "61.231.25.172",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.25.172:50099#@meliproxyy"
     }
   ]
 }

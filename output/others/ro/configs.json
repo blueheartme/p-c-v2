@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06T18:07:52.170506",
-  "count": 1,
+  "updated": "2026-07-07T02:29:21.919317",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,18 @@
       "country": "RO",
       "cdn": null,
       "rebuilt": "vless://db8c3c80-a025-46f9-bffb-fde63c2e3ac1@38.79.154.34:2020?security=reality&encryption=none&pbk=KWlccWTLW11wEojieRNfg6zezd3KMxPpAkwZ11VNhSM&headerType=none&fp=chrome&spx=%2Fzv8M17VMppA3e9S&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=7e82#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+    },
+    {
+      "type": "tg",
+      "address": "38.79.154.34",
+      "port": "8443",
+      "secret": "eec6c19e0a086fa613a486bc960d7a59b0636c6f7564666c6172652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=38.79.154.34&port=8443&secret=eec6c19e0a086fa613a486bc960d7a59b0636c6f7564666c6172652e636f6d&@MPT_Proxy",
+      "ip": "38.79.154.34",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=38.79.154.34&port=8443&secret=eec6c19e0a086fa613a486bc960d7a59b0636c6f7564666c6172652e636f6d&@MPT_Proxy"
     }
   ]
 }

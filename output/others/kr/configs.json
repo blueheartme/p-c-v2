@@ -1,34 +1,7 @@
 {
-  "updated": "2026-07-06T18:07:52.169274",
-  "count": 4,
+  "updated": "2026-07-07T02:29:21.895114",
+  "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "141.164.45.187",
-      "port": "7001",
-      "method": "aes-256-gcm",
-      "password": "RexnBgU7EV5ADxG",
-      "name": "🇰🇷 KR 1",
-      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%f0%9f%87%b0%f0%9f%87%b7%20KR%201",
-      "ip": "141.164.45.187",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%f0%9f%87%b0%f0%9f%87%b7%20KR%201"
-    },
-    {
-      "type": "trojan",
-      "address": "ethical-raccoon.rooster465.autos",
-      "port": "443",
-      "password": "PI36027154",
-      "name": "@meliproxyy",
-      "sni": "",
-      "host": "",
-      "original": "trojan://PI36027154@ethical-raccoon.rooster465.autos:443#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2",
-      "ip": "43.202.46.7",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "trojan://PI36027154@ethical-raccoon.rooster465.autos:443#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2"
-    },
     {
       "type": "ss",
       "address": "141.164.45.187",
@@ -43,6 +16,19 @@
       "rebuilt": "ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%f0%9f%87%b0%f0%9f%87%b7%20KR%203"
     },
     {
+      "type": "ss",
+      "address": "141.164.45.187",
+      "port": "7001",
+      "method": "aes-256-gcm",
+      "password": "RexnBgU7EV5ADxG",
+      "name": "🇰🇷 KR 1",
+      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%f0%9f%87%b0%f0%9f%87%b7%20KR%201",
+      "ip": "141.164.45.187",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%f0%9f%87%b0%f0%9f%87%b7%20KR%201"
+    },
+    {
       "type": "vmess",
       "address": "152.67.218.38",
       "port": "443",
@@ -51,11 +37,11 @@
       "network": "ws",
       "host": null,
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty00IiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0zIiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
       "ip": "152.67.218.38",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty00IiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0zIiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     }
   ]
 }
