@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-07T02:29:21.902757",
-  "count": 4,
+  "updated": "2026-07-07T10:50:14.559057",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.8.211.217",
+      "port": "443",
+      "id": "14b59caf-a196-4ec2-8c70-c7b388062f5b",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "vangoghhh.info",
+      "host": "vangoghhh.info",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "45.8.211.217",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
     {
       "type": "ss",
       "address": "103.106.229.69",
@@ -16,26 +36,6 @@
       "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#%f0%9f%87%b8%f0%9f%87%ac%20SG%202"
     },
     {
-      "type": "vless",
-      "address": "45.8.211.217",
-      "port": "443",
-      "id": "14b59caf-a196-4ec2-8c70-c7b388062f5b",
-      "name": "برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩",
-      "network": "ws",
-      "sni": "vangoghhh.info",
-      "host": "vangoghhh.info",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "45.8.211.217",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
       "type": "ss",
       "address": "45.32.122.179",
       "port": "23027",
@@ -47,20 +47,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJLWJQM2xGaC5kVEczWGl0RjdYdFZLODNDWjdySTJVdD1u@45.32.122.179:23027#%f0%9f%87%b8%f0%9f%87%ac%20SG%201"
-    },
-    {
-      "type": "trojan",
-      "address": "rich-mule.rooster465.autos",
-      "port": "443",
-      "password": "PI36027154",
-      "name": "@meliproxyy",
-      "sni": "",
-      "host": "",
-      "original": "trojan://PI36027154@rich-mule.rooster465.autos:443#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4",
-      "ip": "13.212.105.193",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "trojan://PI36027154@rich-mule.rooster465.autos:443#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }

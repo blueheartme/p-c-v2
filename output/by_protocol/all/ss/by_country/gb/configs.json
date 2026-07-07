@@ -1,20 +1,7 @@
 {
-  "updated": "2026-07-07T02:29:21.978040",
-  "count": 6,
+  "updated": "2026-07-07T10:50:14.634999",
+  "count": 7,
   "configs": [
-    {
-      "type": "ss",
-      "address": "141.98.101.178",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇬🇧 GB 4",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%204",
-      "ip": "141.98.101.178",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%204"
-    },
     {
       "type": "ss",
       "address": "141.98.101.182",
@@ -43,6 +30,19 @@
     },
     {
       "type": "ss",
+      "address": "141.98.101.178",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇬🇧 GB 4",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%204",
+      "ip": "141.98.101.178",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%204"
+    },
+    {
+      "type": "ss",
       "address": "141.98.101.179",
       "port": "443",
       "method": "aes-128-gcm",
@@ -53,6 +53,19 @@
       "country": "GB",
       "cdn": null,
       "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%201"
+    },
+    {
+      "type": "ss",
+      "address": "146.70.61.37",
+      "port": "8080",
+      "method": "rc4-md5",
+      "password": "14fFPrbezE3HDZzsMOr6",
+      "name": "🇬🇧 GB 6",
+      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%f0%9f%87%ac%f0%9f%87%a7%20GB%206",
+      "ip": "146.70.61.37",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%f0%9f%87%ac%f0%9f%87%a7%20GB%206"
     },
     {
       "type": "ss",
