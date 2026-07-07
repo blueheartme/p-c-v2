@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-07T10:50:14.610170",
-  "count": 1,
+  "updated": "2026-07-07T17:55:15.485611",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "50.114.113.23",
+      "port": "31207",
+      "id": "3819d8b3-98f0-47a6-92a1-461339fdb51e",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://3819d8b3-98f0-47a6-92a1-461339fdb51e@50.114.113.23:31207?encryption=none&security=none&type=ws&host=play.google.com&path=%2Fws#vless-ws-JP%F0%9F%87%AF%F0%9F%87%B5-2",
+      "ip": "50.114.113.23",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://3819d8b3-98f0-47a6-92a1-461339fdb51e@50.114.113.23:31207?encryption=none&security=none&type=ws&host=play.google.com&path=%2Fws#vless-ws-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+    },
     {
       "type": "vless",
       "address": "15.168.173.144",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-5",
+      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-6",
       "ip": "15.168.173.144",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-5"
+      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-6"
     }
   ]
 }

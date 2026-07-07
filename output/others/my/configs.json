@@ -1,19 +1,20 @@
 {
-  "updated": "2026-07-06T11:59:17.524534",
+  "updated": "2026-07-07T17:55:15.453408",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "38.54.125.229",
-      "port": "8091",
-      "method": "aes-256-gcm",
-      "password": "PCnnH6SQSnfoS27",
-      "name": "🇲🇾 MY 1",
-      "original": "ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.54.125.229:8091#%f0%9f%87%b2%f0%9f%87%be%20MY%201",
-      "ip": "38.54.125.229",
+      "type": "trojan",
+      "address": "38.60.168.129",
+      "port": "443",
+      "password": "Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD",
+      "name": "🇲🇾 MY 4",
+      "sni": "",
+      "host": "",
+      "original": "trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-MY%F0%9F%87%B2%F0%9F%87%BE-1",
+      "ip": "38.60.168.129",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.54.125.229:8091#%f0%9f%87%b2%f0%9f%87%be%20MY%201"
+      "rebuilt": "trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-MY%F0%9F%87%B2%F0%9F%87%BE-1"
     }
   ]
 }

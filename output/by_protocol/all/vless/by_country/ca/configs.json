@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-05T17:01:35.895852",
+  "updated": "2026-07-07T17:55:15.492339",
   "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "velorium.store",
-      "port": "8080",
+      "port": "443",
       "id": "cee8c30c-fb13-4a89-abb4-5a32cf716c97",
-      "name": "🇺🇾@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "xhttp",
-      "sni": "",
-      "host": "tes.artevia.qzz.io",
-      "security": "none",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "api.mozestan.dpdns.org",
+      "host": "api.mozestan.dpdns.org",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=%2Fapi&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tes.artevia.qzz.io&type=xhttp#vless-xhttp-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "fingerprint": "chrome",
+      "original": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:443?encryption=none&type=ws&security=tls&path=%2Fapi-api&host=api.mozestan.dpdns.org&sni=api.mozestan.dpdns.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "23.227.38.32",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=%2Fapi&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tes.artevia.qzz.io&type=xhttp#vless-xhttp-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:443?encryption=none&type=ws&security=tls&path=%2Fapi-api&host=api.mozestan.dpdns.org&sni=api.mozestan.dpdns.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     }
   ]
 }
