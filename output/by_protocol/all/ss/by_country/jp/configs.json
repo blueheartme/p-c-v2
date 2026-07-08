@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-07T17:55:15.533352",
-  "count": 1,
+  "updated": "2026-07-08T02:03:44.290218",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "149.22.87.241",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇯🇵 JP 1",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201",
+      "ip": "149.22.87.241",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201"
+    },
     {
       "type": "ss",
       "address": "149.22.87.204",
