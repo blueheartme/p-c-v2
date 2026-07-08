@@ -1,19 +1,39 @@
 {
-  "updated": "2026-07-08T02:03:44.208178",
-  "count": 3,
+  "updated": "2026-07-08T10:11:35.950203",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
-      "address": "149.22.95.183",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇨🇦 CA 2",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%202",
-      "ip": "149.22.95.183",
+      "address": "185.196.61.82",
+      "port": "8080",
+      "method": "aes-256-gcm",
+      "password": "KixLvKzwjekG00rm",
+      "name": "🇨🇦 CA 1",
+      "original": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%201",
+      "ip": "185.196.61.82",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%202"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
+    },
+    {
+      "type": "vless",
+      "address": "velorium.store",
+      "port": "8443",
+      "id": "40187c6d-7cd7-4757-a07c-af8c7145b102",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "api.talash.dpdns.org",
+      "host": "api.talash.dpdns.org",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://40187c6d-7cd7-4757-a07c-af8c7145b102@velorium.store:8443?encryption=none&security=tls&sni=api.talash.dpdns.org&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=api.talash.dpdns.org&path=%2Fapi-ip#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "ip": "23.227.38.32",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://40187c6d-7cd7-4757-a07c-af8c7145b102@velorium.store:8443?encryption=none&security=tls&sni=api.talash.dpdns.org&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=api.talash.dpdns.org&path=%2Fapi-ip#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     },
     {
       "type": "vless",
@@ -29,24 +49,24 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:443?encryption=none&type=ws&security=tls&path=%2Fapi-api&host=api.mozestan.dpdns.org&sni=api.mozestan.dpdns.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "original": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:443?encryption=none&type=ws&security=tls&path=%2Fapi-api&host=api.mozestan.dpdns.org&sni=api.mozestan.dpdns.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3",
       "ip": "23.227.38.32",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:443?encryption=none&type=ws&security=tls&path=%2Fapi-api&host=api.mozestan.dpdns.org&sni=api.mozestan.dpdns.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+      "rebuilt": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:443?encryption=none&type=ws&security=tls&path=%2Fapi-api&host=api.mozestan.dpdns.org&sni=api.mozestan.dpdns.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3"
     },
     {
       "type": "ss",
-      "address": "185.196.61.82",
-      "port": "8080",
-      "method": "aes-256-gcm",
-      "password": "KixLvKzwjekG00rm",
-      "name": "🇨🇦 CA 1",
-      "original": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%201",
-      "ip": "185.196.61.82",
+      "address": "149.22.95.183",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇨🇦 CA 2",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%202",
+      "ip": "149.22.95.183",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%202"
     }
   ]
 }
