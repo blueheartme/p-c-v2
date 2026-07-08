@@ -1,41 +1,7 @@
 {
-  "updated": "2026-07-08T10:11:35.961057",
-  "count": 3,
+  "updated": "2026-07-08T17:23:59.908001",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "45.198.80.240",
-      "port": "443",
-      "id": "eece4171-e025-40a3-9027-e395036ff99d",
-      "name": "برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "storage.yandex.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.240:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1",
-      "ip": "45.198.80.240",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.240:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1"
-    },
-    {
-      "type": "trojan",
-      "address": "sp.cloudv.qzz.io",
-      "port": "4433",
-      "password": "t1k5znTjT8",
-      "name": "🇩🇪 DE 34",
-      "sni": "",
-      "host": "sp.cloudv.qzz.io",
-      "original": "trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#trojan-ws-ES%F0%9F%87%AA%F0%9F%87%B8-2",
-      "ip": "212.227.98.235",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#trojan-ws-ES%F0%9F%87%AA%F0%9F%87%B8-2"
-    },
     {
       "type": "vless",
       "address": "45.198.80.100",
@@ -50,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.100:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "original": "vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.100:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1",
       "ip": "45.198.80.100",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.100:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+      "rebuilt": "vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.100:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.198.80.240",
+      "port": "443",
+      "id": "eece4171-e025-40a3-9027-e395036ff99d",
+      "name": "برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.240:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "45.198.80.240",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.240:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     }
   ]
 }

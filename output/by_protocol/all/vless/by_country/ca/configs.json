@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-08T10:11:35.992992",
+  "updated": "2026-07-08T17:23:59.949655",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "velorium.store",
-      "port": "8443",
-      "id": "40187c6d-7cd7-4757-a07c-af8c7145b102",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "api.talash.dpdns.org",
-      "host": "api.talash.dpdns.org",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://40187c6d-7cd7-4757-a07c-af8c7145b102@velorium.store:8443?encryption=none&security=tls&sni=api.talash.dpdns.org&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=api.talash.dpdns.org&path=%2Fapi-ip#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2",
-      "ip": "23.227.38.32",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://40187c6d-7cd7-4757-a07c-af8c7145b102@velorium.store:8443?encryption=none&security=tls&sni=api.talash.dpdns.org&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=api.talash.dpdns.org&path=%2Fapi-ip#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2"
-    },
     {
       "type": "vless",
       "address": "velorium.store",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:443?encryption=none&type=ws&security=tls&path=%2Fapi-api&host=api.mozestan.dpdns.org&sni=api.mozestan.dpdns.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "original": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:443?encryption=none&type=ws&security=tls&path=%2Fapi-api&host=api.mozestan.dpdns.org&sni=api.mozestan.dpdns.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "23.227.38.32",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:443?encryption=none&type=ws&security=tls&path=%2Fapi-api&host=api.mozestan.dpdns.org&sni=api.mozestan.dpdns.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+      "rebuilt": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:443?encryption=none&type=ws&security=tls&path=%2Fapi-api&host=api.mozestan.dpdns.org&sni=api.mozestan.dpdns.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+    },
+    {
+      "type": "vless",
+      "address": "velorium.store",
+      "port": "8443",
+      "id": "40187c6d-7cd7-4757-a07c-af8c7145b102",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "api.talash.dpdns.org",
+      "host": "api.talash.dpdns.org",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://40187c6d-7cd7-4757-a07c-af8c7145b102@velorium.store:8443?encryption=none&security=tls&sni=api.talash.dpdns.org&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=api.talash.dpdns.org&path=%2Fapi-ip#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "ip": "23.227.38.32",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://40187c6d-7cd7-4757-a07c-af8c7145b102@velorium.store:8443?encryption=none&security=tls&sni=api.talash.dpdns.org&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=api.talash.dpdns.org&path=%2Fapi-ip#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3"
     }
   ]
 }

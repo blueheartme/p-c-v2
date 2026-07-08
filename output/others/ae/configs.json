@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08T10:11:35.953355",
-  "count": 5,
+  "updated": "2026-07-08T17:23:59.905599",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
@@ -17,24 +17,18 @@
       "rebuilt": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
-      "type": "vless",
-      "address": "uae.unixzone.us",
-      "port": "22573",
-      "id": "39947382-3212-41c9-bc3a-589574ac8b23",
-      "name": "🇦🇪 AE 1",
-      "network": "ws",
-      "sni": "",
-      "host": "uae.unixzone.us",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&encryption=none&type=ws&host=uae.unixzone.us&path=%2f#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "84.235.244.108",
+      "type": "trojan",
+      "address": "94.140.0.40",
+      "port": "443",
+      "password": "MITIVPN",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "sni": "Usa.App-Cloud.ir",
+      "host": "Usa.App-Cloud.ir",
+      "original": "trojan://MITIVPN@94.140.0.40:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "94.140.0.40",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&encryption=none&type=ws&host=uae.unixzone.us&path=%2f#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "trojan://MITIVPN@94.140.0.40:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     },
     {
       "type": "vless",
@@ -55,33 +49,6 @@
       "country": "AE",
       "cdn": null,
       "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3"
-    },
-    {
-      "type": "trojan",
-      "address": "94.140.0.40",
-      "port": "443",
-      "password": "MITIVPN",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "sni": "Usa.App-Cloud.ir",
-      "host": "Usa.App-Cloud.ir",
-      "original": "trojan://MITIVPN@94.140.0.40:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-4",
-      "ip": "94.140.0.40",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "trojan://MITIVPN@94.140.0.40:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-4"
-    },
-    {
-      "type": "ss",
-      "address": "38.54.9.181",
-      "port": "3306",
-      "method": "aes-256-gcm",
-      "password": "Y6R9pAtvxxzmGC",
-      "name": "🇦🇪 AE 2",
-      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.54.9.181:3306#%f0%9f%87%a6%f0%9f%87%aa%20AE%202",
-      "ip": "38.54.9.181",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.54.9.181:3306#%f0%9f%87%a6%f0%9f%87%aa%20AE%202"
     }
   ]
 }
