@@ -1,34 +1,26 @@
 {
-  "updated": "2026-07-07T10:50:14.558368",
-  "count": 2,
+  "updated": "2026-07-09T02:15:49.961480",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "172.105.39.124",
-      "port": "7002",
-      "method": "aes-256-gcm",
-      "password": "RexnBgU7EV5ADxG",
-      "name": "🇮🇳 IN 2",
-      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%f0%9f%87%ae%f0%9f%87%b3%20IN%202",
-      "ip": "172.105.39.124",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%f0%9f%87%ae%f0%9f%87%b3%20IN%202"
-    },
-    {
-      "type": "vmess",
-      "address": "152.67.8.205",
-      "port": "80",
-      "id": "9db4c708-aef8-4359-821b-38e47990be0d",
-      "name": "🇮🇳 IN 1",
-      "network": "ws",
+      "type": "vless",
+      "address": "turboindian.iranfreemarz.com",
+      "port": "7007",
+      "id": "3693c9e8-70de-46d5-89bf-856ae12ee852",
+      "name": "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠➜@ir_IRANy 🇮🇳",
+      "network": "tcp",
+      "sni": "yahoo.com",
       "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLUlO8J+HrvCfh7MtMiIsImFkZCI6IjE1Mi42Ny44LjIwNSIsInBvcnQiOjgwLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "152.67.8.205",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=yahoo.com#vless-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "103.165.10.244",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLUlO8J+HrvCfh7MtMiIsImFkZCI6IjE1Mi42Ny44LjIwNSIsInBvcnQiOjgwLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=yahoo.com#vless-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }
