@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T02:15:49.953890",
+  "updated": "2026-07-09T10:49:55.215300",
   "count": 8,
   "configs": [
     {
@@ -23,6 +23,35 @@
       "rebuilt": "vless://3819d8b3-98f0-47a6-92a1-461339fdb51e@50.114.113.23:31207?encryption=none&security=none&type=ws&host=play.google.com&path=%2Fws#vless-ws-JP%F0%9F%87%AF%F0%9F%87%B5-1"
     },
     {
+      "type": "trojan",
+      "address": "160.16.107.37",
+      "port": "3169",
+      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
+      "name": "Japan NTT Pc",
+      "sni": "www.nintendogames.net",
+      "host": "",
+      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
+      "ip": "160.16.107.37",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+    },
+    {
+      "type": "vmess",
+      "address": "172.104.80.66",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "🇯🇵 JP 1",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUpQ8J+Hr/Cfh7UtMyIsImFkZCI6IjE3Mi4xMDQuODAuNjYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIxIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "172.104.80.66",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUpQ8J+Hr/Cfh7UtMyIsImFkZCI6IjE3Mi4xMDQuODAuNjYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIxIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+    },
+    {
       "type": "vmess",
       "address": "172.111.146.64",
       "port": "80",
@@ -31,11 +60,11 @@
       "network": "ws",
       "host": null,
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS0yIiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MCwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS00IiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MCwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
       "ip": "172.111.146.64",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS0yIiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MCwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS00IiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MCwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     },
     {
       "type": "ss",
@@ -49,35 +78,6 @@
       "country": "JP",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.135.29:443#%f0%9f%87%af%f0%9f%87%b5%20JP%202"
-    },
-    {
-      "type": "vmess",
-      "address": "172.104.80.66",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "🇯🇵 JP 1",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUpQ8J+Hr/Cfh7UtNCIsImFkZCI6IjE3Mi4xMDQuODAuNjYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIxIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "172.104.80.66",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUpQ8J+Hr/Cfh7UtNCIsImFkZCI6IjE3Mi4xMDQuODAuNjYiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIxIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
-    },
-    {
-      "type": "trojan",
-      "address": "kuame.missionsec.us",
-      "port": "443",
-      "password": "FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D",
-      "name": "Japan Klayer LLC",
-      "sni": "kuame.missionsec.us",
-      "host": "",
-      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5",
-      "ip": "93.93.246.88",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5"
     },
     {
       "type": "vless",
@@ -121,17 +121,17 @@
     },
     {
       "type": "trojan",
-      "address": "160.16.107.37",
-      "port": "3169",
-      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
-      "name": "Japan NTT Pc",
-      "sni": "www.nintendogames.net",
+      "address": "kuame.missionsec.us",
+      "port": "443",
+      "password": "FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D",
+      "name": "Japan Klayer LLC",
+      "sni": "kuame.missionsec.us",
       "host": "",
-      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-8",
-      "ip": "160.16.107.37",
+      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-8",
+      "ip": "93.93.246.88",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-8"
+      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-8"
     }
   ]
 }
