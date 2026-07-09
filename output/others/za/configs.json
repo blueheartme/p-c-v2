@@ -1,20 +1,19 @@
 {
-  "updated": "2026-07-05T17:01:35.832013",
+  "updated": "2026-07-09T17:51:04.855241",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "38.54.64.247",
-      "port": "443",
-      "password": "ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk",
-      "name": "🇿🇦 ZA 1",
-      "sni": "38.54.64.247",
-      "host": "",
-      "original": "trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls&sni=38.54.64.247&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ZA%F0%9F%87%BF%F0%9F%87%A6-1",
-      "ip": "38.54.64.247",
+      "type": "ss",
+      "address": "102.133.165.160",
+      "port": "16233",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Xsy8Ox4yOV3xLlpxtjzs3X",
+      "name": "🇿🇦 ZA 3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%f0%9f%87%bf%f0%9f%87%a6%20ZA%203",
+      "ip": "102.133.165.160",
       "country": "ZA",
       "cdn": null,
-      "rebuilt": "trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls&sni=38.54.64.247&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ZA%F0%9F%87%BF%F0%9F%87%A6-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%f0%9f%87%bf%f0%9f%87%a6%20ZA%203"
     }
   ]
 }

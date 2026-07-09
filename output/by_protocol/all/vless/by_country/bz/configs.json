@@ -1,26 +1,46 @@
 {
-  "updated": "2026-07-09T10:49:55.254427",
-  "count": 1,
+  "updated": "2026-07-09T17:51:04.903622",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "ipv4.daimondweb.ir",
-      "port": "2053",
-      "id": "b7d8604b-e24b-4973-840a-d02ed34053f1",
-      "name": "@meliproxyy",
+      "address": "45.131.211.111",
+      "port": "443",
+      "id": "14b59caf-a196-4ec2-8c70-c7b388062f5b",
+      "name": "@filembad",
       "network": "ws",
-      "sni": "cdn.daimondweb.ir",
-      "host": "cdn.daimondweb.ir",
+      "sni": "vangoghhh.info",
+      "host": "vangoghhh.info",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://b7d8604b-e24b-4973-840a-d02ed34053f1@ipv4.daimondweb.ir:2053?path=%2Fsalsaserver&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.daimondweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daimondweb.ir#vless-ws-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-4",
-      "ip": "45.131.4.13",
+      "fingerprint": "",
+      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.211.111:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-2",
+      "ip": "45.131.211.111",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "vless://b7d8604b-e24b-4973-840a-d02ed34053f1@ipv4.daimondweb.ir:2053?path=%2Fsalsaserver&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.daimondweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daimondweb.ir#vless-ws-tls-chrome-BZ%F0%9F%87%A7%F0%9F%87%BF-4"
+      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.211.111:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-2"
+    },
+    {
+      "type": "vless",
+      "address": "45.131.208.61",
+      "port": "443",
+      "id": "14b59caf-a196-4ec2-8c70-c7b388062f5b",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "vangoghhh.info",
+      "host": "vangoghhh.info",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.208.61:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-3",
+      "ip": "45.131.208.61",
+      "country": "BZ",
+      "cdn": null,
+      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.208.61:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-3"
     }
   ]
 }
