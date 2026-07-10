@@ -1,19 +1,21 @@
 {
-  "updated": "2026-06-29T18:05:49.356911",
+  "updated": "2026-07-10T17:44:00.714831",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "61.171.92.202",
-      "port": "1001",
-      "method": "aes-256-gcm",
-      "password": "123",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#@meliproxyy",
-      "ip": "61.171.92.202",
+      "type": "vmess",
+      "address": "v8.hdacd.com",
+      "port": "30808",
+      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "name": "🇨🇳 CN 1",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DTvCfh6jwn4ezLTEiLCJhZGQiOiJ2OC5oZGFjZC5jb20iLCJwb3J0IjozMDgwOCwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "ip": "129.211.214.142",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#@meliproxyy"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DTvCfh6jwn4ezLTEiLCJhZGQiOiJ2OC5oZGFjZC5jb20iLCJwb3J0IjozMDgwOCwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0="
     }
   ]
 }

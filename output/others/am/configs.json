@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-10T10:47:59.086034",
+  "updated": "2026-07-10T17:44:00.716628",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "87.121.47.237",
-      "port": "443",
-      "id": "cde6db10-61db-418f-9ea1-52f7c13404a9",
-      "name": "@meliproxyy",
+      "address": "77.91.68.70",
+      "port": "55983",
+      "id": "f667a096-5231-4cfb-8759-92bb32473139",
+      "name": "🇦🇲 AM 1",
       "network": "tcp",
-      "sni": "am-1.alpha-ai-studio.com",
+      "sni": "yahoo.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://cde6db10-61db-418f-9ea1-52f7c13404a9@87.121.47.237:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=am-1.alpha-ai-studio.com&fp=firefox&pbk=msysQ0O50UghY7hzYz14sJF3cvfolf999HsO2Iu99xc&sid=1aa760b0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-AM%F0%9F%87%A6%F0%9F%87%B2-1",
-      "ip": "87.121.47.237",
+      "fingerprint": "chrome",
+      "original": "vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&alpn=http%2f1.1&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-AM%F0%9F%87%A6%F0%9F%87%B2-1",
+      "ip": "77.91.68.70",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://cde6db10-61db-418f-9ea1-52f7c13404a9@87.121.47.237:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=am-1.alpha-ai-studio.com&fp=firefox&pbk=msysQ0O50UghY7hzYz14sJF3cvfolf999HsO2Iu99xc&sid=1aa760b0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-AM%F0%9F%87%A6%F0%9F%87%B2-1"
+      "rebuilt": "vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&alpn=http%2f1.1&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-AM%F0%9F%87%A6%F0%9F%87%B2-1"
     }
   ]
 }
