@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T02:23:07.419598",
-  "count": 4,
+  "updated": "2026-07-10T10:47:59.081182",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -16,21 +16,6 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%203"
     },
     {
-      "type": "vmess",
-      "address": "85.90.217.42",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "🇪🇸 ES 1",
-      "network": "tcp",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1FU/Cfh6rwn4e4LTIiLCJhZGQiOiI4NS45MC4yMTcuNDIiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "85.90.217.42",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1FU/Cfh6rwn4e4LTIiLCJhZGQiOiI4NS45MC4yMTcuNDIiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
-    },
-    {
       "type": "vless",
       "address": "spain.unixzone.us",
       "port": "36326",
@@ -44,24 +29,25 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "original": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-2",
       "ip": "217.76.158.214",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+      "rebuilt": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     },
     {
-      "type": "ss",
-      "address": "108.181.121.226",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "WSyL4XTwNsdv",
-      "name": "🇪🇸 ES 2",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%202",
-      "ip": "108.181.121.226",
+      "type": "trojan",
+      "address": "sp.cloudv.qzz.io",
+      "port": "4433",
+      "password": "t1k5znTjT8",
+      "name": "🇩🇪 DE 10",
+      "sni": "",
+      "host": "sp.cloudv.qzz.io",
+      "original": "trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#trojan-ws-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "ip": "212.227.98.235",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%202"
+      "rebuilt": "trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#trojan-ws-ES%F0%9F%87%AA%F0%9F%87%B8-3"
     }
   ]
 }

@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-10T02:23:07.412248",
+  "updated": "2026-07-10T10:47:59.084384",
   "count": 2,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "134.195.196.211",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "🇨🇦 CA 2",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNB8J+HqPCfh6YtMSIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "134.195.196.211",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNB8J+HqPCfh6YtMSIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
     {
       "type": "ss",
       "address": "149.22.95.183",
@@ -14,19 +29,6 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%203"
-    },
-    {
-      "type": "ss",
-      "address": "185.196.61.82",
-      "port": "8080",
-      "method": "aes-256-gcm",
-      "password": "KixLvKzwjekG00rm",
-      "name": "🇨🇦 CA 1",
-      "original": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%201",
-      "ip": "185.196.61.82",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
     }
   ]
 }
