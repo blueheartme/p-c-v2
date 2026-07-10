@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-09T17:51:04.897765",
+  "updated": "2026-07-10T02:23:07.451914",
   "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "46.8.236.129",
-      "port": "26140",
-      "id": "9b68c32d-953c-423f-a2e8-6447cc77cbf8",
-      "name": "@Maznet -SOS490",
+      "address": "fn.fifapes.monster",
+      "port": "2090",
+      "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "yahoo.com",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://9b68c32d-953c-423f-a2e8-6447cc77cbf8@46.8.236.129:26140?security=reality&encryption=none&pbk=Y8cdqmsCNqujpWKxRPfXQLB1CwJMhQRSKHaKOzBMFAY&host=yahoo.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c73dd5d128e6bd3d#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1",
-      "ip": "46.8.236.129",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "ip": "46.8.71.176",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://9b68c32d-953c-423f-a2e8-6447cc77cbf8@46.8.236.129:26140?security=reality&encryption=none&pbk=Y8cdqmsCNqujpWKxRPfXQLB1CwJMhQRSKHaKOzBMFAY&host=yahoo.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c73dd5d128e6bd3d#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%87%B1%F0%9F%87%BB-1"
     },
     {
       "type": "vless",
@@ -44,23 +44,23 @@
     },
     {
       "type": "vless",
-      "address": "fn.fifapes.monster",
-      "port": "2090",
+      "address": "gr1.fifapes.monster",
+      "port": "8882",
       "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
       "name": "☑➜چنلمون: Express_freevpn@",
       "network": "tcp",
       "sni": "",
-      "host": "/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI",
+      "host": "",
       "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%87%B1%F0%9F%87%BB-3",
-      "ip": "45.38.170.28",
+      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%87%B1%F0%9F%87%BB-3",
+      "ip": "104.252.127.234",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%87%B1%F0%9F%87%BB-3"
+      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%87%B1%F0%9F%87%BB-3"
     }
   ]
 }

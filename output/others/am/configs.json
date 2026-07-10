@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-24T02:39:36.756127",
+  "updated": "2026-07-10T02:23:07.426560",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "t2direct.puffy-shop.ir",
-      "port": "19982",
-      "id": "27ef5851-3da7-477f-a1cf-e24e523ac5be",
+      "address": "87.121.47.237",
+      "port": "443",
+      "id": "cde6db10-61db-418f-9ea1-52f7c13404a9",
       "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "www.yahoo.com",
-      "host": "fast.com",
+      "sni": "am-1.alpha-ai-studio.com",
+      "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://27ef5851-3da7-477f-a1cf-e24e523ac5be@t2direct.puffy-shop.ir:19982?security=reality&encryption=none&pbk=6EEfK_06cQENh3n43hLiu2kukvt3Bv3Un7Rek9yRTkA&host=fast.com&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=4a30e2b1e796373a#vless-tcp-reality-chrome-AM%F0%9F%87%A6%F0%9F%87%B2-1",
-      "ip": "91.228.186.146",
+      "fingerprint": "firefox",
+      "original": "vless://cde6db10-61db-418f-9ea1-52f7c13404a9@87.121.47.237:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=am-1.alpha-ai-studio.com&fp=firefox&pbk=msysQ0O50UghY7hzYz14sJF3cvfolf999HsO2Iu99xc&sid=1aa760b0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-AM%F0%9F%87%A6%F0%9F%87%B2-1",
+      "ip": "87.121.47.237",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://27ef5851-3da7-477f-a1cf-e24e523ac5be@t2direct.puffy-shop.ir:19982?security=reality&encryption=none&pbk=6EEfK_06cQENh3n43hLiu2kukvt3Bv3Un7Rek9yRTkA&host=fast.com&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=4a30e2b1e796373a#vless-tcp-reality-chrome-AM%F0%9F%87%A6%F0%9F%87%B2-1"
+      "rebuilt": "vless://cde6db10-61db-418f-9ea1-52f7c13404a9@87.121.47.237:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=am-1.alpha-ai-studio.com&fp=firefox&pbk=msysQ0O50UghY7hzYz14sJF3cvfolf999HsO2Iu99xc&sid=1aa760b0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-AM%F0%9F%87%A6%F0%9F%87%B2-1"
     }
   ]
 }

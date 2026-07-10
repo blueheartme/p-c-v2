@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T17:51:04.854552",
-  "count": 4,
+  "updated": "2026-07-10T02:23:07.394798",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -23,16 +23,19 @@
       "rebuilt": "vless://a0c1f44e-7260-4611-9a5d-e647722d08a7@207.57.131.128:55538?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=kSAhVaoRtsRLSWjEso6wOY9Op8m7CPh2qMGVBAG8MWc&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
-      "type": "tg",
-      "address": "www.roto-best.info",
-      "port": "2083",
-      "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-      "ip": "77.93.136.239",
+      "type": "vmess",
+      "address": "38.207.177.134",
+      "port": "39742",
+      "id": "36cf6565-bc71-4f8c-9e30-a9cc6156e583",
+      "name": "🇭🇰 HK 1",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMiIsImFkZCI6IjM4LjIwNy4xNzcuMTM0IiwicG9ydCI6Mzk3NDIsImlkIjoiMzZjZjY1NjUtYmM3MS00ZjhjLTllMzAtYTljYzYxNTZlNTgzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "38.207.177.134",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMiIsImFkZCI6IjM4LjIwNy4xNzcuMTM0IiwicG9ydCI6Mzk3NDIsImlkIjoiMzZjZjY1NjUtYmM3MS00ZjhjLTllMzAtYTljYzYxNTZlNTgzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     },
     {
       "type": "trojan",
@@ -47,21 +50,6 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
-    },
-    {
-      "type": "vmess",
-      "address": "38.207.177.134",
-      "port": "39742",
-      "id": "36cf6565-bc71-4f8c-9e30-a9cc6156e583",
-      "name": "🇭🇰 HK 1",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtNCIsImFkZCI6IjM4LjIwNy4xNzcuMTM0IiwicG9ydCI6Mzk3NDIsImlkIjoiMzZjZjY1NjUtYmM3MS00ZjhjLTllMzAtYTljYzYxNTZlNTgzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "38.207.177.134",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtNCIsImFkZCI6IjM4LjIwNy4xNzcuMTM0IiwicG9ydCI6Mzk3NDIsImlkIjoiMzZjZjY1NjUtYmM3MS00ZjhjLTllMzAtYTljYzYxNTZlNTgzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     }
   ]
 }
