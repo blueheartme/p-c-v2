@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-10T17:44:00.775565",
+  "updated": "2026-07-11T02:02:02.501648",
   "count": 4,
   "configs": [
-    {
-      "type": "vless",
-      "address": "158.160.223.194",
-      "port": "6443",
-      "id": "647a1879-17e4-42f8-94a8-c04e336bec7a",
-      "name": "@meliproxyy",
-      "network": "grpc",
-      "sni": "api-maps.yandex.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "randomized",
-      "original": "vless://647a1879-17e4-42f8-94a8-c04e336bec7a@158.160.223.194:6443?mode=multi&security=reality&encryption=none&pbk=TNqg4w8G4ins8_dYps2Yi4bLcteAd8QlzHoPMJpA0mQ&fp=randomized&type=grpc&serviceName=mapsapi&sni=api-maps.yandex.ru&sid=11223344#vless-grpc-reality-randomized-RU%F0%9F%87%B7%F0%9F%87%BA-1",
-      "ip": "158.160.223.194",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "vless://647a1879-17e4-42f8-94a8-c04e336bec7a@158.160.223.194:6443?mode=multi&security=reality&encryption=none&pbk=TNqg4w8G4ins8_dYps2Yi4bLcteAd8QlzHoPMJpA0mQ&fp=randomized&type=grpc&serviceName=mapsapi&sni=api-maps.yandex.ru&sid=11223344#vless-grpc-reality-randomized-RU%F0%9F%87%B7%F0%9F%87%BA-1"
-    },
     {
       "type": "vless",
       "address": "109.120.189.142",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.189.142:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-3",
+      "original": "vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.189.142:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-1",
       "ip": "109.120.189.142",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.189.142:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-3"
+      "rebuilt": "vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.189.142:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-1"
+    },
+    {
+      "type": "vless",
+      "address": "194.55.239.181",
+      "port": "9443",
+      "id": "0e3ec08f-840e-46f8-b11e-3a5decbb97b6",
+      "name": "🇷🇺 RU 1",
+      "network": "ws",
+      "sni": "sw-2-al.hysteria.ltd",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@194.55.239.181:9443?security=tls&sni=sw-2-al.hysteria.ltd&fp=chrome&type=ws&path=%2fws#vless-ws-tls-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-5",
+      "ip": "194.55.239.181",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@194.55.239.181:9443?security=tls&sni=sw-2-al.hysteria.ltd&fp=chrome&type=ws&path=%2fws#vless-ws-tls-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-5"
     },
     {
       "type": "vless",
@@ -56,31 +56,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-8",
+      "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-11",
       "ip": "185.147.26.21",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-8"
+      "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-11"
     },
     {
       "type": "vless",
-      "address": "178.250.243.230",
-      "port": "9823",
-      "id": "a88ea8bf-7001-4e29-a9bb-379f6778195c",
-      "name": "11/@ConfingV2RaayNG",
-      "network": "tcp",
-      "sni": "max.ru",
+      "address": "158.160.223.194",
+      "port": "6443",
+      "id": "647a1879-17e4-42f8-94a8-c04e336bec7a",
+      "name": "@meliproxyy",
+      "network": "grpc",
+      "sni": "api-maps.yandex.ru",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@178.250.243.230:9823?security=reality&encryption=none&pbk=iNnoaSfyKvdo5kp5znHSGFNqFxNhS0ormvHHHwsUSTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0123456789abcdef#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-12",
-      "ip": "178.250.243.230",
+      "headerType": "",
+      "fingerprint": "randomized",
+      "original": "vless://647a1879-17e4-42f8-94a8-c04e336bec7a@158.160.223.194:6443?mode=multi&security=reality&encryption=none&pbk=TNqg4w8G4ins8_dYps2Yi4bLcteAd8QlzHoPMJpA0mQ&fp=randomized&type=grpc&serviceName=mapsapi&sni=api-maps.yandex.ru&sid=11223344#vless-grpc-reality-randomized-RU%F0%9F%87%B7%F0%9F%87%BA-17",
+      "ip": "158.160.223.194",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@178.250.243.230:9823?security=reality&encryption=none&pbk=iNnoaSfyKvdo5kp5znHSGFNqFxNhS0ormvHHHwsUSTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0123456789abcdef#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-12"
+      "rebuilt": "vless://647a1879-17e4-42f8-94a8-c04e336bec7a@158.160.223.194:6443?mode=multi&security=reality&encryption=none&pbk=TNqg4w8G4ins8_dYps2Yi4bLcteAd8QlzHoPMJpA0mQ&fp=randomized&type=grpc&serviceName=mapsapi&sni=api-maps.yandex.ru&sid=11223344#vless-grpc-reality-randomized-RU%F0%9F%87%B7%F0%9F%87%BA-17"
     }
   ]
 }

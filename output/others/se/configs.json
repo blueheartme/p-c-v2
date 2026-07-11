@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T17:44:00.694573",
-  "count": 3,
+  "updated": "2026-07-11T02:02:02.411104",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -10,17 +10,17 @@
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "network": "ws",
       "sni": "kingcloud.biack.ir",
-      "host": "",
+      "host": "kingcloud.biack.ir",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "fingerprint": "chrome",
+      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=1&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "192.71.82.2",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=1&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
@@ -41,18 +41,6 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "vless://d0bb0042-7b55-43dd-bd3b-7661c0adc4e5@courtois.aminsec.ir:22338?encryption=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-2"
-    },
-    {
-      "type": "tg",
-      "address": "d4a7c1f8-3e9b-425d-a1c6-9f8e2b7a4d5c.casa",
-      "port": "80",
-      "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=d4a7c1f8-3e9b-425d-a1c6-9f8e2b7a4d5c.casa&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-      "ip": "91.184.240.29",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=d4a7c1f8-3e9b-425d-a1c6-9f8e2b7a4d5c.casa&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d"
     }
   ]
 }

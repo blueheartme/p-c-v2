@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T17:44:00.707523",
-  "count": 2,
+  "updated": "2026-07-11T02:02:02.413776",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -23,6 +23,30 @@
       "rebuilt": "vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?security=false&fp=chrome&type=ws&headerType=none&host=m.zoom.us&path=%2fFREE+By+Tharuwa+(0767597317)#vless-ws-false-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     },
     {
+      "type": "tg",
+      "address": "loot.irload-b.ir",
+      "port": "443",
+      "secret": "ee79e344818749bd7ac519130220c25d097374617469632e666172616b61762e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=loot.irload-b.ir&port=443&secret=ee79e344818749bd7ac519130220c25d097374617469632e666172616b61762e636f6d",
+      "ip": "5.223.57.95",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=loot.irload-b.ir&port=443&secret=ee79e344818749bd7ac519130220c25d097374617469632e666172616b61762e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "ir.opt-meli.info.",
+      "port": "443",
+      "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=ir.opt-meli.info.&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
+      "ip": "5.223.69.159",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=ir.opt-meli.info.&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+    },
+    {
       "type": "vless",
       "address": "45.8.211.217",
       "port": "443",
@@ -36,11 +60,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4",
       "ip": "45.8.211.217",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }
