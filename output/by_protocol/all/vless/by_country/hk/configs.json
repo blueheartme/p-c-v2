@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-10T02:23:07.447567",
+  "updated": "2026-07-11T16:48:57.963550",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "207.57.131.128",
-      "port": "55538",
-      "id": "a0c1f44e-7260-4611-9a5d-e647722d08a7",
-      "name": "🇭🇰 HK 2",
+      "address": "43.161.220.242",
+      "port": "443",
+      "id": "ab73218d-9f81-47f7-a3cc-a56b8a1acadf",
+      "name": "🇭🇰 HK 7",
       "network": "tcp",
-      "sni": "www.cloudflare.com",
+      "sni": "www.nvidia.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
+      "flow": "",
+      "encryption": "",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://a0c1f44e-7260-4611-9a5d-e647722d08a7@207.57.131.128:55538?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=kSAhVaoRtsRLSWjEso6wOY9Op8m7CPh2qMGVBAG8MWc&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "207.57.131.128",
+      "fingerprint": "firefox",
+      "original": "vless://ab73218d-9f81-47f7-a3cc-a56b8a1acadf@43.161.220.242:443?security=reality&sni=www.nvidia.com&fp=firefox&pbk=EyizAEdItn0J0TDYHu7IyeiPY4rOPxG16W7MLUE8UCQ&sid=48&type=tcp&path=%2f#vless-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-5",
+      "ip": "43.161.220.242",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://a0c1f44e-7260-4611-9a5d-e647722d08a7@207.57.131.128:55538?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=kSAhVaoRtsRLSWjEso6wOY9Op8m7CPh2qMGVBAG8MWc&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "vless://ab73218d-9f81-47f7-a3cc-a56b8a1acadf@43.161.220.242:443?security=reality&sni=www.nvidia.com&fp=firefox&pbk=EyizAEdItn0J0TDYHu7IyeiPY4rOPxG16W7MLUE8UCQ&sid=48&type=tcp&path=%2f#vless-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-5"
     }
   ]
 }

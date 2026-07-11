@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T09:22:04.956692",
-  "count": 1,
+  "updated": "2026-07-11T16:48:57.972758",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "JP",
       "cdn": null,
       "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+    },
+    {
+      "type": "vless",
+      "address": "43.165.186.226",
+      "port": "443",
+      "id": "3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be",
+      "name": "🇯🇵 JP 7",
+      "network": "tcp",
+      "sni": "www.sony.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?security=reality&encryption=none&sni=www.sony.com&fp=firefox&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&sid=a32e8c4a&type=tcp&headerType=none&path=%2f#vless-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "ip": "43.165.186.226",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?security=reality&encryption=none&sni=www.sony.com&fp=firefox&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&sid=a32e8c4a&type=tcp&headerType=none&path=%2f#vless-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-3"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-25T18:06:11.199780",
+  "updated": "2026-07-11T16:48:57.925355",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "45.144.165.11",
-      "port": "80",
-      "id": "85b62084-d81e-52cd-a016-944f261d34a0",
-      "name": "☑➜چنلمون: Express_freevpn@",
-      "network": "xhttp",
-      "sni": "",
-      "host": "cJ-sPeEdTeSt.EbB.mY",
-      "security": "none",
+      "address": "43.164.0.59",
+      "port": "666",
+      "id": "8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19",
+      "name": "🇹🇭 TH 1",
+      "network": "ws",
+      "sni": "43.164.0.59",
+      "host": "",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?mode=auto&path=%2F&security=none&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#vless-xhttp-TH%F0%9F%87%B9%F0%9F%87%AD-1",
-      "ip": "45.144.165.11",
+      "original": "vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?security=tls&encryption=none&sni=43.164.0.59&type=ws&path=%2fproxy&allow_insecure=1#vless-ws-tls-TH%F0%9F%87%B9%F0%9F%87%AD-1",
+      "ip": "43.164.0.59",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vless://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?mode=auto&path=%2F&security=none&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#vless-xhttp-TH%F0%9F%87%B9%F0%9F%87%AD-1"
+      "rebuilt": "vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?security=tls&encryption=none&sni=43.164.0.59&type=ws&path=%2fproxy&allow_insecure=1#vless-ws-tls-TH%F0%9F%87%B9%F0%9F%87%AD-1"
     }
   ]
 }

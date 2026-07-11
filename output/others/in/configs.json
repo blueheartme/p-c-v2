@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T09:22:04.921652",
-  "count": 1,
+  "updated": "2026-07-11T16:48:57.923270",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,32 @@
       "country": "IN",
       "cdn": null,
       "rebuilt": "vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=yahoo.com#vless-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
+    {
+      "type": "ss",
+      "address": "103.111.114.55",
+      "port": "28061",
+      "method": "chacha20-ietf-poly1305",
+      "password": "WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm",
+      "name": "🇮🇳 IN 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%201",
+      "ip": "103.111.114.55",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%201"
+    },
+    {
+      "type": "ss",
+      "address": "103.111.114.61",
+      "port": "28061",
+      "method": "chacha20-ietf-poly1305",
+      "password": "WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm",
+      "name": "🇮🇳 IN 2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%202",
+      "ip": "103.111.114.61",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%202"
     }
   ]
 }

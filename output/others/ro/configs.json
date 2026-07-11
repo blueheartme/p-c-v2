@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T09:22:04.924890",
-  "count": 2,
+  "updated": "2026-07-11T16:48:57.911853",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,6 +24,26 @@
     },
     {
       "type": "vless",
+      "address": "151.242.191.161",
+      "port": "443",
+      "id": "301d514e-4aa0-47b0-ba44-a0cb891cd52f",
+      "name": "🇷🇴 RO 1",
+      "network": "tcp",
+      "sni": "www.samsung.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?security=reality&encryption=none&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-2",
+      "ip": "151.242.191.161",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?security=reality&encryption=none&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-2"
+    },
+    {
+      "type": "vless",
       "address": "77.81.98.70",
       "port": "443",
       "id": "43488128-319e-f480-64ea-0acdc712e2a8",
@@ -36,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#vless-xtls-rprx-vision-tcp-reality-RO%F0%9F%87%B7%F0%9F%87%B4-2",
+      "original": "vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#vless-xtls-rprx-vision-tcp-reality-RO%F0%9F%87%B7%F0%9F%87%B4-3",
       "ip": "77.81.98.70",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#vless-xtls-rprx-vision-tcp-reality-RO%F0%9F%87%B7%F0%9F%87%B4-2"
+      "rebuilt": "vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#vless-xtls-rprx-vision-tcp-reality-RO%F0%9F%87%B7%F0%9F%87%B4-3"
     }
   ]
 }
