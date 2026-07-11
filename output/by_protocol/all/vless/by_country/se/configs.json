@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T02:02:02.509779",
-  "count": 2,
+  "updated": "2026-07-11T09:22:04.955420",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -10,17 +10,17 @@
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "network": "ws",
       "sni": "kingcloud.biack.ir",
-      "host": "kingcloud.biack.ir",
+      "host": "",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=1&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "fingerprint": "firefox",
+      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "192.71.82.2",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=1&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
@@ -41,6 +41,26 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "vless://d0bb0042-7b55-43dd-bd3b-7661c0adc4e5@courtois.aminsec.ir:22338?encryption=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "148.253.211.10",
+      "port": "443",
+      "id": "60576147-90e7-4afc-9cf9-c7361a8c7fd8",
+      "name": "برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "vk.me",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://60576147-90e7-4afc-9cf9-c7361a8c7fd8@148.253.211.10:443?security=reality&encryption=none&pbk=B3MWDjEWGQsObyH-9npa_PlkaoQDBqzwlwURFK1zlE8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vk.me&sid=3e0527d94cc8d1#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "148.253.211.10",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://60576147-90e7-4afc-9cf9-c7361a8c7fd8@148.253.211.10:443?security=reality&encryption=none&pbk=B3MWDjEWGQsObyH-9npa_PlkaoQDBqzwlwURFK1zlE8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vk.me&sid=3e0527d94cc8d1#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }

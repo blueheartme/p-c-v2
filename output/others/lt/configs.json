@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-11T02:02:02.418336",
+  "updated": "2026-07-11T09:22:04.927527",
   "count": 3,
   "configs": [
+    {
+      "type": "tg",
+      "address": "ocean.babysharkollah.co.uk",
+      "port": "8443",
+      "secret": "EERighJJvXrFGRMCIMJdCQ",
+      "name": "",
+      "original": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "ip": "89.117.222.42",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    },
     {
       "type": "vless",
       "address": "cherry-lt-01.live",
@@ -16,23 +28,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "original": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-2",
       "ip": "45.196.31.51",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1"
-    },
-    {
-      "type": "tg",
-      "address": "ocean.babysharkollah.co.uk",
-      "port": "8443",
-      "secret": "EERighJJvXrFGRMCIMJdCQ",
-      "name": "",
-      "original": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
-      "ip": "89.117.222.42",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+      "rebuilt": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     },
     {
       "type": "vless",
