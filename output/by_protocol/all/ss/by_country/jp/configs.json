@@ -1,45 +1,32 @@
 {
-  "updated": "2026-07-12T09:47:26.229304",
-  "count": 3,
+  "updated": "2026-07-12T16:52:44.910180",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "54.238.164.53",
+      "address": "149.22.87.204",
       "port": "443",
-      "method": "aes-256-cfb",
-      "password": "amazonskr05",
-      "name": "🇯🇵 JP 5",
-      "original": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.238.164.53:443#%f0%9f%87%af%f0%9f%87%b5%20JP%205",
-      "ip": "54.238.164.53",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇯🇵 JP 3",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%203",
+      "ip": "149.22.87.204",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.238.164.53:443#%f0%9f%87%af%f0%9f%87%b5%20JP%205"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%203"
     },
     {
       "type": "ss",
-      "address": "35.77.98.65",
+      "address": "149.22.87.240",
       "port": "443",
-      "method": "aes-256-cfb",
-      "password": "amazonskr05",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
       "name": "🇯🇵 JP 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.77.98.65:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201",
-      "ip": "35.77.98.65",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201",
+      "ip": "149.22.87.240",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.77.98.65:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201"
-    },
-    {
-      "type": "ss",
-      "address": "13.192.184.199",
-      "port": "443",
-      "method": "aes-256-cfb",
-      "password": "amazonskr05",
-      "name": "🇯🇵 JP 6",
-      "original": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.192.184.199:443#%f0%9f%87%af%f0%9f%87%b5%20JP%206",
-      "ip": "13.192.184.199",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.192.184.199:443#%f0%9f%87%af%f0%9f%87%b5%20JP%206"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201"
     }
   ]
 }
