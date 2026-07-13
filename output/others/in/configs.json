@@ -1,40 +1,7 @@
 {
-  "updated": "2026-07-13T10:54:10.412003",
-  "count": 8,
+  "updated": "2026-07-13T17:51:14.103478",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "103.111.114.80",
-      "port": "28061",
-      "method": "chacha20-ietf-poly1305",
-      "password": "WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm",
-      "name": "🇮🇳 IN 5",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%205",
-      "ip": "103.111.114.80",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%205"
-    },
-    {
-      "type": "vless",
-      "address": "45.89.106.101",
-      "port": "40443",
-      "id": "6ae44ad9-c2cb-4bdf-8e48-6c01fa646372",
-      "name": "🇮🇳 IN 6",
-      "network": "tcp",
-      "sni": "deepl.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=deepl.com&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&sid=54ce&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "45.89.106.101",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=deepl.com&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&sid=54ce&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-2"
-    },
     {
       "type": "vless",
       "address": "turboindian.iranfreemarz.com",
@@ -49,76 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=yahoo.com#vless-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-3",
+      "original": "vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=yahoo.com#vless-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1",
       "ip": "103.165.10.244",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=yahoo.com#vless-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-3"
-    },
-    {
-      "type": "ss",
-      "address": "103.111.114.71",
-      "port": "28061",
-      "method": "chacha20-ietf-poly1305",
-      "password": "WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm",
-      "name": "🇮🇳 IN 2",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%202",
-      "ip": "103.111.114.71",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%202"
-    },
-    {
-      "type": "ss",
-      "address": "103.111.114.55",
-      "port": "28061",
-      "method": "chacha20-ietf-poly1305",
-      "password": "WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm",
-      "name": "🇮🇳 IN 3",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%203",
-      "ip": "103.111.114.55",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%203"
-    },
-    {
-      "type": "ss",
-      "address": "103.111.114.82",
-      "port": "28061",
-      "method": "chacha20-ietf-poly1305",
-      "password": "WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm",
-      "name": "🇮🇳 IN 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%201",
-      "ip": "103.111.114.82",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%201"
-    },
-    {
-      "type": "ss",
-      "address": "103.111.114.61",
-      "port": "28061",
-      "method": "chacha20-ietf-poly1305",
-      "password": "WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm",
-      "name": "🇮🇳 IN 4",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%204",
-      "ip": "103.111.114.61",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%204"
-    },
-    {
-      "type": "ss",
-      "address": "172.105.39.124",
-      "port": "7002",
-      "method": "aes-256-gcm",
-      "password": "RexnBgU7EV5ADxG",
-      "name": "🇮🇳 IN 7",
-      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%f0%9f%87%ae%f0%9f%87%b3%20IN%207",
-      "ip": "172.105.39.124",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%f0%9f%87%ae%f0%9f%87%b3%20IN%207"
+      "rebuilt": "vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=yahoo.com#vless-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }

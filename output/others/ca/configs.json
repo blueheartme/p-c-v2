@@ -1,19 +1,46 @@
 {
-  "updated": "2026-07-13T10:54:10.394573",
-  "count": 1,
+  "updated": "2026-07-13T17:51:14.105137",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "137.184.174.93",
-      "port": "8080",
-      "method": "rc4-md5",
-      "password": "14fFPrbezE3HDZzsMOr6",
-      "name": "🇨🇦 CA 2",
-      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%202",
-      "ip": "137.184.174.93",
+      "type": "vless",
+      "address": "u72li.pastilbastani.ir",
+      "port": "443",
+      "id": "65778b16-b285-43ba-b05f-70382a2d7e98",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://65778b16-b285-43ba-b05f-70382a2d7e98@u72li.pastilbastani.ir:443?encryption=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "38.128.251.191",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%202"
+      "rebuilt": "vless://65778b16-b285-43ba-b05f-70382a2d7e98@u72li.pastilbastani.ir:443?encryption=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
+    {
+      "type": "vless",
+      "address": "ar4nh.sannest.ir",
+      "port": "443",
+      "id": "26acab49-7cf6-489a-924d-7fae7b643f5a",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://26acab49-7cf6-489a-924d-7fae7b643f5a@ar4nh.sannest.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "ip": "38.128.251.191",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://26acab49-7cf6-489a-924d-7fae7b643f5a@ar4nh.sannest.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     }
   ]
 }
