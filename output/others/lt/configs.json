@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-13T02:06:41.079846",
-  "count": 2,
+  "updated": "2026-07-13T10:54:10.418158",
+  "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "89.116.250.135",
+      "port": "443",
+      "password": "MiTiVPN",
+      "name": "@meliproxyy",
+      "sni": "Win-Nll--l.App-Cloud.Ir",
+      "host": "Wihn-Nlkl--ol.App-Cloud.Ir",
+      "original": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "89.116.250.135",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+    },
     {
       "type": "vless",
       "address": "edge.shk-cloud.click",
@@ -16,11 +30,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@edge.shk-cloud.click:8443?security=reality&encryption=none&pbk=7NSy4JVDQprUBgggfklike6fHnHAU5jLsXYf4RxozHQ&headerType=none&fp=qq&spx=%2F4BzcuZCJVQ3rq3I&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d0e797354bda6499#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "original": "vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@edge.shk-cloud.click:8443?security=reality&encryption=none&pbk=7NSy4JVDQprUBgggfklike6fHnHAU5jLsXYf4RxozHQ&headerType=none&fp=qq&spx=%2F4BzcuZCJVQ3rq3I&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d0e797354bda6499#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%87%B1%F0%9F%87%B9-2",
       "ip": "45.81.252.181",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@edge.shk-cloud.click:8443?security=reality&encryption=none&pbk=7NSy4JVDQprUBgggfklike6fHnHAU5jLsXYf4RxozHQ&headerType=none&fp=qq&spx=%2F4BzcuZCJVQ3rq3I&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d0e797354bda6499#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+      "rebuilt": "vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@edge.shk-cloud.click:8443?security=reality&encryption=none&pbk=7NSy4JVDQprUBgggfklike6fHnHAU5jLsXYf4RxozHQ&headerType=none&fp=qq&spx=%2F4BzcuZCJVQ3rq3I&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d0e797354bda6499#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     },
     {
       "type": "vless",
@@ -36,11 +50,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-2",
-      "ip": "45.196.31.237",
+      "original": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-3",
+      "ip": "45.196.31.51",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-2"
+      "rebuilt": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-3"
     }
   ]
 }

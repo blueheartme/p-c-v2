@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-13T02:06:41.067958",
-  "count": 4,
+  "updated": "2026-07-13T10:54:10.419325",
+  "count": 6,
   "configs": [
+    {
+      "type": "vless",
+      "address": "168.138.166.89",
+      "port": "8899",
+      "id": "0c9839aa-c64f-4791-9137-420432605987",
+      "name": "🇸🇬 SG 2",
+      "network": "tcp",
+      "sni": "www.lovelive-anime.jp",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.lovelive-anime.jp&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&spx=%2f&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "168.138.166.89",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.lovelive-anime.jp&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&spx=%2f&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
     {
       "type": "tg",
       "address": "loot.irload-b.ir",
@@ -13,6 +33,51 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=loot.irload-b.ir&port=443&secret=ee79e344818749bd7ac519130220c25d097374617469632e666172616b61762e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "ir.irload-b.ir",
+      "port": "443",
+      "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=ir.irload-b.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
+      "ip": "5.223.57.233",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=ir.irload-b.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+    },
+    {
+      "type": "ss",
+      "address": "103.106.229.69",
+      "port": "9090",
+      "method": "aes-256-gcm",
+      "password": "Y6R9pAtvxxzmGC",
+      "name": "🇸🇬 SG 1",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#%f0%9f%87%b8%f0%9f%87%ac%20SG%201",
+      "ip": "103.106.229.69",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#%f0%9f%87%b8%f0%9f%87%ac%20SG%201"
+    },
+    {
+      "type": "vless",
+      "address": "43.174.247.53",
+      "port": "443",
+      "id": "0fc3eba4-2774-4c99-cfc7-c38b007908b0",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "sni.irandoc.info",
+      "host": "aron.irandoc.info",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?encryption=none&security=tls&sni=sni.irandoc.info&fp=chrome&allowinsecure=0&type=ws&host=aron.irandoc.info&path=%2F55072%2Fapi#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-5",
+      "ip": "43.174.247.53",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?encryption=none&security=tls&sni=sni.irandoc.info&fp=chrome&allowinsecure=0&type=ws&host=aron.irandoc.info&path=%2F55072%2Fapi#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-5"
     },
     {
       "type": "vless",
@@ -28,44 +93,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-6",
       "ip": "45.8.211.217",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "vless",
-      "address": "168.138.166.89",
-      "port": "8899",
-      "id": "0c9839aa-c64f-4791-9137-420432605987",
-      "name": "🇸🇬 SG 2",
-      "network": "tcp",
-      "sni": "www.lovelive-anime.jp",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.lovelive-anime.jp&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&spx=%2f&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "168.138.166.89",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.lovelive-anime.jp&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&spx=%2f&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-3"
-    },
-    {
-      "type": "ss",
-      "address": "103.106.229.69",
-      "port": "9090",
-      "method": "aes-256-gcm",
-      "password": "Y6R9pAtvxxzmGC",
-      "name": "🇸🇬 SG 1",
-      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#%f0%9f%87%b8%f0%9f%87%ac%20SG%201",
-      "ip": "103.106.229.69",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#%f0%9f%87%b8%f0%9f%87%ac%20SG%201"
+      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-6"
     }
   ]
 }
