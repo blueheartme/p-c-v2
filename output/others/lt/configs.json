@@ -1,18 +1,26 @@
 {
-  "updated": "2026-07-12T16:52:44.837382",
+  "updated": "2026-07-13T02:06:41.079846",
   "count": 2,
   "configs": [
     {
-      "type": "tg",
-      "address": "ocean.babysharkollah.co.uk",
+      "type": "vless",
+      "address": "edge.shk-cloud.click",
       "port": "8443",
-      "secret": "EERighJJvXrFGRMCIMJdCQ",
-      "name": "",
-      "original": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
-      "ip": "89.117.222.42",
+      "id": "03f4e625-e25e-4beb-93bd-8f275d3717e1",
+      "name": "4/@ConfingV2RaayNG",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@edge.shk-cloud.click:8443?security=reality&encryption=none&pbk=7NSy4JVDQprUBgggfklike6fHnHAU5jLsXYf4RxozHQ&headerType=none&fp=qq&spx=%2F4BzcuZCJVQ3rq3I&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d0e797354bda6499#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "45.81.252.181",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+      "rebuilt": "vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@edge.shk-cloud.click:8443?security=reality&encryption=none&pbk=7NSy4JVDQprUBgggfklike6fHnHAU5jLsXYf4RxozHQ&headerType=none&fp=qq&spx=%2F4BzcuZCJVQ3rq3I&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d0e797354bda6499#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%87%B1%F0%9F%87%B9-1"
     },
     {
       "type": "vless",
