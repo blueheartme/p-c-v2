@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-14T01:51:46.917369",
+  "updated": "2026-07-14T09:50:42.103436",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "161.34.39.108",
-      "port": "443",
-      "password": "tsuchiya",
-      "name": "🇯🇵 JP 5",
-      "sni": "aa.ccmusic.jp",
-      "host": "",
-      "original": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
-      "ip": "161.34.39.108",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
-    },
     {
       "type": "trojan",
       "address": "aa.ccmusic.jp",
@@ -24,11 +10,25 @@
       "name": "🇯🇵 JP 4",
       "sni": "",
       "host": "",
-      "original": "trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5",
+      "original": "trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
       "ip": "161.34.39.108",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5"
+      "rebuilt": "trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+    },
+    {
+      "type": "trojan",
+      "address": "161.34.39.108",
+      "port": "443",
+      "password": "tsuchiya",
+      "name": "🇯🇵 JP 5",
+      "sni": "aa.ccmusic.jp",
+      "host": "",
+      "original": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
+      "ip": "161.34.39.108",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
     }
   ]
 }

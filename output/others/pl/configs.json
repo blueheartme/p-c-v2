@@ -1,45 +1,7 @@
 {
-  "updated": "2026-07-14T01:51:46.890285",
+  "updated": "2026-07-14T09:50:42.069905",
   "count": 6,
   "configs": [
-    {
-      "type": "tg",
-      "address": "basic.here-funnycloud.co.uk",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=basic.here-funnycloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-      "ip": "87.248.144.40",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=basic.here-funnycloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-    },
-    {
-      "type": "trojan",
-      "address": "144.31.113.56",
-      "port": "58371",
-      "password": "e0847a89a1664221ad7dbfa85619afc3",
-      "name": "🇵🇱 PL 1",
-      "sni": "ymail.com",
-      "host": "",
-      "original": "trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#trojan-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "144.31.113.56",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#trojan-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
-    {
-      "type": "tg",
-      "address": "football.world-pro.co.uk",
-      "port": "25565",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=football.world-pro.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.248.144.11",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=football.world-pro.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
     {
       "type": "tg",
       "address": "whale.babysharkollah.co.uk",
@@ -54,15 +16,27 @@
     },
     {
       "type": "tg",
-      "address": "vagon.belotfelipo.co.uk",
+      "address": "basic.here-funnycloud.co.uk",
       "port": "443",
       "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=vagon.belotfelipo.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-      "ip": "87.248.144.33",
+      "original": "https://t.me/proxy?server=basic.here-funnycloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+      "ip": "87.248.144.40",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=vagon.belotfelipo.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+      "rebuilt": "https://t.me/proxy?server=basic.here-funnycloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "football.world-pro.co.uk",
+      "port": "25565",
+      "secret": "7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20",
+      "name": "",
+      "original": "https://t.me/proxy?server=football.world-pro.co.uk&port=25565&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20",
+      "ip": "87.248.144.11",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=football.world-pro.co.uk&port=25565&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20"
     },
     {
       "type": "tg",
@@ -75,6 +49,32 @@
       "country": "PL",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=ipv6.ssh-sec.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    },
+    {
+      "type": "trojan",
+      "address": "144.31.113.56",
+      "port": "58371",
+      "password": "e0847a89a1664221ad7dbfa85619afc3",
+      "name": "🇵🇱 PL 1",
+      "sni": "ymail.com",
+      "host": "",
+      "original": "trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#trojan-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "ip": "144.31.113.56",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#trojan-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+    },
+    {
+      "type": "tg",
+      "address": "vagon.belotfelipo.co.uk",
+      "port": "443",
+      "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=vagon.belotfelipo.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+      "ip": "87.248.144.33",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=vagon.belotfelipo.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
     }
   ]
 }
