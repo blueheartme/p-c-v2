@@ -1,19 +1,46 @@
 {
-  "updated": "2026-07-03T10:30:23.852966",
-  "count": 1,
+  "updated": "2026-07-14T17:07:41.600832",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "45.129.96.62",
-      "port": "41348",
-      "method": "chacha20-ietf-poly1305",
-      "password": "6U3psR0sQuQxWXoBHB4KTD3YacwQwS21XvSEy9",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#%40filembad",
-      "ip": "45.129.96.62",
+      "type": "vless",
+      "address": "185.155.97.58",
+      "port": "45176",
+      "id": "dc7940e0-6bff-45e3-853d-4007561803c3",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.googletagmanager.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%87%AA%F0%9F%87%AA-1",
+      "ip": "185.155.97.58",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#%40filembad"
+      "rebuilt": "vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.80.110.241",
+      "port": "2087",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "a.ssll.gay",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.241:2087?path=twitterfreecodessecurity&security=tls&encryption=none&type=ws&sni=a.ssll.gay#vless-ws-tls-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "ip": "45.80.110.241",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.241:2087?path=twitterfreecodessecurity&security=tls&encryption=none&type=ws&sni=a.ssll.gay#vless-ws-tls-EE%F0%9F%87%AA%F0%9F%87%AA-2"
     }
   ]
 }

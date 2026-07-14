@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T17:51:14.097432",
-  "count": 4,
+  "updated": "2026-07-14T17:07:41.596585",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -10,37 +10,17 @@
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "network": "ws",
       "sni": "kingcloud.biack.ir",
-      "host": "",
+      "host": "kingcloud.biack.ir",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "fingerprint": "chrome",
+      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=1&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "192.71.82.2",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "56a186a3d3464b11.sorcepack.ir",
-      "port": "56625",
-      "id": "d7955f3f-dfa3-45a0-a3ef-9693df439a0f",
-      "name": "biatoo@ConfingV2RaayNG",
-      "network": "grpc",
-      "sni": "icloud.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "ios",
-      "original": "vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@56a186a3d3464b11.sorcepack.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#vless-grpc-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "104.105.106.147",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@56a186a3d3464b11.sorcepack.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#vless-grpc-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=1&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
@@ -56,18 +36,18 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://5ae768bf-2ea0-22d2-eade-6763e14dc745@teain.org:1005?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=ios&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&allowinsecure=0&type=tcp&headerType=none#vless-tcp-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-3",
-      "ip": "90.225.32.199",
+      "original": "vless://5ae768bf-2ea0-22d2-eade-6763e14dc745@teain.org:1005?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=ios&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&allowinsecure=0&type=tcp&headerType=none#vless-tcp-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "81.227.26.243",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://5ae768bf-2ea0-22d2-eade-6763e14dc745@teain.org:1005?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=ios&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&allowinsecure=0&type=tcp&headerType=none#vless-tcp-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+      "rebuilt": "vless://5ae768bf-2ea0-22d2-eade-6763e14dc745@teain.org:1005?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=ios&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&allowinsecure=0&type=tcp&headerType=none#vless-tcp-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     },
     {
       "type": "vless",
-      "address": "32b1c1385e32bdfd.mbcloudy.ir",
+      "address": "744e4bd4c09c8c5d.mbcloudy.ir",
       "port": "56625",
-      "id": "3b4529e8-9c14-4541-8388-fe90d737baeb",
-      "name": "@filembad",
+      "id": "8c614873-8cab-40cc-a467-3bc187bc6e92",
+      "name": "@meliproxyy",
       "network": "grpc",
       "sni": "icloud.com",
       "host": "",
@@ -76,11 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "ios",
-      "original": "vless://3b4529e8-9c14-4541-8388-fe90d737baeb@32b1c1385e32bdfd.mbcloudy.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=2acdb7659ae9df84#vless-grpc-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "original": "vless://8c614873-8cab-40cc-a467-3bc187bc6e92@744e4bd4c09c8c5d.mbcloudy.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=db418071da7fcb7b&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#vless-grpc-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-3",
       "ip": "104.105.96.153",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://3b4529e8-9c14-4541-8388-fe90d737baeb@32b1c1385e32bdfd.mbcloudy.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=2acdb7659ae9df84#vless-grpc-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+      "rebuilt": "vless://8c614873-8cab-40cc-a467-3bc187bc6e92@744e4bd4c09c8c5d.mbcloudy.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=db418071da7fcb7b&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#vless-grpc-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }
