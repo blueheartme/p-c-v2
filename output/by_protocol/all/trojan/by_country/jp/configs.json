@@ -1,34 +1,20 @@
 {
-  "updated": "2026-07-15T01:48:53.815886",
-  "count": 6,
+  "updated": "2026-07-15T09:55:44.145695",
+  "count": 7,
   "configs": [
     {
       "type": "trojan",
-      "address": "kuame.missionsec.us",
-      "port": "443",
-      "password": "FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D",
-      "name": "Japan Klayer LLC",
-      "sni": "kuame.missionsec.us",
+      "address": "160.16.107.37",
+      "port": "3169",
+      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
+      "name": "Japan NTT Pc",
+      "sni": "www.nintendogames.net",
       "host": "",
-      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
-      "ip": "93.93.246.88",
+      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "ip": "160.16.107.37",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
-    },
-    {
-      "type": "trojan",
-      "address": "161.34.39.108",
-      "port": "443",
-      "password": "tsuchiya",
-      "name": "🇯🇵 JP 5",
-      "sni": "aa.ccmusic.jp",
-      "host": "",
-      "original": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
-      "ip": "161.34.39.108",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
     },
     {
       "type": "trojan",
@@ -38,25 +24,11 @@
       "name": "🇯🇵 JP 3",
       "sni": "busy-lab.rooster465.autos",
       "host": "",
-      "original": "trojan://PI36027154@busy-lab.rooster465.autos:443?sni=busy-lab.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "original": "trojan://PI36027154@busy-lab.rooster465.autos:443?sni=busy-lab.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
       "ip": "52.68.90.114",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://PI36027154@busy-lab.rooster465.autos:443?sni=busy-lab.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3"
-    },
-    {
-      "type": "trojan",
-      "address": "stirred-buck.rooster465.autos",
-      "port": "443",
-      "password": "PI36027154",
-      "name": "🇯🇵 JP 2",
-      "sni": "stirred-buck.rooster465.autos",
-      "host": "",
-      "original": "trojan://PI36027154@stirred-buck.rooster465.autos:443?sni=stirred-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4",
-      "ip": "43.207.192.70",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://PI36027154@stirred-buck.rooster465.autos:443?sni=stirred-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4"
+      "rebuilt": "trojan://PI36027154@busy-lab.rooster465.autos:443?sni=busy-lab.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
     },
     {
       "type": "trojan",
@@ -66,25 +38,67 @@
       "name": "🇯🇵 JP 1",
       "sni": "faithful-clam.rooster465.autos",
       "host": "",
-      "original": "trojan://PI36027154@faithful-clam.rooster465.autos:443?sni=faithful-clam.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-6",
+      "original": "trojan://PI36027154@faithful-clam.rooster465.autos:443?sni=faithful-clam.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3",
       "ip": "18.179.120.96",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://PI36027154@faithful-clam.rooster465.autos:443?sni=faithful-clam.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-6"
+      "rebuilt": "trojan://PI36027154@faithful-clam.rooster465.autos:443?sni=faithful-clam.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3"
     },
     {
       "type": "trojan",
-      "address": "160.16.107.37",
-      "port": "3169",
-      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
-      "name": "Japan NTT Pc",
-      "sni": "www.nintendogames.net",
+      "address": "exciting-grizzly.rooster465.autos",
+      "port": "443",
+      "password": "PI36027154",
+      "name": "🇯🇵 JP 4",
+      "sni": "exciting-grizzly.rooster465.autos",
       "host": "",
-      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-7",
-      "ip": "160.16.107.37",
+      "original": "trojan://PI36027154@exciting-grizzly.rooster465.autos:443?sni=exciting-grizzly.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4",
+      "ip": "52.194.192.245",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-7"
+      "rebuilt": "trojan://PI36027154@exciting-grizzly.rooster465.autos:443?sni=exciting-grizzly.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4"
+    },
+    {
+      "type": "trojan",
+      "address": "stirred-buck.rooster465.autos",
+      "port": "443",
+      "password": "PI36027154",
+      "name": "🇯🇵 JP 2",
+      "sni": "stirred-buck.rooster465.autos",
+      "host": "",
+      "original": "trojan://PI36027154@stirred-buck.rooster465.autos:443?sni=stirred-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5",
+      "ip": "43.207.192.70",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://PI36027154@stirred-buck.rooster465.autos:443?sni=stirred-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5"
+    },
+    {
+      "type": "trojan",
+      "address": "161.34.39.108",
+      "port": "443",
+      "password": "tsuchiya",
+      "name": "🇯🇵 JP 5",
+      "sni": "aa.ccmusic.jp",
+      "host": "",
+      "original": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-6",
+      "ip": "161.34.39.108",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-6"
+    },
+    {
+      "type": "trojan",
+      "address": "kuame.missionsec.us",
+      "port": "443",
+      "password": "FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D",
+      "name": "Japan Klayer LLC",
+      "sni": "kuame.missionsec.us",
+      "host": "",
+      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-9",
+      "ip": "93.93.246.88",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-9"
     }
   ]
 }

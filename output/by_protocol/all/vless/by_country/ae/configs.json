@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-15T01:48:53.843795",
-  "count": 1,
+  "updated": "2026-07-15T09:55:44.133403",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "94.140.0.138",
+      "port": "443",
+      "id": "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "cfed.tgzdyz2.top",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.138:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "94.140.0.138",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.138:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
     {
       "type": "vless",
       "address": "ae.cdn.stun.su",
@@ -17,7 +37,7 @@
       "headerType": "none",
       "fingerprint": "chrome",
       "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "38.180.26.28",
+      "ip": "176.97.78.3",
       "country": "AE",
       "cdn": null,
       "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
