@@ -1,21 +1,75 @@
 {
-  "updated": "2026-07-15T09:55:44.083189",
-  "count": 6,
+  "updated": "2026-07-15T17:10:51.009994",
+  "count": 8,
   "configs": [
     {
+      "type": "trojan",
+      "address": "jpbgp.netvigor.cc",
+      "port": "19128",
+      "password": "OccIqeORGQwiNkwS",
+      "name": "🇭🇰 HK 6",
+      "sni": "yazhou10.dynu.net",
+      "host": "",
+      "original": "trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "116.49.119.48",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "tg",
+      "address": "www.roto-best.info",
+      "port": "2083",
+      "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
+      "ip": "77.93.136.231",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d"
+    },
+    {
+      "type": "trojan",
+      "address": "119.246.1.143",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "🇭🇰 HK 5",
+      "sni": "t.me/ripaojiedian",
+      "host": "",
+      "original": "trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2fripaojiedian&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "119.246.1.143",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2fripaojiedian&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+    },
+    {
       "type": "vmess",
-      "address": "31.77.149.99",
+      "address": "31.77.149.131",
       "port": "110",
-      "id": "f0841ef6-a703-4248-9c69-efed21a38e65",
-      "name": "$Free 425 @Outline_Vpn",
+      "id": "5ed7206a-cd8d-4b02-add1-4f7b787178c9",
+      "name": "@filembad",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjA4NDFlZjYtYTcwMy00MjQ4LTljNjktZWZlZDIxYTM4ZTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
-      "ip": "31.77.149.99",
+      "original": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVlZDcyMDZhLWNkOGQtNGIwMi1hZGQxLTRmN2I3ODcxNzhjOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1IS/Cfh63wn4ewLTQiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "ip": "31.77.149.131",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjA4NDFlZjYtYTcwMy00MjQ4LTljNjktZWZlZDIxYTM4ZTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+      "rebuilt": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVlZDcyMDZhLWNkOGQtNGIwMi1hZGQxLTRmN2I3ODcxNzhjOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1IS/Cfh63wn4ewLTQiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+    },
+    {
+      "type": "trojan",
+      "address": "growing-oyster.rooster465.autos",
+      "port": "443",
+      "password": "XG59623478",
+      "name": "🇭🇰 HK 3",
+      "sni": "growing-oyster.rooster465.autos",
+      "host": "",
+      "original": "trojan://XG59623478@growing-oyster.rooster465.autos:443?sni=growing-oyster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5",
+      "ip": "194.99.79.214",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://XG59623478@growing-oyster.rooster465.autos:443?sni=growing-oyster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5"
     },
     {
       "type": "trojan",
@@ -25,37 +79,11 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
-      "type": "trojan",
-      "address": "119.246.1.143",
-      "port": "443",
-      "password": "BxceQaOe",
-      "name": "🇭🇰 HK 1",
-      "sni": "",
-      "host": "",
-      "original": "trojan://BxceQaOe@119.246.1.143:443?security=tls&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "119.246.1.143",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@119.246.1.143:443?security=tls&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
-    },
-    {
-      "type": "tg",
-      "address": "www.roto-best.info",
-      "port": "2083",
-      "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-      "ip": "77.93.136.232",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6"
     },
     {
       "type": "vmess",
@@ -66,25 +94,26 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk1OGY1OTQwLWRlM2QtNDQ2Ni1iYjMwLWI2MDU5OTNkYjI3ZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1IS/Cfh63wn4ewLTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "original": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk1OGY1OTQwLWRlM2QtNDQ2Ni1iYjMwLWI2MDU5OTNkYjI3ZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1IS/Cfh63wn4ewLTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
       "ip": "31.77.149.131",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk1OGY1OTQwLWRlM2QtNDQ2Ni1iYjMwLWI2MDU5OTNkYjI3ZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1IS/Cfh63wn4ewLTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+      "rebuilt": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk1OGY1OTQwLWRlM2QtNDQ2Ni1iYjMwLWI2MDU5OTNkYjI3ZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1IS/Cfh63wn4ewLTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
     },
     {
-      "type": "trojan",
-      "address": "growing-oyster.rooster465.autos",
-      "port": "443",
-      "password": "XG59623478",
-      "name": "🇭🇰 HK 4",
-      "sni": "growing-oyster.rooster465.autos",
+      "type": "vmess",
+      "address": "31.77.149.99",
+      "port": "110",
+      "id": "f0841ef6-a703-4248-9c69-efed21a38e65",
+      "name": "$Free 425 @Outline_Vpn",
+      "network": "tcp",
       "host": "",
-      "original": "trojan://XG59623478@growing-oyster.rooster465.autos:443?sni=growing-oyster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6",
-      "ip": "194.99.79.214",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjA4NDFlZjYtYTcwMy00MjQ4LTljNjktZWZlZDIxYTM4ZTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+      "ip": "31.77.149.99",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://XG59623478@growing-oyster.rooster465.autos:443?sni=growing-oyster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6"
+      "rebuilt": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjA4NDFlZjYtYTcwMy00MjQ4LTljNjktZWZlZDIxYTM4ZTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
     }
   ]
 }

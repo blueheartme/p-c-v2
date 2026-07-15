@@ -1,20 +1,48 @@
 {
-  "updated": "2026-07-08T10:11:36.003604",
-  "count": 1,
+  "updated": "2026-07-15T17:10:51.032068",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
-      "address": "38.60.220.65",
-      "port": "443",
-      "password": "t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak",
-      "name": "🇰🇷 KR 19",
-      "sni": "38.60.220.65",
+      "address": "kr04021338.tmdsb.org",
+      "port": "1864",
+      "password": "3632736327",
+      "name": "🇰🇷 KR 5",
+      "sni": "kr04021338.tmdsb.org",
       "host": "",
-      "original": "trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?sni=38.60.220.65&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "38.60.220.65",
+      "original": "trojan://3632736327@kr04021338.tmdsb.org:1864?sni=kr04021338.tmdsb.org&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2",
+      "ip": "43.131.241.175",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?sni=38.60.220.65&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+      "rebuilt": "trojan://3632736327@kr04021338.tmdsb.org:1864?sni=kr04021338.tmdsb.org&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+    },
+    {
+      "type": "trojan",
+      "address": "kr04212337.tmdsb.org",
+      "port": "1738",
+      "password": "3632736327",
+      "name": "🇰🇷 KR 1",
+      "sni": "kr04212337.tmdsb.org",
+      "host": "",
+      "original": "trojan://3632736327@kr04212337.tmdsb.org:1738?security=tls&sni=kr04212337.tmdsb.org&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-4",
+      "ip": "43.108.15.12",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "trojan://3632736327@kr04212337.tmdsb.org:1738?security=tls&sni=kr04212337.tmdsb.org&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-4"
+    },
+    {
+      "type": "trojan",
+      "address": "kr04212339.tmdsb.org",
+      "port": "2648",
+      "password": "3632736327",
+      "name": "🇰🇷 KR 2",
+      "sni": "kr04212339.tmdsb.org",
+      "host": "",
+      "original": "trojan://3632736327@kr04212339.tmdsb.org:2648?security=tls&sni=kr04212339.tmdsb.org&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-6",
+      "ip": "8.220.202.255",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "trojan://3632736327@kr04212339.tmdsb.org:2648?security=tls&sni=kr04212339.tmdsb.org&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-6"
     }
   ]
 }
