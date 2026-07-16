@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-15T17:10:51.034982",
+  "updated": "2026-07-16T01:59:21.961851",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "concise-buck.rooster465.autos",
-      "port": "443",
-      "password": "XG59623478",
-      "name": "🇦🇺 AU 3",
-      "sni": "concise-buck.rooster465.autos",
-      "host": "",
-      "original": "trojan://XG59623478@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "82.117.225.216",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "trojan://XG59623478@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
-    },
     {
       "type": "trojan",
       "address": "stirring-dane.rooster465.autos",
@@ -24,11 +10,25 @@
       "name": "🇦🇺 AU 4",
       "sni": "stirring-dane.rooster465.autos",
       "host": "",
-      "original": "trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "original": "trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
       "ip": "82.117.225.56",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+      "rebuilt": "trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
+    {
+      "type": "trojan",
+      "address": "concise-buck.rooster465.autos",
+      "port": "443",
+      "password": "XG59623478",
+      "name": "🇦🇺 AU 3",
+      "sni": "concise-buck.rooster465.autos",
+      "host": "",
+      "original": "trojan://XG59623478@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "82.117.225.216",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "trojan://XG59623478@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }

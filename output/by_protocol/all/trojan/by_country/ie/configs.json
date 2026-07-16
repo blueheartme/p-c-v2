@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T17:10:51.035797",
-  "count": 2,
+  "updated": "2026-07-16T01:59:21.963435",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
@@ -10,11 +10,11 @@
       "name": "🇮🇪 IE 6",
       "sni": "singular-lark.rooster465.autos",
       "host": "",
-      "original": "trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1",
+      "original": "trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2",
       "ip": "3.249.67.252",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1"
+      "rebuilt": "trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2"
     },
     {
       "type": "trojan",
@@ -29,6 +29,20 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-3"
+    },
+    {
+      "type": "trojan",
+      "address": "146.70.90.198",
+      "port": "57452",
+      "password": "t1k169n5zmvvwn96r9ft",
+      "name": "🇮🇪 IE 1",
+      "sni": "",
+      "host": "",
+      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-4",
+      "ip": "146.70.90.198",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-4"
     }
   ]
 }
