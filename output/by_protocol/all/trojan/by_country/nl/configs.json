@@ -1,34 +1,34 @@
 {
-  "updated": "2026-07-16T10:02:36.107379",
+  "updated": "2026-07-16T17:08:32.163965",
   "count": 2,
   "configs": [
     {
       "type": "trojan",
-      "address": "renewed-chigger.rooster465.autos",
+      "address": "89.39.70.233",
       "port": "443",
-      "password": "XG59623478",
-      "name": "🇳🇱 NL 3",
-      "sni": "",
+      "password": "KV63147582",
+      "name": "🇳🇱 NL 4",
+      "sni": "game-firefly.rooster465.autos",
       "host": "",
-      "original": "trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-43",
-      "ip": "193.169.239.76",
+      "original": "trojan://KV63147582@89.39.70.233:443?sni=game-firefly.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-24",
+      "ip": "89.39.70.233",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-43"
+      "rebuilt": "trojan://KV63147582@89.39.70.233:443?sni=game-firefly.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-24"
     },
     {
       "type": "trojan",
       "address": "game-firefly.rooster465.autos",
       "port": "443",
       "password": "KV63147582",
-      "name": "🇳🇱 NL 5",
+      "name": "🇳🇱 NL 3",
       "sni": "game-firefly.rooster465.autos",
       "host": "",
-      "original": "trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-57",
+      "original": "trojan://KV63147582@game-firefly.rooster465.autos:443?sni=game-firefly.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-61",
       "ip": "89.39.70.233",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-57"
+      "rebuilt": "trojan://KV63147582@game-firefly.rooster465.autos:443?sni=game-firefly.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-61"
     }
   ]
 }

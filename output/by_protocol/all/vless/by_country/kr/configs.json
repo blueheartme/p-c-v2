@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-16T10:02:36.079858",
-  "count": 2,
+  "updated": "2026-07-16T17:08:32.126267",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "47.80.60.254",
-      "port": "443",
-      "id": "eeb6823c-b926-4ea2-866a-5542edd26e59",
-      "name": "🇹🇷@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "ws",
-      "sni": "t1s1.rittbo.kdns.fr",
-      "host": "t1s1.rittbo.kdns.fr",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "47.80.60.254",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
-    },
     {
       "type": "vless",
       "address": "210.91.8.234",
@@ -41,6 +21,46 @@
       "country": "KR",
       "cdn": null,
       "rebuilt": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@210.91.8.234:30042?security=tls&sni=xd.ylks.xyz&type=ws&path=%2F#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-6"
+    },
+    {
+      "type": "vless",
+      "address": "47.80.60.254",
+      "port": "443",
+      "id": "eeb6823c-b926-4ea2-866a-5542edd26e59",
+      "name": "🇧🇷@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "ws",
+      "sni": "t1s1.rittbo.kdns.fr",
+      "host": "t1s1.rittbo.kdns.fr",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-9",
+      "ip": "47.80.60.254",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-9"
+    },
+    {
+      "type": "vless",
+      "address": "3.39.4.109",
+      "port": "13672",
+      "id": "814bd064-544d-4255-a070-5705c03f6da9",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#vless-xtls-rprx-vision-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-13",
+      "ip": "3.39.4.109",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#vless-xtls-rprx-vision-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-13"
     }
   ]
 }

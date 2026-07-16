@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-16T10:02:36.044550",
+  "updated": "2026-07-16T17:08:32.094468",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "45.82.14.144",
-      "port": "2025",
-      "password": "vpn",
-      "name": "🇰🇿 KZ 4",
-      "sni": "",
-      "host": "dns.google.com",
-      "original": "trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=%2f#trojan-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "45.82.14.144",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=%2f#trojan-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
-    },
     {
       "type": "vless",
       "address": "raff-vpn-kz-server1.ru",
@@ -30,11 +16,25 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-2",
+      "original": "vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
       "ip": "178.236.17.86",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-2"
+      "rebuilt": "vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+    },
+    {
+      "type": "trojan",
+      "address": "45.82.14.144",
+      "port": "2025",
+      "password": "vpn",
+      "name": "🇰🇿 KZ 1",
+      "sni": "",
+      "host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
+      "original": "trojan://vpn@45.82.14.144:2025?security=none&encryption=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-2",
+      "ip": "45.82.14.144",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "trojan://vpn@45.82.14.144:2025?security=none&encryption=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-2"
     }
   ]
 }
