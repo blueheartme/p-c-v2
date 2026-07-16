@@ -1,20 +1,7 @@
 {
-  "updated": "2026-07-16T01:59:21.896971",
-  "count": 2,
+  "updated": "2026-07-16T10:02:36.053025",
+  "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "137.184.174.93",
-      "port": "8080",
-      "method": "rc4-md5",
-      "password": "14fFPrbezE3HDZzsMOr6",
-      "name": "🇨🇦 CA 2",
-      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%202",
-      "ip": "137.184.174.93",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%202"
-    },
     {
       "type": "ss",
       "address": "149.22.95.183",
@@ -27,6 +14,39 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
+    },
+    {
+      "type": "vless",
+      "address": "3d5g2.pastilbastani.ir",
+      "port": "443",
+      "id": "a2026d00-e63e-46ed-b584-31dfcb34885b",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://a2026d00-e63e-46ed-b584-31dfcb34885b@3d5g2.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "ip": "38.128.251.191",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://a2026d00-e63e-46ed-b584-31dfcb34885b@3d5g2.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+    },
+    {
+      "type": "ss",
+      "address": "137.184.174.93",
+      "port": "8080",
+      "method": "rc4-md5",
+      "password": "14fFPrbezE3HDZzsMOr6",
+      "name": "🇨🇦 CA 2",
+      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%202",
+      "ip": "137.184.174.93",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%202"
     }
   ]
 }

@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-16T01:59:21.891414",
-  "count": 3,
+  "updated": "2026-07-16T10:02:36.026081",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "sp.foot8all.ir",
+      "port": "56625",
+      "id": "df0e61f6-dd51-49d6-bee7-6d5ff06ae44b",
+      "name": "@meliproxyy",
+      "network": "grpc",
+      "sni": "icloud.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "ios",
+      "original": "vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@sp.foot8all.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=d5e4b75249e38cbb&type=grpc#vless-grpc-reality-ios-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "208.85.19.22",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@sp.foot8all.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=d5e4b75249e38cbb&type=grpc#vless-grpc-reality-ios-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+    },
+    {
+      "type": "trojan",
+      "address": "sp.cloudv.qzz.io",
+      "port": "4433",
+      "password": "t1k5znTjT8",
+      "name": "🇩🇪 DE 42",
+      "sni": "",
+      "host": "sp.cloudv.qzz.io",
+      "original": "trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#trojan-ws-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "212.227.98.235",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#trojan-ws-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
     {
       "type": "ss",
       "address": "140.174.184.5",
@@ -16,38 +50,16 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%201"
     },
     {
-      "type": "vless",
-      "address": "spain.unixzone.us",
-      "port": "36326",
-      "id": "63ff4bfa-0f1d-48e4-8314-e882b14e602c",
-      "name": "$Free 404 @Outline_Vpn",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-2",
-      "ip": "217.76.158.214",
+      "type": "tg",
+      "address": "80.91.86.179",
+      "port": "4477",
+      "secret": "4a57065b49b983b1d91c3e4f5d9c7cfc",
+      "name": "",
+      "original": "https://t.me/proxy?server=80.91.86.179&port=4477&secret=4a57065b49b983b1d91c3e4f5d9c7cfc",
+      "ip": "80.91.86.179",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-2"
-    },
-    {
-      "type": "trojan",
-      "address": "sp.cloudv.qzz.io",
-      "port": "4433",
-      "password": "t1k5znTjT8",
-      "name": "🇩🇪 DE 42",
-      "sni": "",
-      "host": "sp.cloudv.qzz.io",
-      "original": "trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#trojan-ws-ES%F0%9F%87%AA%F0%9F%87%B8-3",
-      "ip": "212.227.98.235",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#trojan-ws-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+      "rebuilt": "https://t.me/proxy?server=80.91.86.179&port=4477&secret=4a57065b49b983b1d91c3e4f5d9c7cfc"
     }
   ]
 }

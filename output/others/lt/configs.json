@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-16T01:59:21.885264",
-  "count": 4,
+  "updated": "2026-07-16T10:02:36.047592",
+  "count": 5,
   "configs": [
+    {
+      "type": "tg",
+      "address": "ocean.babysharkollah.co.uk",
+      "port": "8443",
+      "secret": "EERighJJvXrFGRMCIMJdCQ",
+      "name": "",
+      "original": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "ip": "89.117.222.42",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    },
     {
       "type": "vless",
       "address": "cherry-lt-01.live",
@@ -16,37 +28,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "original": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-2",
       "ip": "45.196.31.237",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1"
-    },
-    {
-      "type": "trojan",
-      "address": "89.116.250.135",
-      "port": "443",
-      "password": "MiTiVPN",
-      "name": "3|@ConfingV2RaayNG",
-      "sni": "Win-Nll--l.App-Cloud.Ir",
-      "host": "Wihn-Nlkl--ol.App-Cloud.Ir",
-      "original": "trojan://MiTiVPN@89.116.250.135:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&host=Wihn-Nlkl--ol.App-Cloud.Ir&sni=Win-Nll--l.App-Cloud.Ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-2",
-      "ip": "89.116.250.135",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@89.116.250.135:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&host=Wihn-Nlkl--ol.App-Cloud.Ir&sni=Win-Nll--l.App-Cloud.Ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-2"
-    },
-    {
-      "type": "tg",
-      "address": "ocean.babysharkollah.co.uk",
-      "port": "8443",
-      "secret": "EERighJJvXrFGRMCIMJdCQ",
-      "name": "",
-      "original": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
-      "ip": "89.117.222.42",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+      "rebuilt": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     },
     {
       "type": "vless",
@@ -62,11 +48,45 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=statusdetector404.ru&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-4",
+      "original": "vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=statusdetector404.ru&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-3",
       "ip": "84.32.209.210",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=statusdetector404.ru&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-4"
+      "rebuilt": "vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=statusdetector404.ru&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-3"
+    },
+    {
+      "type": "vless",
+      "address": "lt.vrsvpn.com",
+      "port": "443",
+      "id": "0b9bcbc1-b289-4a64-86fa-a5b731b65384",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "web.max.ru",
+      "host": "v2rayNplus--v2rayNplus--v2rayNplus",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@lt.vrsvpn.com:443?security=reality&encryption=none&pbk=wcBiDeIWXUMKp2lkwYGnSOxHLVxS0IDEYeTGaEraUy8&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=15aa18f816ad1f81#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%87%B1%F0%9F%87%B9-4",
+      "ip": "45.81.252.80",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@lt.vrsvpn.com:443?security=reality&encryption=none&pbk=wcBiDeIWXUMKp2lkwYGnSOxHLVxS0IDEYeTGaEraUy8&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=15aa18f816ad1f81#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%87%B1%F0%9F%87%B9-4"
+    },
+    {
+      "type": "trojan",
+      "address": "89.116.250.135",
+      "port": "443",
+      "password": "MiTiVPN",
+      "name": "3|@ConfingV2RaayNG",
+      "sni": "Win-Nll--l.App-Cloud.Ir",
+      "host": "Wihn-Nlkl--ol.App-Cloud.Ir",
+      "original": "trojan://MiTiVPN@89.116.250.135:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&host=Wihn-Nlkl--ol.App-Cloud.Ir&sni=Win-Nll--l.App-Cloud.Ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-5",
+      "ip": "89.116.250.135",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "trojan://MiTiVPN@89.116.250.135:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&host=Wihn-Nlkl--ol.App-Cloud.Ir&sni=Win-Nll--l.App-Cloud.Ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-5"
     }
   ]
 }

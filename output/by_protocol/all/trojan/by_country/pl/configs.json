@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T01:59:21.956878",
+  "updated": "2026-07-16T10:02:36.112276",
   "count": 2,
   "configs": [
     {
@@ -10,25 +10,25 @@
       "name": "🇵🇱 PL 3",
       "sni": "upright-hamster.rooster465.autos",
       "host": "",
-      "original": "trojan://PI36027154@62.112.222.26:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "original": "trojan://PI36027154@62.112.222.26:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
       "ip": "62.112.222.26",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://PI36027154@62.112.222.26:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "trojan://PI36027154@62.112.222.26:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
       "type": "trojan",
-      "address": "144.31.113.56",
-      "port": "58371",
-      "password": "e0847a89a1664221ad7dbfa85619afc3",
-      "name": "🇵🇱 PL 4",
-      "sni": "ymail.com",
+      "address": "upright-hamster.rooster465.autos",
+      "port": "443",
+      "password": "PI36027154",
+      "name": "🇵🇱 PL 2",
+      "sni": "upright-hamster.rooster465.autos",
       "host": "",
-      "original": "trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#trojan-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-9",
-      "ip": "144.31.113.56",
+      "original": "trojan://PI36027154@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-14",
+      "ip": "62.112.222.26",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#trojan-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-9"
+      "rebuilt": "trojan://PI36027154@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-14"
     }
   ]
 }

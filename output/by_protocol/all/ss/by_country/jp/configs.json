@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T01:59:21.972862",
+  "updated": "2026-07-16T10:02:36.099148",
   "count": 3,
   "configs": [
     {
@@ -17,19 +17,6 @@
     },
     {
       "type": "ss",
-      "address": "149.22.87.204",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇯🇵 JP 1",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201",
-      "ip": "149.22.87.204",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201"
-    },
-    {
-      "type": "ss",
       "address": "149.22.87.240",
       "port": "443",
       "method": "aes-128-gcm",
@@ -40,6 +27,19 @@
       "country": "JP",
       "cdn": null,
       "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%203"
+    },
+    {
+      "type": "ss",
+      "address": "149.22.87.204",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇯🇵 JP 1",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201",
+      "ip": "149.22.87.204",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201"
     }
   ]
 }
