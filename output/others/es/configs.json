@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-17T02:03:02.706384",
-  "count": 2,
+  "updated": "2026-07-17T09:51:31.650204",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
       "address": "sp.foot8all.ir",
       "port": "56625",
       "id": "df0e61f6-dd51-49d6-bee7-6d5ff06ae44b",
-      "name": "@meliproxyy",
+      "name": "@filembad",
       "network": "grpc",
       "sni": "icloud.com",
       "host": "",
@@ -16,11 +16,24 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "ios",
-      "original": "vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@sp.foot8all.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=d5e4b75249e38cbb&type=grpc#vless-grpc-reality-ios-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "original": "vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@sp.foot8all.ir:56625?mode=gun&security=reality&encryption=none&authority=&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&serviceName=&sni=icloud.com&sid=d5e4b75249e38cbb#vless-grpc-reality-ios-ES%F0%9F%87%AA%F0%9F%87%B8-1",
       "ip": "208.85.19.22",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@sp.foot8all.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=d5e4b75249e38cbb&type=grpc#vless-grpc-reality-ios-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@sp.foot8all.ir:56625?mode=gun&security=reality&encryption=none&authority=&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&serviceName=&sni=icloud.com&sid=d5e4b75249e38cbb#vless-grpc-reality-ios-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+    },
+    {
+      "type": "ss",
+      "address": "80.91.86.179",
+      "port": "1070",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "5MnYSugw6Dp/r4HIhoRkoQI6jM3SwL9+i7GNRLxBWHo=:lEEhmaPyJCFJSc7IlF120c+toWUlQNtegmzSwS/L//s=",
+      "name": "@filembad",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU1uWVN1Z3c2RHAvcjRISWhvUmtvUUk2ak0zU3dMOStpN0dOUkx4QldIbz06bEVFaG1hUHlKQ0ZKU2M3SWxGMTIwYyt0b1dVbFFOdGVnbXpTd1MvTC8vcz0@80.91.86.179:1070#%40filembad",
+      "ip": "80.91.86.179",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU1uWVN1Z3c2RHAvcjRISWhvUmtvUUk2ak0zU3dMOStpN0dOUkx4QldIbz06bEVFaG1hUHlKQ0ZKU2M3SWxGMTIwYyt0b1dVbFFOdGVnbXpTd1MvTC8vcz0@80.91.86.179:1070#%40filembad"
     },
     {
       "type": "vless",
@@ -36,11 +49,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "original": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-3",
       "ip": "217.76.158.214",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+      "rebuilt": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-3"
     }
   ]
 }
