@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-22T13:30:19.150575",
+  "updated": "2026-07-17T02:03:02.806288",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "169.150.235.74",
-      "port": "8443",
-      "id": "394f6981-a782-4779-9a85-e6cf22935d93",
-      "name": "🇮🇱 IL 1",
+      "address": "64.176.168.53",
+      "port": "443",
+      "id": "a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "tlv-il.fromblancwithlove.com",
+      "sni": "www.sap.com",
       "host": "",
-      "security": "tls",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.235.74:8443?security=tls&encryption=none&sni=tlv-il.fromblancwithlove.com&type=tcp&headerType=none&path=%2f#vless-tcp-tls-IL%F0%9F%87%AE%F0%9F%87%B1-1",
-      "ip": "169.150.235.74",
+      "original": "vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@64.176.168.53:443?security=reality&encryption=none&pbk=Nk6QRe0SNNzTXTDnJLOBDm1yGVFBovm7vJ1lL-FGGWI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sap.com&sid=555fd87c44d272a4#vless-xtls-rprx-vision-tcp-reality-IL%F0%9F%87%AE%F0%9F%87%B1-1",
+      "ip": "64.176.168.53",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.235.74:8443?security=tls&encryption=none&sni=tlv-il.fromblancwithlove.com&type=tcp&headerType=none&path=%2f#vless-tcp-tls-IL%F0%9F%87%AE%F0%9F%87%B1-1"
+      "rebuilt": "vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@64.176.168.53:443?security=reality&encryption=none&pbk=Nk6QRe0SNNzTXTDnJLOBDm1yGVFBovm7vJ1lL-FGGWI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sap.com&sid=555fd87c44d272a4#vless-xtls-rprx-vision-tcp-reality-IL%F0%9F%87%AE%F0%9F%87%B1-1"
     }
   ]
 }

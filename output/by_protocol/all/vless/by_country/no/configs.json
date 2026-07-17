@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-27T09:59:48.719953",
+  "updated": "2026-07-17T02:03:02.806487",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "irancell.cloud-play.ir",
-      "port": "80",
-      "id": "903123fd-84fd-45d9-abc8-08c83d704224",
-      "name": "@meliproxyy",
-      "network": "xhttp",
-      "sni": "",
-      "host": "xenoengineer.com",
-      "security": "none",
-      "flow": "",
+      "address": "185.90.61.138",
+      "port": "443",
+      "id": "a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.intel.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://903123fd-84fd-45d9-abc8-08c83d704224@irancell.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#vless-xhttp-NO%F0%9F%87%B3%F0%9F%87%B4-1",
-      "ip": "104.156.82.3",
+      "original": "vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@185.90.61.138:443?security=reality&encryption=none&pbk=83Ql1vp4_lvutx22YSJW6ZBZxdMGVev5eDWM8-wB-gk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=f717aafc9dfcc96e#vless-xtls-rprx-vision-tcp-reality-NO%F0%9F%87%B3%F0%9F%87%B4-1",
+      "ip": "185.90.61.138",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "vless://903123fd-84fd-45d9-abc8-08c83d704224@irancell.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#vless-xhttp-NO%F0%9F%87%B3%F0%9F%87%B4-1"
+      "rebuilt": "vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@185.90.61.138:443?security=reality&encryption=none&pbk=83Ql1vp4_lvutx22YSJW6ZBZxdMGVev5eDWM8-wB-gk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=f717aafc9dfcc96e#vless-xtls-rprx-vision-tcp-reality-NO%F0%9F%87%B3%F0%9F%87%B4-1"
     }
   ]
 }

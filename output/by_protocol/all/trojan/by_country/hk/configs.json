@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-16T17:08:32.170261",
-  "count": 2,
+  "updated": "2026-07-17T02:03:02.814069",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
-      "address": "amused-peacock.rooster465.autos",
+      "address": "desired-tahr.rooster465.autos",
       "port": "443",
       "password": "KV63147582",
-      "name": "🇭🇰 HK 3",
-      "sni": "amused-peacock.rooster465.autos",
+      "name": "🇭🇰 HK 4",
+      "sni": "desired-tahr.rooster465.autos",
       "host": "",
-      "original": "trojan://KV63147582@amused-peacock.rooster465.autos:443?sni=amused-peacock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "194.99.79.13",
+      "original": "trojan://KV63147582@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "185.244.208.64",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://KV63147582@amused-peacock.rooster465.autos:443?sni=amused-peacock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "trojan://KV63147582@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "trojan",
@@ -29,6 +29,34 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@119.246.1.143:443?security=tls&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+    },
+    {
+      "type": "trojan",
+      "address": "amused-peacock.rooster465.autos",
+      "port": "443",
+      "password": "KV63147582",
+      "name": "🇭🇰 HK 3",
+      "sni": "amused-peacock.rooster465.autos",
+      "host": "",
+      "original": "trojan://KV63147582@amused-peacock.rooster465.autos:443?sni=amused-peacock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5",
+      "ip": "194.99.79.13",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://KV63147582@amused-peacock.rooster465.autos:443?sni=amused-peacock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5"
+    },
+    {
+      "type": "trojan",
+      "address": "219.79.214.159",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "Hong Kong Netvigator",
+      "sni": "t.me%2Fripaojiedian",
+      "host": "",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7",
+      "ip": "219.79.214.159",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7"
     }
   ]
 }

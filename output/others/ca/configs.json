@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T17:08:32.084002",
-  "count": 3,
+  "updated": "2026-07-17T02:03:02.689865",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
@@ -16,19 +16,6 @@
       "rebuilt": "ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA==@50.114.177.235:20111#%f0%9f%87%ba%f0%9f%87%b8%20US%2025"
     },
     {
-      "type": "ss",
-      "address": "149.22.95.183",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇨🇦 CA 1",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201",
-      "ip": "149.22.95.183",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
-    },
-    {
       "type": "vless",
       "address": "3d5g2.pastilbastani.ir",
       "port": "443",
@@ -42,11 +29,37 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://a2026d00-e63e-46ed-b584-31dfcb34885b@3d5g2.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "original": "vless://a2026d00-e63e-46ed-b584-31dfcb34885b@3d5g2.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "38.128.251.191",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://a2026d00-e63e-46ed-b584-31dfcb34885b@3d5g2.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+      "rebuilt": "vless://a2026d00-e63e-46ed-b584-31dfcb34885b@3d5g2.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+    },
+    {
+      "type": "ss",
+      "address": "185.196.61.82",
+      "port": "8080",
+      "method": "aes-256-gcm",
+      "password": "KixLvKzwjekG00rm",
+      "name": "🇨🇦 CA 2",
+      "original": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%202",
+      "ip": "185.196.61.82",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%202"
+    },
+    {
+      "type": "ss",
+      "address": "149.22.95.183",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇨🇦 CA 1",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201",
+      "ip": "149.22.95.183",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
     }
   ]
 }

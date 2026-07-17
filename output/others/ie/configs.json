@@ -1,20 +1,47 @@
 {
-  "updated": "2026-07-16T17:08:32.076965",
-  "count": 6,
+  "updated": "2026-07-17T02:03:02.698645",
+  "count": 8,
   "configs": [
     {
       "type": "trojan",
-      "address": "3.249.67.252",
-      "port": "443",
-      "password": "XG59623478",
-      "name": "Mi168 14 @Outline_Vpn",
-      "sni": "singular-lark.rooster465.autos",
+      "address": "146.70.90.198",
+      "port": "57452",
+      "password": "t1k169n5zmvvwn96r9ft",
+      "name": "🇮🇪 IE 3",
+      "sni": "146.70.90.198",
       "host": "",
-      "original": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1",
-      "ip": "3.249.67.252",
+      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1",
+      "ip": "146.70.90.198",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1"
+      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1"
+    },
+    {
+      "type": "trojan",
+      "address": "146.70.90.195",
+      "port": "57452",
+      "password": "t1k169n5zmvvwn96r9ft",
+      "name": "🇮🇪 IE 8",
+      "sni": "api-yandex.maps.ru",
+      "host": "",
+      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2",
+      "ip": "146.70.90.195",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2"
+    },
+    {
+      "type": "ss",
+      "address": "128.251.12.23",
+      "port": "443?",
+      "method": "chacha20-ietf-poly1305",
+      "password": "lghX3rcG7bqSQ8L6",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443?#%40filembad",
+      "ip": "128.251.12.23",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443?#%40filembad"
     },
     {
       "type": "ss",
@@ -28,20 +55,6 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Wmhyb1ZhMFVqUlNVbDA2@23.100.50.48:443#Channel@ConfingV2RaayNG"
-    },
-    {
-      "type": "trojan",
-      "address": "146.70.90.197",
-      "port": "57452",
-      "password": "t1k169n5zmvvwn96r9ft",
-      "name": "🇮🇪 IE 6",
-      "sni": "146.70.90.197",
-      "host": "",
-      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls&sni=146.70.90.197&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-3",
-      "ip": "146.70.90.197",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls&sni=146.70.90.197&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-3"
     },
     {
       "type": "ss",
@@ -58,31 +71,44 @@
     },
     {
       "type": "trojan",
-      "address": "146.70.90.195",
-      "port": "57452",
-      "password": "t1k169n5zmvvwn96r9ft",
-      "name": "🇮🇪 IE 8",
-      "sni": "api-yandex.maps.ru",
+      "address": "3.249.67.252",
+      "port": "443",
+      "password": "XG59623478",
+      "name": "Mi168 14 @Outline_Vpn",
+      "sni": "singular-lark.rooster465.autos",
       "host": "",
-      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-5",
-      "ip": "146.70.90.195",
+      "original": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-6",
+      "ip": "3.249.67.252",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-5"
+      "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-6"
+    },
+    {
+      "type": "ss",
+      "address": "84.247.48.78",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Vr06rU_v1vFPYeXq9zbsAA",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#%40filembad",
+      "ip": "84.247.48.78",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#%40filembad"
     },
     {
       "type": "trojan",
-      "address": "146.70.90.198",
+      "address": "146.70.90.197",
       "port": "57452",
       "password": "t1k169n5zmvvwn96r9ft",
-      "name": "🇮🇪 IE 3",
-      "sni": "146.70.90.198",
+      "name": "🇮🇪 IE 6",
+      "sni": "146.70.90.197",
       "host": "",
-      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-6",
-      "ip": "146.70.90.198",
+      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls&sni=146.70.90.197&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-8",
+      "ip": "146.70.90.197",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-6"
+      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls&sni=146.70.90.197&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-8"
     }
   ]
 }

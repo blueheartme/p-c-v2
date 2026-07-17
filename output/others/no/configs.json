@@ -1,19 +1,26 @@
 {
-  "updated": "2026-07-07T10:50:14.554366",
+  "updated": "2026-07-17T02:03:02.712332",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "185.213.23.63",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇳🇴 NO 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%f0%9f%87%b3%f0%9f%87%b4%20NO%201",
-      "ip": "185.213.23.63",
+      "type": "vless",
+      "address": "185.90.61.138",
+      "port": "443",
+      "id": "a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.intel.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@185.90.61.138:443?security=reality&encryption=none&pbk=83Ql1vp4_lvutx22YSJW6ZBZxdMGVev5eDWM8-wB-gk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=f717aafc9dfcc96e#vless-xtls-rprx-vision-tcp-reality-NO%F0%9F%87%B3%F0%9F%87%B4-1",
+      "ip": "185.90.61.138",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%f0%9f%87%b3%f0%9f%87%b4%20NO%201"
+      "rebuilt": "vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@185.90.61.138:443?security=reality&encryption=none&pbk=83Ql1vp4_lvutx22YSJW6ZBZxdMGVev5eDWM8-wB-gk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=f717aafc9dfcc96e#vless-xtls-rprx-vision-tcp-reality-NO%F0%9F%87%B3%F0%9F%87%B4-1"
     }
   ]
 }

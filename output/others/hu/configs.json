@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-16T17:08:32.079454",
-  "count": 9,
+  "updated": "2026-07-17T02:03:02.606056",
+  "count": 8,
   "configs": [
-    {
-      "type": "vless",
-      "address": "152.233.41.30",
-      "port": "16923",
-      "id": "c065e1bb-cb56-41e5-b043-9dfd15b67565",
-      "name": "@ConfingV2RaayNG",
-      "network": "grpc",
-      "sni": "api-maps.yandex.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%87%AD%F0%9F%87%BA-1",
-      "ip": "152.233.41.30",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%87%AD%F0%9F%87%BA-1"
-    },
     {
       "type": "tg",
       "address": "87.229.56.8",
@@ -36,6 +16,18 @@
     },
     {
       "type": "tg",
+      "address": "87.229.56.5",
+      "port": "443",
+      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=87.229.56.5&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "87.229.56.5",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=87.229.56.5&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    },
+    {
+      "type": "tg",
       "address": "87.229.56.6",
       "port": "443",
       "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
@@ -47,16 +39,36 @@
       "rebuilt": "https://t.me/proxy?server=87.229.56.6&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     },
     {
+      "type": "vless",
+      "address": "152.233.41.30",
+      "port": "16923",
+      "id": "c065e1bb-cb56-41e5-b043-9dfd15b67565",
+      "name": "@ConfingV2RaayNG",
+      "network": "grpc",
+      "sni": "api-maps.yandex.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%87%AD%F0%9F%87%BA-4",
+      "ip": "152.233.41.30",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%87%AD%F0%9F%87%BA-4"
+    },
+    {
       "type": "tg",
-      "address": "87.229.56.5",
+      "address": "87.229.56.20",
       "port": "443",
       "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.5&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.5",
+      "original": "https://t.me/proxy?server=87.229.56.20&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "87.229.56.20",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.5&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+      "rebuilt": "https://t.me/proxy?server=87.229.56.20&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     },
     {
       "type": "vless",
@@ -72,23 +84,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.99:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-5",
+      "original": "vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.99:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-6",
       "ip": "45.198.87.99",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.99:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-5"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.15",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.15&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.15",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.15&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+      "rebuilt": "vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.99:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-6"
     },
     {
       "type": "tg",
@@ -104,27 +104,15 @@
     },
     {
       "type": "tg",
-      "address": "87.229.56.7",
+      "address": "87.229.56.15",
       "port": "443",
       "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.7",
+      "original": "https://t.me/proxy?server=87.229.56.15&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "87.229.56.15",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.20",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.20&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.20",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.20&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+      "rebuilt": "https://t.me/proxy?server=87.229.56.15&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     }
   ]
 }
