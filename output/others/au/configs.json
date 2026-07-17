@@ -1,20 +1,76 @@
 {
-  "updated": "2026-07-17T09:51:31.680164",
-  "count": 1,
+  "updated": "2026-07-17T17:06:07.943776",
+  "count": 5,
   "configs": [
     {
       "type": "trojan",
       "address": "selected-bison.rooster465.autos",
       "port": "443",
-      "password": "KV63147582",
-      "name": "🇱🇺 LU 1",
+      "password": "OD90375861",
+      "name": "🇱🇺 LU 4",
       "sni": "selected-bison.rooster465.autos",
       "host": "",
-      "original": "trojan://KV63147582@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "original": "trojan://OD90375861@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
       "ip": "87.121.33.171",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "trojan://KV63147582@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "trojan://OD90375861@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
+    {
+      "type": "trojan",
+      "address": "82.117.225.123",
+      "port": "443",
+      "password": "OD90375861",
+      "name": "🇦🇺 AU 4",
+      "sni": "big-bonefish.rooster465.autos",
+      "host": "",
+      "original": "trojan://OD90375861@82.117.225.123:443?sni=big-bonefish.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "82.117.225.123",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "trojan://OD90375861@82.117.225.123:443?sni=big-bonefish.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+    },
+    {
+      "type": "trojan",
+      "address": "selected-bison.rooster465.autos",
+      "port": "443",
+      "password": "KV63147582",
+      "name": "🇱🇺 LU 3",
+      "sni": "selected-bison.rooster465.autos",
+      "host": "",
+      "original": "trojan://KV63147582@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3",
+      "ip": "87.121.33.171",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "trojan://KV63147582@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3"
+    },
+    {
+      "type": "trojan",
+      "address": "87.121.33.171",
+      "port": "443",
+      "password": "KV63147582",
+      "name": "🇱🇺 LU 5",
+      "sni": "selected-bison.rooster465.autos",
+      "host": "",
+      "original": "trojan://KV63147582@87.121.33.171:443?sni=selected-bison.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-4",
+      "ip": "87.121.33.171",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "trojan://KV63147582@87.121.33.171:443?sni=selected-bison.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-4"
+    },
+    {
+      "type": "trojan",
+      "address": "big-bonefish.rooster465.autos",
+      "port": "443",
+      "password": "OD90375861",
+      "name": "🇦🇺 AU 2",
+      "sni": "big-bonefish.rooster465.autos",
+      "host": "",
+      "original": "trojan://OD90375861@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-5",
+      "ip": "82.117.225.123",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "trojan://OD90375861@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-5"
     }
   ]
 }

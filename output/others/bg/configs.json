@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-17T09:51:31.676890",
-  "count": 1,
+  "updated": "2026-07-17T17:06:07.952038",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "temp.myextraordinary.ir",
+      "port": "8080",
+      "id": "a4ffb383-a334-4075-b7a9-c291e51f827a",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://a4ffb383-a334-4075-b7a9-c291e51f827a@temp.myextraordinary.ir:8080?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-BG%F0%9F%87%A7%F0%9F%87%AC-1",
+      "ip": "193.176.240.148",
+      "country": "BG",
+      "cdn": null,
+      "rebuilt": "vless://a4ffb383-a334-4075-b7a9-c291e51f827a@temp.myextraordinary.ir:8080?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-BG%F0%9F%87%A7%F0%9F%87%AC-1"
+    },
     {
       "type": "vless",
       "address": "server.xv98.ir",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-BG%F0%9F%87%A7%F0%9F%87%AC-1",
+      "original": "vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-BG%F0%9F%87%A7%F0%9F%87%AC-2",
       "ip": "185.246.131.170",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-BG%F0%9F%87%A7%F0%9F%87%AC-1"
+      "rebuilt": "vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-BG%F0%9F%87%A7%F0%9F%87%AC-2"
     }
   ]
 }

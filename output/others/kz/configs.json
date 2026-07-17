@@ -1,40 +1,32 @@
 {
-  "updated": "2026-07-17T09:51:31.679382",
+  "updated": "2026-07-17T17:06:07.947415",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "raff-vpn-kz-server1.ru",
-      "port": "443",
-      "id": "6fdfdb73-51b0-4a14-89a5-c9355a0e0397",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "google.com",
-      "host": "v2rayNplus--v2rayNplus--v2rayNplus",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "178.236.17.86",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
-    },
     {
       "type": "trojan",
       "address": "45.82.14.144",
       "port": "2025",
       "password": "vpn",
-      "name": "🇰🇿 KZ 2",
+      "name": "🇰🇿 KZ 1",
       "sni": "",
       "host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
-      "original": "trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-2",
+      "original": "trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
       "ip": "45.82.14.144",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-2"
+      "rebuilt": "trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+    },
+    {
+      "type": "tg",
+      "address": "blncwithlove.com",
+      "port": "443",
+      "secret": "ee9676ca2ce8626e43d65ab05b753c0757626c6e63776974686c6f76652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=blncwithlove.com&port=443&secret=ee9676ca2ce8626e43d65ab05b753c0757626c6e63776974686c6f76652e636f6d",
+      "ip": "185.102.75.219",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=blncwithlove.com&port=443&secret=ee9676ca2ce8626e43d65ab05b753c0757626c6e63776974686c6f76652e636f6d"
     }
   ]
 }

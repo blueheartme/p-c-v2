@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-13T10:54:10.452096",
+  "updated": "2026-07-17T17:06:07.975358",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "47.83.153.19",
-      "port": "59750",
-      "id": "9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b",
-      "name": "🇭🇰 HK 8",
-      "network": "tcp",
-      "sni": "www.amd.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "address": "27.50.49.20",
+      "port": "443",
+      "id": "7612dd26-d0ce-4fe0-be7c-d093bb8645da",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "cf11.evan00.dpdns.org",
+      "host": "cf11.evan00.dpdns.org",
+      "security": "tls",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "47.83.153.19",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@27.50.49.20:443?security=tls&sni=cf11.evan00.dpdns.org&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2&host=cf11.evan00.dpdns.org&encryption=none#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-10",
+      "ip": "27.50.49.20",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@27.50.49.20:443?security=tls&sni=cf11.evan00.dpdns.org&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2&host=cf11.evan00.dpdns.org&encryption=none#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-10"
     }
   ]
 }
