@@ -1,34 +1,20 @@
 {
-  "updated": "2026-07-18T01:52:09.137161",
-  "count": 2,
+  "updated": "2026-07-18T09:18:34.158470",
+  "count": 1,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "fa.duravexv.ir",
-      "port": "2080",
-      "password": "eq8kcbt0h8trcxxb",
-      "name": "digeh_direh",
-      "sni": "",
-      "host": "play.google.com",
-      "original": "trojan://eq8kcbt0h8trcxxb@fa.duravexv.ir:2080?host=play.google.com&path=%2F&security=none&type=ws#trojan-ws-FR%F0%9F%87%AB%F0%9F%87%B7-9",
-      "ip": "54.38.3.6",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "trojan://eq8kcbt0h8trcxxb@fa.duravexv.ir:2080?host=play.google.com&path=%2F&security=none&type=ws#trojan-ws-FR%F0%9F%87%AB%F0%9F%87%B7-9"
-    },
     {
       "type": "trojan",
       "address": "chief-cricket.rooster465.autos",
       "port": "443",
       "password": "NQ26071394",
-      "name": "🇫🇷 FR 1",
-      "sni": "",
+      "name": "🇫🇷 FR 2",
+      "sni": "chief-cricket.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@chief-cricket.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-22",
+      "original": "trojan://NQ26071394@chief-cricket.rooster465.autos:443?sni=chief-cricket.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-14",
       "ip": "15.237.250.154",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@chief-cricket.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-22"
+      "rebuilt": "trojan://NQ26071394@chief-cricket.rooster465.autos:443?sni=chief-cricket.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-14"
     }
   ]
 }

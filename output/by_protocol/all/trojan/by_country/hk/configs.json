@@ -1,34 +1,20 @@
 {
-  "updated": "2026-07-18T01:52:09.132925",
-  "count": 7,
+  "updated": "2026-07-18T09:18:34.163743",
+  "count": 9,
   "configs": [
     {
       "type": "trojan",
-      "address": "desired-tahr.rooster465.autos",
+      "address": "modest-foal.rooster465.autos",
       "port": "443",
       "password": "OD90375861",
-      "name": "🇭🇰 HK 11",
-      "sni": "desired-tahr.rooster465.autos",
+      "name": "🇩🇪 DE 72",
+      "sni": "modest-foal.rooster465.autos",
       "host": "",
-      "original": "trojan://OD90375861@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "185.244.208.64",
+      "original": "trojan://OD90375861@modest-foal.rooster465.autos:443?sni=modest-foal.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "185.14.47.230",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://OD90375861@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
-    {
-      "type": "trojan",
-      "address": "desired-tahr.rooster465.autos",
-      "port": "443",
-      "password": "KV63147582",
-      "name": "🇭🇰 HK 9",
-      "sni": "desired-tahr.rooster465.autos",
-      "host": "",
-      "original": "trojan://KV63147582@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "185.244.208.64",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://KV63147582@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "trojan://OD90375861@modest-foal.rooster465.autos:443?sni=modest-foal.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "trojan",
@@ -38,25 +24,39 @@
       "name": "🇭🇰 HK 8",
       "sni": "amused-peacock.rooster465.autos",
       "host": "",
-      "original": "trojan://KV63147582@amused-peacock.rooster465.autos:443?sni=amused-peacock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "original": "trojan://KV63147582@amused-peacock.rooster465.autos:443?sni=amused-peacock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
       "ip": "194.99.79.13",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://KV63147582@amused-peacock.rooster465.autos:443?sni=amused-peacock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "trojan://KV63147582@amused-peacock.rooster465.autos:443?sni=amused-peacock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     },
     {
       "type": "trojan",
-      "address": "119.246.1.143",
+      "address": "desired-tahr.rooster465.autos",
       "port": "443",
-      "password": "BxceQaOe",
-      "name": "🇭🇰 HK 1",
-      "sni": "",
+      "password": "KV63147582",
+      "name": "🇭🇰 HK 4",
+      "sni": "desired-tahr.rooster465.autos",
       "host": "",
-      "original": "trojan://BxceQaOe@119.246.1.143:443?security=tls&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
-      "ip": "119.246.1.143",
+      "original": "trojan://KV63147582@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "185.244.208.64",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@119.246.1.143:443?security=tls&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+      "rebuilt": "trojan://KV63147582@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+    },
+    {
+      "type": "trojan",
+      "address": "219.79.214.159",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "Hong Kong Netvigator",
+      "sni": "t.me%2Fripaojiedian",
+      "host": "",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5",
+      "ip": "219.79.214.159",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5"
     },
     {
       "type": "trojan",
@@ -66,11 +66,25 @@
       "name": "🇩🇪 DE 71",
       "sni": "electric-sturgeon.rooster465.autos",
       "host": "",
-      "original": "trojan://KV63147582@electric-sturgeon.rooster465.autos:443?security=tls&sni=electric-sturgeon.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5",
+      "original": "trojan://KV63147582@electric-sturgeon.rooster465.autos:443?security=tls&sni=electric-sturgeon.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6",
       "ip": "185.14.47.86",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://KV63147582@electric-sturgeon.rooster465.autos:443?security=tls&sni=electric-sturgeon.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5"
+      "rebuilt": "trojan://KV63147582@electric-sturgeon.rooster465.autos:443?security=tls&sni=electric-sturgeon.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6"
+    },
+    {
+      "type": "trojan",
+      "address": "119.246.1.143",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "🇭🇰 HK 2",
+      "sni": "t.me/ripaojiedian",
+      "host": "",
+      "original": "trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2fripaojiedian&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7",
+      "ip": "119.246.1.143",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2fripaojiedian&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7"
     },
     {
       "type": "trojan",
@@ -80,25 +94,39 @@
       "name": "🇭🇰 HK 5",
       "sni": "desired-tahr.rooster465.autos",
       "host": "",
-      "original": "trojan://KV63147582@185.244.208.64:443?sni=desired-tahr.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6",
+      "original": "trojan://KV63147582@185.244.208.64:443?sni=desired-tahr.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-9",
       "ip": "185.244.208.64",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://KV63147582@185.244.208.64:443?sni=desired-tahr.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6"
+      "rebuilt": "trojan://KV63147582@185.244.208.64:443?sni=desired-tahr.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-9"
     },
     {
       "type": "trojan",
-      "address": "194.99.79.13",
+      "address": "185.14.47.86",
       "port": "443",
       "password": "KV63147582",
-      "name": "🇭🇰 HK 6",
-      "sni": "amused-peacock.rooster465.autos",
+      "name": "🇩🇪 DE 74",
+      "sni": "electric-sturgeon.rooster465.autos",
       "host": "",
-      "original": "trojan://KV63147582@194.99.79.13:443?sni=amused-peacock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-9",
-      "ip": "194.99.79.13",
+      "original": "trojan://KV63147582@185.14.47.86:443?sni=electric-sturgeon.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-10",
+      "ip": "185.14.47.86",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://KV63147582@194.99.79.13:443?sni=amused-peacock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-9"
+      "rebuilt": "trojan://KV63147582@185.14.47.86:443?sni=electric-sturgeon.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-10"
+    },
+    {
+      "type": "trojan",
+      "address": "desired-tahr.rooster465.autos",
+      "port": "443",
+      "password": "OD90375861",
+      "name": "🇭🇰 HK 11",
+      "sni": "desired-tahr.rooster465.autos",
+      "host": "",
+      "original": "trojan://OD90375861@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-11",
+      "ip": "185.244.208.64",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://OD90375861@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-11"
     }
   ]
 }
