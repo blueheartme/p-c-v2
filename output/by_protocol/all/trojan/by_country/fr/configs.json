@@ -1,20 +1,34 @@
 {
-  "updated": "2026-07-18T09:18:34.158470",
-  "count": 1,
+  "updated": "2026-07-18T16:49:51.200148",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
       "address": "chief-cricket.rooster465.autos",
       "port": "443",
       "password": "NQ26071394",
-      "name": "🇫🇷 FR 2",
+      "name": "🇫🇷 FR 3",
       "sni": "chief-cricket.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@chief-cricket.rooster465.autos:443?sni=chief-cricket.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-14",
+      "original": "trojan://NQ26071394@chief-cricket.rooster465.autos:443?sni=chief-cricket.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-1",
       "ip": "15.237.250.154",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@chief-cricket.rooster465.autos:443?sni=chief-cricket.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-14"
+      "rebuilt": "trojan://NQ26071394@chief-cricket.rooster465.autos:443?sni=chief-cricket.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-1"
+    },
+    {
+      "type": "trojan",
+      "address": "15.237.250.154",
+      "port": "443",
+      "password": "NQ26071394",
+      "name": "🇫🇷 FR 4",
+      "sni": "chief-cricket.rooster465.autos",
+      "host": "",
+      "original": "trojan://NQ26071394@15.237.250.154:443?sni=chief-cricket.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-20",
+      "ip": "15.237.250.154",
+      "country": "FR",
+      "cdn": null,
+      "rebuilt": "trojan://NQ26071394@15.237.250.154:443?sni=chief-cricket.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-20"
     }
   ]
 }

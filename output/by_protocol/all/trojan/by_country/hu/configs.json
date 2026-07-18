@@ -1,20 +1,34 @@
 {
-  "updated": "2026-07-18T09:18:34.163273",
-  "count": 1,
+  "updated": "2026-07-18T16:49:51.201649",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "46.29.142.57",
+      "port": "4443",
+      "password": "C0ldyfh-vpnjantit.com",
+      "name": "🇭🇺 HU 4",
+      "sni": "hu2.vpnjantit.com",
+      "host": "",
+      "original": "trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HU%F0%9F%87%AD%F0%9F%87%BA-4",
+      "ip": "46.29.142.57",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HU%F0%9F%87%AD%F0%9F%87%BA-4"
+    },
     {
       "type": "trojan",
       "address": "hu2.vpnjantit.com",
       "port": "4443",
       "password": "C0ldyfh-vpnjantit.com",
-      "name": "🇭🇺 HU 1",
+      "name": "🇭🇺 HU 2",
       "sni": "hu2.vpnjantit.com",
       "host": "",
-      "original": "trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&sni=hu2.vpnjantit.com&fp=safari&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HU%F0%9F%87%AD%F0%9F%87%BA-3",
+      "original": "trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HU%F0%9F%87%AD%F0%9F%87%BA-8",
       "ip": "46.29.142.57",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&sni=hu2.vpnjantit.com&fp=safari&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HU%F0%9F%87%AD%F0%9F%87%BA-3"
+      "rebuilt": "trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HU%F0%9F%87%AD%F0%9F%87%BA-8"
     }
   ]
 }
