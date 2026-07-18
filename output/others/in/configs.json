@@ -1,19 +1,30 @@
 {
-  "updated": "2026-07-17T09:51:31.676095",
-  "count": 1,
+  "updated": "2026-07-18T01:52:09.108575",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "172.105.39.124",
-      "port": "7002",
-      "method": "aes-256-gcm",
-      "password": "RexnBgU7EV5ADxG",
-      "name": "🇮🇳 IN 1",
-      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%f0%9f%87%ae%f0%9f%87%b3%20IN%201",
-      "ip": "172.105.39.124",
+      "type": "tg",
+      "address": "103.165.10.211",
+      "port": "5222",
+      "secret": "928e11dfe95bcc9f82c857a8d07f837d",
+      "name": "",
+      "original": "https://t.me/proxy?server=103.165.10.211&port=5222&secret=928e11dfe95bcc9f82c857a8d07f837d",
+      "ip": "103.165.10.211",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%f0%9f%87%ae%f0%9f%87%b3%20IN%201"
+      "rebuilt": "https://t.me/proxy?server=103.165.10.211&port=5222&secret=928e11dfe95bcc9f82c857a8d07f837d"
+    },
+    {
+      "type": "tg",
+      "address": "103.84.165.5",
+      "port": "5222",
+      "secret": "00000000000000000000000000000000",
+      "name": "",
+      "original": "https://t.me/proxy?server=103.84.165.5&port=5222&secret=00000000000000000000000000000000",
+      "ip": "103.84.165.5",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=103.84.165.5&port=5222&secret=00000000000000000000000000000000"
     }
   ]
 }

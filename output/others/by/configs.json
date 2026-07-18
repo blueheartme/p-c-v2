@@ -1,26 +1,18 @@
 {
-  "updated": "2026-07-17T09:51:31.677692",
+  "updated": "2026-07-18T01:52:09.115109",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "87.252.237.219",
-      "port": "8443",
-      "id": "c50680f6-8dc9-44cc-a8fe-72cab1f7f51b",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "tradingview.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://c50680f6-8dc9-44cc-a8fe-72cab1f7f51b@87.252.237.219:8443?security=reality&encryption=none&pbk=VE6aUAkSRew5ySZw80myEtL1LOWwDo7BuYyuIKaYPUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#vless-xtls-rprx-vision-tcp-reality-firefox-BY%F0%9F%87%A7%F0%9F%87%BE-1",
-      "ip": "87.252.237.219",
+      "type": "tg",
+      "address": "185.179.83.26",
+      "port": "443",
+      "secret": "ddc844fd5dfe798923b22352ae03c00338",
+      "name": "",
+      "original": "https://t.me/proxy?server=185.179.83.26&port=443&secret=ddc844fd5dfe798923b22352ae03c00338&@MPT_Proxy",
+      "ip": "185.179.83.26",
       "country": "BY",
       "cdn": null,
-      "rebuilt": "vless://c50680f6-8dc9-44cc-a8fe-72cab1f7f51b@87.252.237.219:8443?security=reality&encryption=none&pbk=VE6aUAkSRew5ySZw80myEtL1LOWwDo7BuYyuIKaYPUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#vless-xtls-rprx-vision-tcp-reality-firefox-BY%F0%9F%87%A7%F0%9F%87%BE-1"
+      "rebuilt": "https://t.me/proxy?server=185.179.83.26&port=443&secret=ddc844fd5dfe798923b22352ae03c00338&@MPT_Proxy"
     }
   ]
 }

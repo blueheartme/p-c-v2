@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-17T17:06:08.000499",
+  "updated": "2026-07-18T01:52:09.132423",
   "count": 4,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "renewed-phoenix.rooster465.autos",
+      "port": "443",
+      "password": "NQ26071394",
+      "name": "🇳🇱 NL 1",
+      "sni": "renewed-phoenix.rooster465.autos",
+      "host": "",
+      "original": "trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?sni=renewed-phoenix.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-14",
+      "ip": "79.133.126.190",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?sni=renewed-phoenix.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-14"
+    },
     {
       "type": "trojan",
       "address": "grateful-bedbug.rooster465.autos",
@@ -10,25 +24,11 @@
       "name": "🇳🇱 NL 5",
       "sni": "grateful-bedbug.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?sni=grateful-bedbug.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-38",
+      "original": "trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?sni=grateful-bedbug.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-33",
       "ip": "89.39.70.85",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?sni=grateful-bedbug.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-38"
-    },
-    {
-      "type": "trojan",
-      "address": "89.39.70.233",
-      "port": "443",
-      "password": "KV63147582",
-      "name": "🇳🇱 NL 8",
-      "sni": "game-firefly.rooster465.autos",
-      "host": "",
-      "original": "trojan://KV63147582@89.39.70.233:443?security=tls&sni=game-firefly.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-50",
-      "ip": "89.39.70.233",
-      "country": "NL",
-      "cdn": null,
-      "rebuilt": "trojan://KV63147582@89.39.70.233:443?security=tls&sni=game-firefly.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-50"
+      "rebuilt": "trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?sni=grateful-bedbug.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-33"
     },
     {
       "type": "trojan",
@@ -38,25 +38,25 @@
       "name": "🇳🇱 NL 6",
       "sni": "game-firefly.rooster465.autos",
       "host": "",
-      "original": "trojan://KV63147582@game-firefly.rooster465.autos:443?sni=game-firefly.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-56",
+      "original": "trojan://KV63147582@game-firefly.rooster465.autos:443?sni=game-firefly.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-38",
       "ip": "89.39.70.233",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://KV63147582@game-firefly.rooster465.autos:443?sni=game-firefly.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-56"
+      "rebuilt": "trojan://KV63147582@game-firefly.rooster465.autos:443?sni=game-firefly.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-38"
     },
     {
       "type": "trojan",
-      "address": "renewed-phoenix.rooster465.autos",
+      "address": "89.39.70.233",
       "port": "443",
-      "password": "NQ26071394",
-      "name": "🇳🇱 NL 1",
-      "sni": "renewed-phoenix.rooster465.autos",
+      "password": "KV63147582",
+      "name": "🇳🇱 NL 7",
+      "sni": "game-firefly.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?sni=renewed-phoenix.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-61",
-      "ip": "79.133.126.190",
+      "original": "trojan://KV63147582@89.39.70.233:443?sni=game-firefly.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-42",
+      "ip": "89.39.70.233",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?sni=renewed-phoenix.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-61"
+      "rebuilt": "trojan://KV63147582@89.39.70.233:443?sni=game-firefly.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-42"
     }
   ]
 }

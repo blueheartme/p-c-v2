@@ -1,18 +1,30 @@
 {
-  "updated": "2026-06-30T10:52:02.481655",
-  "count": 1,
+  "updated": "2026-07-18T01:52:09.160546",
+  "count": 2,
   "configs": [
     {
       "type": "tg",
-      "address": "31.57.208.19",
-      "port": "7443",
-      "secret": "dd1603010200010001fc030386e24c3add",
+      "address": "103.165.10.211",
+      "port": "5222",
+      "secret": "928e11dfe95bcc9f82c857a8d07f837d",
       "name": "",
-      "original": "https://t.me/proxy?server=31.57.208.19&port=7443&secret=dd1603010200010001fc030386e24c3add",
-      "ip": "31.57.208.19",
+      "original": "https://t.me/proxy?server=103.165.10.211&port=5222&secret=928e11dfe95bcc9f82c857a8d07f837d",
+      "ip": "103.165.10.211",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=31.57.208.19&port=7443&secret=dd1603010200010001fc030386e24c3add"
+      "rebuilt": "https://t.me/proxy?server=103.165.10.211&port=5222&secret=928e11dfe95bcc9f82c857a8d07f837d"
+    },
+    {
+      "type": "tg",
+      "address": "103.84.165.5",
+      "port": "5222",
+      "secret": "00000000000000000000000000000000",
+      "name": "",
+      "original": "https://t.me/proxy?server=103.84.165.5&port=5222&secret=00000000000000000000000000000000",
+      "ip": "103.84.165.5",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=103.84.165.5&port=5222&secret=00000000000000000000000000000000"
     }
   ]
 }

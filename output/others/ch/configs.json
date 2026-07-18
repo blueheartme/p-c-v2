@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T17:06:07.953748",
+  "updated": "2026-07-18T01:52:09.109355",
   "count": 3,
   "configs": [
     {
@@ -17,20 +17,6 @@
       "rebuilt": "trojan://7f5rouvmiqm83905@188.213.131.90:59618?type=tcp&security=reality&headerType=none&sni=google.com&fp=firefox&insecure=1&allowInsecure=1&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&sid=e3916e0f2c8b438b&spx=%2F#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
-      "type": "trojan",
-      "address": "179.237.75.28",
-      "port": "61235",
-      "password": "FdmECD7RGw",
-      "name": "@meliproxyy",
-      "sni": "yahoo.com",
-      "host": "yahoo.com",
-      "original": "trojan://FdmECD7RGw@179.237.75.28:61235?security=reality&sni=yahoo.com&fp=firefox&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&spx=%2F&type=tcp&headerType=http&host=yahoo.com#trojan-tcp-http-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "179.237.75.28",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://FdmECD7RGw@179.237.75.28:61235?security=reality&sni=yahoo.com&fp=firefox&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&spx=%2F&type=tcp&headerType=http&host=yahoo.com#trojan-tcp-http-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
       "type": "vless",
       "address": "45.197.134.56",
       "port": "8443",
@@ -44,11 +30,23 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "45.197.134.56",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "tg",
+      "address": "Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.",
+      "port": "4443",
+      "secret": "EERighJJvXrFGRMCIMjdCQ",
+      "name": "",
+      "original": "https://t.me/proxy?server=Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.&port=4443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "ip": "83.228.229.224",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
     }
   ]
 }
