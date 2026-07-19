@@ -1,18 +1,26 @@
 {
-  "updated": "2026-07-18T09:18:34.138335",
+  "updated": "2026-07-19T02:02:27.616060",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "185.179.83.26",
-      "port": "443",
-      "secret": "ddc844fd5dfe798923b22352ae03c00338",
-      "name": "",
-      "original": "https://t.me/proxy?server=185.179.83.26&port=443&secret=ddc844fd5dfe798923b22352ae03c00338&@MPT_Proxy",
-      "ip": "185.179.83.26",
+      "type": "vless",
+      "address": "87.252.237.219",
+      "port": "8443",
+      "id": "c50680f6-8dc9-44cc-a8fe-72cab1f7f51b",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "tradingview.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://c50680f6-8dc9-44cc-a8fe-72cab1f7f51b@87.252.237.219:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=tradingview.com&fp=firefox&pbk=VE6aUAkSRew5ySZw80myEtL1LOWwDo7BuYyuIKaYPUI&allowinsecure=0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-BY%F0%9F%87%A7%F0%9F%87%BE-1",
+      "ip": "87.252.237.219",
       "country": "BY",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=185.179.83.26&port=443&secret=ddc844fd5dfe798923b22352ae03c00338&@MPT_Proxy"
+      "rebuilt": "vless://c50680f6-8dc9-44cc-a8fe-72cab1f7f51b@87.252.237.219:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=tradingview.com&fp=firefox&pbk=VE6aUAkSRew5ySZw80myEtL1LOWwDo7BuYyuIKaYPUI&allowinsecure=0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-BY%F0%9F%87%A7%F0%9F%87%BE-1"
     }
   ]
 }

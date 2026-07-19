@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-18T16:49:51.201169",
-  "count": 2,
+  "updated": "2026-07-19T02:02:27.644272",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
-      "address": "62.112.222.177",
-      "port": "443",
-      "password": "NQ26071394",
-      "name": "🇵🇱 PL 2",
-      "sni": "kind-unicorn.rooster465.autos",
+      "address": "144.31.113.56",
+      "port": "58371",
+      "password": "e0847a89a1664221ad7dbfa85619afc3",
+      "name": "🇵🇱 PL 1",
+      "sni": "ymail.com",
       "host": "",
-      "original": "trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "62.112.222.177",
+      "original": "trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#trojan-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "144.31.113.56",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#trojan-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     },
     {
       "type": "trojan",
@@ -29,6 +29,20 @@
       "country": "PL",
       "cdn": null,
       "rebuilt": "trojan://NQ26071394@62.112.222.12:443?sni=ready-lion.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6"
+    },
+    {
+      "type": "trojan",
+      "address": "62.112.222.177",
+      "port": "443",
+      "password": "NQ26071394",
+      "name": "🇵🇱 PL 2",
+      "sni": "kind-unicorn.rooster465.autos",
+      "host": "",
+      "original": "trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7",
+      "ip": "62.112.222.177",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7"
     }
   ]
 }
