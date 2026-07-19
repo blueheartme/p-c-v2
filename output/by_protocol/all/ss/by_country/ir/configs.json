@@ -1,19 +1,36 @@
 {
-  "updated": "2026-07-17T02:03:02.913707",
-  "count": 1,
+  "updated": "2026-07-19T09:47:20.085761",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "silver.diginetv.online",
-      "port": "2052?",
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "S5RCI6gJ6SUOcdnNpcEgR1UVzid+8O8/+DceUSHDnFs=:iffgdPSR8g75t49n3xCb9+OG2WGJTjUhohpPoHNT598=",
+      "address": "91.186.193.39",
+      "port": "16156",
+      "method": "chacha20-ietf-poly1305",
+      "password": "1wVcW5UutyV31NX1xz3Ix8gCxIh/ssrTzQOd5w1Ozhs=",
       "name": "@filembad",
-      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UzVSQ0k2Z0o2U1VPY2RuTnBjRWdSMVVWemlkKzhPOC8rRGNlVVNIRG5Gcz06aWZmZ2RQU1I4Zzc1dDQ5bjN4Q2I5K09HMldHSlRqVWhvaHBQb0hOVDU5OD0@silver.diginetv.online:2052?#%40filembad",
-      "ip": "94.101.184.47",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd1ZjVzVVdXR5VjMxTlgxeHozSXg4Z0N4SWgvc3NyVHpRT2Q1dzFPemhzPQ@91.186.193.39:16156#%40filembad",
+      "ip": "91.186.193.39",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UzVSQ0k2Z0o2U1VPY2RuTnBjRWdSMVVWemlkKzhPOC8rRGNlVVNIRG5Gcz06aWZmZ2RQU1I4Zzc1dDQ5bjN4Q2I5K09HMldHSlRqVWhvaHBQb0hOVDU5OD0@silver.diginetv.online:2052?#%40filembad"
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd1ZjVzVVdXR5VjMxTlgxeHozSXg4Z0N4SWgvc3NyVHpRT2Q1dzFPemhzPQ@91.186.193.39:16156#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "e4.cover20.ir",
+      "port": "16156",
+      "method": "chacha20-ietf-poly1305",
+      "password": "1wVcW5UutyV31NX1xz3Ix8gCxIh/ssrTzQOd5w1Ozhs=",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd1ZjVzVVdXR5VjMxTlgxeHozSXg4Z0N4SWgvc3NyVHpRT2Q1dzFPemhzPQ@e4.cover20.ir:16156#%40filembad",
+      "ip": "91.186.193.39",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd1ZjVzVVdXR5VjMxTlgxeHozSXg4Z0N4SWgvc3NyVHpRT2Q1dzFPemhzPQ@e4.cover20.ir:16156#%40filembad"
     }
   ]
 }

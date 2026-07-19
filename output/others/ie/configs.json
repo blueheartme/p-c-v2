@@ -1,34 +1,48 @@
 {
-  "updated": "2026-07-19T02:02:27.596801",
+  "updated": "2026-07-19T09:47:19.987923",
   "count": 11,
   "configs": [
     {
       "type": "trojan",
-      "address": "funky-opossum.rooster465.autos",
+      "address": "correct-starfish.rooster465.autos",
       "port": "443",
       "password": "NQ26071394",
-      "name": "🇮🇪 IE 2",
-      "sni": "funky-opossum.rooster465.autos",
+      "name": "🇮🇪 IE 12",
+      "sni": "correct-starfish.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1",
-      "ip": "108.131.117.154",
+      "original": "trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1",
+      "ip": "34.249.41.208",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1"
+      "rebuilt": "trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1"
     },
     {
       "type": "trojan",
       "address": "singular-lark.rooster465.autos",
       "port": "443",
       "password": "XG59623478",
-      "name": "🇮🇪 IE 27",
+      "name": "🇮🇪 IE 29",
       "sni": "singular-lark.rooster465.autos",
       "host": "",
-      "original": "trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2",
+      "original": "trojan://XG59623478@singular-lark.rooster465.autos:443?sni=singular-lark.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2",
       "ip": "3.249.67.252",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2"
+      "rebuilt": "trojan://XG59623478@singular-lark.rooster465.autos:443?sni=singular-lark.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2"
+    },
+    {
+      "type": "trojan",
+      "address": "funky-opossum.rooster465.autos",
+      "port": "443",
+      "password": "NQ26071394",
+      "name": "🇮🇪 IE 4",
+      "sni": "funky-opossum.rooster465.autos",
+      "host": "",
+      "original": "trojan://NQ26071394@funky-opossum.rooster465.autos:443?sni=funky-opossum.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-3",
+      "ip": "108.131.117.154",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://NQ26071394@funky-opossum.rooster465.autos:443?sni=funky-opossum.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-3"
     },
     {
       "type": "trojan",
@@ -38,66 +52,67 @@
       "name": "🇮🇪 IE 13",
       "sni": "fun-labrador.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@34.242.69.173:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-3",
+      "original": "trojan://NQ26071394@34.242.69.173:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-4",
       "ip": "34.242.69.173",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@34.242.69.173:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-3"
-    },
-    {
-      "type": "ss",
-      "address": "23.100.50.48",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "6ZhroVa0UjRSUl06",
-      "name": "Channel@ConfingV2RaayNG",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Wmhyb1ZhMFVqUlNVbDA2@23.100.50.48:443#Channel@ConfingV2RaayNG",
-      "ip": "23.100.50.48",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Wmhyb1ZhMFVqUlNVbDA2@23.100.50.48:443#Channel@ConfingV2RaayNG"
+      "rebuilt": "trojan://NQ26071394@34.242.69.173:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-4"
     },
     {
       "type": "trojan",
-      "address": "146.70.90.195",
-      "port": "57452",
-      "password": "t1k169n5zmvvwn96r9ft",
-      "name": "🇮🇪 IE 3",
-      "sni": "api-yandex.maps.ru",
-      "host": "",
-      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-5",
-      "ip": "146.70.90.195",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-5"
-    },
-    {
-      "type": "trojan",
-      "address": "3.249.67.252",
+      "address": "fun-labrador.rooster465.autos",
       "port": "443",
-      "password": "XG59623478",
-      "name": "Mi168 14 @Outline_Vpn",
-      "sni": "singular-lark.rooster465.autos",
+      "password": "NQ26071394",
+      "name": "🇮🇪 IE 5",
+      "sni": "fun-labrador.rooster465.autos",
       "host": "",
-      "original": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-6",
-      "ip": "3.249.67.252",
+      "original": "trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-5",
+      "ip": "34.242.69.173",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-6"
+      "rebuilt": "trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-5"
     },
     {
       "type": "trojan",
       "address": "146.70.90.198",
       "port": "57452",
       "password": "t1k169n5zmvvwn96r9ft",
-      "name": "🇮🇪 IE 17",
-      "sni": "",
+      "name": "🇮🇪 IE 19",
+      "sni": "146.70.90.198",
       "host": "",
-      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-7",
+      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-6",
       "ip": "146.70.90.198",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-7"
+      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-6"
+    },
+    {
+      "type": "trojan",
+      "address": "146.70.90.195",
+      "port": "57452",
+      "password": "t1k169n5zmvvwn96r9ft",
+      "name": "🇮🇪 IE 20",
+      "sni": "api-yandex.maps.ru",
+      "host": "",
+      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-7",
+      "ip": "146.70.90.195",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-7"
+    },
+    {
+      "type": "trojan",
+      "address": "3.255.100.31",
+      "port": "443",
+      "password": "NQ26071394",
+      "name": "🇮🇪 IE 22",
+      "sni": "thankful-piranha.rooster465.autos",
+      "host": "",
+      "original": "trojan://NQ26071394@3.255.100.31:443?sni=thankful-piranha.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-8",
+      "ip": "3.255.100.31",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://NQ26071394@3.255.100.31:443?sni=thankful-piranha.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-8"
     },
     {
       "type": "ss",
@@ -114,17 +129,17 @@
     },
     {
       "type": "trojan",
-      "address": "correct-starfish.rooster465.autos",
+      "address": "34.249.41.208",
       "port": "443",
       "password": "NQ26071394",
-      "name": "🇮🇪 IE 23",
+      "name": "🇮🇪 IE 16",
       "sni": "correct-starfish.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-9",
+      "original": "trojan://NQ26071394@34.249.41.208:443?sni=correct-starfish.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-10",
       "ip": "34.249.41.208",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-9"
+      "rebuilt": "trojan://NQ26071394@34.249.41.208:443?sni=correct-starfish.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-10"
     },
     {
       "type": "trojan",
@@ -134,25 +149,11 @@
       "name": "🇮🇪 IE 14",
       "sni": "146.70.90.197",
       "host": "",
-      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls&sni=146.70.90.197&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-10",
+      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls&sni=146.70.90.197&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-11",
       "ip": "146.70.90.197",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls&sni=146.70.90.197&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-10"
-    },
-    {
-      "type": "trojan",
-      "address": "3.255.155.50",
-      "port": "443",
-      "password": "NQ26071394",
-      "name": "🇮🇪 IE 24",
-      "sni": "tops-marlin.rooster465.autos",
-      "host": "",
-      "original": "trojan://NQ26071394@3.255.155.50:443?security=tls&sni=tops-marlin.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-11",
-      "ip": "3.255.155.50",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "trojan://NQ26071394@3.255.155.50:443?security=tls&sni=tops-marlin.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-11"
+      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls&sni=146.70.90.197&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-11"
     }
   ]
 }

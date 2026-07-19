@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T02:02:27.644272",
-  "count": 3,
+  "updated": "2026-07-19T09:47:20.066692",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
@@ -10,11 +10,25 @@
       "name": "🇵🇱 PL 1",
       "sni": "ymail.com",
       "host": "",
-      "original": "trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#trojan-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "original": "trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#trojan-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-4",
       "ip": "144.31.113.56",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#trojan-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&fp=random&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=%2f&type=tcp&headerType=none&path=%2f#trojan-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+    },
+    {
+      "type": "trojan",
+      "address": "emerging-weevil.rooster465.autos",
+      "port": "443",
+      "password": "CF68213490",
+      "name": "🇵🇱 PL 3",
+      "sni": "emerging-weevil.rooster465.autos",
+      "host": "",
+      "original": "trojan://CF68213490@emerging-weevil.rooster465.autos:443?sni=emerging-weevil.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6",
+      "ip": "62.112.222.151",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://CF68213490@emerging-weevil.rooster465.autos:443?sni=emerging-weevil.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6"
     },
     {
       "type": "trojan",
@@ -24,11 +38,11 @@
       "name": "🇵🇱 PL 4",
       "sni": "ready-lion.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@62.112.222.12:443?sni=ready-lion.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6",
+      "original": "trojan://NQ26071394@62.112.222.12:443?sni=ready-lion.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7",
       "ip": "62.112.222.12",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@62.112.222.12:443?sni=ready-lion.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6"
+      "rebuilt": "trojan://NQ26071394@62.112.222.12:443?sni=ready-lion.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7"
     },
     {
       "type": "trojan",
@@ -38,11 +52,11 @@
       "name": "🇵🇱 PL 2",
       "sni": "kind-unicorn.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7",
+      "original": "trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-10",
       "ip": "62.112.222.177",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+      "rebuilt": "trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-10"
     }
   ]
 }
