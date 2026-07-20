@@ -1,36 +1,47 @@
 {
-  "updated": "2026-07-19T09:47:20.085761",
-  "count": 2,
+  "updated": "2026-07-20T03:05:37.582113",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "91.186.193.39",
-      "port": "16156",
-      "method": "chacha20-ietf-poly1305",
-      "password": "1wVcW5UutyV31NX1xz3Ix8gCxIh/ssrTzQOd5w1Ozhs=",
+      "address": "gr-2.tiptop-1.top",
+      "port": "443",
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "YyO3pfhWyveU+LJmfKmLnw==:yKcTerob5D4Kw6/OlhSM8w==",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd1ZjVzVVdXR5VjMxTlgxeHozSXg4Z0N4SWgvc3NyVHpRT2Q1dzFPemhzPQ@91.186.193.39:16156#%40filembad",
-      "ip": "91.186.193.39",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WXlPM3BmaFd5dmVVK0xKbWZLbUxudz09OnlLY1Rlcm9iNUQ0S3c2L09saFNNOHc9PQ@gr-2.tiptop-1.top:443#%40filembad",
+      "ip": "87.107.114.36",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd1ZjVzVVdXR5VjMxTlgxeHozSXg4Z0N4SWgvc3NyVHpRT2Q1dzFPemhzPQ@91.186.193.39:16156#%40filembad"
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WXlPM3BmaFd5dmVVK0xKbWZLbUxudz09OnlLY1Rlcm9iNUQ0S3c2L09saFNNOHc9PQ@gr-2.tiptop-1.top:443#%40filembad"
     },
     {
       "type": "ss",
       "address": "e4.cover20.ir",
-      "port": "16156",
+      "port": "16156?type=tcp",
       "method": "chacha20-ietf-poly1305",
-      "password": "1wVcW5UutyV31NX1xz3Ix8gCxIh/ssrTzQOd5w1Ozhs=",
+      "password": "jVPjyNGgOAfv4b4e8dUK693et27aKkLJp1TxTRUIgHs=",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd1ZjVzVVdXR5VjMxTlgxeHozSXg4Z0N4SWgvc3NyVHpRT2Q1dzFPemhzPQ@e4.cover20.ir:16156#%40filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVlBqeU5HZ09BZnY0YjRlOGRVSzY5M2V0MjdhS2tMSnAxVHhUUlVJZ0hzPQ@e4.cover20.ir:16156?type=tcp#%40filembad",
       "ip": "91.186.193.39",
       "country": "IR",
       "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd1ZjVzVVdXR5VjMxTlgxeHozSXg4Z0N4SWgvc3NyVHpRT2Q1dzFPemhzPQ@e4.cover20.ir:16156#%40filembad"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVlBqeU5HZ09BZnY0YjRlOGRVSzY5M2V0MjdhS2tMSnAxVHhUUlVJZ0hzPQ@e4.cover20.ir:16156?type=tcp#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "e1.cover20.ir",
+      "port": "51570?type=tcp",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Ht9AaXLAYQm37ZmKLLWUjgIumtnJmr68M+hX8us30/s=",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdDlBYVhMQVlRbTM3Wm1LTExXVWpnSXVtdG5KbXI2OE0raFg4dXMzMC9zPQ@e1.cover20.ir:51570?type=tcp#%40filembad",
+      "ip": "185.84.158.4",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdDlBYVhMQVlRbTM3Wm1LTExXVWpnSXVtdG5KbXI2OE0raFg4dXMzMC9zPQ@e1.cover20.ir:51570?type=tcp#%40filembad"
     }
   ]
 }
