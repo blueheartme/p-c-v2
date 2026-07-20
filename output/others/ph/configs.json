@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T10:02:36.050101",
+  "updated": "2026-07-20T17:31:23.871504",
   "count": 2,
   "configs": [
     {
@@ -7,27 +7,28 @@
       "address": "flb06181447.tmdsb.org",
       "port": "2398",
       "password": "3632736327",
-      "name": "🇵🇭 PH 1",
+      "name": "🇵🇭 PH 8",
       "sni": "flb06181447.tmdsb.org",
       "host": "",
-      "original": "trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-PH%F0%9F%87%B5%F0%9F%87%AD-1",
+      "original": "trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&path=%2f#trojan-tcp-tls-PH%F0%9F%87%B5%F0%9F%87%AD-1",
       "ip": "47.80.107.173",
       "country": "PH",
       "cdn": null,
-      "rebuilt": "trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-PH%F0%9F%87%B5%F0%9F%87%AD-1"
+      "rebuilt": "trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&path=%2f#trojan-tcp-tls-PH%F0%9F%87%B5%F0%9F%87%AD-1"
     },
     {
-      "type": "ss",
-      "address": "38.54.80.160",
-      "port": "16292",
-      "method": "chacha20-ietf-poly1305",
-      "password": "r_NRe-+WRq2zVqMpCnJtTESlT8WyffHyFy",
-      "name": "🇵🇭 PH 2",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#%f0%9f%87%b5%f0%9f%87%ad%20PH%202",
-      "ip": "38.54.80.160",
+      "type": "trojan",
+      "address": "47.80.107.173",
+      "port": "2398",
+      "password": "3632736327",
+      "name": "🇵🇭 PH 7",
+      "sni": "flb06181447.tmdsb.org",
+      "host": "",
+      "original": "trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-PH%F0%9F%87%B5%F0%9F%87%AD-2",
+      "ip": "47.80.107.173",
       "country": "PH",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#%f0%9f%87%b5%f0%9f%87%ad%20PH%202"
+      "rebuilt": "trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-PH%F0%9F%87%B5%F0%9F%87%AD-2"
     }
   ]
 }
