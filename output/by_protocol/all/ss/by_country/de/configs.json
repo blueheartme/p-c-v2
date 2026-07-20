@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-20T03:05:37.581157",
-  "count": 5,
+  "updated": "2026-07-20T10:45:17.019790",
+  "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "185.226.172.8",
+      "port": "8008",
+      "method": "aes-256-gcm",
+      "password": "XKFKl2rULjIp74",
+      "name": "🇩🇪 DE 98",
+      "original": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%f0%9f%87%a9%f0%9f%87%aa%20DE%2098",
+      "ip": "185.226.172.8",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%f0%9f%87%a9%f0%9f%87%aa%20DE%2098"
+    },
+    {
+      "type": "ss",
+      "address": "18.197.189.148",
+      "port": "443",
+      "method": "aes-256-cfb",
+      "password": "amazonskr05",
+      "name": "🇩🇪 DE 8",
+      "original": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.197.189.148:443#%f0%9f%87%a9%f0%9f%87%aa%20DE%208",
+      "ip": "18.197.189.148",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.197.189.148:443#%f0%9f%87%a9%f0%9f%87%aa%20DE%208"
+    },
     {
       "type": "ss",
       "address": "3.71.12.190",
@@ -29,51 +59,6 @@
       "country": "DE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH"
-    },
-    {
-      "type": "ss",
-      "address": "185.226.172.8",
-      "port": "8008",
-      "method": "aes-256-gcm",
-      "password": "XKFKl2rULjIp74",
-      "name": "🇩🇪 DE 98",
-      "original": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%f0%9f%87%a9%f0%9f%87%aa%20DE%2098",
-      "ip": "185.226.172.8",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%f0%9f%87%a9%f0%9f%87%aa%20DE%2098"
-    },
-    {
-      "type": "ss",
-      "address": "8.209.74.72",
-      "port": "20001",
-      "method": "chacha20-ietf-poly1305",
-      "password": "PWpjPo3tqhPN4yRZ",
-      "name": "🇩🇪 DE 92",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%f0%9f%87%a9%f0%9f%87%aa%20DE%2092",
-      "ip": "8.209.74.72",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%f0%9f%87%a9%f0%9f%87%aa%20DE%2092"
-    },
-    {
-      "type": "ss",
-      "address": "18.197.189.148",
-      "port": "443",
-      "method": "aes-256-cfb",
-      "password": "amazonskr05",
-      "name": "🇩🇪 DE 8",
-      "original": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.197.189.148:443#%f0%9f%87%a9%f0%9f%87%aa%20DE%208",
-      "ip": "18.197.189.148",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.197.189.148:443#%f0%9f%87%a9%f0%9f%87%aa%20DE%208"
     }
   ]
 }
