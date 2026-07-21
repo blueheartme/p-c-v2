@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-21T10:20:27.253638",
-  "count": 3,
+  "updated": "2026-07-21T17:09:54.894576",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "onkwo.ojcenter.com",
-      "port": "3468",
-      "id": "ef340ab7-b1a5-a3de-cdcd-5e5d4f2cf9fd",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.telewebion.ir",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://ef340ab7-b1a5-a3de-cdcd-5e5d4f2cf9fd@onkwo.ojcenter.com:3468?security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.telewebion.ir&sid=b6eae5ce#vless-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "83.228.251.208",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://ef340ab7-b1a5-a3de-cdcd-5e5d4f2cf9fd@onkwo.ojcenter.com:3468?security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.telewebion.ir&sid=b6eae5ce#vless-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
     {
       "type": "vless",
       "address": "179.237.75.199",
@@ -36,31 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://t.me.TradeIP@179.237.75.199:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&sid=218cdbeddf1a&spx=%2F000a5dcfc873675&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "original": "vless://t.me.TradeIP@179.237.75.199:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&sid=218cdbeddf1a&spx=%2F000a5dcfc873675&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "179.237.75.199",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://t.me.TradeIP@179.237.75.199:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&sid=218cdbeddf1a&spx=%2F000a5dcfc873675&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4"
-    },
-    {
-      "type": "vless",
-      "address": "45.197.134.56",
-      "port": "8443",
-      "id": "05a01432-0302-439f-a88d-8442cd27b7d5",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
-      "sni": "storage.yandex.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-10",
-      "ip": "45.197.134.56",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-10"
+      "rebuilt": "vless://t.me.TradeIP@179.237.75.199:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&sid=218cdbeddf1a&spx=%2F000a5dcfc873675&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }

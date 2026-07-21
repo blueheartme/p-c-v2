@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-11T02:57:15.420084",
+  "updated": "2026-07-21T17:09:54.899452",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "45.148.31.0",
-      "port": "15855",
-      "id": "e4fc4761-154f-490e-bbaa-b4fa193f1073",
+      "address": "81.27.109.58",
+      "port": "443",
+      "id": "5ce0a88d-f859-476c-89d2-84d884719ce0",
       "name": "@filembad",
-      "network": "ws",
-      "sni": "Join---V2rayBaaz---Join---V2rayBaaz---Join---V2rayBaaz",
+      "network": "tcp",
+      "sni": "stackoverflow.com",
       "host": "",
-      "security": "",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=&encryption=none&type=ws&sni=Join---V2rayBaaz---Join---V2rayBaaz---Join---V2rayBaaz#vless-ws-DK%F0%9F%87%A9%F0%9F%87%B0-1",
-      "ip": "45.148.31.0",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://5ce0a88d-f859-476c-89d2-84d884719ce0@81.27.109.58:443?security=reality&encryption=none&pbk=lsoQ2VwM28cxL5EN9QUYqxIANufAhK9zuMweDXN9X1U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=eadf3dadcf952a7a#vless-xtls-rprx-vision-tcp-reality-firefox-DK%F0%9F%87%A9%F0%9F%87%B0-1",
+      "ip": "81.27.109.58",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=&encryption=none&type=ws&sni=Join---V2rayBaaz---Join---V2rayBaaz---Join---V2rayBaaz#vless-ws-DK%F0%9F%87%A9%F0%9F%87%B0-1"
+      "rebuilt": "vless://5ce0a88d-f859-476c-89d2-84d884719ce0@81.27.109.58:443?security=reality&encryption=none&pbk=lsoQ2VwM28cxL5EN9QUYqxIANufAhK9zuMweDXN9X1U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=eadf3dadcf952a7a#vless-xtls-rprx-vision-tcp-reality-firefox-DK%F0%9F%87%A9%F0%9F%87%B0-1"
     }
   ]
 }
