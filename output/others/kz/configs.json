@@ -1,40 +1,20 @@
 {
-  "updated": "2026-07-20T17:31:23.876524",
-  "count": 2,
+  "updated": "2026-07-21T02:01:46.158870",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
       "address": "45.82.14.144",
       "port": "2025",
       "password": "vpn",
-      "name": "🇰🇿 KZ 4",
+      "name": "🇰🇿 KZ 1",
       "sni": "",
-      "host": "dns.google.com",
-      "original": "trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=dns.google.com&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
+      "original": "trojan://vpn@45.82.14.144:2025?security=none&encryption=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
       "ip": "45.82.14.144",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=dns.google.com&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
-    },
-    {
-      "type": "vless",
-      "address": "193.124.204.145",
-      "port": "49853",
-      "id": "5ed7b151-b781-4dba-800d-e3f824f1416f",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-KZ%F0%9F%87%B0%F0%9F%87%BF-2",
-      "ip": "193.124.204.145",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-KZ%F0%9F%87%B0%F0%9F%87%BF-2"
+      "rebuilt": "trojan://vpn@45.82.14.144:2025?security=none&encryption=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }
