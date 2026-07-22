@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-22T02:00:09.189062",
+  "updated": "2026-07-22T10:19:35.988020",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "select-marmoset.rooster465.autos",
-      "port": "443",
-      "password": "IQ68037294",
-      "name": "🇩🇰 DK 7",
-      "sni": "",
-      "host": "",
-      "original": "trojan://IQ68037294@select-marmoset.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "109.61.127.205",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "trojan://IQ68037294@select-marmoset.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
-    },
     {
       "type": "trojan",
       "address": "robust-toucan.rooster465.autos",
@@ -24,11 +10,25 @@
       "name": "🇩🇰 DK 1",
       "sni": "robust-toucan.rooster465.autos",
       "host": "",
-      "original": "trojan://IQ68037294@robust-toucan.rooster465.autos:443?security=tls&sni=robust-toucan.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2",
+      "original": "trojan://IQ68037294@robust-toucan.rooster465.autos:443?security=tls&sni=robust-toucan.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
       "ip": "82.117.226.104",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "trojan://IQ68037294@robust-toucan.rooster465.autos:443?security=tls&sni=robust-toucan.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+      "rebuilt": "trojan://IQ68037294@robust-toucan.rooster465.autos:443?security=tls&sni=robust-toucan.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+    },
+    {
+      "type": "trojan",
+      "address": "whole-perch.rooster465.autos",
+      "port": "443",
+      "password": "IQ68037294",
+      "name": "🇩🇰 DK 5",
+      "sni": "whole-perch.rooster465.autos",
+      "host": "",
+      "original": "trojan://IQ68037294@whole-perch.rooster465.autos:443?security=tls&sni=whole-perch.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2",
+      "ip": "82.117.226.218",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "trojan://IQ68037294@whole-perch.rooster465.autos:443?security=tls&sni=whole-perch.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2"
     }
   ]
 }

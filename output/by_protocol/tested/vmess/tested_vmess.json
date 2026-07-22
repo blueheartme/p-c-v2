@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-22T02:00:09.278836",
-  "count": 1,
+  "updated": "2026-07-22T10:19:36.086575",
+  "count": 3,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "vip1.holderbridge.site",
+      "port": "8880",
+      "id": "1a8bcf4b-5dcb-4c00-8687-a56b3bd12ed0",
+      "name": "@meliproxy",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJ2aXAxLmhvbGRlcmJyaWRnZS5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFhOGJjZjRiLTVkY2ItNGMwMC04Njg3LWE1NmIzYmQxMmVkMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiODg4MCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVLwn4eu8J+Hty0xMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "185.42.212.191",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJhZGQiOiJ2aXAxLmhvbGRlcmJyaWRnZS5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFhOGJjZjRiLTVkY2ItNGMwMC04Njg3LWE1NmIzYmQxMmVkMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiODg4MCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVLwn4eu8J+Hty0xMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+    },
     {
       "type": "vmess",
       "address": "185.181.183.124",
@@ -11,13 +28,30 @@
       "network": "ws",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxODUuMTgxLjE4My4xMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTY0NDA3MjktMTA0Ni00YTljLWJjMTktN2MwZWRlNGJmNGQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODA5NCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSVLwn4eu8J+Hty0xNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
+      "original": "vmess://eyJhZGQiOiIxODUuMTgxLjE4My4xMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTY0NDA3MjktMTA0Ni00YTljLWJjMTktN2MwZWRlNGJmNGQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODA5NCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSVLwn4eu8J+Hty0xNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
       "ip": "185.181.183.124",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiIxODUuMTgxLjE4My4xMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTY0NDA3MjktMTA0Ni00YTljLWJjMTktN2MwZWRlNGJmNGQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODA5NCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSVLwn4eu8J+Hty0xNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiIxODUuMTgxLjE4My4xMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTY0NDA3MjktMTA0Ni00YTljLWJjMTktN2MwZWRlNGJmNGQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODA5NCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSVLwn4eu8J+Hty0xNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
+    },
+    {
+      "type": "vmess",
+      "address": "ger.wafer.fun",
+      "port": "443",
+      "id": "5a4ea216-9597-4df7-a119-02949a3b6b82",
+      "name": "🇩🇪 DE 37",
+      "network": "httpupgrade",
+      "host": "ger.wafer.fun",
+      "sni": "ger.wafer.fun",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8taHR0cHVwZ3JhZGUtdGxzLURF8J+HqfCfh6otNjEiLCJhZGQiOiJnZXIud2FmZXIuZnVuIiwicG9ydCI6NDQzLCJpZCI6IjVhNGVhMjE2LTk1OTctNGRmNy1hMTE5LTAyOTQ5YTNiNmI4MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJ0eXBlIjpudWxsLCJob3N0IjoiZ2VyLndhZmVyLmZ1biIsImFscG4iOm51bGwsInBhdGgiOiIvWWdwdU45NUh5UzJhRnV5N2huYnBNMyIsInRscyI6InRscyIsInNuaSI6Imdlci53YWZlci5mdW4iLCJmcCI6bnVsbH0=",
+      "ip": "91.107.145.13",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8taHR0cHVwZ3JhZGUtdGxzLURF8J+HqfCfh6otNjEiLCJhZGQiOiJnZXIud2FmZXIuZnVuIiwicG9ydCI6NDQzLCJpZCI6IjVhNGVhMjE2LTk1OTctNGRmNy1hMTE5LTAyOTQ5YTNiNmI4MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJ0eXBlIjpudWxsLCJob3N0IjoiZ2VyLndhZmVyLmZ1biIsImFscG4iOm51bGwsInBhdGgiOiIvWWdwdU45NUh5UzJhRnV5N2huYnBNMyIsInRscyI6InRscyIsInNuaSI6Imdlci53YWZlci5mdW4iLCJmcCI6bnVsbH0="
     }
   ]
 }

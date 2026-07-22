@@ -1,13 +1,33 @@
 {
-  "updated": "2026-07-22T02:00:09.191620",
-  "count": 4,
+  "updated": "2026-07-22T10:19:35.991934",
+  "count": 5,
   "configs": [
+    {
+      "type": "vless",
+      "address": "italy.lorluma.ir",
+      "port": "6300",
+      "id": "b1a689fa-20c3-43b4-a107-4af64f8a7cf3",
+      "name": "☑➜چنلمون: Express_freevpn@",
+      "network": "tcp",
+      "sni": "play.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@italy.lorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-IT%F0%9F%87%AE%F0%9F%87%B9-1",
+      "ip": "57.131.16.36",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@italy.lorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-IT%F0%9F%87%AE%F0%9F%87%B9-1"
+    },
     {
       "type": "vless",
       "address": "hudrososov.blog",
       "port": "443",
       "id": "2428711f-5117-46e9-a2cb-741797a60ed8",
-      "name": "biatoo@ConfingV2RaayNG",
+      "name": "Channel@ConfingV2RaayNG",
       "network": "tcp",
       "sni": "hudrososov.blog",
       "host": "",
@@ -15,12 +35,12 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://2428711f-5117-46e9-a2cb-741797a60ed8@hudrososov.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#vless-xtls-rprx-vision-tcp-reality-qq-IT%F0%9F%87%AE%F0%9F%87%B9-1",
+      "fingerprint": "chrome",
+      "original": "vless://2428711f-5117-46e9-a2cb-741797a60ed8@hudrososov.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-2",
       "ip": "31.77.154.252",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://2428711f-5117-46e9-a2cb-741797a60ed8@hudrososov.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#vless-xtls-rprx-vision-tcp-reality-qq-IT%F0%9F%87%AE%F0%9F%87%B9-1"
+      "rebuilt": "vless://2428711f-5117-46e9-a2cb-741797a60ed8@hudrososov.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-2"
     },
     {
       "type": "vless",
@@ -36,18 +56,18 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:2087?mode=gun&security=reality&encryption=none&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#vless-grpc-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-2",
+      "original": "vless://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:2087?mode=gun&security=reality&encryption=none&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#vless-grpc-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-3",
       "ip": "31.76.113.160",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:2087?mode=gun&security=reality&encryption=none&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#vless-grpc-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-2"
+      "rebuilt": "vless://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:2087?mode=gun&security=reality&encryption=none&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#vless-grpc-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-3"
     },
     {
       "type": "vless",
       "address": "naran-mil-ow.fizikade.ir",
       "port": "443",
       "id": "1ffd6264-c6ce-4ff1-ad30-5329c9cad3d7",
-      "name": "@proxy_kafee :‌ کانال تلگرام",
+      "name": "4|@ConfingV2RaayNG",
       "network": "tcp",
       "sni": "play.google.com",
       "host": "",
@@ -56,19 +76,19 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "firefox",
-      "original": "vless://1ffd6264-c6ce-4ff1-ad30-5329c9cad3d7@naran-mil-ow.fizikade.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=xIlI7i0C7C6bqamLJV2bXpWQ7tW0WpBng6PM92BE8AI&sid=d7b62fdf683ad6&spx=%2Fnaranv2ray&type=tcp&headerType=http&path=%2Fnaranv2ray%2Fnaranv2ray#vless-tcp-http-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-3",
+      "original": "vless://1ffd6264-c6ce-4ff1-ad30-5329c9cad3d7@naran-mil-ow.fizikade.ir:443?security=reality&encryption=none&pbk=xIlI7i0C7C6bqamLJV2bXpWQ7tW0WpBng6PM92BE8AI&headerType=http&fp=firefox&spx=%2Fnaranv2ray&type=tcp&sni=play.google.com&sid=d7b62fdf683ad6#vless-tcp-http-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-4",
       "ip": "57.131.18.169",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://1ffd6264-c6ce-4ff1-ad30-5329c9cad3d7@naran-mil-ow.fizikade.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=xIlI7i0C7C6bqamLJV2bXpWQ7tW0WpBng6PM92BE8AI&sid=d7b62fdf683ad6&spx=%2Fnaranv2ray&type=tcp&headerType=http&path=%2Fnaranv2ray%2Fnaranv2ray#vless-tcp-http-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-3"
+      "rebuilt": "vless://1ffd6264-c6ce-4ff1-ad30-5329c9cad3d7@naran-mil-ow.fizikade.ir:443?security=reality&encryption=none&pbk=xIlI7i0C7C6bqamLJV2bXpWQ7tW0WpBng6PM92BE8AI&headerType=http&fp=firefox&spx=%2Fnaranv2ray&type=tcp&sni=play.google.com&sid=d7b62fdf683ad6#vless-tcp-http-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-4"
     },
     {
       "type": "vless",
-      "address": "ronaldo15.fordnsdirect.shop",
-      "port": "8880",
-      "id": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
-      "name": "برای اتصال دائمی جوین شو💤 TelegramID ⌲Express_freevpn",
-      "network": "grpc",
+      "address": "57.131.32.191",
+      "port": "80",
+      "id": "1e280316-0408-47c4-b058-05b8f1f17f02",
+      "name": "@meliproxyy",
+      "network": "ws",
       "sni": "",
       "host": "",
       "security": "none",
@@ -76,11 +96,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#vless-grpc-IT%F0%9F%87%AE%F0%9F%87%B9-4",
-      "ip": "151.115.166.18",
+      "original": "vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%87%AE%F0%9F%87%B9-5",
+      "ip": "57.131.32.191",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#vless-grpc-IT%F0%9F%87%AE%F0%9F%87%B9-4"
+      "rebuilt": "vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%87%AE%F0%9F%87%B9-5"
     }
   ]
 }
