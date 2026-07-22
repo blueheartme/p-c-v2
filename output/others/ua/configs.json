@@ -1,20 +1,26 @@
 {
-  "updated": "2026-07-13T17:51:14.100807",
+  "updated": "2026-07-22T17:10:31.706899",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "89.116.180.49",
-      "port": "443",
-      "password": "MiTiVPN",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "sni": "f6r.ir",
-      "host": "f6r.ir",
-      "original": "trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#trojan-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1",
-      "ip": "89.116.180.49",
+      "type": "vless",
+      "address": "de.pub.accuratenetworkchecker.ir",
+      "port": "2053",
+      "id": "StableInternet",
+      "name": "Channel : @proxy_kafee",
+      "network": "grpc",
+      "sni": "grc.accuratenetworkchecker.ir",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://StableInternet@de.pub.accuratenetworkchecker.ir:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#vless-grpc-tls-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "ip": "89.116.180.243",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#trojan-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "vless://StableInternet@de.pub.accuratenetworkchecker.ir:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#vless-grpc-tls-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-21T17:09:54.891816",
+  "updated": "2026-07-22T17:10:31.731938",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "2.26.224.98",
-      "port": "443",
-      "id": "8fef09bc-a48a-44ae-95cd-118e58ab796a",
-      "name": "@meliproxyy",
-      "network": "grpc",
-      "sni": "www.amd.com",
+      "address": "apinbxs.eovay.com",
+      "port": "40118",
+      "id": "57beeeb0-03fc-4fc9-94da-7604488a7134",
+      "name": "🇭🇰 HK 90",
+      "network": "tcp",
+      "sni": "www.lamer.com.sg",
       "host": "",
       "security": "reality",
-      "flow": "",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@2.26.224.98:443?mode=gun&security=reality&encryption=none&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&fp=firefox&type=grpc&serviceName=grpc-api-v2&sni=www.amd.com&sid=635a76c25a4b1820#vless-grpc-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-37",
-      "ip": "2.26.224.98",
+      "fingerprint": "chrome",
+      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.eovay.com:40118?flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=x1nqrSzJzU5Hq7fr36PEmtBfOf98A2XiFuRzIsdcz20&sid=5895914d&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-38",
+      "ip": "43.255.157.9",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@2.26.224.98:443?mode=gun&security=reality&encryption=none&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&fp=firefox&type=grpc&serviceName=grpc-api-v2&sni=www.amd.com&sid=635a76c25a4b1820#vless-grpc-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-37"
+      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.eovay.com:40118?flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=x1nqrSzJzU5Hq7fr36PEmtBfOf98A2XiFuRzIsdcz20&sid=5895914d&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-38"
     }
   ]
 }
