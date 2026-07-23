@@ -1,33 +1,32 @@
 {
-  "updated": "2026-07-22T10:19:35.993330",
+  "updated": "2026-07-23T17:12:41.846292",
   "count": 2,
   "configs": [
     {
-      "type": "vmess",
-      "address": "134.195.196.211",
-      "port": "18000",
-      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
-      "name": "🇨🇦 CA 1",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNB8J+HqPCfh6YtMSIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "134.195.196.211",
+      "type": "ss",
+      "address": "137.184.174.93",
+      "port": "8080",
+      "method": "rc4-md5",
+      "password": "14fFPrbezE3HDZzsMOr6",
+      "name": "🇨🇦 CA 4",
+      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%204",
+      "ip": "137.184.174.93",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNB8J+HqPCfh6YtMSIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%204"
     },
     {
-      "type": "tg",
-      "address": "Records.bookmarksman.ir",
-      "port": "2040",
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "name": "",
-      "original": "https://t.me/proxy?server=Records.bookmarksman.ir&port=2040&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "ip": "51.161.83.105",
+      "type": "ss",
+      "address": "149.22.95.183",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇨🇦 CA 3",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%203",
+      "ip": "149.22.95.183",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=Records.bookmarksman.ir&port=2040&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%203"
     }
   ]
 }

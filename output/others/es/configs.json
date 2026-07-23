@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-23T10:14:36.271168",
+  "updated": "2026-07-23T17:12:41.850135",
   "count": 2,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "85.90.217.42",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "🇪🇸 ES 2",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+HqvCfh7gtMSIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "85.90.217.42",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+HqvCfh7gtMSIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
     {
       "type": "tg",
       "address": "kabos.website-best.info",
@@ -13,20 +28,6 @@
       "country": "ES",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=kabos.website-best.info&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-    },
-    {
-      "type": "trojan",
-      "address": "193.148.19.210",
-      "port": "52794",
-      "password": "2eutknankxtbgkwcajzt",
-      "name": "🇪🇸 ES 1",
-      "sni": "www.vk.com",
-      "host": "",
-      "original": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
-      "ip": "193.148.19.210",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     }
   ]
 }
