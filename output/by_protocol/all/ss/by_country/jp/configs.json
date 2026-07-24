@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24T10:11:19.179540",
-  "count": 1,
+  "updated": "2026-07-24T17:23:45.675045",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,25 @@
       "port": "443",
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "name": "🇯🇵 JP 23",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%2023",
+      "name": "🇯🇵 JP 33",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%2033",
       "ip": "149.22.87.240",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%2023"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%2033"
+    },
+    {
+      "type": "ss",
+      "address": "149.22.87.241",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇯🇵 JP 13",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%2013",
+      "ip": "149.22.87.241",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%2013"
     }
   ]
 }
