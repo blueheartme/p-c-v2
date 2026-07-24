@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-24T02:02:43.362802",
-  "count": 2,
+  "updated": "2026-07-24T10:11:19.106591",
+  "count": 7,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "193.148.19.210",
+      "port": "52794",
+      "password": "2eutknankxtbgkwcajzt",
+      "name": "🇪🇸 ES 1",
+      "sni": "www.vk.com",
+      "host": "",
+      "original": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "193.148.19.210",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+    },
+    {
+      "type": "trojan",
+      "address": "sp.cloudv.qzz.io",
+      "port": "4433",
+      "password": "t1k5znTjT8",
+      "name": "🇩🇪 DE 90",
+      "sni": "",
+      "host": "sp.cloudv.qzz.io",
+      "original": "trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#trojan-ws-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "212.227.98.235",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#trojan-ws-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
+    {
+      "type": "tg",
+      "address": "https.web.www.gorgan-well.co.uk.",
+      "port": "443",
+      "secret": "EEABAzJJlbB8AwOG6Ibn8Q",
+      "name": "",
+      "original": "https://t.me/proxy?server=https.web.www.gorgan-well.co.uk.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8Q",
+      "ip": "82.223.151.112",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=https.web.www.gorgan-well.co.uk.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8Q"
+    },
+    {
+      "type": "vless",
+      "address": "001.28611111.cn",
+      "port": "80",
+      "id": "f6945945-2493-4988-a569-0a2aaed5380e",
+      "name": "@meliproxyy",
+      "network": "xhttp",
+      "sni": "",
+      "host": "status.play.google.com",
+      "security": "",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.native.0rtt.8rffuexekw-amtpjrx0ydqchvv8yyhunhna4iumei3c",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f6945945-2493-4988-a569-0a2aaed5380e@001.28611111.cn:80?mode=stream-up&path=%2Fsummary&security=&encryption=mlkem768x25519plus.native.0rtt.8RfFUExEKw-amtPjrx0ydQchvv8YYhuNHna4IumEI3c&extra=%7B%22scMaxEachPostBytes%22%3A%22524288-1048576%22%2C%22scMinPostsIntervalMs%22%3A%2212-28%22%2C%22xPaddingBytes%22%3A%2210-100%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkHTTPMethod%22%3A%22POST%22%2C%22sessionPlacement%22%3A%22cookie%22%2C%22sessionKey%22%3A%22sid%22%2C%22seqPlacement%22%3A%22query%22%2C%22seqKey%22%3A%22part%22%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22headers%22%3A%7B%22Pragma%22%3A%22no-cache%22%2C%22Connection%22%3A%22keep-alive%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F150.0.0.0%20Safari%2F537.36%22%2C%22Accept-Encoding%22%3A%22gzip%2C%20deflate%22%7D%7D&host=status.play.google.com&type=xhttp#vless-mlkem768x25519plus.native.0rtt.8rffuexekw-amtpjrx0ydqchvv8yyhunhna4iumei3c-xhttp-ES%F0%9F%87%AA%F0%9F%87%B8-4",
+      "ip": "82.165.58.204",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://f6945945-2493-4988-a569-0a2aaed5380e@001.28611111.cn:80?mode=stream-up&path=%2Fsummary&security=&encryption=mlkem768x25519plus.native.0rtt.8RfFUExEKw-amtPjrx0ydQchvv8YYhuNHna4IumEI3c&extra=%7B%22scMaxEachPostBytes%22%3A%22524288-1048576%22%2C%22scMinPostsIntervalMs%22%3A%2212-28%22%2C%22xPaddingBytes%22%3A%2210-100%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkHTTPMethod%22%3A%22POST%22%2C%22sessionPlacement%22%3A%22cookie%22%2C%22sessionKey%22%3A%22sid%22%2C%22seqPlacement%22%3A%22query%22%2C%22seqKey%22%3A%22part%22%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22headers%22%3A%7B%22Pragma%22%3A%22no-cache%22%2C%22Connection%22%3A%22keep-alive%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F150.0.0.0%20Safari%2F537.36%22%2C%22Accept-Encoding%22%3A%22gzip%2C%20deflate%22%7D%7D&host=status.play.google.com&type=xhttp#vless-mlkem768x25519plus.native.0rtt.8rffuexekw-amtpjrx0ydqchvv8yyhunhna4iumei3c-xhttp-ES%F0%9F%87%AA%F0%9F%87%B8-4"
+    },
+    {
+      "type": "vmess",
+      "address": "85.90.217.42",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "🇪🇸 ES 2",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+HqvCfh7gtNSIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "85.90.217.42",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+HqvCfh7gtNSIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
     {
       "type": "ss",
       "address": "108.181.121.226",
@@ -17,15 +92,15 @@
     },
     {
       "type": "tg",
-      "address": "https.web.www.gorgan-well.co.uk.",
+      "address": "kabos.website-best.info",
       "port": "443",
-      "secret": "EEABAzJJlbB8AwOG6Ibn8Q",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "",
-      "original": "https://t.me/proxy?server=https.web.www.gorgan-well.co.uk.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8Q",
+      "original": "https://t.me/proxy?server=kabos.website-best.info&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "ip": "82.223.151.112",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=https.web.www.gorgan-well.co.uk.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8Q"
+      "rebuilt": "https://t.me/proxy?server=kabos.website-best.info&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
     }
   ]
 }
