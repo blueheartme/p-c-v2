@@ -1,19 +1,26 @@
 {
-  "updated": "2026-07-25T09:40:42.046341",
+  "updated": "2026-07-25T16:51:03.871743",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "185.213.23.63",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇳🇴 NO 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%f0%9f%87%b3%f0%9f%87%b4%20NO%201",
-      "ip": "185.213.23.63",
+      "type": "vless",
+      "address": "no.cache-4d8a.com",
+      "port": "443",
+      "id": "bbae962a-b6e9-46e6-990c-6abf13e6b075",
+      "name": "Mi168 34 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "no.cache-4d8a.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@no.cache-4d8a.com:443?security=reality&encryption=none&pbk=7wLv5M4GZGhqMAGVj9zdHyW-RrSRdrYAu1Aaqa8N1nY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=no.cache-4d8a.com&sid=9d84de9d9f7b85e9#vless-xtls-rprx-vision-tcp-reality-NO%F0%9F%87%B3%F0%9F%87%B4-1",
+      "ip": "195.16.73.202",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%f0%9f%87%b3%f0%9f%87%b4%20NO%201"
+      "rebuilt": "vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@no.cache-4d8a.com:443?security=reality&encryption=none&pbk=7wLv5M4GZGhqMAGVj9zdHyW-RrSRdrYAu1Aaqa8N1nY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=no.cache-4d8a.com&sid=9d84de9d9f7b85e9#vless-xtls-rprx-vision-tcp-reality-NO%F0%9F%87%B3%F0%9F%87%B4-1"
     }
   ]
 }

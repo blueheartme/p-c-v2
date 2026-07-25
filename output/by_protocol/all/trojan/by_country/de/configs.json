@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-25T09:40:42.068177",
-  "count": 3,
+  "updated": "2026-07-25T16:51:03.923059",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
       "address": "91.107.145.13",
       "port": "443",
       "password": "5a4ea216-9597-4df7-a119-02949a3b6b82",
-      "name": "🇩🇪 DE 4",
+      "name": "🇩🇪 DE 72",
       "sni": "ger.wafer.fun",
-      "host": "ger.wafer.fun",
-      "original": "trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@91.107.145.13:443?security=tls&sni=ger.wafer.fun&alpn=http%2f1.1&fp=chrome&type=ws&host=ger.wafer.fun&path=%2fChGF4VS2wmOOrQCXl1&allow_insecure=0#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-55",
+      "host": "",
+      "original": "trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@91.107.145.13:443?sni=ger.wafer.fun&alpn=h2&fp=chrome&type=grpc&serviceName=ChGF4VS2wmOa7OOaBF&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-5",
       "ip": "91.107.145.13",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@91.107.145.13:443?security=tls&sni=ger.wafer.fun&alpn=http%2f1.1&fp=chrome&type=ws&host=ger.wafer.fun&path=%2fChGF4VS2wmOOrQCXl1&allow_insecure=0#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-55"
+      "rebuilt": "trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@91.107.145.13:443?sni=ger.wafer.fun&alpn=h2&fp=chrome&type=grpc&serviceName=ChGF4VS2wmOa7OOaBF&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-5"
     },
     {
       "type": "trojan",
@@ -24,11 +24,11 @@
       "name": "Free 106 @Outline_Vpn",
       "sni": "",
       "host": "",
-      "original": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-81",
+      "original": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-8",
       "ip": "185.137.157.140",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-81"
+      "rebuilt": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-8"
     },
     {
       "type": "trojan",
@@ -38,11 +38,25 @@
       "name": "Free 114 @Outline_Vpn",
       "sni": "quiet-condor.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-93",
+      "original": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-43",
       "ip": "63.178.193.196",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-93"
+      "rebuilt": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-43"
+    },
+    {
+      "type": "trojan",
+      "address": "185.137.157.128",
+      "port": "443",
+      "password": "dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q",
+      "name": "Mi168 18 @Outline_Vpn",
+      "sni": "",
+      "host": "",
+      "original": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-76",
+      "ip": "185.137.157.128",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-76"
     }
   ]
 }
