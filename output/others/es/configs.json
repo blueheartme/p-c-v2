@@ -1,18 +1,32 @@
 {
-  "updated": "2026-07-25T02:02:31.188877",
-  "count": 1,
+  "updated": "2026-07-25T09:40:42.045932",
+  "count": 2,
   "configs": [
     {
+      "type": "trojan",
+      "address": "193.148.19.210",
+      "port": "52794",
+      "password": "2eutknankxtbgkwcajzt",
+      "name": "🇪🇸 ES 1",
+      "sni": "www.vk.com",
+      "host": "",
+      "original": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "193.148.19.210",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+    },
+    {
       "type": "tg",
-      "address": "kabos.website-best.info",
+      "address": "https.web.www.gorgan-well.co.uk.",
       "port": "443",
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "secret": "EEABAzJJlbB8AwOG6Ibn8Q",
       "name": "",
-      "original": "https://t.me/proxy?server=kabos.website-best.info&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "original": "https://t.me/proxy?server=https.web.www.gorgan-well.co.uk.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8Q",
       "ip": "82.223.151.112",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=kabos.website-best.info&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+      "rebuilt": "https://t.me/proxy?server=https.web.www.gorgan-well.co.uk.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8Q"
     }
   ]
 }

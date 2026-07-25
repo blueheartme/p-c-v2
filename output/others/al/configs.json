@@ -1,26 +1,19 @@
 {
-  "updated": "2026-07-24T02:02:43.377481",
+  "updated": "2026-07-25T09:40:42.052675",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "alb.serverkingomz.ir",
-      "port": "3389",
-      "id": "4618309c-a461-481d-b4be-677e0b668df1",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://4618309c-a461-481d-b4be-677e0b668df1@alb.serverkingomz.ir:3389?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=DSisVvxDt4VxzBxS2fWKBPovVIUWc-zwjmE9wiIdX1s&sid=5f040b1309b66bd3&type=tcp&headerType=none#vless-tcp-reality-chrome-AL%F0%9F%87%A6%F0%9F%87%B1-1",
-      "ip": "157.22.240.108",
+      "type": "ss",
+      "address": "157.22.240.141",
+      "port": "57925",
+      "method": "chacha20-ietf-poly1305",
+      "password": "FXpDf7WV6lfD6n9hpz7HF2",
+      "name": "🇦🇱 AL 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWHBEZjdXVjZsZkQ2bjlocHo3SEYy@157.22.240.141:57925#%f0%9f%87%a6%f0%9f%87%b1%20AL%201",
+      "ip": "157.22.240.141",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "vless://4618309c-a461-481d-b4be-677e0b668df1@alb.serverkingomz.ir:3389?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=DSisVvxDt4VxzBxS2fWKBPovVIUWc-zwjmE9wiIdX1s&sid=5f040b1309b66bd3&type=tcp&headerType=none#vless-tcp-reality-chrome-AL%F0%9F%87%A6%F0%9F%87%B1-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWHBEZjdXVjZsZkQ2bjlocHo3SEYy@157.22.240.141:57925#%f0%9f%87%a6%f0%9f%87%b1%20AL%201"
     }
   ]
 }
