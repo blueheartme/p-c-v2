@@ -1,38 +1,40 @@
 {
-  "updated": "2026-07-26T09:54:02.581968",
+  "updated": "2026-07-26T16:52:40.971447",
   "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "dl.onetimeok.com",
+      "address": "media.oneokgames.com",
       "port": "443",
       "id": "86208db7-8bbc-42c2-9eb2-ffe5675502c3",
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "network": "grpc",
-      "sni": "dl.onetimeok.com",
+      "sni": "media.oneokgames.com",
       "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=dl.onetimeok.com&sid=8ba32e7cefbf524a#vless-grpc-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1",
-      "ip": "88.148.121.46",
+      "fingerprint": "firefox",
+      "original": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@media.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&fp=firefox&type=grpc&serviceName=api.v2.ObjectService&sni=media.oneokgames.com&sid=dbdbeaf4aa6e1a5c#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "88.148.121.71",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=dl.onetimeok.com&sid=8ba32e7cefbf524a#vless-grpc-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@media.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&fp=firefox&type=grpc&serviceName=api.v2.ObjectService&sni=media.oneokgames.com&sid=dbdbeaf4aa6e1a5c#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1"
     },
     {
-      "type": "tg",
-      "address": "https.web.www.gorgan-well.co.uk.",
-      "port": "443",
-      "secret": "EEABAzJJlbB8AwOG6Ibn8Q",
-      "name": "",
-      "original": "https://t.me/proxy?server=https.web.www.gorgan-well.co.uk.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8Q",
-      "ip": "82.223.151.112",
+      "type": "trojan",
+      "address": "193.148.19.210",
+      "port": "52794",
+      "password": "2eutknankxtbgkwcajzt",
+      "name": "🇪🇸 ES 1",
+      "sni": "www.vk.com",
+      "host": "",
+      "original": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "193.148.19.210",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=https.web.www.gorgan-well.co.uk.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8Q"
+      "rebuilt": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     }
   ]
 }

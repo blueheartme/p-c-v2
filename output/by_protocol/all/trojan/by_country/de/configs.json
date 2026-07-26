@@ -1,34 +1,50 @@
 {
-  "updated": "2026-07-26T09:54:02.615110",
-  "count": 2,
+  "updated": "2026-07-26T16:52:41.023313",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
-      "address": "185.137.157.140",
+      "address": "63.178.193.196",
       "port": "443",
-      "password": "dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q",
-      "name": "Free 106 @Outline_Vpn",
-      "sni": "",
+      "password": "NQ26071394",
+      "name": "Free 114 @Outline_Vpn",
+      "sni": "quiet-condor.rooster465.autos",
       "host": "",
-      "original": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-23",
-      "ip": "185.137.157.140",
+      "original": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-4",
+      "ip": "63.178.193.196",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-23"
+      "rebuilt": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-4"
     },
     {
       "type": "trojan",
-      "address": "91.107.145.13",
+      "address": "185.137.157.128",
       "port": "443",
-      "password": "5a4ea216-9597-4df7-a119-02949a3b6b82",
-      "name": "🇩🇪 DE 71",
-      "sni": "ger.wafer.fun",
+      "password": "dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q",
+      "name": "Mi168 18 @Outline_Vpn",
+      "sni": "",
       "host": "",
-      "original": "trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@91.107.145.13:443?security=tls&sni=ger.wafer.fun&alpn=h2&fp=chrome&type=grpc&serviceName=ChGF4VS2wmOa7OOaBF&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-35",
-      "ip": "91.107.145.13",
+      "original": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-74",
+      "ip": "185.137.157.128",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@91.107.145.13:443?security=tls&sni=ger.wafer.fun&alpn=h2&fp=chrome&type=grpc&serviceName=ChGF4VS2wmOa7OOaBF&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-35"
+      "rebuilt": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-74"
+    },
+    {
+      "type": "trojan",
+      "address": "de-d-178105.homelanderwins.com",
+      "port": "44600",
+      "password": "ncnr1qxfkf4j1pg1",
+      "name": "@filembad",
+      "sni": "",
+      "host": "P30day.ir",
+      "original": "trojan://ncnr1qxfkf4j1pg1@de-d-178105.homelanderwins.com:44600?host=P30day.ir&path=%2Ft.me%2Fdefyxvpn_fa&security=none&type=ws#trojan-ws-DE%F0%9F%87%A9%F0%9F%87%AA-61",
+      "ip": "178.105.213.105",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://ncnr1qxfkf4j1pg1@de-d-178105.homelanderwins.com:44600?host=P30day.ir&path=%2Ft.me%2Fdefyxvpn_fa&security=none&type=ws#trojan-ws-DE%F0%9F%87%A9%F0%9F%87%AA-61"
     }
   ]
 }

@@ -1,46 +1,26 @@
 {
-  "updated": "2026-07-23T10:14:36.292583",
-  "count": 2,
+  "updated": "2026-07-26T16:52:41.004930",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "apinbxs.eovay.com",
-      "port": "40118",
-      "id": "57beeeb0-03fc-4fc9-94da-7604488a7134",
-      "name": "🇭🇰 HK 90",
-      "network": "tcp",
-      "sni": "www.lamer.com.sg",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.eovay.com:40118?flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=x1nqrSzJzU5Hq7fr36PEmtBfOf98A2XiFuRzIsdcz20&sid=5895914d&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-33",
-      "ip": "43.247.132.29",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.eovay.com:40118?flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=x1nqrSzJzU5Hq7fr36PEmtBfOf98A2XiFuRzIsdcz20&sid=5895914d&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-33"
-    },
-    {
-      "type": "vless",
-      "address": "2.26.224.98",
+      "address": "45.207.157.130",
       "port": "443",
-      "id": "8fef09bc-a48a-44ae-95cd-118e58ab796a",
-      "name": "@meliproxyy",
+      "id": "e4824193-4f54-453b-d037-88368e85ef0e",
+      "name": "🇭🇰 HK 227",
       "network": "grpc",
-      "sni": "www.amd.com",
+      "sni": "sca12.afterdomain.shop",
       "host": "",
-      "security": "reality",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@2.26.224.98:443?mode=gun&security=reality&encryption=none&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&fp=firefox&type=grpc&serviceName=grpc-api-v2&sni=www.amd.com&sid=635a76c25a4b1820#vless-grpc-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-34",
-      "ip": "2.26.224.98",
+      "fingerprint": "",
+      "original": "vless://e4824193-4f54-453b-d037-88368e85ef0e@45.207.157.130:443?security=tls&encryption=none&sni=sca12.afterdomain.shop&type=grpc&path=%2f&allow_insecure=0#vless-grpc-tls-HK%F0%9F%87%AD%F0%9F%87%B0-77",
+      "ip": "45.207.157.130",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@2.26.224.98:443?mode=gun&security=reality&encryption=none&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&fp=firefox&type=grpc&serviceName=grpc-api-v2&sni=www.amd.com&sid=635a76c25a4b1820#vless-grpc-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-34"
+      "rebuilt": "vless://e4824193-4f54-453b-d037-88368e85ef0e@45.207.157.130:443?security=tls&encryption=none&sni=sca12.afterdomain.shop&type=grpc&path=%2f&allow_insecure=0#vless-grpc-tls-HK%F0%9F%87%AD%F0%9F%87%B0-77"
     }
   ]
 }

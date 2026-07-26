@@ -1,31 +1,7 @@
 {
-  "updated": "2026-07-26T09:54:02.568760",
-  "count": 4,
+  "updated": "2026-07-26T16:52:40.962277",
+  "count": 5,
   "configs": [
-    {
-      "type": "tg",
-      "address": "football.world-pro.co.uk",
-      "port": "25565",
-      "secret": "7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20",
-      "name": "",
-      "original": "https://t.me/proxy?server=football.world-pro.co.uk&port=25565&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20",
-      "ip": "89.117.222.34",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=football.world-pro.co.uk&port=25565&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20"
-    },
-    {
-      "type": "tg",
-      "address": "ma.hastim.co.uk",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=ma.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-      "ip": "89.117.222.52",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=ma.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-    },
     {
       "type": "tg",
       "address": "iran.click-master.co.uk",
@@ -39,16 +15,60 @@
       "rebuilt": "https://t.me/proxy?server=iran.click-master.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
     },
     {
+      "type": "vless",
+      "address": "89.116.250.135",
+      "port": "443",
+      "id": "14b59caf-a196-4ec2-8c70-c7b388062f5b",
+      "name": "برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn",
+      "network": "ws",
+      "sni": "vangoghhh.info",
+      "host": "vangoghhh.info",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-2",
+      "ip": "89.116.250.135",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-2"
+    },
+    {
+      "type": "tg",
+      "address": "ipv6.ssh-sec.co.uk",
+      "port": "443",
+      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=ipv6.ssh-sec.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "89.117.222.51",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=ipv6.ssh-sec.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    },
+    {
       "type": "tg",
       "address": "f1.car-race.co.uk",
-      "port": "443",
+      "port": "25565",
       "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=f1.car-race.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+      "original": "https://t.me/proxy?server=f1.car-race.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d&@MPT_Proxy",
       "ip": "89.117.222.35",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=f1.car-race.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+      "rebuilt": "https://t.me/proxy?server=f1.car-race.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d&@MPT_Proxy"
+    },
+    {
+      "type": "tg",
+      "address": "ocean.babysharkollah.co.uk",
+      "port": "8443",
+      "secret": "EERighJJvXrFGRMCIMJdCQ",
+      "name": "",
+      "original": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "ip": "89.117.222.43",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
     }
   ]
 }
