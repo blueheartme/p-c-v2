@@ -1,62 +1,34 @@
 {
-  "updated": "2026-07-25T16:51:03.923059",
-  "count": 4,
+  "updated": "2026-07-26T02:07:08.523565",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
       "address": "91.107.145.13",
       "port": "443",
       "password": "5a4ea216-9597-4df7-a119-02949a3b6b82",
-      "name": "🇩🇪 DE 72",
+      "name": "🇩🇪 DE 5",
       "sni": "ger.wafer.fun",
       "host": "",
-      "original": "trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@91.107.145.13:443?sni=ger.wafer.fun&alpn=h2&fp=chrome&type=grpc&serviceName=ChGF4VS2wmOa7OOaBF&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-5",
+      "original": "trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@91.107.145.13:443?sni=ger.wafer.fun&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fChGF4VS2wmOOrQCXl1#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-9",
       "ip": "91.107.145.13",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@91.107.145.13:443?sni=ger.wafer.fun&alpn=h2&fp=chrome&type=grpc&serviceName=ChGF4VS2wmOa7OOaBF&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-5"
+      "rebuilt": "trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@91.107.145.13:443?sni=ger.wafer.fun&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fChGF4VS2wmOOrQCXl1#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-9"
     },
     {
       "type": "trojan",
-      "address": "185.137.157.140",
+      "address": "18.195.11.206",
       "port": "443",
-      "password": "dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q",
-      "name": "Free 106 @Outline_Vpn",
-      "sni": "",
+      "password": "XG59623478",
+      "name": "@meliproxyy",
+      "sni": "enabling-asp.rooster465.autos",
       "host": "",
-      "original": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-8",
-      "ip": "185.137.157.140",
+      "original": "trojan://XG59623478@18.195.11.206:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=enabling-asp.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-39",
+      "ip": "18.195.11.206",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-8"
-    },
-    {
-      "type": "trojan",
-      "address": "63.178.193.196",
-      "port": "443",
-      "password": "NQ26071394",
-      "name": "Free 114 @Outline_Vpn",
-      "sni": "quiet-condor.rooster465.autos",
-      "host": "",
-      "original": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-43",
-      "ip": "63.178.193.196",
-      "country": "DE",
-      "cdn": null,
-      "rebuilt": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-43"
-    },
-    {
-      "type": "trojan",
-      "address": "185.137.157.128",
-      "port": "443",
-      "password": "dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q",
-      "name": "Mi168 18 @Outline_Vpn",
-      "sni": "",
-      "host": "",
-      "original": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-76",
-      "ip": "185.137.157.128",
-      "country": "DE",
-      "cdn": null,
-      "rebuilt": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-76"
+      "rebuilt": "trojan://XG59623478@18.195.11.206:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=enabling-asp.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-39"
     }
   ]
 }

@@ -1,50 +1,20 @@
 {
-  "updated": "2026-07-25T16:51:03.863899",
-  "count": 4,
+  "updated": "2026-07-26T02:07:08.439779",
+  "count": 2,
   "configs": [
     {
-      "type": "tg",
-      "address": "https.web.www.gorgan-well.co.uk.",
-      "port": "443",
-      "secret": "EEABAzJJlbB8AwOG6Ibn8Q",
-      "name": "",
-      "original": "https://t.me/proxy?server=https.web.www.gorgan-well.co.uk.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8Q",
-      "ip": "82.223.151.112",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=https.web.www.gorgan-well.co.uk.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8Q"
-    },
-    {
-      "type": "tg",
-      "address": "kabos.website-best.info",
-      "port": "443",
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "name": "",
-      "original": "https://t.me/proxy?server=kabos.website-best.info&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "ip": "82.223.151.112",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=kabos.website-best.info&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-    },
-    {
-      "type": "vless",
-      "address": "api.oneokgames.com",
-      "port": "443",
-      "id": "86208db7-8bbc-42c2-9eb2-ffe5675502c3",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "grpc",
-      "sni": "api.oneokgames.com",
+      "type": "trojan",
+      "address": "193.148.19.210",
+      "port": "52794",
+      "password": "2eutknankxtbgkwcajzt",
+      "name": "🇪🇸 ES 1",
+      "sni": "www.vk.com",
       "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&fp=firefox&type=grpc&serviceName=push.v2.FeedService&sni=api.oneokgames.com&sid=a30b344b5214d62f#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-3",
-      "ip": "88.148.121.74",
+      "original": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "193.148.19.210",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&fp=firefox&type=grpc&serviceName=push.v2.FeedService&sni=api.oneokgames.com&sid=a30b344b5214d62f#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+      "rebuilt": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1"
     },
     {
       "type": "vless",
@@ -60,11 +30,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@media.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&fp=firefox&type=grpc&serviceName=api.v2.ObjectService&sni=media.oneokgames.com&sid=dbdbeaf4aa6e1a5c#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-4",
+      "original": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@media.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&fp=firefox&type=grpc&serviceName=api.v2.ObjectService&sni=media.oneokgames.com&sid=dbdbeaf4aa6e1a5c#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2",
       "ip": "88.148.121.71",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@media.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&fp=firefox&type=grpc&serviceName=api.v2.ObjectService&sni=media.oneokgames.com&sid=dbdbeaf4aa6e1a5c#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-4"
+      "rebuilt": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@media.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&fp=firefox&type=grpc&serviceName=api.v2.ObjectService&sni=media.oneokgames.com&sid=dbdbeaf4aa6e1a5c#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     }
   ]
 }
