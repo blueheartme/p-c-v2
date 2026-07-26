@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-26T02:07:08.438895",
-  "count": 3,
+  "updated": "2026-07-26T09:54:02.587094",
+  "count": 2,
   "configs": [
     {
       "type": "tg",
-      "address": "87.229.56.20",
+      "address": "87.229.56.7",
       "port": "443",
       "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.20&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.20",
+      "original": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "87.229.56.7",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.20&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+      "rebuilt": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     },
     {
       "type": "vless",
@@ -33,18 +33,6 @@
       "country": "HU",
       "cdn": null,
       "rebuilt": "vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn8-03.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=c7e42004e5f024be&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-2"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.6",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.6&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.6",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.6&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     }
   ]
 }

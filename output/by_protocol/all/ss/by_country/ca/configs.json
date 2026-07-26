@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T02:07:08.547660",
+  "updated": "2026-07-26T09:54:02.600274",
   "count": 3,
   "configs": [
     {
@@ -17,19 +17,6 @@
     },
     {
       "type": "ss",
-      "address": "185.196.61.82",
-      "port": "8080",
-      "method": "aes-256-gcm",
-      "password": "KixLvKzwjekG00rm",
-      "name": "🇨🇦 CA 3",
-      "original": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%203",
-      "ip": "185.196.61.82",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%203"
-    },
-    {
-      "type": "ss",
       "address": "149.22.95.183",
       "port": "443",
       "method": "aes-128-gcm",
@@ -40,6 +27,19 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
+    },
+    {
+      "type": "ss",
+      "address": "185.196.61.82",
+      "port": "8080",
+      "method": "aes-256-gcm",
+      "password": "KixLvKzwjekG00rm",
+      "name": "🇨🇦 CA 3",
+      "original": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%203",
+      "ip": "185.196.61.82",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%203"
     }
   ]
 }

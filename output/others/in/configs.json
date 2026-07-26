@@ -1,34 +1,45 @@
 {
-  "updated": "2026-07-26T02:07:08.418946",
-  "count": 2,
+  "updated": "2026-07-26T09:54:02.579543",
+  "count": 3,
   "configs": [
     {
-      "type": "vmess",
-      "address": "152.67.8.205",
-      "port": "80",
-      "id": "9db4c708-aef8-4359-821b-38e47990be0d",
-      "name": "🇮🇳 IN 5",
-      "network": "ws",
-      "host": "152.67.8.205",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0xIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ==",
-      "ip": "152.67.8.205",
+      "type": "ss",
+      "address": "172.105.39.124",
+      "port": "7002",
+      "method": "aes-256-gcm",
+      "password": "RexnBgU7EV5ADxG",
+      "name": "🇮🇳 IN 6",
+      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%f0%9f%87%ae%f0%9f%87%b3%20IN%206",
+      "ip": "172.105.39.124",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0xIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ=="
+      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%f0%9f%87%ae%f0%9f%87%b3%20IN%206"
     },
     {
       "type": "ss",
-      "address": "103.111.114.82",
+      "address": "103.111.114.55",
       "port": "28061",
       "method": "chacha20-ietf-poly1305",
       "password": "WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm",
-      "name": "🇮🇳 IN 2",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%202",
-      "ip": "103.111.114.82",
+      "name": "🇮🇳 IN 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%201",
+      "ip": "103.111.114.55",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%202"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%201"
+    },
+    {
+      "type": "ss",
+      "address": "103.111.114.61",
+      "port": "28061",
+      "method": "chacha20-ietf-poly1305",
+      "password": "WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm",
+      "name": "🇮🇳 IN 4",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%204",
+      "ip": "103.111.114.61",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%204"
     }
   ]
 }
