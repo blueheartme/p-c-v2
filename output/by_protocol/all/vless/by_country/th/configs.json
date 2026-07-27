@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-12T09:47:26.211655",
+  "updated": "2026-07-27T17:38:33.301187",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "43.164.0.59",
-      "port": "666",
-      "id": "8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19",
-      "name": "🇹🇭 TH 1",
-      "network": "ws",
-      "sni": "43.164.0.59",
+      "address": "165.154.247.187",
+      "port": "2053",
+      "id": "e4f229c9-bd67-45d4-873b-b85a43a2be54",
+      "name": "@proxy_kafee :‌ کانال تلگرام",
+      "network": "tcp",
+      "sni": "www.amazon.com",
       "host": "",
-      "security": "tls",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?security=tls&encryption=none&sni=43.164.0.59&type=ws&path=%2fproxy&allow_insecure=1#vless-ws-tls-TH%F0%9F%87%B9%F0%9F%87%AD-1",
-      "ip": "43.164.0.59",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://e4f229c9-bd67-45d4-873b-b85a43a2be54@165.154.247.187:2053?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=TdKxVjGKYJt4GU5cEXvsOplgYwji6ac7ryCUBBwr-kw&sid=e3b9f430320df1&spx=%2F926d66b01e29824&type=tcp&headerType=none#vless-tcp-reality-chrome-TH%F0%9F%87%B9%F0%9F%87%AD-1",
+      "ip": "165.154.247.187",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?security=tls&encryption=none&sni=43.164.0.59&type=ws&path=%2fproxy&allow_insecure=1#vless-ws-tls-TH%F0%9F%87%B9%F0%9F%87%AD-1"
+      "rebuilt": "vless://e4f229c9-bd67-45d4-873b-b85a43a2be54@165.154.247.187:2053?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=TdKxVjGKYJt4GU5cEXvsOplgYwji6ac7ryCUBBwr-kw&sid=e3b9f430320df1&spx=%2F926d66b01e29824&type=tcp&headerType=none#vless-tcp-reality-chrome-TH%F0%9F%87%B9%F0%9F%87%AD-1"
     }
   ]
 }

@@ -1,46 +1,26 @@
 {
-  "updated": "2026-07-27T11:14:01.464546",
-  "count": 2,
+  "updated": "2026-07-27T17:38:33.292244",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "vh-prod-v3-st-main-22c755-6972ab78.livemy.site",
-      "port": "443",
-      "id": "ce839d2b-e86f-eee0-1a52-2d6fdc6868d0",
-      "name": "@meliproxyy",
-      "network": "xhttp",
-      "sni": "vh-prod-v3-st-main-22c755-6972ab78.livemy.site",
-      "host": "vh-prod-v3-st-main-22c755-6972ab78.livemy.site",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://ce839d2b-e86f-eee0-1a52-2d6fdc6868d0@vh-prod-v3-st-main-22c755-6972ab78.livemy.site:443?mode=packet-up&path=%2Fxhttp-oxnet%2Fpacket-up%2FPlanAsli&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=vh-prod-v3-st-main-22c755-6972ab78.livemy.site&fp=chrome&type=xhttp&allowInsecure=0&sni=vh-prod-v3-st-main-22c755-6972ab78.livemy.site#vless-xhttp-tls-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-3",
-      "ip": "213.162.206.213",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://ce839d2b-e86f-eee0-1a52-2d6fdc6868d0@vh-prod-v3-st-main-22c755-6972ab78.livemy.site:443?mode=packet-up&path=%2Fxhttp-oxnet%2Fpacket-up%2FPlanAsli&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=vh-prod-v3-st-main-22c755-6972ab78.livemy.site&fp=chrome&type=xhttp&allowInsecure=0&sni=vh-prod-v3-st-main-22c755-6972ab78.livemy.site#vless-xhttp-tls-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-3"
-    },
-    {
-      "type": "vless",
-      "address": "dl.onetimeok.com",
+      "address": "grid.onetimeok.com",
       "port": "443",
       "id": "86208db7-8bbc-42c2-9eb2-ffe5675502c3",
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "network": "grpc",
-      "sni": "dl.onetimeok.com",
+      "sni": "grid.onetimeok.com",
       "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=dl.onetimeok.com&sid=8ba32e7cefbf524a#vless-grpc-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-5",
-      "ip": "88.148.121.46",
+      "fingerprint": "firefox",
+      "original": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=firefox&type=grpc&serviceName=gw.v1.MetricsService&sni=grid.onetimeok.com&sid=89e97b6542785ca6#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "88.148.121.45",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=dl.onetimeok.com&sid=8ba32e7cefbf524a#vless-grpc-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-5"
+      "rebuilt": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=firefox&type=grpc&serviceName=gw.v1.MetricsService&sni=grid.onetimeok.com&sid=89e97b6542785ca6#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1"
     }
   ]
 }
