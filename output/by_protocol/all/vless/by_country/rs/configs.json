@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-07T10:25:18.362745",
+  "updated": "2026-07-27T11:14:01.470181",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "2.56.172.83",
-      "port": "8443",
-      "id": "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb",
+      "address": "195.133.18.161",
+      "port": "30153",
+      "id": "da97d2d7-d255-4efd-8398-7101d698768e",
       "name": "🇷🇸 RS 1",
-      "network": "tcp",
-      "sni": "tradingview.com",
+      "network": "",
+      "sni": "",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "security": "",
+      "flow": "",
       "encryption": "",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-RS%F0%9F%87%B7%F0%9F%87%B8-1",
-      "ip": "2.56.172.83",
+      "fingerprint": "",
+      "original": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?path=%2f#vless-tcp-RS%F0%9F%87%B7%F0%9F%87%B8-1",
+      "ip": "195.133.18.161",
       "country": "RS",
       "cdn": null,
-      "rebuilt": "vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-RS%F0%9F%87%B7%F0%9F%87%B8-1"
+      "rebuilt": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?path=%2f#vless-tcp-RS%F0%9F%87%B7%F0%9F%87%B8-1"
     }
   ]
 }

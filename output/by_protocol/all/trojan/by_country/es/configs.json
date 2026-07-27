@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-26T16:52:41.036045",
+  "updated": "2026-07-27T11:14:01.489789",
   "count": 1,
   "configs": [
     {
       "type": "trojan",
-      "address": "193.148.19.210",
-      "port": "52794",
-      "password": "2eutknankxtbgkwcajzt",
-      "name": "🇪🇸 ES 1",
-      "sni": "www.vk.com",
-      "host": "",
-      "original": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
-      "ip": "193.148.19.210",
+      "address": "vh-prod-v3-st-main-22c755-6972ab78.livemy.site",
+      "port": "443",
+      "password": "ce839d2be86feee01a522d6fdc6868d0",
+      "name": "@meliproxyy",
+      "sni": "vh-prod-v3-st-main-22c755-6972ab78.livemy.site",
+      "host": "vh-prod-v3-st-main-22c755-6972ab78.livemy.site",
+      "original": "trojan://ce839d2be86feee01a522d6fdc6868d0@vh-prod-v3-st-main-22c755-6972ab78.livemy.site:443?mode=packet-up&path=%2Fxhttp-oxnet%2Fpacket-up%2FPlanAsli&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=vh-prod-v3-st-main-22c755-6972ab78.livemy.site&fp=chrome&type=xhttp&allowInsecure=0&sni=vh-prod-v3-st-main-22c755-6972ab78.livemy.site#trojan-xhttp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "213.162.206.213",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+      "rebuilt": "trojan://ce839d2be86feee01a522d6fdc6868d0@vh-prod-v3-st-main-22c755-6972ab78.livemy.site:443?mode=packet-up&path=%2Fxhttp-oxnet%2Fpacket-up%2FPlanAsli&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=vh-prod-v3-st-main-22c755-6972ab78.livemy.site&fp=chrome&type=xhttp&allowInsecure=0&sni=vh-prod-v3-st-main-22c755-6972ab78.livemy.site#trojan-xhttp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     }
   ]
 }
