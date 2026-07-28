@@ -1,46 +1,26 @@
 {
-  "updated": "2026-07-27T11:14:01.459050",
-  "count": 3,
+  "updated": "2026-07-28T01:55:32.211478",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "43.163.241.110",
       "port": "24477",
       "id": "2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d",
-      "name": "🇯🇵 JP 73",
-      "network": "",
+      "name": "برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
       "sni": "",
       "host": "",
-      "security": "",
+      "security": "none",
       "flow": "",
-      "encryption": "",
-      "headerType": "",
+      "encryption": "none",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?path=%2f#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-10",
+      "original": "vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-2",
       "ip": "43.163.241.110",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?path=%2f#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-10"
-    },
-    {
-      "type": "vless",
-      "address": "14.137.238.17",
-      "port": "10000",
-      "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
-      "name": "🇯🇵 JP 1",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.17:10000?encryption=none&path=%2f#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-11",
-      "ip": "14.137.238.17",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.17:10000?encryption=none&path=%2f#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-11"
+      "rebuilt": "vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-2"
     },
     {
       "type": "vless",
@@ -56,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-23",
+      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-4",
       "ip": "15.168.173.144",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-23"
+      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-4"
     }
   ]
 }

@@ -1,26 +1,19 @@
 {
-  "updated": "2026-07-27T17:38:33.238304",
+  "updated": "2026-07-28T01:55:32.164912",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "165.154.247.187",
-      "port": "2053",
-      "id": "e4f229c9-bd67-45d4-873b-b85a43a2be54",
-      "name": "@proxy_kafee :‌ کانال تلگرام",
-      "network": "tcp",
-      "sni": "www.amazon.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://e4f229c9-bd67-45d4-873b-b85a43a2be54@165.154.247.187:2053?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=TdKxVjGKYJt4GU5cEXvsOplgYwji6ac7ryCUBBwr-kw&sid=e3b9f430320df1&spx=%2F926d66b01e29824&type=tcp&headerType=none#vless-tcp-reality-chrome-TH%F0%9F%87%B9%F0%9F%87%AD-1",
-      "ip": "165.154.247.187",
+      "type": "ss",
+      "address": "47.81.56.202",
+      "port": "44617",
+      "method": "chacha20-ietf-poly1305",
+      "password": "lhuULRwO4slM6k262pAC4cbq5A1H6z8eaOHV27vi7Yw=",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#%40filembad",
+      "ip": "47.81.56.202",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vless://e4f229c9-bd67-45d4-873b-b85a43a2be54@165.154.247.187:2053?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=TdKxVjGKYJt4GU5cEXvsOplgYwji6ac7ryCUBBwr-kw&sid=e3b9f430320df1&spx=%2F926d66b01e29824&type=tcp&headerType=none#vless-tcp-reality-chrome-TH%F0%9F%87%B9%F0%9F%87%AD-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#%40filembad"
     }
   ]
 }

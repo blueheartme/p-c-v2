@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T17:38:33.235477",
+  "updated": "2026-07-28T01:55:32.170121",
   "count": 2,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "leviko589.levikogjgfdd.ir",
-      "port": "443",
-      "id": "8c70a7cb-4a3e-45b8-b15a-52673b4a03d7",
-      "name": "@meliproxyy",
+      "address": "178.83.31.31",
+      "port": "2087",
+      "id": "75b38c79-92e3-454b-b98e-52fbd254884d",
+      "name": "3|@ConfingV2RaayNG",
       "network": "tcp",
-      "sni": "estoxy.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "http",
       "fingerprint": "",
-      "original": "vless://8c70a7cb-4a3e-45b8-b15a-52673b4a03d7@leviko589.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=r93g3bpvAfKqF6GXG6nu0gz670iYPyn1Ve7e-snzqks&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=estoxy.com&sid=681333da5a32ba5d#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "144.31.240.140",
+      "original": "vless://75b38c79-92e3-454b-b98e-52fbd254884d@178.83.31.31:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "178.83.31.31",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://8c70a7cb-4a3e-45b8-b15a-52673b4a03d7@leviko589.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=r93g3bpvAfKqF6GXG6nu0gz670iYPyn1Ve7e-snzqks&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=estoxy.com&sid=681333da5a32ba5d#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://75b38c79-92e3-454b-b98e-52fbd254884d@178.83.31.31:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }
