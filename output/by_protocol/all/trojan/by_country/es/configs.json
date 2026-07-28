@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-28T10:29:04.378513",
+  "updated": "2026-07-28T17:22:49.264476",
   "count": 1,
   "configs": [
     {
       "type": "trojan",
-      "address": "sp.cloudv.qzz.io",
-      "port": "4433",
-      "password": "t1k5znTjT8",
-      "name": "🇩🇪 DE 2",
-      "sni": "",
-      "host": "sp.cloudv.qzz.io",
-      "original": "trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#trojan-ws-ES%F0%9F%87%AA%F0%9F%87%B8-3",
-      "ip": "212.227.98.235",
+      "address": "193.148.19.210",
+      "port": "52794",
+      "password": "2eutknankxtbgkwcajzt",
+      "name": "🇪🇸 ES 1",
+      "sni": "www.vk.com",
+      "host": "",
+      "original": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "193.148.19.210",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#trojan-ws-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+      "rebuilt": "trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     }
   ]
 }

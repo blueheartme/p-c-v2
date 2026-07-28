@@ -1,26 +1,32 @@
 {
-  "updated": "2026-07-28T10:29:04.320331",
-  "count": 1,
+  "updated": "2026-07-28T17:22:49.212360",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "193.124.57.208",
-      "port": "20342",
-      "id": "5eecb34f-c905-4c77-b7fb-d830b451cd11",
+      "type": "ss",
+      "address": "146.70.222.126",
+      "port": "1080?type=tcp&headerType=none",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?security=&encryption=none&headerType=none&type=tcp#vless-tcp-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "193.124.57.208",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080?type=tcp&headerType=none#%40filembad",
+      "ip": "146.70.222.126",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?security=&encryption=none&headerType=none&type=tcp#vless-tcp-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080?type=tcp&headerType=none#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "146.70.222.126",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9",
+      "ip": "146.70.222.126",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9"
     }
   ]
 }

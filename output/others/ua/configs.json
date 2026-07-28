@@ -1,26 +1,19 @@
 {
-  "updated": "2026-07-22T17:10:31.706899",
+  "updated": "2026-07-28T17:22:49.210825",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "de.pub.accuratenetworkchecker.ir",
-      "port": "2053",
-      "id": "StableInternet",
-      "name": "Channel : @proxy_kafee",
-      "network": "grpc",
-      "sni": "grc.accuratenetworkchecker.ir",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://StableInternet@de.pub.accuratenetworkchecker.ir:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#vless-grpc-tls-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1",
-      "ip": "89.116.180.243",
+      "type": "ss",
+      "address": "194.54.80.37",
+      "port": "1080?type=tcp&headerType=none",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.54.80.37:1080?type=tcp&headerType=none#%40filembad",
+      "ip": "194.54.80.37",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://StableInternet@de.pub.accuratenetworkchecker.ir:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#vless-grpc-tls-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.54.80.37:1080?type=tcp&headerType=none#%40filembad"
     }
   ]
 }
