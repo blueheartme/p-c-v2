@@ -1,20 +1,26 @@
 {
-  "updated": "2026-07-28T01:55:32.175761",
+  "updated": "2026-07-28T10:29:04.320889",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "45.82.14.144",
-      "port": "2025",
-      "password": "vpn",
-      "name": "🇰🇿 KZ 2",
+      "type": "vless",
+      "address": "193.124.204.145",
+      "port": "49853",
+      "id": "5ed7b151-b781-4dba-800d-e3f824f1416f",
+      "name": "🇰🇿 KZ 3",
+      "network": "",
       "sni": "",
-      "host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
-      "original": "trojan://vpn@45.82.14.144:2025?security=none&encryption=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "45.82.14.144",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?path=%2f#vless-tcp-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "193.124.204.145",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "trojan://vpn@45.82.14.144:2025?security=none&encryption=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#trojan-ws-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?path=%2f#vless-tcp-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }

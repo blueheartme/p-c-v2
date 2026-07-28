@@ -1,26 +1,21 @@
 {
-  "updated": "2026-07-21T17:09:54.854886",
+  "updated": "2026-07-28T10:29:04.319140",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "81.27.109.58",
-      "port": "443",
-      "id": "5ce0a88d-f859-476c-89d2-84d884719ce0",
+      "type": "vmess",
+      "address": "status.nixonbhost.top",
+      "port": "33550",
+      "id": "6f276b57-2b72-4e00-b441-b0ae47487a59",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "stackoverflow.com",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://5ce0a88d-f859-476c-89d2-84d884719ce0@81.27.109.58:443?security=reality&encryption=none&pbk=lsoQ2VwM28cxL5EN9QUYqxIANufAhK9zuMweDXN9X1U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=eadf3dadcf952a7a#vless-xtls-rprx-vision-tcp-reality-firefox-DK%F0%9F%87%A9%F0%9F%87%B0-1",
-      "ip": "81.27.109.58",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJzdGF0dXMubml4b25iaG9zdC50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmYyNzZiNTctMmI3Mi00ZTAwLWI0NDEtYjBhZTQ3NDg3YTU5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIzMzU1MCIsInBzIjoidm1lc3MtYXV0by10Y3AtREvwn4ep8J+HsC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "ip": "194.77.220.30",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://5ce0a88d-f859-476c-89d2-84d884719ce0@81.27.109.58:443?security=reality&encryption=none&pbk=lsoQ2VwM28cxL5EN9QUYqxIANufAhK9zuMweDXN9X1U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=eadf3dadcf952a7a#vless-xtls-rprx-vision-tcp-reality-firefox-DK%F0%9F%87%A9%F0%9F%87%B0-1"
+      "rebuilt": "vmess://eyJhZGQiOiJzdGF0dXMubml4b25iaG9zdC50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmYyNzZiNTctMmI3Mi00ZTAwLWI0NDEtYjBhZTQ3NDg3YTU5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIzMzU1MCIsInBzIjoidm1lc3MtYXV0by10Y3AtREvwn4ep8J+HsC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }
