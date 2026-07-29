@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-29T01:58:37.019387",
-  "count": 4,
+  "updated": "2026-07-29T10:33:48.663403",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "194.59.183.134",
+      "port": "46114",
+      "method": "chacha20-ietf-poly1305",
+      "password": "lejSRyqa033OEPmEQsvRsl",
+      "name": "Germany 0VH",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH",
+      "ip": "194.59.183.134",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH"
+    },
     {
       "type": "ss",
       "address": "57.129.121.230",
@@ -16,34 +29,6 @@
       "tested": true,
       "working": true,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#%f0%9f%87%a9%f0%9f%87%aa%20DE%202"
-    },
-    {
-      "type": "ss",
-      "address": "63.181.37.22",
-      "port": "1001",
-      "method": "chacha20-ietf-poly1305",
-      "password": "uDkIuiUYqxcyREXrmkB_Dg",
-      "name": "1|@ConfingV2RaayNG",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGtJdWlVWXF4Y3lSRVhybWtCX0Rn@63.181.37.22:1001#1%7C%40ConfingV2RaayNG",
-      "ip": "63.181.37.22",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGtJdWlVWXF4Y3lSRVhybWtCX0Rn@63.181.37.22:1001#1%7C%40ConfingV2RaayNG"
-    },
-    {
-      "type": "ss",
-      "address": "194.59.183.134",
-      "port": "46114",
-      "method": "chacha20-ietf-poly1305",
-      "password": "lejSRyqa033OEPmEQsvRsl",
-      "name": "Germany 0VH",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH",
-      "ip": "194.59.183.134",
-      "country": "DE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH"
     },
     {
       "type": "ss",

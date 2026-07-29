@@ -1,20 +1,33 @@
 {
-  "updated": "2026-07-29T01:58:36.916498",
-  "count": 1,
+  "updated": "2026-07-29T10:33:48.581201",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
       "address": "167.150.100.133",
       "port": "450",
       "password": "0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m",
-      "name": "🇸🇬 SG 4",
+      "name": "🇸🇬 SG 2",
       "sni": "grape-power-sg.roxa.org",
       "host": "",
-      "original": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&sni=grape-power-sg.roxa.org&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "original": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&sni=grape-power-sg.roxa.org&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "167.150.100.133",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&sni=grape-power-sg.roxa.org&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&sni=grape-power-sg.roxa.org&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "ss",
+      "address": "178.128.86.181",
+      "port": "51435",
+      "method": "chacha20-ietf-poly1305",
+      "password": "i8asar9lrxhavh38",
+      "name": "Join@ConfingV2RaayNG",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppOGFzYXI5bHJ4aGF2aDM4@178.128.86.181:51435#Join@ConfingV2RaayNG",
+      "ip": "178.128.86.181",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppOGFzYXI5bHJ4aGF2aDM4@178.128.86.181:51435#Join@ConfingV2RaayNG"
     }
   ]
 }
