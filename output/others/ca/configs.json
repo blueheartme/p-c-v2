@@ -1,32 +1,26 @@
 {
-  "updated": "2026-07-28T17:22:49.205728",
-  "count": 4,
+  "updated": "2026-07-29T01:58:36.953905",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "68.168.116.6",
-      "port": "1080?type=tcp&headerType=none",
-      "method": "chacha20-ietf-poly1305",
-      "password": "XF0klw7870vXn3uQIxe19Q",
+      "type": "vless",
+      "address": "185.206.170.29",
+      "port": "8080",
+      "id": "6e460362-58db-44ea-ab5f-168fddf34da1",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.116.6:1080?type=tcp&headerType=none#%40filembad",
-      "ip": "68.168.116.6",
+      "network": "tcp",
+      "sni": "play.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://6e460362-58db-44ea-ab5f-168fddf34da1@185.206.170.29:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#vless-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "185.206.170.29",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.116.6:1080?type=tcp&headerType=none#%40filembad"
-    },
-    {
-      "type": "ss",
-      "address": "ca1.levikogjgfdd.ir",
-      "port": "1080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "XF0klw7870vXn3uQIxe19Q",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@ca1.levikogjgfdd.ir:1080#%40filembad",
-      "ip": "72.10.173.91",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@ca1.levikogjgfdd.ir:1080#%40filembad"
+      "rebuilt": "vless://6e460362-58db-44ea-ab5f-168fddf34da1@185.206.170.29:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#vless-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     },
     {
       "type": "ss",
@@ -40,19 +34,6 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
-    },
-    {
-      "type": "ss",
-      "address": "72.10.173.91",
-      "port": "1080?",
-      "method": "chacha20-ietf-poly1305",
-      "password": "XF0klw7870vXn3uQIxe19Q",
-      "name": "@proxy_kafee",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@72.10.173.91:1080?#%40proxy_kafee",
-      "ip": "72.10.173.91",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@72.10.173.91:1080?#%40proxy_kafee"
     }
   ]
 }

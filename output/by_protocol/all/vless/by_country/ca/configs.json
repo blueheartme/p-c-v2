@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-20T03:05:37.550969",
+  "updated": "2026-07-29T01:58:36.994294",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "q7sv9.pastilbastani.ir",
-      "port": "443",
-      "id": "d223a3b5-d048-4c7f-83ea-8c1466bc28f2",
-      "name": "@meliproxyy",
+      "address": "185.206.170.29",
+      "port": "8080",
+      "id": "6e460362-58db-44ea-ab5f-168fddf34da1",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "",
-      "host": "play.google.com",
-      "security": "none",
+      "sni": "play.google.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://d223a3b5-d048-4c7f-83ea-8c1466bc28f2@q7sv9.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "38.128.251.191",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://6e460362-58db-44ea-ab5f-168fddf34da1@185.206.170.29:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#vless-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "185.206.170.29",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://d223a3b5-d048-4c7f-83ea-8c1466bc28f2@q7sv9.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vless://6e460362-58db-44ea-ab5f-168fddf34da1@185.206.170.29:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#vless-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     }
   ]
 }
