@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-29T17:08:52.161727",
-  "count": 1,
+  "updated": "2026-07-30T01:50:11.136297",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.89.105.74",
+      "port": "40443",
+      "id": "511c1563-2cb6-4064-abc6-a59ee49818a8",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "deepl.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://511c1563-2cb6-4064-abc6-a59ee49818a8@45.89.105.74:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "45.89.105.74",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://511c1563-2cb6-4064-abc6-a59ee49818a8@45.89.105.74:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
     {
       "type": "ss",
       "address": "172.105.39.124",

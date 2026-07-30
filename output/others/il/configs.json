@@ -1,26 +1,19 @@
 {
-  "updated": "2026-07-21T10:20:27.196089",
+  "updated": "2026-07-30T01:50:11.133879",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "37.142.205.77",
-      "port": "20443",
-      "id": "808a0627-05e5-47b3-8d27-edd65020ef09",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "://microsoft.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://808a0627-05e5-47b3-8d27-edd65020ef09@37.142.205.77:20443?security=reality&encryption=none&pbk=p8q3yhwdryc9YfL-xSO78M03SIF5LrizXc_7R9ARYQ8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=://microsoft.com&sid=183d612c#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%87%AE%F0%9F%87%B1-1",
-      "ip": "37.142.205.77",
+      "type": "ss",
+      "address": "185.185.134.70",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "🇮🇱 IL 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.185.134.70:1080#%f0%9f%87%ae%f0%9f%87%b1%20IL%201",
+      "ip": "185.185.134.70",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "vless://808a0627-05e5-47b3-8d27-edd65020ef09@37.142.205.77:20443?security=reality&encryption=none&pbk=p8q3yhwdryc9YfL-xSO78M03SIF5LrizXc_7R9ARYQ8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=://microsoft.com&sid=183d612c#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%87%AE%F0%9F%87%B1-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.185.134.70:1080#%f0%9f%87%ae%f0%9f%87%b1%20IL%201"
     }
   ]
 }
