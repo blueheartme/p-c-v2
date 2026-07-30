@@ -1,55 +1,23 @@
 {
-  "updated": "2026-07-30T10:18:33.313237",
-  "count": 3,
+  "updated": "2026-07-30T17:20:42.754755",
+  "count": 1,
   "configs": [
     {
       "type": "vmess",
-      "address": "fj260205.freechatup.com",
+      "address": "195.133.193.18",
       "port": "27726",
       "id": "98e2be3c-8f84-4b85-996b-b68dcc2fbcb6",
-      "name": "@proxy_kafee",
+      "name": "@meliproxy",
       "network": "tcp",
-      "host": "fj260205.freechatup.com",
+      "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiJmajI2MDIwNS5mcmVlY2hhdHVwLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmoyNjAyMDUuZnJlZWNoYXR1cC5jb20iLCJpZCI6Ijk4ZTJiZTNjLThmODQtNGI4NS05OTZiLWI2OGRjYzJmYmNiNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI3NzI2IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTMxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "original": "vmess://eyJhZGQiOiIxOTUuMTMzLjE5My4xOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5OGUyYmUzYy04Zjg0LTRiODUtOTk2Yi1iNjhkY2MyZmJjYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjI3NzI2IiwicHMiOiJ2bWVzcy1jaGFjaGEyMC1wb2x5MTMwNS10Y3AtREXwn4ep8J+Hqi03OCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
       "ip": "195.133.193.18",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiJmajI2MDIwNS5mcmVlY2hhdHVwLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmoyNjAyMDUuZnJlZWNoYXR1cC5jb20iLCJpZCI6Ijk4ZTJiZTNjLThmODQtNGI4NS05OTZiLWI2OGRjYzJmYmNiNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI3NzI2IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTMxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
-    },
-    {
-      "type": "vmess",
-      "address": "jeffptrade.com",
-      "port": "443",
-      "id": "b86f3b55-04dd-532b-3a05-11d9ebd42604",
-      "name": "🇺🇸 US 31",
-      "network": "ws",
-      "host": "jeffptrade.com",
-      "sni": "jeffptrade.com",
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1ERfCfh6nwn4eqLTk1IiwiYWRkIjoiamVmZnB0cmFkZS5jb20iLCJwb3J0Ijo0NDMsImlkIjoiYjg2ZjNiNTUtMDRkZC01MzJiLTNhMDUtMTFkOWViZDQyNjA0IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiamVmZnB0cmFkZS5jb20iLCJhbHBuIjpudWxsLCJwYXRoIjoiL29kaXh2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqZWZmcHRyYWRlLmNvbSIsImZwIjpudWxsfQ==",
-      "ip": "194.87.105.162",
-      "country": "DE",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1ERfCfh6nwn4eqLTk1IiwiYWRkIjoiamVmZnB0cmFkZS5jb20iLCJwb3J0Ijo0NDMsImlkIjoiYjg2ZjNiNTUtMDRkZC01MzJiLTNhMDUtMTFkOWViZDQyNjA0IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiamVmZnB0cmFkZS5jb20iLCJhbHBuIjpudWxsLCJwYXRoIjoiL29kaXh2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqZWZmcHRyYWRlLmNvbSIsImZwIjpudWxsfQ=="
-    },
-    {
-      "type": "vmess",
-      "address": "91.107.139.186",
-      "port": "51459",
-      "id": "500cdc83-b189-4d79-b06b-139c7972a57f",
-      "name": "🇩🇪 DE 2",
-      "network": "tcp",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1ERfCfh6nwn4eqLTUyIiwiYWRkIjoiOTEuMTA3LjEzOS4xODYiLCJwb3J0Ijo1MTQ1OSwiaWQiOiI1MDBjZGM4My1iMTg5LTRkNzktYjA2Yi0xMzljNzk3MmE1N2YiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "91.107.139.186",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1ERfCfh6nwn4eqLTUyIiwiYWRkIjoiOTEuMTA3LjEzOS4xODYiLCJwb3J0Ijo1MTQ1OSwiaWQiOiI1MDBjZGM4My1iMTg5LTRkNzktYjA2Yi0xMzljNzk3MmE1N2YiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "vmess://eyJhZGQiOiIxOTUuMTMzLjE5My4xOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5OGUyYmUzYy04Zjg0LTRiODUtOTk2Yi1iNjhkY2MyZmJjYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjI3NzI2IiwicHMiOiJ2bWVzcy1jaGFjaGEyMC1wb2x5MTMwNS10Y3AtREXwn4ep8J+Hqi03OCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
     }
   ]
 }

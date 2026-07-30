@@ -1,59 +1,40 @@
 {
-  "updated": "2026-07-30T10:18:33.249935",
-  "count": 4,
+  "updated": "2026-07-30T17:20:42.660802",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "91.192.81.214",
+      "port": "443",
+      "id": "607801ac-dbdd-4938-a167-129015d9978e",
+      "name": "🇸🇬 SG 1",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "91.192.81.214",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
     {
       "type": "trojan",
       "address": "167.150.100.133",
       "port": "450",
       "password": "0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m",
-      "name": "9|@ConfingV2RaayNG",
+      "name": "@meliproxyy",
       "sni": "grape-power-sg.roxa.org",
       "host": "",
-      "original": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "original": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
       "ip": "167.150.100.133",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
-    {
-      "type": "ss",
-      "address": "157.230.240.128",
-      "port": "12380",
-      "method": "chacha20-ietf-poly1305",
-      "password": "LG9UzkKlO6qf7AHkXzZ3M7L+VZJpPrscFn1N0MXJ5hk=",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMRzlVemtLbE82cWY3QUhrWHpaM003TCtWWkpwUHJzY0ZuMU4wTVhKNWhrPQ@157.230.240.128:12380#%40filembad",
-      "ip": "157.230.240.128",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMRzlVemtLbE82cWY3QUhrWHpaM003TCtWWkpwUHJzY0ZuMU4wTVhKNWhrPQ@157.230.240.128:12380#%40filembad"
-    },
-    {
-      "type": "ss",
-      "address": "103.106.229.69",
-      "port": "9090",
-      "method": "aes-256-gcm",
-      "password": "Y6R9pAtvxxzmGC",
-      "name": "🇸🇬 SG 1",
-      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#%f0%9f%87%b8%f0%9f%87%ac%20SG%201",
-      "ip": "103.106.229.69",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#%f0%9f%87%b8%f0%9f%87%ac%20SG%201"
-    },
-    {
-      "type": "ss",
-      "address": "178.128.86.181",
-      "port": "51435",
-      "method": "chacha20-ietf-poly1305",
-      "password": "i8asar9lrxhavh38",
-      "name": "Join@ConfingV2RaayNG",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppOGFzYXI5bHJ4aGF2aDM4@178.128.86.181:51435#Join@ConfingV2RaayNG",
-      "ip": "178.128.86.181",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppOGFzYXI5bHJ4aGF2aDM4@178.128.86.181:51435#Join@ConfingV2RaayNG"
+      "rebuilt": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }

@@ -1,19 +1,26 @@
 {
-  "updated": "2026-07-29T17:08:52.165492",
+  "updated": "2026-07-30T17:20:42.677004",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "194.54.80.37",
-      "port": "1080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "XF0klw7870vXn3uQIxe19Q",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.54.80.37:1080#%40filembad",
-      "ip": "194.54.80.37",
+      "type": "vless",
+      "address": "ukraine.xiaomaimai.dpdns.org",
+      "port": "20071",
+      "id": "65c56e1f-5c41-40bc-b0b5-9346772476ca",
+      "name": "🇺🇦 UA 1",
+      "network": "tcp",
+      "sni": "www.lamer.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "edge",
+      "original": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@ukraine.xiaomaimai.dpdns.org:20071?flow=xtls-rprx-vision&security=reality&sni=www.lamer.com&fp=edge&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "ip": "91.236.248.20",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.54.80.37:1080#%40filembad"
+      "rebuilt": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@ukraine.xiaomaimai.dpdns.org:20071?flow=xtls-rprx-vision&security=reality&sni=www.lamer.com&fp=edge&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-UA%F0%9F%87%BA%F0%9F%87%A6-1"
     }
   ]
 }

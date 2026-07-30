@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-22T17:10:31.737419",
+  "updated": "2026-07-30T17:20:42.721358",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "de.pub.accuratenetworkchecker.ir",
-      "port": "2053",
-      "id": "StableInternet",
-      "name": "Channel : @proxy_kafee",
-      "network": "grpc",
-      "sni": "grc.accuratenetworkchecker.ir",
+      "address": "ukraine.xiaomaimai.dpdns.org",
+      "port": "20071",
+      "id": "65c56e1f-5c41-40bc-b0b5-9346772476ca",
+      "name": "🇺🇦 UA 1",
+      "network": "tcp",
+      "sni": "www.lamer.com",
       "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://StableInternet@de.pub.accuratenetworkchecker.ir:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#vless-grpc-tls-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1",
-      "ip": "89.116.180.243",
+      "fingerprint": "edge",
+      "original": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@ukraine.xiaomaimai.dpdns.org:20071?flow=xtls-rprx-vision&security=reality&sni=www.lamer.com&fp=edge&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "ip": "91.236.248.20",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://StableInternet@de.pub.accuratenetworkchecker.ir:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#vless-grpc-tls-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@ukraine.xiaomaimai.dpdns.org:20071?flow=xtls-rprx-vision&security=reality&sni=www.lamer.com&fp=edge&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-UA%F0%9F%87%BA%F0%9F%87%A6-1"
     }
   ]
 }

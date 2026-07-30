@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-29T17:08:52.208632",
+  "updated": "2026-07-30T17:20:42.715151",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "141.133.172.222",
+      "address": "193.124.57.208",
       "port": "20342",
       "id": "5eecb34f-c905-4c77-b7fb-d830b451cd11",
-      "name": "@filembad",
-      "network": "tcp",
+      "name": "🇨🇿 CZ 3",
+      "network": "",
       "sni": "",
       "host": "",
-      "security": "",
+      "security": "none",
       "flow": "",
-      "encryption": "none",
-      "headerType": "none",
+      "encryption": "",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=&encryption=none&headerType=none&type=tcp#vless-tcp-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
-      "ip": "141.133.172.222",
+      "original": "vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?security=none&path=%2f#vless-tcp-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
+      "ip": "193.124.57.208",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=&encryption=none&headerType=none&type=tcp#vless-tcp-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
+      "rebuilt": "vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?security=none&path=%2f#vless-tcp-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
     }
   ]
 }

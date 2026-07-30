@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-30T10:18:33.256805",
+  "updated": "2026-07-30T17:20:42.677662",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "185.207.197.12",
-      "port": "80",
-      "id": "080fad7c-ff4b-499f-ab5d-52d69ea5745a",
-      "name": "",
-      "network": "",
-      "sni": "",
-      "host": "calm-tree-22b0.215-d2a.workers.dev",
-      "security": "",
+      "address": "46.250.240.80",
+      "port": "2053",
+      "id": "aea85a22-6404-4d1f-becd-17bc7dc14b8f",
+      "name": "🇦🇺 AU 1",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
-      "encryption": "none",
+      "encryption": "",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&path=/pyip=Telegram#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "185.207.197.12",
+      "fingerprint": "chrome",
+      "original": "vless://aea85a22-6404-4d1f-becd-17bc7dc14b8f@46.250.240.80:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=uf8sbHK411DeW1Wo5Yt-VmR_FeirV3HmVFeaO2T44j0&sid=96831d397b50de01&type=tcp&path=%2f#vless-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "46.250.240.80",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&path=/pyip=Telegram#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://aea85a22-6404-4d1f-becd-17bc7dc14b8f@46.250.240.80:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=uf8sbHK411DeW1Wo5Yt-VmR_FeirV3HmVFeaO2T44j0&sid=96831d397b50de01&type=tcp&path=%2f#vless-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }
