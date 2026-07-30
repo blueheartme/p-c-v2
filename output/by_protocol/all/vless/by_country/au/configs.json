@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-05T17:01:35.893531",
+  "updated": "2026-07-30T10:18:33.300819",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "103.160.204.56",
-      "port": "443",
-      "id": "0970324b-8c61-4ae7-8c3f-385a6f1e17e4",
-      "name": "@filembad",
-      "network": "ws",
+      "address": "185.207.197.12",
+      "port": "80",
+      "id": "080fad7c-ff4b-499f-ab5d-52d69ea5745a",
+      "name": "",
+      "network": "",
       "sni": "",
-      "host": "vpn47.cc.cd",
-      "security": "tls",
+      "host": "calm-tree-22b0.215-d2a.workers.dev",
+      "security": "",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@103.160.204.56:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-4",
-      "ip": "103.160.204.56",
+      "fingerprint": "",
+      "original": "vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&path=/pyip=Telegram#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "185.207.197.12",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@103.160.204.56:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-4"
+      "rebuilt": "vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&path=/pyip=Telegram#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

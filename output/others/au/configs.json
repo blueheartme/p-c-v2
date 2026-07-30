@@ -1,19 +1,26 @@
 {
-  "updated": "2026-07-30T01:50:11.138434",
+  "updated": "2026-07-30T10:18:33.256805",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "103.106.231.82",
-      "port": "5600",
-      "method": "aes-256-gcm",
-      "password": "Y6R9pAtvxxzmGC",
-      "name": "🇦🇺 AU 1",
-      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#%f0%9f%87%a6%f0%9f%87%ba%20AU%201",
-      "ip": "103.106.231.82",
+      "type": "vless",
+      "address": "185.207.197.12",
+      "port": "80",
+      "id": "080fad7c-ff4b-499f-ab5d-52d69ea5745a",
+      "name": "",
+      "network": "",
+      "sni": "",
+      "host": "calm-tree-22b0.215-d2a.workers.dev",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&path=/pyip=Telegram#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "185.207.197.12",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#%f0%9f%87%a6%f0%9f%87%ba%20AU%201"
+      "rebuilt": "vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&path=/pyip=Telegram#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

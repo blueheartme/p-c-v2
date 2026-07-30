@@ -1,26 +1,46 @@
 {
-  "updated": "2026-06-26T10:46:47.069322",
-  "count": 1,
+  "updated": "2026-07-30T10:18:33.298252",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "185.133.35.140",
-      "port": "80",
-      "id": "f9255507-1b65-433f-bfd8-193b35e068e2",
-      "name": "channel→@networld_vpn",
-      "network": "ws",
+      "address": "201.24.123.197",
+      "port": "989",
+      "id": "3ffe5ba9-835a-40bd-9b57-5a7ea2c2b4bb",
+      "name": "@meliproxyy",
+      "network": "tcp",
       "sni": "",
-      "host": "s5.868001.xyz",
+      "host": "",
       "security": "",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "185.133.35.140",
+      "original": "vless://3ffe5ba9-835a-40bd-9b57-5a7ea2c2b4bb@201.24.123.197:989?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "ip": "201.24.123.197",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+      "rebuilt": "vless://3ffe5ba9-835a-40bd-9b57-5a7ea2c2b4bb@201.24.123.197:989?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+    },
+    {
+      "type": "vless",
+      "address": "201.24.123.197",
+      "port": "445",
+      "id": "ee5a9925-920e-4428-beb7-c70b8a7e4521",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:445?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-2",
+      "ip": "201.24.123.197",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:445?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-2"
     }
   ]
 }
