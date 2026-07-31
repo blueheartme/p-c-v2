@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-30T17:20:42.673772",
+  "updated": "2026-07-31T02:08:10.552607",
   "count": 6,
   "configs": [
+    {
+      "type": "ss",
+      "address": "4.231.225.39",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "IYJ5IS2oSAs93kGT",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#%40filembad",
+      "ip": "4.231.225.39",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#%40filembad"
+    },
     {
       "type": "trojan",
       "address": "3.249.67.252",
@@ -10,11 +23,11 @@
       "name": "Mi168 14 @Outline_Vpn",
       "sni": "singular-lark.rooster465.autos",
       "host": "",
-      "original": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1",
+      "original": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2",
       "ip": "3.249.67.252",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1"
+      "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2"
     },
     {
       "type": "ss",
@@ -32,15 +45,15 @@
     {
       "type": "ss",
       "address": "4.231.225.39",
-      "port": "443",
+      "port": "443?",
       "method": "chacha20-ietf-poly1305",
       "password": "IYJ5IS2oSAs93kGT",
       "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443?#@meliproxyy",
       "ip": "4.231.225.39",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#@meliproxyy"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443?#@meliproxyy"
     },
     {
       "type": "ss",
@@ -67,19 +80,6 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuSENjc1hLMnJFY3M5bFJp@20.107.187.192:443#1|@ConfingV2RaayNG"
-    },
-    {
-      "type": "ss",
-      "address": "4.210.66.168",
-      "port": "443?",
-      "method": "chacha20-ietf-poly1305",
-      "password": "jGmlLG23FdMVtwAq",
-      "name": "@proxy_kafee",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR21sTEcyM0ZkTVZ0d0Fx@4.210.66.168:443?#%40proxy_kafee",
-      "ip": "4.210.66.168",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR21sTEcyM0ZkTVZ0d0Fx@4.210.66.168:443?#%40proxy_kafee"
     }
   ]
 }

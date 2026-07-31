@@ -1,35 +1,7 @@
 {
-  "updated": "2026-07-30T17:20:42.672332",
-  "count": 3,
+  "updated": "2026-07-31T02:08:10.562831",
+  "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "50.114.177.134",
-      "port": "20111",
-      "method": "aes-256-gcm",
-      "password": "2803361d6c196af8",
-      "name": "@filembad",
-      "original": "ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.134:20111#%40filembad",
-      "ip": "50.114.177.134",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.134:20111#%40filembad"
-    },
-    {
-      "type": "vmess",
-      "address": "23.162.200.198",
-      "port": "18000",
-      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
-      "name": "🇨🇦 CA 2",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNB8J+HqPCfh6YtMiIsImFkZCI6IjIzLjE2Mi4yMDAuMTk4IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "23.162.200.198",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNB8J+HqPCfh6YtMiIsImFkZCI6IjIzLjE2Mi4yMDAuMTk4IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
-    },
     {
       "type": "vless",
       "address": "185.206.170.29",
@@ -44,11 +16,26 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://6e460362-58db-44ea-ab5f-168fddf34da1@185.206.170.29:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#vless-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "original": "vless://6e460362-58db-44ea-ab5f-168fddf34da1@185.206.170.29:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#vless-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
       "ip": "185.206.170.29",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://6e460362-58db-44ea-ab5f-168fddf34da1@185.206.170.29:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#vless-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+      "rebuilt": "vless://6e460362-58db-44ea-ab5f-168fddf34da1@185.206.170.29:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#vless-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
+    {
+      "type": "vmess",
+      "address": "134.195.196.211",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "🇨🇦 CA 1",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNB8J+HqPCfh6YtMiIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "134.195.196.211",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNB8J+HqPCfh6YtMiIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     }
   ]
 }
