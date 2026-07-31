@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-31T10:32:02.772233",
+  "updated": "2026-07-31T17:23:15.149749",
   "count": 3,
   "configs": [
     {
       "type": "vless",
       "address": "201.24.123.197",
-      "port": "420",
+      "port": "445",
       "id": "ee5a9925-920e-4428-beb7-c70b8a7e4521",
       "name": "@meliproxyy",
       "network": "tcp",
@@ -16,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:420?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "original": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:445?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-1",
       "ip": "201.24.123.197",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:420?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+      "rebuilt": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:445?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-1"
     },
     {
       "type": "vless",
@@ -45,7 +45,7 @@
     {
       "type": "vless",
       "address": "201.24.123.197",
-      "port": "445",
+      "port": "420",
       "id": "ee5a9925-920e-4428-beb7-c70b8a7e4521",
       "name": "@meliproxyy",
       "network": "tcp",
@@ -56,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:445?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-3",
+      "original": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:420?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-3",
       "ip": "201.24.123.197",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:445?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-3"
+      "rebuilt": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:420?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-3"
     }
   ]
 }

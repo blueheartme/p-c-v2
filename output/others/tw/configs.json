@@ -1,19 +1,34 @@
 {
-  "updated": "2026-07-31T10:32:02.740471",
-  "count": 2,
+  "updated": "2026-07-31T17:23:15.090559",
+  "count": 5,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "165.154.195.38",
+      "port": "35034",
+      "id": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
+      "name": "🇹🇼 TW 3",
+      "network": "tcp",
+      "host": "",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UV/Cfh7nwn4e8LTEiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOjM1MDM0LCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "165.154.195.38",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UV/Cfh7nwn4e8LTEiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOjM1MDM0LCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
     {
       "type": "ss",
       "address": "r3mrcg00129437x.cybervena.com",
       "port": "50099?",
       "method": "chacha20-ietf-poly1305",
       "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
-      "name": "@proxy_kafee",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099?#%40proxy_kafee",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099?#@meliproxyy",
       "ip": "61.231.49.125",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099?#%40proxy_kafee"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099?#@meliproxyy"
     },
     {
       "type": "ss",
@@ -27,6 +42,46 @@
       "country": "TW",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#%E2%98%91%E2%9E%9C%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86%3A%20Express_freevpn%40"
+    },
+    {
+      "type": "vless",
+      "address": "60.249.101.16",
+      "port": "10000",
+      "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
+      "name": "🇹🇼 TW 1",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-4",
+      "ip": "60.249.101.16",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-4"
+    },
+    {
+      "type": "vless",
+      "address": "60.249.101.14",
+      "port": "10000",
+      "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
+      "name": "🇹🇼 TW 2",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-5",
+      "ip": "60.249.101.14",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-5"
     }
   ]
 }

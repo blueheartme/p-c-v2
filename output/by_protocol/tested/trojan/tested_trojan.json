@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-31T10:32:02.842500",
-  "count": 4,
+  "updated": "2026-07-31T17:23:15.200350",
+  "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "188.114.97.6",
+      "port": "443",
+      "password": "humanity",
+      "name": "@meliproxyy",
+      "sni": "www.calmloud.com",
+      "host": "www.calmloud.com",
+      "original": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "ip": "188.114.97.6",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+    },
     {
       "type": "trojan",
       "address": "188.114.96.3",
@@ -10,13 +26,13 @@
       "name": "@meliproxyy",
       "sni": "www.calmlunch.com",
       "host": "",
-      "original": "trojan://humanity@188.114.96.3:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "original": "trojan://humanity@188.114.96.3:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-24",
       "ip": "188.114.96.3",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@188.114.96.3:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "rebuilt": "trojan://humanity@188.114.96.3:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-24"
     },
     {
       "type": "trojan",
@@ -26,45 +42,13 @@
       "name": "@meliproxyy",
       "sni": "usa-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR",
       "host": "U-sa-mitivpn--MiTiVPN---MiTiVPN-av.aPp-cLoud.IR",
-      "original": "trojan://MITIVPN@188.114.97.6:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FU-sa&host=U-sa-mitivpn--MiTiVPN---MiTiVPN-av.aPp-cLoud.IR&sni=usa-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-11",
+      "original": "trojan://MITIVPN@188.114.97.6:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FU-sa&host=U-sa-mitivpn--MiTiVPN---MiTiVPN-av.aPp-cLoud.IR&sni=usa-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-33",
       "ip": "188.114.97.6",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://MITIVPN@188.114.97.6:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FU-sa&host=U-sa-mitivpn--MiTiVPN---MiTiVPN-av.aPp-cLoud.IR&sni=usa-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-11"
-    },
-    {
-      "type": "trojan",
-      "address": "188.114.97.6",
-      "port": "443",
-      "password": "humanity",
-      "name": "@meliproxyy",
-      "sni": "www.calmloud.com",
-      "host": "www.calmloud.com",
-      "original": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-39",
-      "ip": "188.114.97.6",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-39"
-    },
-    {
-      "type": "trojan",
-      "address": "91.107.139.186",
-      "port": "30879",
-      "password": "h1j3H7aFfh1kKPjusgOBfj2kWDelatQDAMWl3ayMioM=",
-      "name": "🇩🇪 DE 3",
-      "sni": "",
-      "host": "",
-      "original": "trojan://h1j3H7aFfh1kKPjusgOBfj2kWDelatQDAMWl3ayMioM=@91.107.139.186:30879?security=none&type=tcp&path=%2f#trojan-tcp-DE%F0%9F%87%A9%F0%9F%87%AA-72",
-      "ip": "91.107.139.186",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://h1j3H7aFfh1kKPjusgOBfj2kWDelatQDAMWl3ayMioM=@91.107.139.186:30879?security=none&type=tcp&path=%2f#trojan-tcp-DE%F0%9F%87%A9%F0%9F%87%AA-72"
+      "rebuilt": "trojan://MITIVPN@188.114.97.6:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FU-sa&host=U-sa-mitivpn--MiTiVPN---MiTiVPN-av.aPp-cLoud.IR&sni=usa-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-33"
     }
   ]
 }

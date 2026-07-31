@@ -1,40 +1,50 @@
 {
-  "updated": "2026-07-31T10:32:02.735588",
-  "count": 2,
+  "updated": "2026-07-31T17:23:15.069522",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "91.192.81.214",
-      "port": "443",
-      "id": "607801ac-dbdd-4938-a167-129015d9978e",
-      "name": "🇸🇬 SG 1",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "91.192.81.214",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
     {
       "type": "trojan",
       "address": "167.150.100.133",
       "port": "450",
       "password": "0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m",
-      "name": "برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩",
+      "name": "@meliproxyy",
       "sni": "grape-power-sg.roxa.org",
       "host": "",
-      "original": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "167.150.100.133",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "vmess",
+      "address": "149.88.23.202",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "🇸🇬 SG 1",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMiIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "ip": "149.88.23.202",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMiIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+    },
+    {
+      "type": "vmess",
+      "address": "149.88.23.207",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "🇸🇬 SG 9",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMyIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "ip": "149.88.23.207",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMyIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
     }
   ]
 }
