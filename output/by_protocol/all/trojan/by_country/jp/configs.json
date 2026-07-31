@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-31T02:08:10.628123",
-  "count": 1,
+  "updated": "2026-07-31T10:32:02.797921",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "160.16.107.37",
+      "port": "3169",
+      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
+      "name": "Japan NTT Pc",
+      "sni": "www.nintendogames.net",
+      "host": "",
+      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "ip": "160.16.107.37",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+    },
     {
       "type": "trojan",
       "address": "kuame.missionsec.us",
