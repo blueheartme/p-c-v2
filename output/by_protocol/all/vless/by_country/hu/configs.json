@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-01T02:09:18.927265",
-  "count": 2,
+  "updated": "2026-08-01T09:53:06.690381",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
       "address": "152.233.41.31",
       "port": "16923",
       "id": "b8e74de0-42c6-4b84-8889-bf348f32730c",
-      "name": "@ConfingV2RaayNG[🇭🇺]",
+      "name": "@proxy_kafee : کانال تلگرام",
       "network": "grpc",
       "sni": "mail.yandex.ru",
       "host": "",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "edge",
-      "original": "vless://b8e74de0-42c6-4b84-8889-bf348f32730c@152.233.41.31:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=edge&type=grpc&serviceName=neurex&sni=mail.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-edge-HU%F0%9F%87%AD%F0%9F%87%BA-1",
+      "original": "vless://b8e74de0-42c6-4b84-8889-bf348f32730c@152.233.41.31:16923?encryption=none&security=reality&sni=mail.yandex.ru&fp=edge&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#vless-grpc-reality-edge-HU%F0%9F%87%AD%F0%9F%87%BA-2",
       "ip": "152.233.41.31",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://b8e74de0-42c6-4b84-8889-bf348f32730c@152.233.41.31:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=edge&type=grpc&serviceName=neurex&sni=mail.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-edge-HU%F0%9F%87%AD%F0%9F%87%BA-1"
+      "rebuilt": "vless://b8e74de0-42c6-4b84-8889-bf348f32730c@152.233.41.31:16923?encryption=none&security=reality&sni=mail.yandex.ru&fp=edge&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#vless-grpc-reality-edge-HU%F0%9F%87%AD%F0%9F%87%BA-2"
+    },
+    {
+      "type": "vless",
+      "address": "45.195.111.15",
+      "port": "443",
+      "id": "45459159-1536-4e98-95b3-aa1dbbfb4172",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://45459159-1536-4e98-95b3-aa1dbbfb4172@45.195.111.15:443?security=reality&sni=storage.yandex.net&alpn=http/1.1&fp=qq&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#vless-xtls-rprx-vision-tcp-reality-qq-HU%F0%9F%87%AD%F0%9F%87%BA-6",
+      "ip": "45.195.111.15",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://45459159-1536-4e98-95b3-aa1dbbfb4172@45.195.111.15:443?security=reality&sni=storage.yandex.net&alpn=http/1.1&fp=qq&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#vless-xtls-rprx-vision-tcp-reality-qq-HU%F0%9F%87%AD%F0%9F%87%BA-6"
     },
     {
       "type": "vless",
@@ -36,11 +56,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%87%AD%F0%9F%87%BA-2",
+      "original": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%87%AD%F0%9F%87%BA-8",
       "ip": "152.233.41.30",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%87%AD%F0%9F%87%BA-2"
+      "rebuilt": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%87%AD%F0%9F%87%BA-8"
+    },
+    {
+      "type": "vless",
+      "address": "45.198.87.99",
+      "port": "8443",
+      "id": "360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.99:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-9",
+      "ip": "45.198.87.99",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.99:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-9"
     }
   ]
 }

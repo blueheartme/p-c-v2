@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-31T17:23:15.144428",
+  "updated": "2026-08-01T09:53:06.691541",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "60.249.101.16",
-      "port": "10000",
-      "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
-      "name": "🇹🇼 TW 1",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-4",
-      "ip": "60.249.101.16",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-4"
-    },
     {
       "type": "vless",
       "address": "60.249.101.14",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-5",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2",
       "ip": "60.249.101.14",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-5"
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2"
+    },
+    {
+      "type": "vless",
+      "address": "60.249.101.16",
+      "port": "10000",
+      "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
+      "name": "🇹🇼 TW 1",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-5",
+      "ip": "60.249.101.16",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-5"
     }
   ]
 }

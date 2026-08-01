@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-01T02:09:18.928786",
+  "updated": "2026-08-01T09:53:06.692041",
   "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "swdh1.redemshenvpn.site",
+      "port": "4343",
+      "id": "deb9c015-1ffe-4e41-9d21-310eb0422a4c",
+      "name": "Channel@ConfingV2RaayNG",
+      "network": "tcp",
+      "sni": "metrika.yandex.ru",
+      "host": "metrika.yandex.ru",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@swdh1.redemshenvpn.site:4343?security=reality&encryption=none&pbk=idAD9lBougKTjO-EoWH03ieKqplNFUQ9lnYwU-USVys&host=metrika.yandex.ru&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=d8f3a9c2#vless-xtls-rprx-vision-tcp-reality-qq-HK%F0%9F%87%AD%F0%9F%87%B0-6",
+      "ip": "31.77.144.220",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@swdh1.redemshenvpn.site:4343?security=reality&encryption=none&pbk=idAD9lBougKTjO-EoWH03ieKqplNFUQ9lnYwU-USVys&host=metrika.yandex.ru&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=d8f3a9c2#vless-xtls-rprx-vision-tcp-reality-qq-HK%F0%9F%87%AD%F0%9F%87%B0-6"
+    },
     {
       "type": "vless",
       "address": "207.174.133.222",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?encryption=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?encryption=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-9",
       "ip": "207.174.133.222",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?encryption=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?encryption=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-9"
     },
     {
       "type": "vless",
@@ -36,31 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@hk.vrsvpn.com:444?mode=gun&security=reality&encryption=none&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&fp=chrome&type=grpc&serviceName=web.max.ru&sni=web.max.ru&sid=8622176789abcdef#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-8",
+      "original": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@hk.vrsvpn.com:444?mode=gun&security=reality&encryption=none&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&fp=chrome&type=grpc&serviceName=web.max.ru&sni=web.max.ru&sid=8622176789abcdef#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-11",
       "ip": "85.11.161.8",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@hk.vrsvpn.com:444?mode=gun&security=reality&encryption=none&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&fp=chrome&type=grpc&serviceName=web.max.ru&sni=web.max.ru&sid=8622176789abcdef#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-8"
-    },
-    {
-      "type": "vless",
-      "address": "swdh1.redemshenvpn.site",
-      "port": "4343",
-      "id": "deb9c015-1ffe-4e41-9d21-310eb0422a4c",
-      "name": "Channel@ConfingV2RaayNG",
-      "network": "tcp",
-      "sni": "metrika.yandex.ru",
-      "host": "metrika.yandex.ru",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@swdh1.redemshenvpn.site:4343?security=reality&encryption=none&pbk=idAD9lBougKTjO-EoWH03ieKqplNFUQ9lnYwU-USVys&host=metrika.yandex.ru&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=d8f3a9c2#vless-xtls-rprx-vision-tcp-reality-qq-HK%F0%9F%87%AD%F0%9F%87%B0-10",
-      "ip": "31.77.144.220",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@swdh1.redemshenvpn.site:4343?security=reality&encryption=none&pbk=idAD9lBougKTjO-EoWH03ieKqplNFUQ9lnYwU-USVys&host=metrika.yandex.ru&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=d8f3a9c2#vless-xtls-rprx-vision-tcp-reality-qq-HK%F0%9F%87%AD%F0%9F%87%B0-10"
+      "rebuilt": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@hk.vrsvpn.com:444?mode=gun&security=reality&encryption=none&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&fp=chrome&type=grpc&serviceName=web.max.ru&sni=web.max.ru&sid=8622176789abcdef#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-11"
     }
   ]
 }

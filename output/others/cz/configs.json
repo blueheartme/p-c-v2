@@ -1,20 +1,7 @@
 {
-  "updated": "2026-08-01T02:09:18.886361",
+  "updated": "2026-08-01T09:53:06.635225",
   "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "185.156.174.106",
-      "port": "1080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "XF0klw7870vXn3uQIxe19Q",
-      "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.156.174.106:1080#@meliproxyy",
-      "ip": "185.156.174.106",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.156.174.106:1080#@meliproxyy"
-    },
     {
       "type": "vless",
       "address": "141.133.172.222",
@@ -29,11 +16,24 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "original": "vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
       "ip": "141.133.172.222",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+      "rebuilt": "vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+    },
+    {
+      "type": "ss",
+      "address": "185.156.174.106",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.156.174.106:1080#@meliproxyy",
+      "ip": "185.156.174.106",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.156.174.106:1080#@meliproxyy"
     },
     {
       "type": "ss",
@@ -41,12 +41,12 @@
       "port": "1080",
       "method": "chacha20-ietf-poly1305",
       "password": "XF0klw7870vXn3uQIxe19Q",
-      "name": "𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#@meliproxyy",
       "ip": "146.70.222.126",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#@meliproxyy"
     }
   ]
 }

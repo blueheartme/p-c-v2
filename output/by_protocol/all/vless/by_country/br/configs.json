@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-31T17:23:15.149749",
+  "updated": "2026-08-01T09:53:06.693968",
   "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "201.24.123.197",
-      "port": "445",
-      "id": "ee5a9925-920e-4428-beb7-c70b8a7e4521",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:445?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "201.24.123.197",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:445?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-1"
-    },
     {
       "type": "vless",
       "address": "201.24.123.197",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://3ffe5ba9-835a-40bd-9b57-5a7ea2c2b4bb@201.24.123.197:989?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-2",
+      "original": "vless://3ffe5ba9-835a-40bd-9b57-5a7ea2c2b4bb@201.24.123.197:989?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-1",
       "ip": "201.24.123.197",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vless://3ffe5ba9-835a-40bd-9b57-5a7ea2c2b4bb@201.24.123.197:989?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-2"
+      "rebuilt": "vless://3ffe5ba9-835a-40bd-9b57-5a7ea2c2b4bb@201.24.123.197:989?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+    },
+    {
+      "type": "vless",
+      "address": "201.24.123.197",
+      "port": "445",
+      "id": "ee5a9925-920e-4428-beb7-c70b8a7e4521",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:445?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-2",
+      "ip": "201.24.123.197",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "vless://ee5a9925-920e-4428-beb7-c70b8a7e4521@201.24.123.197:445?encryption=none&type=tcp&headerType=none#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
