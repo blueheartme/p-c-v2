@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-31T10:32:02.773316",
+  "updated": "2026-08-01T02:09:18.928318",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "91.192.81.214",
-      "port": "443",
-      "id": "607801ac-dbdd-4938-a167-129015d9978e",
-      "name": "🇸🇬 SG 1",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "address": "89.28.239.142",
+      "port": "8443",
+      "id": "d7dd3a35-b68b-4992-b319-a85b8a1fc8e5",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "dns68.putata.eu.org",
+      "host": "dns68.putata.eu.org",
+      "security": "tls",
+      "flow": "",
       "encryption": "",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "91.192.81.214",
+      "fingerprint": "",
+      "original": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@89.28.239.142:8443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5",
+      "ip": "89.28.239.142",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@89.28.239.142:8443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5"
     }
   ]
 }

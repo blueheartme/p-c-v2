@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-31T17:23:15.135744",
-  "count": 2,
+  "updated": "2026-08-01T02:09:18.928786",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "207.174.133.222",
+      "port": "10000",
+      "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
+      "name": "🇭🇰 HK 22",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?encryption=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "207.174.133.222",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?encryption=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
     {
       "type": "vless",
       "address": "hk.vrsvpn.com",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@hk.vrsvpn.com:444?mode=gun&security=reality&encryption=none&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&fp=chrome&type=grpc&serviceName=web.max.ru&sni=web.max.ru&sid=8622176789abcdef#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "original": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@hk.vrsvpn.com:444?mode=gun&security=reality&encryption=none&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&fp=chrome&type=grpc&serviceName=web.max.ru&sni=web.max.ru&sid=8622176789abcdef#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-8",
       "ip": "85.11.161.8",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@hk.vrsvpn.com:444?mode=gun&security=reality&encryption=none&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&fp=chrome&type=grpc&serviceName=web.max.ru&sni=web.max.ru&sid=8622176789abcdef#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+      "rebuilt": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@hk.vrsvpn.com:444?mode=gun&security=reality&encryption=none&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&fp=chrome&type=grpc&serviceName=web.max.ru&sni=web.max.ru&sid=8622176789abcdef#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-8"
     },
     {
       "type": "vless",

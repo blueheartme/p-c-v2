@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-31T17:23:15.148623",
-  "count": 1,
+  "updated": "2026-08-01T02:09:18.933376",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "156.243.83.30",
+      "port": "8880",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "vms.lifetime54.workers.dev",
+      "security": "none",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.30:8880?security=none&type=ws&host=vms.lifetime54.workers.dev&path=/#vless-ws-PT%F0%9F%87%B5%F0%9F%87%B9-1",
+      "ip": "156.243.83.30",
+      "country": "PT",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.30:8880?security=none&type=ws&host=vms.lifetime54.workers.dev&path=/#vless-ws-PT%F0%9F%87%B5%F0%9F%87%B9-1"
+    },
     {
       "type": "vless",
       "address": "95.93.3.5",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1",
+      "original": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-2",
       "ip": "95.93.3.5",
       "country": "PT",
       "cdn": null,
-      "rebuilt": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1"
+      "rebuilt": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-2"
     }
   ]
 }
