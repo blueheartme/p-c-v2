@@ -1,46 +1,26 @@
 {
-  "updated": "2026-08-01T09:53:06.691055",
-  "count": 2,
+  "updated": "2026-08-01T16:54:31.050304",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "fr1.levikogjgfdd.ir",
-      "port": "40443",
-      "id": "9f0baff8-bdee-4de9-9515-bcc4932b41fa",
-      "name": "@meliproxyy",
+      "address": "api-endpoint.rest",
+      "port": "443",
+      "id": "06d44c57-8e1a-41f4-b9c4-65d35869e078",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "deepl.com",
+      "sni": "api-endpoint.rest",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fr1.levikogjgfdd.ir:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=qq&insecure=1&allowInsecure=1&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae#vless-tcp-reality-qq-CY%F0%9F%87%A8%F0%9F%87%BE-1",
-      "ip": "194.76.154.31",
-      "country": "CY",
-      "cdn": null,
-      "rebuilt": "vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fr1.levikogjgfdd.ir:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=qq&insecure=1&allowInsecure=1&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae#vless-tcp-reality-qq-CY%F0%9F%87%A8%F0%9F%87%BE-1"
-    },
-    {
-      "type": "vless",
-      "address": "fi1.levikogjgfdd.ir",
-      "port": "40443",
-      "id": "9f0baff8-bdee-4de9-9515-bcc4932b41fa",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "deepl.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fi1.levikogjgfdd.ir:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&insecure=1&allowInsecure=1&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae#vless-tcp-reality-CY%F0%9F%87%A8%F0%9F%87%BE-2",
-      "ip": "194.76.154.31",
+      "original": "vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&security=reality&sid=19fbc4c7dd3d3d5a&sni=api-endpoint.rest&type=tcp#vless-xtls-rprx-vision-tcp-reality-CY%F0%9F%87%A8%F0%9F%87%BE-1",
+      "ip": "193.24.233.175",
       "country": "CY",
       "cdn": null,
-      "rebuilt": "vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fi1.levikogjgfdd.ir:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&insecure=1&allowInsecure=1&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae#vless-tcp-reality-CY%F0%9F%87%A8%F0%9F%87%BE-2"
+      "rebuilt": "vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&security=reality&sid=19fbc4c7dd3d3d5a&sni=api-endpoint.rest&type=tcp#vless-xtls-rprx-vision-tcp-reality-CY%F0%9F%87%A8%F0%9F%87%BE-1"
     }
   ]
 }

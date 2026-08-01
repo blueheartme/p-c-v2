@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T10:33:48.601765",
+  "updated": "2026-08-01T16:54:30.997233",
   "count": 1,
   "configs": [
     {
@@ -7,20 +7,20 @@
       "address": "195.133.18.161",
       "port": "30153",
       "id": "da97d2d7-d255-4efd-8398-7101d698768e",
-      "name": "🇷🇸 RS 1",
-      "network": "",
+      "name": "@filembad",
+      "network": "tcp",
       "sni": "",
       "host": "",
       "security": "",
       "flow": "",
-      "encryption": "",
-      "headerType": "",
+      "encryption": "none",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?path=%2f#vless-tcp-RS%F0%9F%87%B7%F0%9F%87%B8-1",
+      "original": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=&encryption=none&headerType=none&type=tcp#vless-tcp-RS%F0%9F%87%B7%F0%9F%87%B8-1",
       "ip": "195.133.18.161",
       "country": "RS",
       "cdn": null,
-      "rebuilt": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?path=%2f#vless-tcp-RS%F0%9F%87%B7%F0%9F%87%B8-1"
+      "rebuilt": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=&encryption=none&headerType=none&type=tcp#vless-tcp-RS%F0%9F%87%B7%F0%9F%87%B8-1"
     }
   ]
 }

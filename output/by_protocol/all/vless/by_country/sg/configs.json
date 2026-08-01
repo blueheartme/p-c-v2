@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-01T02:09:18.928318",
+  "updated": "2026-08-01T16:54:31.045909",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "89.28.239.142",
-      "port": "8443",
-      "id": "d7dd3a35-b68b-4992-b319-a85b8a1fc8e5",
-      "name": "@filembad",
+      "address": "104.64.206.42",
+      "port": "57137",
+      "id": "4476eabb-509c-42d3-bb42-6838bf6fcd1e",
+      "name": "🇸🇬 SG 5",
       "network": "ws",
-      "sni": "dns68.putata.eu.org",
-      "host": "dns68.putata.eu.org",
-      "security": "tls",
+      "sni": "",
+      "host": "m.zoom.us",
+      "security": "false",
       "flow": "",
       "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@89.28.239.142:8443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5",
-      "ip": "89.28.239.142",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?security=false&fp=chrome&type=ws&headerType=none&host=m.zoom.us&path=%2fFREE+By+Tharuwa+(0767597317)#vless-ws-false-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "104.64.206.42",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@89.28.239.142:8443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5"
+      "rebuilt": "vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?security=false&fp=chrome&type=ws&headerType=none&host=m.zoom.us&path=%2fFREE+By+Tharuwa+(0767597317)#vless-ws-false-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     }
   ]
 }
