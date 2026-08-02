@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T02:06:19.741542",
-  "count": 2,
+  "updated": "2026-08-02T09:51:24.453374",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,6 +24,26 @@
     },
     {
       "type": "vless",
+      "address": "sw1.levikogjgfdd.ir",
+      "port": "1000",
+      "id": "6f436a44-f703-93da-7e45-615824a39d3b",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "knox.cdn-apple.com",
+      "host": "Telegram-Leviko_v2ray",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://6f436a44-f703-93da-7e45-615824a39d3b@sw1.levikogjgfdd.ir:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&host=Telegram-Leviko_v2ray&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#vless-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "161.118.224.85",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://6f436a44-f703-93da-7e45-615824a39d3b@sw1.levikogjgfdd.ir:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&host=Telegram-Leviko_v2ray&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#vless-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+    },
+    {
+      "type": "vless",
       "address": "91.192.81.214",
       "port": "443",
       "id": "607801ac-dbdd-4938-a167-129015d9978e",
@@ -36,11 +56,11 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-6",
       "ip": "91.192.81.214",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-6"
     }
   ]
 }

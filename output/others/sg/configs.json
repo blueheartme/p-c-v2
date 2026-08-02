@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T02:06:19.659285",
-  "count": 5,
+  "updated": "2026-08-02T09:51:24.397542",
+  "count": 7,
   "configs": [
     {
       "type": "vless",
@@ -23,6 +23,67 @@
       "rebuilt": "vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?security=false&fp=android&type=ws&headerType=none&host=m.zoom.us&path=%2fFREE+By+Tharuwa+(0767597317)#vless-ws-false-android-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     },
     {
+      "type": "trojan",
+      "address": "167.150.100.133",
+      "port": "450",
+      "password": "0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m",
+      "name": "برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩",
+      "sni": "grape-power-sg.roxa.org",
+      "host": "",
+      "original": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "167.150.100.133",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+    },
+    {
+      "type": "ss",
+      "address": "sw1.levikogjgfdd.ir",
+      "port": "56927",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Y2QwZTQ0MDYzOWFhNjA5YmE0NTZhNWFkODkzMWNmODU=",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WlRRME1EWXpPV0ZoTmpBNVltRTBOVFpoTldGa09Ea3pNV05tT0RVPQ%3D%3D@sw1.levikogjgfdd.ir:56927#@meliproxyy",
+      "ip": "161.118.224.85",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WlRRME1EWXpPV0ZoTmpBNVltRTBOVFpoTldGa09Ea3pNV05tT0RVPQ%3D%3D@sw1.levikogjgfdd.ir:56927#@meliproxyy"
+    },
+    {
+      "type": "vless",
+      "address": "sw1.levikogjgfdd.ir",
+      "port": "1000",
+      "id": "6f436a44-f703-93da-7e45-615824a39d3b",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "knox.cdn-apple.com",
+      "host": "Telegram-Leviko_v2ray",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://6f436a44-f703-93da-7e45-615824a39d3b@sw1.levikogjgfdd.ir:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&host=Telegram-Leviko_v2ray&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#vless-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "161.118.224.85",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://6f436a44-f703-93da-7e45-615824a39d3b@sw1.levikogjgfdd.ir:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&host=Telegram-Leviko_v2ray&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#vless-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+    },
+    {
+      "type": "trojan",
+      "address": "38.54.16.223",
+      "port": "42914",
+      "password": "1sQSN8Jdj_sdXnso4LasLA",
+      "name": "@filembad",
+      "sni": "",
+      "host": "",
+      "original": "trojan://1sQSN8Jdj_sdXnso4LasLA@38.54.16.223:42914?path=%2Fc54wi9adhz&security=none&type=ws#trojan-ws-SG%F0%9F%87%B8%F0%9F%87%AC-5",
+      "ip": "38.54.16.223",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://1sQSN8Jdj_sdXnso4LasLA@38.54.16.223:42914?path=%2Fc54wi9adhz&security=none&type=ws#trojan-ws-SG%F0%9F%87%B8%F0%9F%87%AC-5"
+    },
+    {
       "type": "vless",
       "address": "91.192.81.214",
       "port": "443",
@@ -36,50 +97,22 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-6",
       "ip": "91.192.81.214",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "trojan",
-      "address": "38.54.16.223",
-      "port": "42914",
-      "password": "1sQSN8Jdj_sdXnso4LasLA",
-      "name": "@filembad",
-      "sni": "",
-      "host": "",
-      "original": "trojan://1sQSN8Jdj_sdXnso4LasLA@38.54.16.223:42914?path=%2Fc54wi9adhz&security=none&type=ws#trojan-ws-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "38.54.16.223",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "trojan://1sQSN8Jdj_sdXnso4LasLA@38.54.16.223:42914?path=%2Fc54wi9adhz&security=none&type=ws#trojan-ws-SG%F0%9F%87%B8%F0%9F%87%AC-3"
-    },
-    {
-      "type": "trojan",
-      "address": "167.150.100.133",
-      "port": "450",
-      "password": "0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m",
-      "name": "@meliproxyy",
-      "sni": "grape-power-sg.roxa.org",
-      "host": "",
-      "original": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?type=tcp&security=tls&headerType=none&sni=grape-power-sg.roxa.org&fp=chrome&insecure=0&allowInsecure=0#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4",
-      "ip": "167.150.100.133",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?type=tcp&security=tls&headerType=none&sni=grape-power-sg.roxa.org&fp=chrome&insecure=0&allowInsecure=0#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+      "rebuilt": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-6"
     },
     {
       "type": "tuic",
       "address": "sg2-8sb.6121999.dpdns.org",
       "port": "33738",
       "name": "🇸🇬 SG 1",
-      "original": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-5",
+      "original": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-7",
       "ip": "146.235.16.130",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-5"
+      "rebuilt": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-7"
     }
   ]
 }

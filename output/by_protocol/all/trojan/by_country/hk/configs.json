@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-02T02:06:19.784490",
-  "count": 1,
+  "updated": "2026-08-02T09:51:24.491223",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "219.79.214.159",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "Hong Kong Netvigator",
+      "sni": "t.me%2Fripaojiedian",
+      "host": "",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "219.79.214.159",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+    },
     {
       "type": "trojan",
       "address": "18.163.180.201",
@@ -10,11 +24,11 @@
       "name": "🇭🇰 HK 5",
       "sni": "www.nintendogames.net",
       "host": "",
-      "original": "trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "original": "trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6",
       "ip": "18.163.180.201",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6"
     }
   ]
 }
