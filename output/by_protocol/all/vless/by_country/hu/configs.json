@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T16:54:31.041016",
+  "updated": "2026-08-02T02:06:19.750919",
   "count": 2,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "45.198.87.99",
-      "port": "8443",
-      "id": "360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
-      "sni": "storage.yandex.net",
+      "address": "152.233.41.31",
+      "port": "16923",
+      "id": "b8e74de0-42c6-4b84-8889-bf348f32730c",
+      "name": "@ConfingV2RaayNG[🇭🇺]",
+      "network": "grpc",
+      "sni": "mail.yandex.ru",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.99:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-5",
-      "ip": "45.198.87.99",
+      "headerType": "",
+      "fingerprint": "edge",
+      "original": "vless://b8e74de0-42c6-4b84-8889-bf348f32730c@152.233.41.31:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=edge&type=grpc&serviceName=neurex&sni=mail.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-edge-HU%F0%9F%87%AD%F0%9F%87%BA-6",
+      "ip": "152.233.41.31",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.99:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%87%AD%F0%9F%87%BA-5"
+      "rebuilt": "vless://b8e74de0-42c6-4b84-8889-bf348f32730c@152.233.41.31:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=edge&type=grpc&serviceName=neurex&sni=mail.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-edge-HU%F0%9F%87%AD%F0%9F%87%BA-6"
     }
   ]
 }

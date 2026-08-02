@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-26T02:07:08.466243",
+  "updated": "2026-08-02T02:06:19.754364",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "89.44.197.77",
-      "port": "15946",
-      "id": "8672bdcd-e331-464d-9ed8-93a242ca7d2e",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "",
-      "host": "/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
+      "address": "185.82.219.152",
+      "port": "443",
+      "id": "fc1b3bda-b226-452a-8c5c-b0e36a1f8f88",
+      "name": "🇧🇬 BG 1",
+      "network": "tcp",
+      "sni": "eu-central.cendora.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#vless-ws-BG%F0%9F%87%A7%F0%9F%87%AC-1",
-      "ip": "89.44.197.77",
+      "fingerprint": "qq",
+      "original": "vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:443?flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-BG%F0%9F%87%A7%F0%9F%87%AC-1",
+      "ip": "185.82.219.152",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#vless-ws-BG%F0%9F%87%A7%F0%9F%87%AC-1"
+      "rebuilt": "vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:443?flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-BG%F0%9F%87%A7%F0%9F%87%AC-1"
     }
   ]
 }
