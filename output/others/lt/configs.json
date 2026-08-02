@@ -1,47 +1,7 @@
 {
-  "updated": "2026-08-02T09:51:24.399405",
-  "count": 4,
+  "updated": "2026-08-02T16:53:26.677501",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "93.115.25.139",
-      "port": "443",
-      "id": "3ad1d277-5715-4ca1-84db-5baea72f822d",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "ddc-chr2.astralweb.tech",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=ddc-chr2.astralweb.tech#vless-tcp-tls-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1",
-      "ip": "93.115.25.139",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=ddc-chr2.astralweb.tech#vless-tcp-tls-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1"
-    },
-    {
-      "type": "vless",
-      "address": "86.38.214.33",
-      "port": "80",
-      "id": "0103cdc9-3927-44f0-88aa-e1162b7fedaf",
-      "name": "@proxy_kafee",
-      "network": "xhttp",
-      "sni": "",
-      "host": "cdn.torexa.ir",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@86.38.214.33:80?encryption=none&security=none&type=xhttp&host=cdn.torexa.ir&path=%2F%3Fed%3D2048&mode=auto#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-2",
-      "ip": "86.38.214.33",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@86.38.214.33:80?encryption=none&security=none&type=xhttp&host=cdn.torexa.ir&path=%2F%3Fed%3D2048&mode=auto#vless-xhttp-LT%F0%9F%87%B1%F0%9F%87%B9-2"
-    },
     {
       "type": "vless",
       "address": "5.199.170.105",
@@ -56,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-3",
+      "original": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-1",
       "ip": "5.199.170.105",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-3"
+      "rebuilt": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "93.115.25.139",
+      "port": "443",
+      "id": "3ad1d277-5715-4ca1-84db-5baea72f822d",
+      "name": "🇱🇹 LT 1",
+      "network": "tcp",
+      "sni": "ddc-chr2.astralweb.tech",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?security=tls&sni=ddc-chr2.astralweb.tech&fp=firefox&type=tcp&path=%2f#vless-tcp-tls-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-2",
+      "ip": "93.115.25.139",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?security=tls&sni=ddc-chr2.astralweb.tech&fp=firefox&type=tcp&path=%2f#vless-tcp-tls-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     },
     {
       "type": "trojan",
@@ -70,11 +50,11 @@
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "sni": "Win-Nll--l.App-Cloud.Ir",
       "host": "Wihn-Nlkl--ol.App-Cloud.Ir",
-      "original": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-4",
+      "original": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-3",
       "ip": "89.116.250.135",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-4"
+      "rebuilt": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-3"
     }
   ]
 }

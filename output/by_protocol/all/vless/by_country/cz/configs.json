@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-02T09:51:24.449284",
-  "count": 1,
+  "updated": "2026-08-02T16:53:26.731152",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "141.133.172.222",
       "port": "20342",
       "id": "5eecb34f-c905-4c77-b7fb-d830b451cd11",
-      "name": "@meliproxyy",
+      "name": "1|@ConfingV2RaayNG",
       "network": "tcp",
       "sni": "",
       "host": "",
@@ -21,6 +21,26 @@
       "country": "CZ",
       "cdn": null,
       "rebuilt": "vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+    },
+    {
+      "type": "vless",
+      "address": "103.200.28.187",
+      "port": "2053",
+      "id": "504d0b6e-400d-45ec-b2d0-1c79006ebc16",
+      "name": "🇨🇿 CZ 10",
+      "network": "tcp",
+      "sni": "web.mayluck.ru",
+      "host": "web.mayluck.ru",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@103.200.28.187:2053?security=reality&sni=web.mayluck.ru&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&type=tcp&headerType=none&host=web.mayluck.ru&path=%2f#vless-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
+      "ip": "103.200.28.187",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@103.200.28.187:2053?security=reality&sni=web.mayluck.ru&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&type=tcp&headerType=none&host=web.mayluck.ru&path=%2f#vless-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-02T09:51:24.413158",
+  "updated": "2026-08-02T16:53:26.682102",
   "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "185.82.219.152",
-      "port": "443",
+      "port": "13443",
       "id": "fc1b3bda-b226-452a-8c5c-b0e36a1f8f88",
       "name": "🇧🇬 BG 1",
       "network": "tcp",
-      "sni": "eu-central.cendora.ru",
+      "sni": "auto.cendora.ru",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "",
       "headerType": "",
       "fingerprint": "qq",
-      "original": "vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:443?flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-BG%F0%9F%87%A7%F0%9F%87%AC-1",
+      "original": "vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:13443?flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-BG%F0%9F%87%A7%F0%9F%87%AC-1",
       "ip": "185.82.219.152",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:443?flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-BG%F0%9F%87%A7%F0%9F%87%AC-1"
+      "rebuilt": "vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:13443?flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-BG%F0%9F%87%A7%F0%9F%87%AC-1"
     }
   ]
 }

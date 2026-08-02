@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T09:51:24.456918",
-  "count": 4,
+  "updated": "2026-08-02T16:53:26.726527",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,43 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "media.oneokgames.com",
-      "port": "443",
-      "id": "86208db7-8bbc-42c2-9eb2-ffe5675502c3",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "grpc",
-      "sni": "media.oneokgames.com",
+      "address": "5.180.173.248",
+      "port": "25198",
+      "id": "deb9c015-1ffe-4e41-9d21-310eb0422a4c",
+      "name": "𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩",
+      "network": "ws",
+      "sni": "",
       "host": "",
-      "security": "reality",
+      "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@media.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&fp=firefox&type=grpc&serviceName=api.v2.ObjectService&sni=media.oneokgames.com&sid=dbdbeaf4aa6e1a5c#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-5",
-      "ip": "88.148.121.71",
+      "fingerprint": "",
+      "original": "vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=%2Fxray&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-4",
+      "ip": "5.180.173.248",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@media.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&fp=firefox&type=grpc&serviceName=api.v2.ObjectService&sni=media.oneokgames.com&sid=dbdbeaf4aa6e1a5c#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-5"
-    },
-    {
-      "type": "vless",
-      "address": "grid.onetimeok.com",
-      "port": "443",
-      "id": "86208db7-8bbc-42c2-9eb2-ffe5675502c3",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "grpc",
-      "sni": "grid.onetimeok.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=firefox&type=grpc&serviceName=gw.v1.MetricsService&sni=grid.onetimeok.com&sid=89e97b6542785ca6#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-7",
-      "ip": "88.148.121.45",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&fp=firefox&type=grpc&serviceName=gw.v1.MetricsService&sni=grid.onetimeok.com&sid=89e97b6542785ca6#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-7"
+      "rebuilt": "vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=%2Fxray&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%87%AA%F0%9F%87%B8-4"
     },
     {
       "type": "vless",
@@ -76,11 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=dl.onetimeok.com&sid=8ba32e7cefbf524a#vless-grpc-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-9",
+      "original": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=dl.onetimeok.com&sid=8ba32e7cefbf524a#vless-grpc-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-5",
       "ip": "88.148.121.46",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=dl.onetimeok.com&sid=8ba32e7cefbf524a#vless-grpc-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-9"
+      "rebuilt": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=dl.onetimeok.com&sid=8ba32e7cefbf524a#vless-grpc-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-5"
     }
   ]
 }
