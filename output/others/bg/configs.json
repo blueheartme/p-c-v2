@@ -1,26 +1,19 @@
 {
-  "updated": "2026-08-03T11:16:15.106601",
+  "updated": "2026-08-03T17:46:11.601975",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "185.82.219.152",
-      "port": "13443",
-      "id": "fc1b3bda-b226-452a-8c5c-b0e36a1f8f88",
+      "type": "ss",
+      "address": "38.244.132.14",
+      "port": "5499",
+      "method": "aes-256-gcm",
+      "password": "lGqs95QkFHo2NV",
       "name": "🇧🇬 BG 1",
-      "network": "tcp",
-      "sni": "auto.cendora.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "qq",
-      "original": "vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:13443?flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-BG%F0%9F%87%A7%F0%9F%87%AC-1",
-      "ip": "185.82.219.152",
+      "original": "ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#%f0%9f%87%a7%f0%9f%87%ac%20BG%201",
+      "ip": "38.244.132.14",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:13443?flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-BG%F0%9F%87%A7%F0%9F%87%AC-1"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#%f0%9f%87%a7%f0%9f%87%ac%20BG%201"
     }
   ]
 }

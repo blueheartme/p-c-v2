@@ -1,39 +1,37 @@
 {
-  "updated": "2026-08-03T11:16:15.103303",
+  "updated": "2026-08-03T17:46:11.604005",
   "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "154.46.31.106",
+      "type": "hysteria2",
+      "address": "185.225.19.39",
       "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "QFWzCw2uX9B9i6qAYeFBIE",
-      "name": "🇷🇴 RO 3",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%203",
-      "ip": "154.46.31.106",
+      "name": "@filembad",
+      "original": "hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?security=tls&insecure=0&sni=ro.h2corp.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "ip": "185.225.19.39",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%203"
+      "rebuilt": "hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?security=tls&insecure=0&sni=ro.h2corp.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1"
     },
     {
       "type": "vless",
-      "address": "rm-n1.gsupport.support",
-      "port": "443",
-      "id": "f5e98e30-28b8-468a-a5a5-c6c22be64055",
-      "name": "🇷🇴 RO 2",
+      "address": "sosk.sorix-home.ir",
+      "port": "60231",
+      "id": "4d7d1add-0a51-4887-b10a-07c68df24f7e",
+      "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "rm2.magazinnarubeva.ru",
+      "sni": "",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@rm-n1.gsupport.support:443?flow=xtls-rprx-vision&security=reality&sni=rm2.magazinnarubeva.ru&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-2",
-      "ip": "196.245.156.27",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?encryption=none&type=tcp&headerType=http#vless-tcp-http-RO%F0%9F%87%B7%F0%9F%87%B4-2",
+      "ip": "45.82.102.70",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@rm-n1.gsupport.support:443?flow=xtls-rprx-vision&security=reality&sni=rm2.magazinnarubeva.ru&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-2"
+      "rebuilt": "vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?encryption=none&type=tcp&headerType=http#vless-tcp-http-RO%F0%9F%87%B7%F0%9F%87%B4-2"
     }
   ]
 }

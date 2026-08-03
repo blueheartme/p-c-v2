@@ -1,46 +1,20 @@
 {
-  "updated": "2026-08-03T11:16:15.105819",
-  "count": 2,
+  "updated": "2026-08-03T17:46:11.610085",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "kaz01.routexvpn.space",
-      "port": "443",
-      "id": "c46e2605-be24-4555-b7db-0fc6773ad004",
-      "name": "🇰🇿 KZ 3",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://c46e2605-be24-4555-b7db-0fc6773ad004@kaz01.routexvpn.space:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=yahoo.com&fp=firefox&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "91.217.10.163",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://c46e2605-be24-4555-b7db-0fc6773ad004@kaz01.routexvpn.space:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=yahoo.com&fp=firefox&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
-    },
-    {
-      "type": "vless",
-      "address": "193.124.204.145",
-      "port": "49853",
-      "id": "5ed7b151-b781-4dba-800d-e3f824f1416f",
-      "name": "🇰🇿 KZ 2",
-      "network": "",
+      "type": "trojan",
+      "address": "45.82.14.144",
+      "port": "2025",
+      "password": "vpn",
+      "name": "🇰🇿 KZ 1",
       "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?path=%2f#vless-tcp-KZ%F0%9F%87%B0%F0%9F%87%BF-2",
-      "ip": "193.124.204.145",
+      "host": "dns.google.com",
+      "original": "trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=%2f#trojan-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "45.82.14.144",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?path=%2f#vless-tcp-KZ%F0%9F%87%B0%F0%9F%87%BF-2"
+      "rebuilt": "trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=%2f#trojan-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }
