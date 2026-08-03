@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-03T02:08:27.179168",
-  "count": 5,
+  "updated": "2026-08-03T11:16:15.107312",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
-      "address": "60.249.101.14",
+      "address": "60.249.101.16",
       "port": "10000",
       "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
-      "name": "🇹🇼 TW 3",
+      "name": "🇹🇼 TW 1",
       "network": "",
       "sni": "",
       "host": "",
@@ -16,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1",
-      "ip": "60.249.101.14",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "ip": "60.249.101.16",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1"
     },
     {
       "type": "vmess",
@@ -39,6 +39,26 @@
     },
     {
       "type": "vless",
+      "address": "60.249.101.14",
+      "port": "10000",
+      "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
+      "name": "🇹🇼 TW 3",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-3",
+      "ip": "60.249.101.14",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-3"
+    },
+    {
+      "type": "vless",
       "address": "tw.lshan.eu.org",
       "port": "46906",
       "id": "8e1bd804-7141-40a0-bc01-70f477c828e2",
@@ -51,44 +71,11 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://8e1bd804-7141-40a0-bc01-70f477c828e2@tw.lshan.eu.org:46906?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&path=%2f#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-3",
-      "ip": "111.243.124.8",
+      "original": "vless://8e1bd804-7141-40a0-bc01-70f477c828e2@tw.lshan.eu.org:46906?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&path=%2f#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-4",
+      "ip": "1.162.190.43",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://8e1bd804-7141-40a0-bc01-70f477c828e2@tw.lshan.eu.org:46906?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&path=%2f#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-3"
-    },
-    {
-      "type": "ss",
-      "address": "r3mrcg00129437x.cybervena.com",
-      "port": "50099",
-      "method": "chacha20-ietf-poly1305",
-      "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
-      "name": "☑➜چنلمون: Express_freevpn@",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099#%E2%98%91%E2%9E%9C%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86%3A%20Express_freevpn%40",
-      "ip": "36.224.147.65",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099#%E2%98%91%E2%9E%9C%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86%3A%20Express_freevpn%40"
-    },
-    {
-      "type": "vless",
-      "address": "60.249.101.16",
-      "port": "10000",
-      "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
-      "name": "🇹🇼 TW 1",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-5",
-      "ip": "60.249.101.16",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-5"
+      "rebuilt": "vless://8e1bd804-7141-40a0-bc01-70f477c828e2@tw.lshan.eu.org:46906?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&path=%2f#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-4"
     }
   ]
 }

@@ -1,40 +1,7 @@
 {
-  "updated": "2026-08-03T02:08:27.186923",
-  "count": 4,
+  "updated": "2026-08-03T11:16:15.110937",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "132.145.89.30",
-      "port": "443",
-      "id": "e6d8d743-a9bc-48c9-be99-8f3cc94d16e1",
-      "name": "🇰🇷 KR 2",
-      "network": "tcp",
-      "sni": "ako.pagate.top",
-      "host": "",
-      "security": "tls",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=ako.pagate.top&fp=chrome&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "132.145.89.30",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=ako.pagate.top&fp=chrome&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1"
-    },
-    {
-      "type": "ss",
-      "address": "141.164.45.187",
-      "port": "6679",
-      "method": "aes-256-gcm",
-      "password": "TEzjfAYq2IjtuoS",
-      "name": "🇰🇷 KR 3",
-      "original": "ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%f0%9f%87%b0%f0%9f%87%b7%20KR%203",
-      "ip": "141.164.45.187",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%f0%9f%87%b0%f0%9f%87%b7%20KR%203"
-    },
     {
       "type": "ss",
       "address": "141.164.45.187",
@@ -57,11 +24,11 @@
       "network": "ws",
       "host": null,
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty00IiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0yIiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
       "ip": "152.67.218.38",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty00IiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0yIiwiYWRkIjoiMTUyLjY3LjIxOC4zOCIsInBvcnQiOjQ0MywiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     }
   ]
 }

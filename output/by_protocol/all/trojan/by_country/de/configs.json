@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-03T02:08:27.287733",
-  "count": 1,
+  "updated": "2026-08-03T11:16:15.207409",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "185.137.157.140",
+      "port": "443",
+      "password": "dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q",
+      "name": "Free 106 @Outline_Vpn",
+      "sni": "",
+      "host": "",
+      "original": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-21",
+      "ip": "185.137.157.140",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-21"
+    },
     {
       "type": "trojan",
       "address": "63.178.193.196",
@@ -10,11 +24,11 @@
       "name": "Free 114 @Outline_Vpn",
       "sni": "quiet-condor.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-25",
+      "original": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-40",
       "ip": "63.178.193.196",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-25"
+      "rebuilt": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-40"
     }
   ]
 }

@@ -1,19 +1,26 @@
 {
-  "updated": "2026-08-03T02:08:27.202522",
+  "updated": "2026-08-03T11:16:15.115845",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "154.223.16.96",
-      "port": "6697",
-      "method": "aes-256-gcm",
-      "password": "TEzjfAYq2IjtuoS",
-      "name": "🇨🇴 CO 2",
-      "original": "ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@154.223.16.96:6697#%f0%9f%87%a8%f0%9f%87%b4%20CO%202",
-      "ip": "154.223.16.96",
+      "type": "vless",
+      "address": "149.130.187.59",
+      "port": "62145",
+      "id": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "name": "🇨🇴 CO 1",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.187.59:62145?security=none&type=tcp&path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1",
+      "ip": "149.130.187.59",
       "country": "CO",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@154.223.16.96:6697#%f0%9f%87%a8%f0%9f%87%b4%20CO%202"
+      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.187.59:62145?security=none&type=tcp&path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1"
     }
   ]
 }

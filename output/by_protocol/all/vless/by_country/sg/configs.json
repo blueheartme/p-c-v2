@@ -1,46 +1,26 @@
 {
-  "updated": "2026-08-03T02:08:27.243486",
-  "count": 2,
+  "updated": "2026-08-03T11:16:15.166382",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "104.64.206.42",
       "port": "57137",
       "id": "4476eabb-509c-42d3-bb42-6838bf6fcd1e",
-      "name": "🇸🇬 SG 9",
+      "name": "🇸🇬 SG 6",
       "network": "ws",
       "sni": "",
       "host": "m.zoom.us",
-      "security": "false",
-      "flow": "",
-      "encryption": "",
-      "headerType": "none",
-      "fingerprint": "android",
-      "original": "vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?security=false&fp=android&type=ws&headerType=none&host=m.zoom.us&path=%2fFREE+By+Tharuwa+(0767597317)#vless-ws-false-android-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "104.64.206.42",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?security=false&fp=android&type=ws&headerType=none&host=m.zoom.us&path=%2fFREE+By+Tharuwa+(0767597317)#vless-ws-false-android-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "vless",
-      "address": "sw1.levikogjgfdd.ir",
-      "port": "1000",
-      "id": "6f436a44-f703-93da-7e45-615824a39d3b",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "knox.cdn-apple.com",
-      "host": "Telegram-Leviko_v2ray",
-      "security": "reality",
+      "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://6f436a44-f703-93da-7e45-615824a39d3b@sw1.levikogjgfdd.ir:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&host=Telegram-Leviko_v2ray&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#vless-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-7",
-      "ip": "161.118.224.85",
+      "fingerprint": "chrome",
+      "original": "vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?security=none&encryption=none&fp=chrome&type=ws&headerType=none&host=m.zoom.us&path=%2fFREE+By+Tharuwa+(0767597317)#vless-ws-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "104.64.206.42",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://6f436a44-f703-93da-7e45-615824a39d3b@sw1.levikogjgfdd.ir:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&host=Telegram-Leviko_v2ray&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#vless-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-7"
+      "rebuilt": "vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?security=none&encryption=none&fp=chrome&type=ws&headerType=none&host=m.zoom.us&path=%2fFREE+By+Tharuwa+(0767597317)#vless-ws-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }

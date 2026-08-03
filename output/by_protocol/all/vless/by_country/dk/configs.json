@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-03T02:08:27.252591",
+  "updated": "2026-08-03T11:16:15.171642",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "194.77.220.41",
-      "port": "29",
-      "id": "35c13bb9-9d22-4d89-bfd2-76fe7abf04ff",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-DK%F0%9F%87%A9%F0%9F%87%B0-1",
-      "ip": "194.77.220.41",
-      "country": "DK",
-      "cdn": null,
-      "rebuilt": "vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-DK%F0%9F%87%A9%F0%9F%87%B0-1"
-    },
     {
       "type": "vless",
       "address": "learngerman.torexa.ir",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-DK%F0%9F%87%A9%F0%9F%87%B0-2",
+      "original": "vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-DK%F0%9F%87%A9%F0%9F%87%B0-1",
       "ip": "194.77.220.152",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-DK%F0%9F%87%A9%F0%9F%87%B0-2"
+      "rebuilt": "vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-DK%F0%9F%87%A9%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vless",
+      "address": "194.77.220.41",
+      "port": "29",
+      "id": "35c13bb9-9d22-4d89-bfd2-76fe7abf04ff",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-DK%F0%9F%87%A9%F0%9F%87%B0-2",
+      "ip": "194.77.220.41",
+      "country": "DK",
+      "cdn": null,
+      "rebuilt": "vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-DK%F0%9F%87%A9%F0%9F%87%B0-2"
     }
   ]
 }
