@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-02T16:53:26.689052",
+  "updated": "2026-08-03T02:08:27.205266",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "194.77.220.41",
+      "port": "29",
+      "id": "35c13bb9-9d22-4d89-bfd2-76fe7abf04ff",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-DK%F0%9F%87%A9%F0%9F%87%B0-1",
+      "ip": "194.77.220.41",
+      "country": "DK",
+      "cdn": null,
+      "rebuilt": "vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-DK%F0%9F%87%A9%F0%9F%87%B0-1"
+    },
     {
       "type": "vless",
       "address": "learngerman.torexa.ir",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-DK%F0%9F%87%A9%F0%9F%87%B0-1",
+      "original": "vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-DK%F0%9F%87%A9%F0%9F%87%B0-2",
       "ip": "194.77.220.152",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-DK%F0%9F%87%A9%F0%9F%87%B0-1"
-    },
-    {
-      "type": "vless",
-      "address": "304331dec0350d1e.mbcloudynias.ir",
-      "port": "50567",
-      "id": "d7955f3f-dfa3-45a0-a3ef-9693df439a0f",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
-      "sni": "play.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@304331dec0350d1e.mbcloudynias.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c39acc8cb9481d24#vless-xtls-rprx-vision-tcp-reality-ios-DK%F0%9F%87%A9%F0%9F%87%B0-2",
-      "ip": "87.58.146.235",
-      "country": "DK",
-      "cdn": null,
-      "rebuilt": "vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@304331dec0350d1e.mbcloudynias.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c39acc8cb9481d24#vless-xtls-rprx-vision-tcp-reality-ios-DK%F0%9F%87%A9%F0%9F%87%B0-2"
+      "rebuilt": "vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-DK%F0%9F%87%A9%F0%9F%87%B0-2"
     }
   ]
 }

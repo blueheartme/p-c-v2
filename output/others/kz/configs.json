@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-02T16:53:26.686558",
+  "updated": "2026-08-03T02:08:27.212513",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "193.124.204.145",
-      "port": "49853",
-      "id": "5ed7b151-b781-4dba-800d-e3f824f1416f",
-      "name": "🇰🇿 KZ 2",
-      "network": "",
-      "sni": "",
+      "address": "kaz01.routexvpn.space",
+      "port": "443",
+      "id": "c46e2605-be24-4555-b7db-0fc6773ad004",
+      "name": "🇰🇿 KZ 3",
+      "network": "tcp",
+      "sni": "yahoo.com",
       "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?path=%2f#vless-tcp-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "193.124.204.145",
+      "fingerprint": "firefox",
+      "original": "vless://c46e2605-be24-4555-b7db-0fc6773ad004@kaz01.routexvpn.space:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=yahoo.com&fp=firefox&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "91.217.10.163",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?path=%2f#vless-tcp-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vless://c46e2605-be24-4555-b7db-0fc6773ad004@kaz01.routexvpn.space:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=yahoo.com&fp=firefox&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }

@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-02T16:53:26.743838",
-  "count": 1,
+  "updated": "2026-08-03T02:08:27.268285",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "137.184.174.93",
+      "port": "8080",
+      "method": "rc4-md5",
+      "password": "14fFPrbezE3HDZzsMOr6",
+      "name": "🇨🇦 CA 4",
+      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%204",
+      "ip": "137.184.174.93",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%204"
+    },
+    {
+      "type": "ss",
+      "address": "185.196.61.82",
+      "port": "8080",
+      "method": "aes-256-gcm",
+      "password": "KixLvKzwjekG00rm",
+      "name": "🇨🇦 CA 3",
+      "original": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%203",
+      "ip": "185.196.61.82",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%203"
+    },
     {
       "type": "ss",
       "address": "149.22.95.183",
