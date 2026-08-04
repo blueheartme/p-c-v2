@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-03T17:46:11.602655",
-  "count": 3,
+  "updated": "2026-08-04T01:54:04.835402",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "3.99.41.4",
-      "port": "27775",
-      "id": "309c4bd0-7430-b8aa-2238-1075e9e29370",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.99.41.4:27775?security=&encryption=none&headerType=none&type=tcp#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "3.99.41.4",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.99.41.4:27775?security=&encryption=none&headerType=none&type=tcp#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-1"
-    },
     {
       "type": "vless",
       "address": "78.111.91.166",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@78.111.91.166:443?mode=gun&security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&fp=firefox&type=grpc&serviceName=demiurgitut-grpc&sni=web.demiurgitut.ru&sid=0858af97f4e7324d#vless-grpc-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "original": "vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@78.111.91.166:443?mode=gun&security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&fp=firefox&type=grpc&serviceName=demiurgitut-grpc&sni=web.demiurgitut.ru&sid=0858af97f4e7324d#vless-grpc-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-1",
       "ip": "78.111.91.166",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@78.111.91.166:443?mode=gun&security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&fp=firefox&type=grpc&serviceName=demiurgitut-grpc&sni=web.demiurgitut.ru&sid=0858af97f4e7324d#vless-grpc-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+      "rebuilt": "vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@78.111.91.166:443?mode=gun&security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&fp=firefox&type=grpc&serviceName=demiurgitut-grpc&sni=web.demiurgitut.ru&sid=0858af97f4e7324d#vless-grpc-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     },
     {
       "type": "ss",

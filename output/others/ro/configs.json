@@ -1,18 +1,7 @@
 {
-  "updated": "2026-08-03T17:46:11.604005",
-  "count": 2,
+  "updated": "2026-08-04T01:54:04.838218",
+  "count": 1,
   "configs": [
-    {
-      "type": "hysteria2",
-      "address": "185.225.19.39",
-      "port": "443",
-      "name": "@filembad",
-      "original": "hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?security=tls&insecure=0&sni=ro.h2corp.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1",
-      "ip": "185.225.19.39",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?security=tls&insecure=0&sni=ro.h2corp.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1"
-    },
     {
       "type": "vless",
       "address": "sosk.sorix-home.ir",
@@ -22,16 +11,16 @@
       "network": "tcp",
       "sni": "",
       "host": "",
-      "security": "",
+      "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?encryption=none&type=tcp&headerType=http#vless-tcp-http-RO%F0%9F%87%B7%F0%9F%87%B4-2",
-      "ip": "45.82.102.70",
+      "original": "vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?encryption=none&security=none&type=tcp&headerType=http#vless-tcp-http-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "ip": "185.202.92.113",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?encryption=none&type=tcp&headerType=http#vless-tcp-http-RO%F0%9F%87%B7%F0%9F%87%B4-2"
+      "rebuilt": "vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?encryption=none&security=none&type=tcp&headerType=http#vless-tcp-http-RO%F0%9F%87%B7%F0%9F%87%B4-1"
     }
   ]
 }
