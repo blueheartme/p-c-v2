@@ -1,21 +1,7 @@
 {
-  "updated": "2026-08-04T01:54:04.914132",
+  "updated": "2026-08-04T10:31:18.505614",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "185.137.157.140",
-      "port": "443",
-      "password": "dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q",
-      "name": "Free 106 @Outline_Vpn",
-      "sni": "",
-      "host": "",
-      "original": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1",
-      "ip": "185.137.157.140",
-      "country": "DE",
-      "cdn": null,
-      "rebuilt": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1"
-    },
     {
       "type": "trojan",
       "address": "63.178.193.196",
@@ -24,11 +10,25 @@
       "name": "Free 114 @Outline_Vpn",
       "sni": "quiet-condor.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-33",
+      "original": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-6",
       "ip": "63.178.193.196",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-33"
+      "rebuilt": "trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-6"
+    },
+    {
+      "type": "trojan",
+      "address": "185.137.157.140",
+      "port": "443",
+      "password": "dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q",
+      "name": "Free 106 @Outline_Vpn",
+      "sni": "",
+      "host": "",
+      "original": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-148",
+      "ip": "185.137.157.140",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-148"
     }
   ]
 }

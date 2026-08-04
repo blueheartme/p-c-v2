@@ -1,19 +1,26 @@
 {
-  "updated": "2026-08-03T17:46:11.600394",
+  "updated": "2026-08-04T10:31:18.458938",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "140.238.191.246",
-      "port": "59319",
-      "method": "chacha20-ietf-poly1305",
-      "password": "YjliYmFlNzVmMmE4ZmJkYjAxNzQ2NWUyNzZlNjhkZGU=",
+      "type": "vless",
+      "address": "45.194.53.30",
+      "port": "8880",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@140.238.191.246:59319#%40filembad",
-      "ip": "140.238.191.246",
+      "network": "ws",
+      "sni": "",
+      "host": "vms.lifetime19.workers.dev",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.30:8880?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=vms.lifetime19.workers.dev&type=ws#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "ip": "45.194.53.30",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@140.238.191.246:59319#%40filembad"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.30:8880?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=vms.lifetime19.workers.dev&type=ws#vless-ws-BR%F0%9F%87%A7%F0%9F%87%B7-1"
     }
   ]
 }
