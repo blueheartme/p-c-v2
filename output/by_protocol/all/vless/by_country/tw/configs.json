@@ -1,46 +1,26 @@
 {
-  "updated": "2026-08-05T01:54:26.950585",
-  "count": 2,
+  "updated": "2026-08-05T10:29:31.971296",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "60.249.101.14",
       "port": "10000",
       "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
-      "name": "🇹🇼 TW 5",
-      "network": "",
+      "name": "@filembad",
+      "network": "tcp",
       "sni": "",
       "host": "",
       "security": "",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=&encryption=none&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1",
       "ip": "60.249.101.14",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1"
-    },
-    {
-      "type": "vless",
-      "address": "60.249.101.16",
-      "port": "10000",
-      "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
-      "name": "🇹🇼 TW 4",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?security=none&encryption=none&type=tcp&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2",
-      "ip": "60.249.101.16",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?security=none&encryption=none&type=tcp&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2"
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=&encryption=none&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1"
     }
   ]
 }

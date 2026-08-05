@@ -1,34 +1,20 @@
 {
-  "updated": "2026-08-05T01:54:26.972723",
-  "count": 8,
+  "updated": "2026-08-05T10:29:32.035662",
+  "count": 5,
   "configs": [
     {
       "type": "trojan",
-      "address": "star-kiwi.rooster465.autos",
+      "address": "careful-tadpole.rooster465.autos",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇫🇷 FR 6",
-      "sni": "star-kiwi.rooster465.autos",
+      "name": "🇫🇷 FR 8",
+      "sni": "careful-tadpole.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@star-kiwi.rooster465.autos:443?security=tls&sni=star-kiwi.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-1",
-      "ip": "15.237.49.244",
+      "original": "trojan://ND91608427@careful-tadpole.rooster465.autos:443?security=tls&sni=careful-tadpole.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-2",
+      "ip": "15.237.219.234",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@star-kiwi.rooster465.autos:443?security=tls&sni=star-kiwi.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-1"
-    },
-    {
-      "type": "trojan",
-      "address": "151.101.122.172",
-      "port": "80",
-      "password": "MiTiVPN",
-      "name": "@filembad",
-      "sni": "",
-      "host": "s1-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net",
-      "original": "trojan://MiTiVPN@151.101.122.172:80?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ffl---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=none&host=s1-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&type=ws#trojan-ws-FR%F0%9F%87%AB%F0%9F%87%B7-2",
-      "ip": "151.101.122.172",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@151.101.122.172:80?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ffl---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=none&host=s1-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&type=ws#trojan-ws-FR%F0%9F%87%AB%F0%9F%87%B7-2"
+      "rebuilt": "trojan://ND91608427@careful-tadpole.rooster465.autos:443?security=tls&sni=careful-tadpole.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-2"
     },
     {
       "type": "trojan",
@@ -38,53 +24,11 @@
       "name": "🇫🇷 FR 1",
       "sni": "careful-tadpole.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@15.237.219.234:443?sni=careful-tadpole.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-4",
+      "original": "trojan://ND91608427@15.237.219.234:443?sni=careful-tadpole.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-6",
       "ip": "15.237.219.234",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@15.237.219.234:443?sni=careful-tadpole.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-4"
-    },
-    {
-      "type": "trojan",
-      "address": "fancy-skink.rooster465.autos",
-      "port": "443",
-      "password": "ND91608427",
-      "name": "🇫🇷 FR 5",
-      "sni": "fancy-skink.rooster465.autos",
-      "host": "",
-      "original": "trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-7",
-      "ip": "15.237.137.197",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-7"
-    },
-    {
-      "type": "trojan",
-      "address": "15.237.49.244",
-      "port": "443",
-      "password": "ND91608427",
-      "name": "🇫🇷 FR 2",
-      "sni": "star-kiwi.rooster465.autos",
-      "host": "",
-      "original": "trojan://ND91608427@15.237.49.244:443?sni=star-kiwi.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-11",
-      "ip": "15.237.49.244",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "trojan://ND91608427@15.237.49.244:443?sni=star-kiwi.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-11"
-    },
-    {
-      "type": "trojan",
-      "address": "15.237.137.197",
-      "port": "443",
-      "password": "ND91608427",
-      "name": "🇫🇷 FR 4",
-      "sni": "fancy-skink.rooster465.autos",
-      "host": "",
-      "original": "trojan://ND91608427@15.237.137.197:443?sni=fancy-skink.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-19",
-      "ip": "15.237.137.197",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "trojan://ND91608427@15.237.137.197:443?sni=fancy-skink.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-19"
+      "rebuilt": "trojan://ND91608427@15.237.219.234:443?sni=careful-tadpole.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-6"
     },
     {
       "type": "trojan",
@@ -94,11 +38,11 @@
       "name": "𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️-@prrofile_purple",
       "sni": "lucky-marmot.rooster465.autos",
       "host": "",
-      "original": "trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-23",
+      "original": "trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-8",
       "ip": "13.38.35.46",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-23"
+      "rebuilt": "trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-8"
     },
     {
       "type": "trojan",
@@ -108,11 +52,25 @@
       "name": "🇫🇷 FR 3",
       "sni": "classic-gator.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-24",
+      "original": "trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-13",
       "ip": "13.36.175.151",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-24"
+      "rebuilt": "trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-13"
+    },
+    {
+      "type": "trojan",
+      "address": "15.237.49.244",
+      "port": "443",
+      "password": "ND91608427",
+      "name": "🇫🇷 FR 2",
+      "sni": "star-kiwi.rooster465.autos",
+      "host": "",
+      "original": "trojan://ND91608427@15.237.49.244:443?sni=star-kiwi.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-25",
+      "ip": "15.237.49.244",
+      "country": "FR",
+      "cdn": null,
+      "rebuilt": "trojan://ND91608427@15.237.49.244:443?sni=star-kiwi.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-25"
     }
   ]
 }

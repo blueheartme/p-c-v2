@@ -1,20 +1,34 @@
 {
-  "updated": "2026-08-05T01:54:26.973273",
-  "count": 3,
+  "updated": "2026-08-05T10:29:32.039203",
+  "count": 4,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "13.212.208.243",
+      "port": "443",
+      "password": "ND91608427",
+      "name": "🇸🇬 SG 3",
+      "sni": "sacred-treefrog.rooster465.autos",
+      "host": "",
+      "original": "trojan://ND91608427@13.212.208.243:443?sni=sacred-treefrog.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "13.212.208.243",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://ND91608427@13.212.208.243:443?sni=sacred-treefrog.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
     {
       "type": "trojan",
       "address": "54.255.35.23",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇸🇬 SG 1",
+      "name": "🇸🇬 SG 5",
       "sni": "tidy-gelding.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@54.255.35.23:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "original": "trojan://ND91608427@54.255.35.23:443?sni=tidy-gelding.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
       "ip": "54.255.35.23",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@54.255.35.23:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "trojan://ND91608427@54.255.35.23:443?sni=tidy-gelding.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     },
     {
       "type": "trojan",
@@ -24,25 +38,25 @@
       "name": "🇸🇬 SG 6",
       "sni": "sacred-treefrog.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "trojan://ND91608427@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3",
       "ip": "13.212.208.243",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "trojan://ND91608427@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     },
     {
       "type": "trojan",
-      "address": "13.212.208.243",
+      "address": "tidy-gelding.rooster465.autos",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇸🇬 SG 3",
-      "sni": "sacred-treefrog.rooster465.autos",
+      "name": "🇸🇬 SG 4",
+      "sni": "tidy-gelding.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@13.212.208.243:443?sni=sacred-treefrog.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "13.212.208.243",
+      "original": "trojan://ND91608427@tidy-gelding.rooster465.autos:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "54.255.35.23",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@13.212.208.243:443?sni=sacred-treefrog.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "trojan://ND91608427@tidy-gelding.rooster465.autos:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }
