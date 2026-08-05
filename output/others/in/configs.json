@@ -1,26 +1,41 @@
 {
-  "updated": "2026-08-04T01:54:04.842271",
-  "count": 1,
+  "updated": "2026-08-05T01:54:26.911717",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "185.67.126.178",
-      "port": "443",
-      "id": "ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2",
-      "name": "🇮🇳 IN 4",
-      "network": "",
-      "sni": "ind.tunnelx.space",
-      "host": "ind.tunnelx.space",
+      "address": "5.253.30.99",
+      "port": "40443",
+      "id": "511c1563-2cb6-4064-abc6-a59ee49818a8",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "deepl.com",
+      "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@185.67.126.178:443?flow=xtls-rprx-vision&security=reality&sni=ind.tunnelx.space&fp=firefox&pbk=loAFNSTbdM9g-9dyps76y996jHPfBNJBq5F5Vd0Sekw&sid=4e9b5c2d1a3f5748&host=ind.tunnelx.space&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "185.67.126.178",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "5.253.30.99",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@185.67.126.178:443?flow=xtls-rprx-vision&security=reality&sni=ind.tunnelx.space&fp=firefox&pbk=loAFNSTbdM9g-9dyps76y996jHPfBNJBq5F5Vd0Sekw&sid=4e9b5c2d1a3f5748&host=ind.tunnelx.space&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
+    {
+      "type": "vmess",
+      "address": "152.67.8.205",
+      "port": "80",
+      "id": "9db4c708-aef8-4359-821b-38e47990be0d",
+      "name": "🇮🇳 IN 2",
+      "network": "ws",
+      "host": "152.67.8.205",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0yIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ==",
+      "ip": "152.67.8.205",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0yIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ=="
     }
   ]
 }
