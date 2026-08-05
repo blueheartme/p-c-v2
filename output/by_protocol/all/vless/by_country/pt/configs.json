@@ -1,26 +1,46 @@
 {
-  "updated": "2026-08-05T10:29:31.973443",
-  "count": 1,
+  "updated": "2026-08-05T17:24:09.741166",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "93.119.168.215",
       "port": "60771",
       "id": "060a5db6-7ff9-4a64-87c1-8a27be4f11ab",
-      "name": "@meliproxyy",
+      "name": "@filembad",
       "network": "tcp",
       "sni": "",
       "host": "",
-      "security": "none",
+      "security": "",
       "flow": "",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1",
+      "original": "vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?security=&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1",
       "ip": "93.119.168.215",
       "country": "PT",
       "cdn": null,
-      "rebuilt": "vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1"
+      "rebuilt": "vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?security=&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "93.119.168.26",
+      "port": "63443",
+      "id": "555a098f-06db-427c-a535-4ba284046dbf",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://555a098f-06db-427c-a535-4ba284046dbf@93.119.168.26:63443?&type=tcp&headerType=none&path=%2F#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-2",
+      "ip": "93.119.168.26",
+      "country": "PT",
+      "cdn": null,
+      "rebuilt": "vless://555a098f-06db-427c-a535-4ba284046dbf@93.119.168.26:63443?&type=tcp&headerType=none&path=%2F#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-2"
     }
   ]
 }

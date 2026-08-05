@@ -1,94 +1,83 @@
 {
-  "updated": "2026-08-05T10:29:32.040267",
-  "count": 8,
+  "updated": "2026-08-05T17:24:09.773981",
+  "count": 7,
   "configs": [
     {
       "type": "hysteria2",
       "address": "hy2.aspidnet.xyz",
       "port": "443",
       "name": "@meliproxyy",
-      "original": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-61",
+      "original": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-25",
       "ip": "130.49.161.70",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-61"
+      "rebuilt": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-25"
     },
     {
       "type": "hysteria2",
       "address": "130.49.161.70",
       "port": "443",
-      "name": "@meliproxyy",
-      "original": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-101",
+      "name": "@filembad",
+      "original": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-51",
       "ip": "130.49.161.70",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-101"
-    },
-    {
-      "type": "hysteria2",
-      "address": "assets.gateway-stream.com",
-      "port": "52023",
-      "name": "@filembad",
-      "original": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52023?security=tls&obfs=salamander&obfs-password=detgimgm8qh8i2g2&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-1",
-      "ip": "95.217.96.131",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52023?security=tls&obfs=salamander&obfs-password=detgimgm8qh8i2g2&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-1"
-    },
-    {
-      "type": "hysteria2",
-      "address": "assets.gateway-stream.com",
-      "port": "52000",
-      "name": "@filembad",
-      "original": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52000?security=tls&obfs=salamander&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-8",
-      "ip": "95.217.96.131",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52000?security=tls&obfs=salamander&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-8"
+      "rebuilt": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-51"
     },
     {
       "type": "hysteria2",
       "address": "assets.gateway-stream.com",
       "port": "52021",
       "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "original": "hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-9",
+      "original": "hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-4",
       "ip": "95.217.96.131",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-9"
-    },
-    {
-      "type": "hysteria2",
-      "address": "assets.gateway-stream.com",
-      "port": "52001",
-      "name": "@filembad",
-      "original": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52001?security=tls&obfs=salamander&obfs-password=527zd9w4nuaccd7g&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-16",
-      "ip": "95.217.96.131",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52001?security=tls&obfs=salamander&obfs-password=527zd9w4nuaccd7g&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-16"
+      "rebuilt": "hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-4"
     },
     {
       "type": "hysteria2",
       "address": "assets.gateway-stream.com",
       "port": "52051",
-      "name": "@filembad",
-      "original": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52051?security=tls&obfs=salamander&obfs-password=l6l4n5a0q9epnr5k&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-43",
+      "name": "برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩",
+      "original": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52051?security=tls&obfs=salamander&obfs-password=l6l4n5a0q9epnr5k&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-7",
       "ip": "95.217.96.131",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52051?security=tls&obfs=salamander&obfs-password=l6l4n5a0q9epnr5k&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-43"
+      "rebuilt": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52051?security=tls&obfs=salamander&obfs-password=l6l4n5a0q9epnr5k&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-7"
+    },
+    {
+      "type": "hysteria2",
+      "address": "assets.gateway-stream.com",
+      "port": "52023",
+      "name": "برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩",
+      "original": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52023?security=tls&obfs=salamander&obfs-password=detgimgm8qh8i2g2&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-34",
+      "ip": "95.217.96.131",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52023?security=tls&obfs=salamander&obfs-password=detgimgm8qh8i2g2&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-34"
+    },
+    {
+      "type": "hysteria2",
+      "address": "assets.gateway-stream.com",
+      "port": "52006",
+      "name": "برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩",
+      "original": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52006?security=tls&obfs=salamander&obfs-password=s3dhdo4iiqy08m1a&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-59",
+      "ip": "95.217.96.131",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52006?security=tls&obfs=salamander&obfs-password=s3dhdo4iiqy08m1a&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-59"
     },
     {
       "type": "hysteria2",
       "address": "assets.gateway-stream.com",
       "port": "52002",
       "name": "برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩",
-      "original": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52002?security=tls&obfs=salamander&obfs-password=ielzukpwth087afx&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-65",
+      "original": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52002?security=tls&obfs=salamander&obfs-password=ielzukpwth087afx&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-78",
       "ip": "95.217.96.131",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52002?security=tls&obfs=salamander&obfs-password=ielzukpwth087afx&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-65"
+      "rebuilt": "hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52002?security=tls&obfs=salamander&obfs-password=ielzukpwth087afx&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-78"
     }
   ]
 }

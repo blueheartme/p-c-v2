@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-04T01:54:04.887325",
+  "updated": "2026-08-05T17:24:09.747008",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "78.111.91.166",
-      "port": "443",
-      "id": "504d0b6e-400d-45ec-b2d0-1c79006ebc16",
-      "name": "🇲🇩@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "grpc",
-      "sni": "web.demiurgitut.ru",
+      "address": "185.206.170.69",
+      "port": "5151",
+      "id": "26c0589f-79e5-4789-8ff7-914f2e26e8e5",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.yahoo.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@78.111.91.166:443?mode=gun&security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&fp=firefox&type=grpc&serviceName=demiurgitut-grpc&sni=web.demiurgitut.ru&sid=0858af97f4e7324d#vless-grpc-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "78.111.91.166",
+      "fingerprint": "chrome",
+      "original": "vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@185.206.170.69:5151?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&security=reality&sid=69b851&sni=www.yahoo.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "185.206.170.69",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@78.111.91.166:443?mode=gun&security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&fp=firefox&type=grpc&serviceName=demiurgitut-grpc&sni=web.demiurgitut.ru&sid=0858af97f4e7324d#vless-grpc-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@185.206.170.69:5151?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&security=reality&sid=69b851&sni=www.yahoo.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     }
   ]
 }

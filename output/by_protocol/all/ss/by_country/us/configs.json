@@ -1,84 +1,19 @@
 {
-  "updated": "2026-08-05T10:29:32.022758",
-  "count": 7,
+  "updated": "2026-08-05T17:24:09.770137",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "173.244.56.6",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇺🇸 US 17",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2017",
-      "ip": "173.244.56.6",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2017"
-    },
-    {
-      "type": "ss",
-      "address": "37.19.198.244",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇺🇸 US 1",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%f0%9f%87%ba%f0%9f%87%b8%20US%201",
-      "ip": "37.19.198.244",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%f0%9f%87%ba%f0%9f%87%b8%20US%201"
-    },
-    {
-      "type": "ss",
-      "address": "156.146.38.170",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇺🇸 US 8",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%f0%9f%87%ba%f0%9f%87%b8%20US%208",
-      "ip": "156.146.38.170",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%f0%9f%87%ba%f0%9f%87%b8%20US%208"
-    },
-    {
-      "type": "ss",
-      "address": "156.146.38.168",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇺🇸 US 9",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%f0%9f%87%ba%f0%9f%87%b8%20US%209",
-      "ip": "156.146.38.168",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%f0%9f%87%ba%f0%9f%87%b8%20US%209"
-    },
-    {
-      "type": "ss",
-      "address": "198.98.53.130",
-      "port": "443",
+      "address": "70.39.198.35",
+      "port": "54166",
       "method": "chacha20-ietf-poly1305",
-      "password": "eDfN7SODQceIOmIAbtJJtK",
-      "name": "برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%92%B1%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
-      "ip": "198.98.53.130",
+      "password": "EvLfWGe0AKvK",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#%40filembad",
+      "ip": "70.39.198.35",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%92%B1%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
-    },
-    {
-      "type": "ss",
-      "address": "37.19.198.160",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇺🇸 US 2",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%f0%9f%87%ba%f0%9f%87%b8%20US%202",
-      "ip": "37.19.198.160",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%f0%9f%87%ba%f0%9f%87%b8%20US%202"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#%40filembad"
     },
     {
       "type": "ss",
@@ -92,6 +27,19 @@
       "country": "US",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
+    },
+    {
+      "type": "ss",
+      "address": "198.98.53.130",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "eDfN7SODQceIOmIAbtJJtK",
+      "name": "برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%92%B1%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+      "ip": "198.98.53.130",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%92%B1%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
     }
   ]
 }
