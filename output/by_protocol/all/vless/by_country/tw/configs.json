@@ -1,33 +1,13 @@
 {
-  "updated": "2026-08-05T17:24:09.743417",
-  "count": 2,
+  "updated": "2026-08-06T01:57:03.877308",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "60.249.101.14",
       "port": "10000",
       "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=&encryption=none&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1",
-      "ip": "60.249.101.14",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=&encryption=none&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1"
-    },
-    {
-      "type": "vless",
-      "address": "60.249.101.16",
-      "port": "10000",
-      "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
-      "name": "🇹🇼 TW 1",
+      "name": "🇹🇼 TW 2",
       "network": "",
       "sni": "",
       "host": "",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2",
-      "ip": "60.249.101.16",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "ip": "60.249.101.14",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2"
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1"
     }
   ]
 }

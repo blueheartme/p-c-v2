@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-05T17:24:09.745060",
+  "updated": "2026-08-06T01:57:03.882219",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "fn.fifapes.monster",
-      "port": "2090",
-      "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
+      "address": "150.241.75.170",
+      "port": "443",
+      "id": "c390be4b-00b5-4583-93f2-bbc099b8e7f1",
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "network": "tcp",
-      "sni": "",
+      "sni": "www.yandex.ru",
       "host": "",
-      "security": "none",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-1",
-      "ip": "31.57.27.37",
+      "fingerprint": "chrome",
+      "original": "vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "ip": "150.241.75.170",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+      "rebuilt": "vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
     }
   ]
 }

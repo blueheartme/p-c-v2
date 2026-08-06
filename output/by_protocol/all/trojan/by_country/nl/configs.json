@@ -1,48 +1,34 @@
 {
-  "updated": "2026-08-05T17:24:09.760812",
-  "count": 3,
+  "updated": "2026-08-06T01:57:03.935459",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
       "address": "89.39.70.180",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇳🇱 NL 3",
+      "name": "🇳🇱 NL 4",
       "sni": "eager-louse.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@89.39.70.180:443?security=tls&sni=eager-louse.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-1",
+      "original": "trojan://ND91608427@89.39.70.180:443?security=tls&sni=eager-louse.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-52",
       "ip": "89.39.70.180",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@89.39.70.180:443?security=tls&sni=eager-louse.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-1"
+      "rebuilt": "trojan://ND91608427@89.39.70.180:443?security=tls&sni=eager-louse.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-52"
     },
     {
       "type": "trojan",
-      "address": "89.39.70.85",
+      "address": "eager-louse.rooster465.autos",
       "port": "443",
-      "password": "NQ26071394",
-      "name": "Free 124 @Outline_Vpn",
-      "sni": "grateful-bedbug.rooster465.autos",
+      "password": "ND91608427",
+      "name": "🇳🇱 NL 1",
+      "sni": "eager-louse.rooster465.autos",
       "host": "",
-      "original": "trojan://NQ26071394@89.39.70.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grateful-bedbug.rooster465.autos#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-10",
-      "ip": "89.39.70.85",
+      "original": "trojan://ND91608427@eager-louse.rooster465.autos:443?sni=eager-louse.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-74",
+      "ip": "89.39.70.180",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://NQ26071394@89.39.70.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grateful-bedbug.rooster465.autos#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-10"
-    },
-    {
-      "type": "trojan",
-      "address": "89.39.70.143",
-      "port": "443",
-      "password": "NQ26071394",
-      "name": "Free 118 @Outline_Vpn",
-      "sni": "thorough-falcon.rooster465.autos",
-      "host": "",
-      "original": "trojan://NQ26071394@89.39.70.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=thorough-falcon.rooster465.autos#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-32",
-      "ip": "89.39.70.143",
-      "country": "NL",
-      "cdn": null,
-      "rebuilt": "trojan://NQ26071394@89.39.70.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=thorough-falcon.rooster465.autos#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-32"
+      "rebuilt": "trojan://ND91608427@eager-louse.rooster465.autos:443?sni=eager-louse.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-74"
     }
   ]
 }

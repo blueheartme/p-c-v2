@@ -1,20 +1,40 @@
 {
-  "updated": "2026-08-05T17:24:09.711257",
-  "count": 1,
+  "updated": "2026-08-06T01:57:03.845991",
+  "count": 2,
   "configs": [
     {
+      "type": "vless",
+      "address": "cms.umtheme.com",
+      "port": "443",
+      "id": "a256f249-7d63-4754-a83c-aaef9d96e57f",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "st1sni.irandoc.info",
+      "host": "st1sni.irandoc.info",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://a256f249-7d63-4754-a83c-aaef9d96e57f@cms.umtheme.com:443?encryption=none&type=ws&security=tls&path=%2F54863%2Fgoogle&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=firefox&insecure=0&allowInsecure=0#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "43.174.247.27",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://a256f249-7d63-4754-a83c-aaef9d96e57f@cms.umtheme.com:443?encryption=none&type=ws&security=tls&path=%2F54863%2Fgoogle&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=firefox&insecure=0&allowInsecure=0#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
       "type": "trojan",
-      "address": "tidy-gelding.rooster465.autos",
+      "address": "54.255.35.23",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇸🇬 SG 3",
+      "name": "🇸🇬 SG 1",
       "sni": "tidy-gelding.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@tidy-gelding.rooster465.autos:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "original": "trojan://ND91608427@54.255.35.23:443?sni=tidy-gelding.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
       "ip": "54.255.35.23",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@tidy-gelding.rooster465.autos:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "trojan://ND91608427@54.255.35.23:443?sni=tidy-gelding.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }

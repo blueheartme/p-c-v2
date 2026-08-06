@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-03T11:16:15.166382",
+  "updated": "2026-08-06T01:57:03.883859",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "104.64.206.42",
-      "port": "57137",
-      "id": "4476eabb-509c-42d3-bb42-6838bf6fcd1e",
-      "name": "🇸🇬 SG 6",
+      "address": "cms.umtheme.com",
+      "port": "443",
+      "id": "a256f249-7d63-4754-a83c-aaef9d96e57f",
+      "name": "@meliproxyy",
       "network": "ws",
-      "sni": "",
-      "host": "m.zoom.us",
-      "security": "none",
+      "sni": "st1sni.irandoc.info",
+      "host": "st1sni.irandoc.info",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?security=none&encryption=none&fp=chrome&type=ws&headerType=none&host=m.zoom.us&path=%2fFREE+By+Tharuwa+(0767597317)#vless-ws-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "104.64.206.42",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://a256f249-7d63-4754-a83c-aaef9d96e57f@cms.umtheme.com:443?encryption=none&type=ws&security=tls&path=%2F54863%2Fgoogle&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=firefox&insecure=0&allowInsecure=0#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "43.174.247.27",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?security=none&encryption=none&fp=chrome&type=ws&headerType=none&host=m.zoom.us&path=%2fFREE+By+Tharuwa+(0767597317)#vless-ws-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://a256f249-7d63-4754-a83c-aaef9d96e57f@cms.umtheme.com:443?encryption=none&type=ws&security=tls&path=%2F54863%2Fgoogle&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=firefox&insecure=0&allowInsecure=0#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }
