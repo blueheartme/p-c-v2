@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T17:24:09.739811",
-  "count": 1,
+  "updated": "2026-08-06T10:33:09.908910",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,31 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://e2c8fa8c-886d-4649-bd59-cf73bee48b55@45.125.32.115:443?security=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-15",
+      "original": "vless://e2c8fa8c-886d-4649-bd59-cf73bee48b55@45.125.32.115:443?security=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "45.125.32.115",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://e2c8fa8c-886d-4649-bd59-cf73bee48b55@45.125.32.115:443?security=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-15"
+      "rebuilt": "vless://e2c8fa8c-886d-4649-bd59-cf73bee48b55@45.125.32.115:443?security=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.144.174.171",
+      "port": "40149",
+      "id": "2af30aff-de7a-44b9-b929-158081b4f3e6",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.speedtest.org",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://2af30aff-de7a-44b9-b929-158081b4f3e6@45.144.174.171:40149?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.org#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-14",
+      "ip": "45.144.174.171",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://2af30aff-de7a-44b9-b929-158081b4f3e6@45.144.174.171:40149?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.org#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-14"
     }
   ]
 }

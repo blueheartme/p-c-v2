@@ -1,20 +1,26 @@
 {
-  "updated": "2026-07-05T02:29:40.164985",
+  "updated": "2026-08-06T10:33:09.866388",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "88.216.67.230",
-      "port": "443",
-      "password": "MiTiVPN",
-      "name": "@proxy_kafee 101⚡",
-      "sni": "Nel.App-Cloud.ir",
-      "host": "Nel.App-Cloud.ir",
-      "original": "trojan://MiTiVPN@88.216.67.230:443?type=ws&security=tls&path=%2FMiTiVPN%3DNL&host=Nel.App-Cloud.ir&sni=Nel.App-Cloud.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#trojan-ws-tls-CW%F0%9F%87%A8%F0%9F%87%BC-1",
-      "ip": "88.216.67.230",
+      "type": "vless",
+      "address": "88.216.67.50",
+      "port": "8880",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "vms.lifetime05.workers.dev",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.50:8880?path=%2F%3Fed&security=none&encryption=none&host=vms.lifetime05.workers.dev&type=ws#vless-ws-CW%F0%9F%87%A8%F0%9F%87%BC-1",
+      "ip": "88.216.67.50",
       "country": "CW",
       "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@88.216.67.230:443?type=ws&security=tls&path=%2FMiTiVPN%3DNL&host=Nel.App-Cloud.ir&sni=Nel.App-Cloud.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#trojan-ws-tls-CW%F0%9F%87%A8%F0%9F%87%BC-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.50:8880?path=%2F%3Fed&security=none&encryption=none&host=vms.lifetime05.workers.dev&type=ws#vless-ws-CW%F0%9F%87%A8%F0%9F%87%BC-1"
     }
   ]
 }

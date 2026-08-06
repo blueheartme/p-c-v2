@@ -1,20 +1,26 @@
 {
-  "updated": "2026-08-06T01:57:03.847533",
+  "updated": "2026-08-06T10:33:09.872102",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
+      "type": "vless",
       "address": "157.85.102.28",
-      "port": "1084",
-      "password": "Rm6JhT-Rz8H6Mjy3dtSglA",
-      "name": "🇹🇭 TH 1",
+      "port": "1083",
+      "id": "b93efa30-e2c5-401c-9ec7-22e30266cc60",
+      "name": "🇹🇴@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "tcp",
       "sni": "",
       "host": "",
-      "original": "trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&type=tcp&headerType=none&path=%2f#trojan-tcp-TH%F0%9F%87%B9%F0%9F%87%AD-1",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TH%F0%9F%87%B9%F0%9F%87%AD-1",
       "ip": "157.85.102.28",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&type=tcp&headerType=none&path=%2f#trojan-tcp-TH%F0%9F%87%B9%F0%9F%87%AD-1"
+      "rebuilt": "vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TH%F0%9F%87%B9%F0%9F%87%AD-1"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T01:57:03.883859",
-  "count": 1,
+  "updated": "2026-08-06T10:33:09.917994",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://a256f249-7d63-4754-a83c-aaef9d96e57f@cms.umtheme.com:443?encryption=none&type=ws&security=tls&path=%2F54863%2Fgoogle&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=firefox&insecure=0&allowInsecure=0#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "43.174.247.27",
+      "original": "vless://a256f249-7d63-4754-a83c-aaef9d96e57f@cms.umtheme.com:443?encryption=none&type=ws&security=tls&path=%2F54863%2Fgoogle&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=firefox&insecure=0&allowInsecure=0#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "43.174.246.27",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://a256f249-7d63-4754-a83c-aaef9d96e57f@cms.umtheme.com:443?encryption=none&type=ws&security=tls&path=%2F54863%2Fgoogle&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=firefox&insecure=0&allowInsecure=0#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://a256f249-7d63-4754-a83c-aaef9d96e57f@cms.umtheme.com:443?encryption=none&type=ws&security=tls&path=%2F54863%2Fgoogle&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=firefox&insecure=0&allowInsecure=0#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+    },
+    {
+      "type": "vless",
+      "address": "www.dgmcd.cn",
+      "port": "443",
+      "id": "a256f249-7d63-4754-a83c-aaef9d96e57f",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "st1sni.irandoc.info",
+      "host": "st1sni.irandoc.info",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://a256f249-7d63-4754-a83c-aaef9d96e57f@www.dgmcd.cn:443?encryption=none&type=ws&security=tls&path=%2F54863%2Fgoogle&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=firefox&insecure=0&allowInsecure=0#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "43.174.247.46",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://a256f249-7d63-4754-a83c-aaef9d96e57f@www.dgmcd.cn:443?encryption=none&type=ws&security=tls&path=%2F54863%2Fgoogle&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=firefox&insecure=0&allowInsecure=0#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     }
   ]
 }
