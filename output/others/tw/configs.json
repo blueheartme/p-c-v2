@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-06T10:33:09.867016",
-  "count": 2,
+  "updated": "2026-08-07T02:19:38.423172",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
       "address": "60.249.101.16",
       "port": "10000",
       "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
-      "name": "🇹🇼 TW 1",
+      "name": "🇹🇼 TW 6",
       "network": "",
       "sni": "",
       "host": "",
@@ -23,11 +23,24 @@
       "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1"
     },
     {
+      "type": "ss",
+      "address": "r3mrcg00129437x.cybervena.com",
+      "port": "50099",
+      "method": "chacha20-ietf-poly1305",
+      "password": "b1ae0fce-9340-4f2e-882d-fdb2218e2e2b",
+      "name": "🇹🇼 TW 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201",
+      "ip": "36.224.147.65",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201"
+    },
+    {
       "type": "vless",
       "address": "60.249.101.14",
       "port": "10000",
       "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
-      "name": "🇹🇼 TW 2",
+      "name": "🇹🇼 TW 5",
       "network": "",
       "sni": "",
       "host": "",
@@ -36,11 +49,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-3",
       "ip": "60.249.101.14",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2"
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-3"
     }
   ]
 }

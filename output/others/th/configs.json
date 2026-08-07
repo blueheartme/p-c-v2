@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T10:33:09.872102",
-  "count": 1,
+  "updated": "2026-08-07T02:19:38.522446",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,19 @@
       "country": "TH",
       "cdn": null,
       "rebuilt": "vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TH%F0%9F%87%B9%F0%9F%87%AD-1"
+    },
+    {
+      "type": "ss",
+      "address": "102.129.229.85",
+      "port": "31700",
+      "method": "chacha20-ietf-poly1305",
+      "password": "d7zh2lMrXNH5+8+8pKzlxiCU9NN022ih+uAyxj5d4qo=",
+      "name": "🇹🇭 TH 2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#%f0%9f%87%b9%f0%9f%87%ad%20TH%202",
+      "ip": "102.129.229.85",
+      "country": "TH",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#%f0%9f%87%b9%f0%9f%87%ad%20TH%202"
     }
   ]
 }

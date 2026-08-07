@@ -1,26 +1,46 @@
 {
-  "updated": "2026-08-05T17:24:09.747008",
-  "count": 1,
+  "updated": "2026-08-07T02:19:38.555405",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "185.206.170.69",
-      "port": "5151",
-      "id": "26c0589f-79e5-4789-8ff7-914f2e26e8e5",
-      "name": "@filembad",
+      "address": "130.107.73.148",
+      "port": "41373",
+      "id": "a71c8954-66a8-4321-bedb-2336230d81ce",
+      "name": "🇨🇦 CA 5",
       "network": "tcp",
-      "sni": "www.yahoo.com",
-      "host": "",
+      "sni": "google.com",
+      "host": "BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@185.206.170.69:5151?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&security=reality&sid=69b851&sni=www.yahoo.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "185.206.170.69",
+      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?flow=xtls-rprx-vision&security=reality&encryption=none&sni=google.com&fp=chrome&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&type=tcp&headerType=none&host=BIA_TELEGRAM%3f%3d%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "130.107.73.148",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@185.206.170.69:5151?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&security=reality&sid=69b851&sni=www.yahoo.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?flow=xtls-rprx-vision&security=reality&encryption=none&sni=google.com&fp=chrome&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&type=tcp&headerType=none&host=BIA_TELEGRAM%3f%3d%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
+    {
+      "type": "vless",
+      "address": "158.69.112.254",
+      "port": "443",
+      "id": "661f395d-b153-4199-a04b-693f5fe7f261",
+      "name": "🇨🇦 CA 2",
+      "network": "tcp",
+      "sni": "www.speedtest.net",
+      "host": "v2raynplus--v2raynplus--v2raynplus",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&type=tcp&host=v2raynplus--v2raynplus--v2raynplus&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "ip": "158.69.112.254",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&type=tcp&host=v2raynplus--v2raynplus--v2raynplus&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3"
     }
   ]
 }
