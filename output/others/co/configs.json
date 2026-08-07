@@ -1,13 +1,33 @@
 {
-  "updated": "2026-08-07T02:19:38.522236",
-  "count": 1,
+  "updated": "2026-08-07T16:45:52.373123",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "149.130.187.58",
+      "address": "149.130.185.99",
       "port": "62145",
       "id": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
       "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.99:62145?encryption=none&security=none&type=tcp#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1",
+      "ip": "149.130.185.99",
+      "country": "CO",
+      "cdn": null,
+      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.99:62145?encryption=none&security=none&type=tcp#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1"
+    },
+    {
+      "type": "vless",
+      "address": "157.137.229.190",
+      "port": "62145",
+      "id": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "name": "🇨🇴 CO 1",
       "network": "",
       "sni": "",
       "host": "",
@@ -16,11 +36,11 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.187.58:62145?#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1",
-      "ip": "149.130.187.58",
+      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.190:62145?path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-2",
+      "ip": "157.137.229.190",
       "country": "CO",
       "cdn": null,
-      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.187.58:62145?#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1"
+      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.190:62145?path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-2"
     }
   ]
 }

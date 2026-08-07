@@ -1,82 +1,20 @@
 {
-  "updated": "2026-08-07T08:50:39.616598",
-  "count": 5,
+  "updated": "2026-08-07T16:45:52.380261",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "47.236.106.241",
-      "port": "40480",
-      "id": "0c97c970-41be-47dd-80d6-06c9a5c9c458",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://0c97c970-41be-47dd-80d6-06c9a5c9c458@47.236.106.241:40480?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "47.236.106.241",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://0c97c970-41be-47dd-80d6-06c9a5c9c458@47.236.106.241:40480?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
-    {
-      "type": "vless",
-      "address": "cms.umtheme.com",
-      "port": "443",
-      "id": "a256f249-7d63-4754-a83c-aaef9d96e57f",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "st1sni.irandoc.info",
-      "host": "st1sni.irandoc.info",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://a256f249-7d63-4754-a83c-aaef9d96e57f@cms.umtheme.com:443?encryption=none&type=ws&security=tls&path=%2F54863%2Fgoogle&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=firefox&insecure=0&allowInsecure=0#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "43.174.246.27",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://a256f249-7d63-4754-a83c-aaef9d96e57f@cms.umtheme.com:443?encryption=none&type=ws&security=tls&path=%2F54863%2Fgoogle&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=firefox&insecure=0&allowInsecure=0#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "tuic",
-      "address": "146.235.16.130",
-      "port": "33738",
-      "name": "🇸🇬 SG 2",
-      "original": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "146.235.16.130",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-3"
-    },
-    {
       "type": "trojan",
-      "address": "54.255.35.23",
+      "address": "tidy-gelding.rooster465.autos",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇸🇬 SG 6",
+      "name": "🇸🇬 SG 3",
       "sni": "tidy-gelding.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@54.255.35.23:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "original": "trojan://ND91608427@tidy-gelding.rooster465.autos:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "54.255.35.23",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@54.255.35.23:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4"
-    },
-    {
-      "type": "tuic",
-      "address": "sg2-8sb.6121999.dpdns.org",
-      "port": "33738",
-      "name": "🇸🇬 SG 1",
-      "original": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-5",
-      "ip": "146.235.16.130",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-5"
+      "rebuilt": "trojan://ND91608427@tidy-gelding.rooster465.autos:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }
