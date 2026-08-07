@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T02:19:38.518157",
-  "count": 4,
+  "updated": "2026-08-07T08:50:39.618680",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -25,7 +25,7 @@
     {
       "type": "vless",
       "address": "45.130.125.207",
-      "port": "8443",
+      "port": "443",
       "id": "eeb6823c-b926-4ea2-866a-5542edd26e59",
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "network": "ws",
@@ -35,12 +35,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-chrome-SC%F0%9F%87%B8%F0%9F%87%A8-2",
+      "fingerprint": "",
+      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-2",
       "ip": "45.130.125.207",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-chrome-SC%F0%9F%87%B8%F0%9F%87%A8-2"
+      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-2"
     },
     {
       "type": "vless",
@@ -61,26 +61,6 @@
       "country": "SC",
       "cdn": null,
       "rebuilt": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@45.130.125.207:443?path=%2Fsg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#vless-ws-tls-chrome-SC%F0%9F%87%B8%F0%9F%87%A8-3"
-    },
-    {
-      "type": "vless",
-      "address": "45.130.125.207",
-      "port": "443",
-      "id": "eeb6823c-b926-4ea2-866a-5542edd26e59",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "ws",
-      "sni": "t1s1.rittbo.kdns.fr",
-      "host": "t1s1.rittbo.kdns.fr",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-4",
-      "ip": "45.130.125.207",
-      "country": "SC",
-      "cdn": null,
-      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-SC%F0%9F%87%B8%F0%9F%87%A8-4"
     }
   ]
 }

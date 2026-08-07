@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T02:19:38.570625",
-  "count": 1,
+  "updated": "2026-08-07T08:50:39.664838",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -10,13 +10,27 @@
       "name": "@meliproxyy",
       "sni": "www.calmlunch.com",
       "host": "www.calmlunch.com",
-      "original": "trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-14",
+      "original": "trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
       "ip": "188.114.98.0",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-14"
+      "rebuilt": "trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+    },
+    {
+      "type": "trojan",
+      "address": "2.144.21.150",
+      "port": "2000",
+      "password": "humanity",
+      "name": "@proxy_kafee : کانال تلگرام",
+      "sni": "www.ignitelimit.com",
+      "host": "",
+      "original": "trojan://humanity@2.144.21.150:2000?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#trojan-ws-tls-IR%F0%9F%87%AE%F0%9F%87%B7-27",
+      "ip": "2.144.21.150",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@2.144.21.150:2000?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#trojan-ws-tls-IR%F0%9F%87%AE%F0%9F%87%B7-27"
     }
   ]
 }
