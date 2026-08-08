@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T16:45:52.380261",
-  "count": 1,
+  "updated": "2026-08-08T01:06:04.508322",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,20 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "trojan://ND91608427@tidy-gelding.rooster465.autos:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "trojan",
+      "address": "54.255.35.23",
+      "port": "443",
+      "password": "ND91608427",
+      "name": "🇸🇬 SG 4",
+      "sni": "tidy-gelding.rooster465.autos",
+      "host": "",
+      "original": "trojan://ND91608427@54.255.35.23:443?sni=tidy-gelding.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "54.255.35.23",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://ND91608427@54.255.35.23:443?sni=tidy-gelding.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }

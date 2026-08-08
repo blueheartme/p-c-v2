@@ -1,19 +1,26 @@
 {
-  "updated": "2026-08-07T08:50:39.620839",
+  "updated": "2026-08-08T01:06:04.509344",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "bogging-eyeteeth-fly.freesocks.work",
+      "type": "vless",
+      "address": "87.58.205.88",
       "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "QFWzCw2uX9B9i6qAYeFBIE",
-      "name": "🇷🇴 RO 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%201",
-      "ip": "154.46.31.106",
+      "id": "d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02",
+      "name": "@filembad",
+      "network": "xhttp",
+      "sni": "google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "random",
+      "original": "vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=random&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#vless-xhttp-reality-random-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "ip": "87.58.205.88",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%201"
+      "rebuilt": "vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=random&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#vless-xhttp-reality-random-RO%F0%9F%87%B7%F0%9F%87%B4-1"
     }
   ]
 }
