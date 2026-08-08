@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-08T08:32:26.827930",
-  "count": 1,
+  "updated": "2026-08-08T16:25:27.968195",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "as.tunnelx.space",
+      "port": "443",
+      "id": "ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2",
+      "name": "🇩🇪 DE 20",
+      "network": "tcp",
+      "sni": "as.tunnelx.space",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@as.tunnelx.space:443?flow=xtls-rprx-vision&security=reality&sni=as.tunnelx.space&fp=firefox&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "152.53.114.186",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@as.tunnelx.space:443?flow=xtls-rprx-vision&security=reality&sni=as.tunnelx.space&fp=firefox&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
     {
       "type": "vless",
       "address": "130.49.219.126",
@@ -16,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://1bfd045c-3c64-4f27-874f-8e0b9da23fc8@130.49.219.126:443?security=reality&encryption=none&pbk=fp_r7Tz3YdOZUY1wmo21U5xAoqyhHhb8l0q-py3JARo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=f5e89824#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "original": "vless://1bfd045c-3c64-4f27-874f-8e0b9da23fc8@130.49.219.126:443?security=reality&encryption=none&pbk=fp_r7Tz3YdOZUY1wmo21U5xAoqyhHhb8l0q-py3JARo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=f5e89824#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-2",
       "ip": "130.49.219.126",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://1bfd045c-3c64-4f27-874f-8e0b9da23fc8@130.49.219.126:443?security=reality&encryption=none&pbk=fp_r7Tz3YdOZUY1wmo21U5xAoqyhHhb8l0q-py3JARo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=f5e89824#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://1bfd045c-3c64-4f27-874f-8e0b9da23fc8@130.49.219.126:443?security=reality&encryption=none&pbk=fp_r7Tz3YdOZUY1wmo21U5xAoqyhHhb8l0q-py3JARo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=f5e89824#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+    },
+    {
+      "type": "vless",
+      "address": "152.53.114.186",
+      "port": "443",
+      "id": "ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2",
+      "name": "🇩🇪 DE 18",
+      "network": "tcp",
+      "sni": "as.tunnelx.space",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?flow=xtls-rprx-vision&security=reality&sni=as.tunnelx.space&fp=firefox&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-3",
+      "ip": "152.53.114.186",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?flow=xtls-rprx-vision&security=reality&sni=as.tunnelx.space&fp=firefox&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T08:32:26.851556",
-  "count": 1,
+  "updated": "2026-08-08T16:25:28.001964",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,58 @@
       "country": "US",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
+    },
+    {
+      "type": "ss",
+      "address": "156.146.38.169",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#@meliproxyy",
+      "ip": "156.146.38.169",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "156.146.38.167",
+      "port": "443?type=tcp&headerType=none",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443?type=tcp&headerType=none#@meliproxyy",
+      "ip": "156.146.38.167",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443?type=tcp&headerType=none#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "156.146.38.169",
+      "port": "443?type=tcp&headerType=none",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443?type=tcp&headerType=none#@meliproxyy",
+      "ip": "156.146.38.169",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443?type=tcp&headerType=none#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "156.146.38.167",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#@meliproxyy",
+      "ip": "156.146.38.167",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#@meliproxyy"
     }
   ]
 }

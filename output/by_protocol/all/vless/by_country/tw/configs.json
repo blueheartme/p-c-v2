@@ -1,13 +1,33 @@
 {
-  "updated": "2026-08-08T08:32:26.829698",
-  "count": 1,
+  "updated": "2026-08-08T16:25:27.965927",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "103.227.225.198",
+      "port": "32355",
+      "id": "a2f6da81-64bd-4b86-b806-5658e161b7e4",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "ip": "103.227.225.198",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+    },
     {
       "type": "vless",
       "address": "60.249.101.14",
       "port": "10000",
       "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
-      "name": "7|@ConfingV2RaayNG",
+      "name": "Telegram : @proxy_kafee",
       "network": "tcp",
       "sni": "",
       "host": "/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&encryption=none&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&encryption=none&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2",
       "ip": "60.249.101.14",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&encryption=none&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&encryption=none&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2"
     }
   ]
 }
