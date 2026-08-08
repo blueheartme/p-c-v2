@@ -1,19 +1,7 @@
 {
-  "updated": "2026-08-08T01:06:04.508859",
-  "count": 4,
+  "updated": "2026-08-08T08:32:26.804102",
+  "count": 2,
   "configs": [
-    {
-      "type": "tg",
-      "address": "proxy.lodkirmm.ru",
-      "port": "8443",
-      "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275",
-      "ip": "46.8.228.135",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
-    },
     {
       "type": "vless",
       "address": "fn.fifapes.monster",
@@ -28,51 +16,23 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-2",
-      "ip": "5.178.96.169",
+      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "ip": "31.56.206.189",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-2"
+      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-1"
     },
     {
-      "type": "vless",
-      "address": "150.241.75.170",
-      "port": "443",
-      "id": "c390be4b-00b5-4583-93f2-bbc099b8e7f1",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
-      "sni": "www.yandex.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3",
-      "ip": "150.241.75.170",
+      "type": "tg",
+      "address": "ardesvpn1.ru",
+      "port": "8443",
+      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275&@MPT_Proxy",
+      "ip": "188.215.31.90",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3"
-    },
-    {
-      "type": "vless",
-      "address": "195.135.252.28",
-      "port": "443",
-      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
-      "name": "Latvia Sia Veesp",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-4",
-      "ip": "195.135.252.28",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-4"
+      "rebuilt": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275&@MPT_Proxy"
     }
   ]
 }

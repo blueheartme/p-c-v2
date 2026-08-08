@@ -1,19 +1,26 @@
 {
-  "updated": "2026-08-07T16:45:52.368751",
+  "updated": "2026-08-08T08:32:26.802580",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "185.210.217.94",
-      "port": "1080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "XF0klw7870vXn3uQIxe19Q",
-      "name": "𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.210.217.94:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9",
-      "ip": "185.210.217.94",
+      "type": "vless",
+      "address": "109.69.218.164",
+      "port": "443",
+      "id": "c28ee61d-0d43-4e69-8e6a-6397ed0ffc03",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "zealous-vortex.cdn.cachefleet.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.164:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&security=reality&sni=zealous-vortex.cdn.cachefleet.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-BE%F0%9F%87%A7%F0%9F%87%AA-1",
+      "ip": "109.69.218.164",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.210.217.94:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9"
+      "rebuilt": "vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.164:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&security=reality&sni=zealous-vortex.cdn.cachefleet.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-BE%F0%9F%87%A7%F0%9F%87%AA-1"
     }
   ]
 }

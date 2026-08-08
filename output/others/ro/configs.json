@@ -1,26 +1,18 @@
 {
-  "updated": "2026-08-08T01:06:04.509344",
+  "updated": "2026-08-08T08:32:26.807676",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "87.58.205.88",
+      "type": "tg",
+      "address": "max.kimt.click",
       "port": "443",
-      "id": "d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "random",
-      "original": "vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=random&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#vless-xhttp-reality-random-RO%F0%9F%87%B7%F0%9F%87%B4-1",
-      "ip": "87.58.205.88",
+      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "name": "",
+      "original": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "ip": "103.102.229.49",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=random&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#vless-xhttp-reality-random-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+      "rebuilt": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
     }
   ]
 }

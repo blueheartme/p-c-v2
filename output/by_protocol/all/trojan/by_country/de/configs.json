@@ -1,54 +1,38 @@
 {
-  "updated": "2026-08-08T01:06:04.542944",
-  "count": 6,
+  "updated": "2026-08-08T08:32:26.847585",
+  "count": 5,
   "configs": [
     {
       "type": "trojan",
       "address": "3.64.59.246",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇩🇪 DE 8",
+      "name": "🇩🇪 DE 7",
       "sni": "gentle-raptor.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@3.64.59.246:443?sni=gentle-raptor.rooster465.autos&fp=chrome&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-15",
+      "original": "trojan://ND91608427@3.64.59.246:443?sni=gentle-raptor.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-13",
       "ip": "3.64.59.246",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://ND91608427@3.64.59.246:443?sni=gentle-raptor.rooster465.autos&fp=chrome&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-15"
-    },
-    {
-      "type": "trojan",
-      "address": "next-turkey.rooster465.autos",
-      "port": "443",
-      "password": "ND91608427",
-      "name": "🇩🇪 DE 11",
-      "sni": "next-turkey.rooster465.autos",
-      "host": "",
-      "original": "trojan://ND91608427@next-turkey.rooster465.autos:443?sni=next-turkey.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-28",
-      "ip": "54.93.65.133",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://ND91608427@next-turkey.rooster465.autos:443?sni=next-turkey.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-28"
+      "rebuilt": "trojan://ND91608427@3.64.59.246:443?sni=gentle-raptor.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-13"
     },
     {
       "type": "trojan",
       "address": "54.93.65.133",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇩🇪 DE 12",
+      "name": "🇩🇪 DE 10",
       "sni": "next-turkey.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@54.93.65.133:443?security=tls&sni=next-turkey.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-34",
+      "original": "trojan://ND91608427@54.93.65.133:443?sni=next-turkey.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2",
       "ip": "54.93.65.133",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://ND91608427@54.93.65.133:443?security=tls&sni=next-turkey.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-34"
+      "rebuilt": "trojan://ND91608427@54.93.65.133:443?sni=next-turkey.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2"
     },
     {
       "type": "trojan",
@@ -58,43 +42,43 @@
       "name": "",
       "sni": "www.icloud.com",
       "host": "www.icloud.com",
-      "original": "trojan://%43O%50E-----%41%5a-----%4a%4b%56%50N@3-2--1-2-3-4-4-4--42_2_2_2_2_2_1_1_2.poki-pakipon.ir:38863?type=tcp&path=%2F%54ELE%47R%41M--%42Y%41--%43H%41NEL---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N--@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N&host=www.icloud.com&headerType=http&security=reality&pbk=BdrmMwrkBUCecrfj2LfquWZkU57969dpJhkSGNp8eDs&fp=firefox&sni=www.icloud.com&sid=&spx=%2F#trojan-tcp-http-reality-DE%F0%9F%87%A9%F0%9F%87%AA-95",
+      "original": "trojan://%43O%50E-----%41%5a-----%4a%4b%56%50N@3-2--1-2-3-4-4-4--42_2_2_2_2_2_1_1_2.poki-pakipon.ir:38863?type=tcp&path=%2F%54ELE%47R%41M--%42Y%41--%43H%41NEL---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N--@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N&host=www.icloud.com&headerType=http&security=reality&pbk=BdrmMwrkBUCecrfj2LfquWZkU57969dpJhkSGNp8eDs&fp=firefox&sni=www.icloud.com&sid=&spx=%2F#trojan-tcp-http-reality-DE%F0%9F%87%A9%F0%9F%87%AA-23",
       "ip": "213.202.222.56",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://%43O%50E-----%41%5a-----%4a%4b%56%50N@3-2--1-2-3-4-4-4--42_2_2_2_2_2_1_1_2.poki-pakipon.ir:38863?type=tcp&path=%2F%54ELE%47R%41M--%42Y%41--%43H%41NEL---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N--@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N&host=www.icloud.com&headerType=http&security=reality&pbk=BdrmMwrkBUCecrfj2LfquWZkU57969dpJhkSGNp8eDs&fp=firefox&sni=www.icloud.com&sid=&spx=%2F#trojan-tcp-http-reality-DE%F0%9F%87%A9%F0%9F%87%AA-95"
+      "rebuilt": "trojan://%43O%50E-----%41%5a-----%4a%4b%56%50N@3-2--1-2-3-4-4-4--42_2_2_2_2_2_1_1_2.poki-pakipon.ir:38863?type=tcp&path=%2F%54ELE%47R%41M--%42Y%41--%43H%41NEL---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---%40%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N--@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N---@%4a%4bV%50N&host=www.icloud.com&headerType=http&security=reality&pbk=BdrmMwrkBUCecrfj2LfquWZkU57969dpJhkSGNp8eDs&fp=firefox&sni=www.icloud.com&sid=&spx=%2F#trojan-tcp-http-reality-DE%F0%9F%87%A9%F0%9F%87%AA-23"
     },
     {
       "type": "trojan",
-      "address": "45.80.111.7",
+      "address": "next-turkey.rooster465.autos",
       "port": "443",
-      "password": "humanity",
-      "name": "@meliproxyy",
-      "sni": "www.calmlunch.com",
+      "password": "ND91608427",
+      "name": "🇩🇪 DE 14",
+      "sni": "next-turkey.rooster465.autos",
       "host": "",
-      "original": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-61",
-      "ip": "45.80.111.7",
+      "original": "trojan://ND91608427@next-turkey.rooster465.autos:443?sni=next-turkey.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-24",
+      "ip": "54.93.65.133",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-61"
+      "rebuilt": "trojan://ND91608427@next-turkey.rooster465.autos:443?sni=next-turkey.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-24"
     },
     {
       "type": "trojan",
       "address": "gentle-raptor.rooster465.autos",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇩🇪 DE 3",
+      "name": "🇩🇪 DE 6",
       "sni": "gentle-raptor.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-71",
+      "original": "trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-58",
       "ip": "3.64.59.246",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://ND91608427@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-71"
+      "rebuilt": "trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-58"
     }
   ]
 }

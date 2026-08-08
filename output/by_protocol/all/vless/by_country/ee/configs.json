@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-08T01:06:04.537133",
+  "updated": "2026-08-08T08:32:26.828975",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "est.vrsvpn.com",
-      "port": "443",
-      "id": "0b9bcbc1-b289-4a64-86fa-a5b731b65384",
-      "name": "☑➜چنلمون: Express_freevpn@",
-      "network": "tcp",
-      "sni": "web.max.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@est.vrsvpn.com:443?security=reality&encryption=none&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=15aa18f971da1f81#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%87%AA%F0%9F%87%AA-1",
-      "ip": "185.155.97.241",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@est.vrsvpn.com:443?security=reality&encryption=none&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=15aa18f971da1f81#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%87%AA%F0%9F%87%AA-1"
-    },
     {
       "type": "vless",
       "address": "82.47.22.240",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://162539ad-3df4-429f-8e71-ecdb7023b786@82.47.22.240:443?security=reality&encryption=none&pbk=lGFpiPyaH0J4o6NWsXv48Y3aQF0IsZP-QF506VsNQVQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee-hs-1.minzt.su#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "original": "vless://162539ad-3df4-429f-8e71-ecdb7023b786@82.47.22.240:443?security=reality&encryption=none&pbk=lGFpiPyaH0J4o6NWsXv48Y3aQF0IsZP-QF506VsNQVQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee-hs-1.minzt.su#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%87%AA%F0%9F%87%AA-1",
       "ip": "82.47.22.240",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://162539ad-3df4-429f-8e71-ecdb7023b786@82.47.22.240:443?security=reality&encryption=none&pbk=lGFpiPyaH0J4o6NWsXv48Y3aQF0IsZP-QF506VsNQVQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee-hs-1.minzt.su#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%87%AA%F0%9F%87%AA-2"
+      "rebuilt": "vless://162539ad-3df4-429f-8e71-ecdb7023b786@82.47.22.240:443?security=reality&encryption=none&pbk=lGFpiPyaH0J4o6NWsXv48Y3aQF0IsZP-QF506VsNQVQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee-hs-1.minzt.su#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "est.vrsvpn.com",
+      "port": "443",
+      "id": "0b9bcbc1-b289-4a64-86fa-a5b731b65384",
+      "name": "☑➜چنلمون: Express_freevpn@",
+      "network": "tcp",
+      "sni": "web.max.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@est.vrsvpn.com:443?security=reality&encryption=none&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=15aa18f971da1f81#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "ip": "185.155.97.241",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@est.vrsvpn.com:443?security=reality&encryption=none&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=15aa18f971da1f81#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%87%AA%F0%9F%87%AA-2"
     }
   ]
 }
