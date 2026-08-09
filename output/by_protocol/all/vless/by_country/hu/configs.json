@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-09T01:10:26.750503",
+  "updated": "2026-08-09T16:26:21.277455",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "152.233.41.30",
-      "port": "16923",
-      "id": "c065e1bb-cb56-41e5-b043-9dfd15b67565",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "grpc",
-      "sni": "api-maps.yandex.ru",
+      "address": "45.195.111.15",
+      "port": "443",
+      "id": "82e209b2-97a6-4d67-a10b-72627b9f6702",
+      "name": "🇭🇺 HU 1",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%87%AD%F0%9F%87%BA-1",
-      "ip": "152.233.41.30",
+      "fingerprint": "qq",
+      "original": "vless://82e209b2-97a6-4d67-a10b-72627b9f6702@45.195.111.15:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=storage.yandex.net&alpn=http%2f1.1&fp=qq&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-HU%F0%9F%87%AD%F0%9F%87%BA-1",
+      "ip": "45.195.111.15",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%87%AD%F0%9F%87%BA-1"
+      "rebuilt": "vless://82e209b2-97a6-4d67-a10b-72627b9f6702@45.195.111.15:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=storage.yandex.net&alpn=http%2f1.1&fp=qq&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-HU%F0%9F%87%AD%F0%9F%87%BA-1"
     }
   ]
 }

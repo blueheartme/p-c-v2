@@ -1,26 +1,18 @@
 {
-  "updated": "2026-08-09T08:34:38.807244",
+  "updated": "2026-08-09T16:26:21.243883",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "93.114.194.120",
-      "port": "448",
-      "id": "bc5b801f-49a7-4db7-ac92-a2c57d42d132",
-      "name": "🇷🇴 RO 2",
-      "network": "tcp",
-      "sni": "www.samsung.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.120:448?security=reality&encryption=none&sni=www.samsung.com&fp=chrome&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&sid=e1bdc95c1554c8eb&type=tcp&path=%2f#vless-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-1",
-      "ip": "93.114.194.120",
+      "type": "tg",
+      "address": "65.38.121.23",
+      "port": "8080",
+      "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "name": "",
+      "original": "https://t.me/proxy?server=65.38.121.23&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@MPT_Proxy",
+      "ip": "65.38.121.23",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.120:448?security=reality&encryption=none&sni=www.samsung.com&fp=chrome&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&sid=e1bdc95c1554c8eb&type=tcp&path=%2f#vless-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+      "rebuilt": "https://t.me/proxy?server=65.38.121.23&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@MPT_Proxy"
     }
   ]
 }
