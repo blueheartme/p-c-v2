@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-08T16:25:27.901963",
-  "count": 3,
+  "updated": "2026-08-09T01:10:26.676228",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "157.85.102.28",
+      "port": "1083",
+      "id": "b93efa30-e2c5-401c-9ec7-22e30266cc60",
+      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TH%F0%9F%87%B9%F0%9F%87%AD-1",
+      "ip": "157.85.102.28",
+      "country": "TH",
+      "cdn": null,
+      "rebuilt": "vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TH%F0%9F%87%B9%F0%9F%87%AD-1"
+    },
     {
       "type": "vless",
       "address": "th.cryptoofarm.com",
@@ -16,51 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@th.cryptoofarm.com:8443?security=reality&encryption=none&pbk=DU06BFOa3xeqOPxjAxQMi00LvvJ5i1qnjFBJGFv03Q4&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=th.cryptoofarm.com&sid=591076636be970d0#vless-xtls-rprx-vision-tcp-reality-firefox-TH%F0%9F%87%B9%F0%9F%87%AD-1",
+      "original": "vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@th.cryptoofarm.com:8443?security=reality&encryption=none&pbk=DU06BFOa3xeqOPxjAxQMi00LvvJ5i1qnjFBJGFv03Q4&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=th.cryptoofarm.com&sid=591076636be970d0#vless-xtls-rprx-vision-tcp-reality-firefox-TH%F0%9F%87%B9%F0%9F%87%AD-2",
       "ip": "165.101.64.218",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@th.cryptoofarm.com:8443?security=reality&encryption=none&pbk=DU06BFOa3xeqOPxjAxQMi00LvvJ5i1qnjFBJGFv03Q4&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=th.cryptoofarm.com&sid=591076636be970d0#vless-xtls-rprx-vision-tcp-reality-firefox-TH%F0%9F%87%B9%F0%9F%87%AD-1"
-    },
-    {
-      "type": "vless",
-      "address": "18.239.134.69",
-      "port": "80",
-      "id": "de27291c-15a9-4256-9ba7-ad517569877e",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "",
-      "host": "d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#vless-ws-TH%F0%9F%87%B9%F0%9F%87%AD-2",
-      "ip": "18.239.134.69",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#vless-ws-TH%F0%9F%87%B9%F0%9F%87%AD-2"
-    },
-    {
-      "type": "vless",
-      "address": "157.85.102.28",
-      "port": "1083",
-      "id": "b93efa30-e2c5-401c-9ec7-22e30266cc60",
-      "name": "🇧🇷@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TH%F0%9F%87%B9%F0%9F%87%AD-3",
-      "ip": "157.85.102.28",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TH%F0%9F%87%B9%F0%9F%87%AD-3"
+      "rebuilt": "vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@th.cryptoofarm.com:8443?security=reality&encryption=none&pbk=DU06BFOa3xeqOPxjAxQMi00LvvJ5i1qnjFBJGFv03Q4&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=th.cryptoofarm.com&sid=591076636be970d0#vless-xtls-rprx-vision-tcp-reality-firefox-TH%F0%9F%87%B9%F0%9F%87%AD-2"
     }
   ]
 }

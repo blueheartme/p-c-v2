@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T08:32:26.850583",
+  "updated": "2026-08-09T01:10:26.781178",
   "count": 1,
   "configs": [
     {
@@ -7,14 +7,14 @@
       "address": "149.104.104.58",
       "port": "443",
       "password": "S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix",
-      "name": "🇵🇰 PK 1",
-      "sni": "",
+      "name": "🇵🇰 PK 2",
+      "sni": "149.104.104.58",
       "host": "",
-      "original": "trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&type=tcp&path=%2f#trojan-tcp-tls-PK%F0%9F%87%B5%F0%9F%87%B0-1",
+      "original": "trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?sni=149.104.104.58&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-PK%F0%9F%87%B5%F0%9F%87%B0-1",
       "ip": "149.104.104.58",
       "country": "PK",
       "cdn": null,
-      "rebuilt": "trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&type=tcp&path=%2f#trojan-tcp-tls-PK%F0%9F%87%B5%F0%9F%87%B0-1"
+      "rebuilt": "trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?sni=149.104.104.58&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-PK%F0%9F%87%B5%F0%9F%87%B0-1"
     }
   ]
 }

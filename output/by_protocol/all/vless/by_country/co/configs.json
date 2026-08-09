@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-08T16:25:27.967060",
+  "updated": "2026-08-09T01:10:26.749093",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "149.130.190.95",
-      "port": "62145",
-      "id": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
-      "name": "🇨🇴 CO 2",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.95:62145?security=none&type=tcp&path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1",
-      "ip": "149.130.190.95",
-      "country": "CO",
-      "cdn": null,
-      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.95:62145?security=none&type=tcp&path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1"
-    },
     {
       "type": "vless",
       "address": "149.130.189.180",
@@ -36,11 +16,31 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.180:62145?security=none&type=tcp&path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-2",
+      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.180:62145?security=none&type=tcp&path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1",
       "ip": "149.130.189.180",
       "country": "CO",
       "cdn": null,
-      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.180:62145?security=none&type=tcp&path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-2"
+      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.180:62145?security=none&type=tcp&path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1"
+    },
+    {
+      "type": "vless",
+      "address": "149.130.190.95",
+      "port": "62145",
+      "id": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "name": "🇨🇴 CO 2",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.95:62145?security=none&type=tcp&path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-2",
+      "ip": "149.130.190.95",
+      "country": "CO",
+      "cdn": null,
+      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.95:62145?security=none&type=tcp&path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-2"
     }
   ]
 }

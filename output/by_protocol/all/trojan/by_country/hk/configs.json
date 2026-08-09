@@ -1,21 +1,7 @@
 {
-  "updated": "2026-08-08T16:25:27.986433",
-  "count": 3,
+  "updated": "2026-08-09T01:10:26.780240",
+  "count": 4,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "dynamic-grubworm.rooster465.autos",
-      "port": "443",
-      "password": "ND91608427",
-      "name": "🇭🇰 HK 10",
-      "sni": "",
-      "host": "",
-      "original": "trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "91.199.84.120",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
     {
       "type": "trojan",
       "address": "185.244.208.210",
@@ -24,25 +10,53 @@
       "name": "🇭🇰 HK 13",
       "sni": "upright-hamster.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@185.244.208.210:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7",
+      "original": "trojan://ND91608427@185.244.208.210:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "185.244.208.210",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@185.244.208.210:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7"
+      "rebuilt": "trojan://ND91608427@185.244.208.210:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "trojan",
       "address": "upright-hamster.rooster465.autos",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇭🇰 HK 11",
+      "name": "🇭🇰 HK 12",
       "sni": "upright-hamster.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-13",
+      "original": "trojan://ND91608427@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5",
       "ip": "185.244.208.210",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-13"
+      "rebuilt": "trojan://ND91608427@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5"
+    },
+    {
+      "type": "trojan",
+      "address": "91.199.84.120",
+      "port": "443",
+      "password": "ND91608427",
+      "name": "🇭🇰 HK 14",
+      "sni": "dynamic-grubworm.rooster465.autos",
+      "host": "",
+      "original": "trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7",
+      "ip": "91.199.84.120",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7"
+    },
+    {
+      "type": "trojan",
+      "address": "dynamic-grubworm.rooster465.autos",
+      "port": "443",
+      "password": "ND91608427",
+      "name": "🇭🇰 HK 10",
+      "sni": "",
+      "host": "",
+      "original": "trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-18",
+      "ip": "91.199.84.120",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-18"
     }
   ]
 }

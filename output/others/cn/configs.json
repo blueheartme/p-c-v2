@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-08T16:25:27.909397",
-  "count": 1,
+  "updated": "2026-08-09T01:10:26.681795",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "77.105.163.46",
+      "port": "443",
+      "id": "1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "ov186.ochmaybrooooo.online",
+      "host": "ov186.ochmaybrooooo.online",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "safari",
+      "original": "vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@77.105.163.46:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ov186.ochmaybrooooo.online&fp=safari&type=ws&allowInsecure=0&sni=ov186.ochmaybrooooo.online#vless-ws-tls-safari-CN%F0%9F%87%A8%F0%9F%87%B3-1",
+      "ip": "77.105.163.46",
+      "country": "CN",
+      "cdn": null,
+      "rebuilt": "vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@77.105.163.46:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ov186.ochmaybrooooo.online&fp=safari&type=ws&allowInsecure=0&sni=ov186.ochmaybrooooo.online#vless-ws-tls-safari-CN%F0%9F%87%A8%F0%9F%87%B3-1"
+    },
     {
       "type": "vmess",
       "address": "v6.hdacd.com",
@@ -11,11 +31,11 @@
       "network": "tcp",
       "host": null,
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DTvCfh6jwn4ezLTEiLCJhZGQiOiJ2Ni5oZGFjZC5jb20iLCJwb3J0IjozMDgwNiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "140.143.125.174",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DTvCfh6jwn4ezLTIiLCJhZGQiOiJ2Ni5oZGFjZC5jb20iLCJwb3J0IjozMDgwNiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "ip": "124.221.141.67",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DTvCfh6jwn4ezLTEiLCJhZGQiOiJ2Ni5oZGFjZC5jb20iLCJwb3J0IjozMDgwNiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DTvCfh6jwn4ezLTIiLCJhZGQiOiJ2Ni5oZGFjZC5jb20iLCJwb3J0IjozMDgwNiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0="
     }
   ]
 }
