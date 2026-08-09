@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-09T01:10:26.683670",
+  "updated": "2026-08-09T08:34:38.803780",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "ae.cdn.stun.su",
-      "port": "443",
-      "id": "eb071647-72a6-46be-8e89-ff3d228d52f6",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "ae.cdn.stun.su",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "address": "31.57.228.37",
+      "port": "50303",
+      "id": "b4469373-b425-4902-80d4-a00e00ada7de",
+      "name": "@proxy_kafee",
+      "network": "ws",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "176.97.78.3",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://b4469373-b425-4902-80d4-a00e00ada7de@31.57.228.37:50303?encryption=none&security=none&type=ws&host=play.google.com&path=%2F#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "31.57.228.37",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "vless://b4469373-b425-4902-80d4-a00e00ada7de@31.57.228.37:50303?encryption=none&security=none&type=ws&host=play.google.com&path=%2F#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     }
   ]
 }

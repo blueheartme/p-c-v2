@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-09T01:10:26.746539",
+  "updated": "2026-08-09T08:34:38.894388",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "39.109.117.110",
-      "port": "43646",
-      "id": "d92afe21-8e8b-42c7-98c2-8a33da64d28f",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
+      "address": "35.241.98.220",
+      "port": "443",
+      "id": "96563f88-f743-4395-a3b2-27ec462ae45e",
+      "name": "🇭🇰 HK 17",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
       "host": "",
-      "security": "none",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://d92afe21-8e8b-42c7-98c2-8a33da64d28f@39.109.117.110:43646?path=%2Fd92afe21&security=none&encryption=none&type=ws#vless-ws-HK%F0%9F%87%AD%F0%9F%87%B0-11",
-      "ip": "39.109.117.110",
+      "fingerprint": "chrome",
+      "original": "vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&sid=ec2c7091fe76336c&type=tcp&path=%2f#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "35.241.98.220",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://d92afe21-8e8b-42c7-98c2-8a33da64d28f@39.109.117.110:43646?path=%2Fd92afe21&security=none&encryption=none&type=ws#vless-ws-HK%F0%9F%87%AD%F0%9F%87%B0-11"
+      "rebuilt": "vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&sid=ec2c7091fe76336c&type=tcp&path=%2f#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }

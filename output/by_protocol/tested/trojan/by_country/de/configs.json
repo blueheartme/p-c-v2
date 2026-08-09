@@ -1,22 +1,22 @@
 {
-  "updated": "2026-08-08T16:25:28.027071",
-  "count": 3,
+  "updated": "2026-08-09T08:34:38.947413",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
-      "address": "45.80.111.7",
+      "address": "3.64.59.246",
       "port": "443",
-      "password": "humanity",
-      "name": "@meliproxyy",
-      "sni": "www.calmlunch.com",
+      "password": "ND91608427",
+      "name": "🇩🇪 DE 16",
+      "sni": "gentle-raptor.rooster465.autos",
       "host": "",
-      "original": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-15",
-      "ip": "45.80.111.7",
+      "original": "trojan://ND91608427@3.64.59.246:443?security=tls&sni=gentle-raptor.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-13",
+      "ip": "3.64.59.246",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-15"
+      "rebuilt": "trojan://ND91608427@3.64.59.246:443?security=tls&sni=gentle-raptor.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-13"
     },
     {
       "type": "trojan",
@@ -26,29 +26,13 @@
       "name": "🇩🇪 DE 25",
       "sni": "gentle-raptor.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-68",
+      "original": "trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-43",
       "ip": "3.64.59.246",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-68"
-    },
-    {
-      "type": "trojan",
-      "address": "3.64.59.246",
-      "port": "443",
-      "password": "ND91608427",
-      "name": "🇩🇪 DE 16",
-      "sni": "gentle-raptor.rooster465.autos",
-      "host": "",
-      "original": "trojan://ND91608427@3.64.59.246:443?security=tls&sni=gentle-raptor.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-74",
-      "ip": "3.64.59.246",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://ND91608427@3.64.59.246:443?security=tls&sni=gentle-raptor.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-74"
+      "rebuilt": "trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-43"
     }
   ]
 }
