@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-10T09:12:03.141407",
+  "updated": "2026-08-10T16:46:45.167952",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "185.207.196.48",
-      "port": "443",
-      "id": "cf39fab0-bb85-42cb-9945-2ad69d78e575",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "rubifen.adaspoloandco.com",
-      "host": "rubifen.adaspoloandco.com",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
+      "address": "117.55.194.6",
+      "port": "709",
+      "id": "02e2d68f-9982-4467-ad47-00cbeeae30e6",
+      "name": "🇦🇺 AU 1",
+      "network": "tcp",
+      "sni": "www.kayak.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@185.207.196.48:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "185.207.196.48",
+      "fingerprint": "firefox",
+      "original": "vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@117.55.194.6:709?flow=xtls-rprx-vision&security=reality&sni=www.kayak.com&fp=firefox&pbk=YQGxuBmerdc9w64ESEpkvU7BzpqPTmQ_YhVSYypnEnU&sid=42b7393d3e94e4c7&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "117.55.194.6",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@185.207.196.48:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@117.55.194.6:709?flow=xtls-rprx-vision&security=reality&sni=www.kayak.com&fp=firefox&pbk=YQGxuBmerdc9w64ESEpkvU7BzpqPTmQ_YhVSYypnEnU&sid=42b7393d3e94e4c7&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

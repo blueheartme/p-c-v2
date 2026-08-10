@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-24T02:02:43.426161",
+  "updated": "2026-08-10T16:46:45.206751",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "alb.serverkingomz.ir",
-      "port": "3389",
-      "id": "4618309c-a461-481d-b4be-677e0b668df1",
-      "name": "@filembad",
+      "address": "85.155.228.208",
+      "port": "443",
+      "id": "02e2d68f-9982-4467-ad47-00cbeeae30e6",
+      "name": "🇦🇱 AL 2",
       "network": "tcp",
-      "sni": "www.yahoo.com",
-      "host": "",
+      "sni": "al.cdn-global.pro",
+      "host": "al.cdn-global.pro",
       "security": "reality",
-      "flow": "",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://4618309c-a461-481d-b4be-677e0b668df1@alb.serverkingomz.ir:3389?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=DSisVvxDt4VxzBxS2fWKBPovVIUWc-zwjmE9wiIdX1s&sid=5f040b1309b66bd3&type=tcp&headerType=none#vless-tcp-reality-chrome-AL%F0%9F%87%A6%F0%9F%87%B1-1",
-      "ip": "157.22.240.108",
+      "fingerprint": "firefox",
+      "original": "vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@85.155.228.208:443?flow=xtls-rprx-vision&security=reality&sni=al.cdn-global.pro&fp=firefox&pbk=7zCzgzF_vJYAVe3uvFLfkZ_YS-4FQ0SZM9Bjf_r9OBg&sid=b868b87c347a451e&type=tcp&headerType=none&host=al.cdn-global.pro&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AL%F0%9F%87%A6%F0%9F%87%B1-1",
+      "ip": "85.155.228.208",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "vless://4618309c-a461-481d-b4be-677e0b668df1@alb.serverkingomz.ir:3389?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=DSisVvxDt4VxzBxS2fWKBPovVIUWc-zwjmE9wiIdX1s&sid=5f040b1309b66bd3&type=tcp&headerType=none#vless-tcp-reality-chrome-AL%F0%9F%87%A6%F0%9F%87%B1-1"
+      "rebuilt": "vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@85.155.228.208:443?flow=xtls-rprx-vision&security=reality&sni=al.cdn-global.pro&fp=firefox&pbk=7zCzgzF_vJYAVe3uvFLfkZ_YS-4FQ0SZM9Bjf_r9OBg&sid=b868b87c347a451e&type=tcp&headerType=none&host=al.cdn-global.pro&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AL%F0%9F%87%A6%F0%9F%87%B1-1"
     }
   ]
 }

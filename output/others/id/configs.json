@@ -1,20 +1,26 @@
 {
-  "updated": "2026-07-16T10:02:36.050782",
+  "updated": "2026-08-10T16:46:45.168733",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "ine07011438.tmdsb.org",
-      "port": "3367",
-      "password": "3632736327",
-      "name": "🇮🇩 ID 1",
-      "sni": "ine07011438.tmdsb.org",
+      "type": "vless",
+      "address": "202.155.14.176",
+      "port": "443",
+      "id": "02e2d68f-9982-4467-ad47-00cbeeae30e6",
+      "name": "🇮🇩 ID 3",
+      "network": "tcp",
+      "sni": "id.cdn-global.pro",
       "host": "",
-      "original": "trojan://3632736327@ine07011438.tmdsb.org:3367?sni=ine07011438.tmdsb.org&path=%2f#trojan-tcp-tls-ID%F0%9F%87%AE%F0%9F%87%A9-1",
-      "ip": "43.165.196.124",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@202.155.14.176:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=id.cdn-global.pro&fp=firefox&pbk=UdeZc5DrXa8lWOET4wlBp55-nXskqsvoU-2kVvd3zBg&sid=7a3f9e2b1c8d4f6a&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-ID%F0%9F%87%AE%F0%9F%87%A9-1",
+      "ip": "202.155.14.176",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "trojan://3632736327@ine07011438.tmdsb.org:3367?sni=ine07011438.tmdsb.org&path=%2f#trojan-tcp-tls-ID%F0%9F%87%AE%F0%9F%87%A9-1"
+      "rebuilt": "vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@202.155.14.176:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=id.cdn-global.pro&fp=firefox&pbk=UdeZc5DrXa8lWOET4wlBp55-nXskqsvoU-2kVvd3zBg&sid=7a3f9e2b1c8d4f6a&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-ID%F0%9F%87%AE%F0%9F%87%A9-1"
     }
   ]
 }

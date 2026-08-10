@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-03T17:46:11.652596",
+  "updated": "2026-08-10T16:46:45.242773",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "azw.fizikade.ir",
-      "port": "2828",
-      "id": "07ee1745-9248-41f8-9706-6168527c4b2e",
+      "address": "180.149.45.30",
+      "port": "2026",
+      "id": "b543c35e-ec44-4979-849b-84099ca8a3d8",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "play.google.com",
-      "host": "",
+      "sni": "yahoo.com",
+      "host": "play.google.com",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "safari",
-      "original": "vless://07ee1745-9248-41f8-9706-6168527c4b2e@azw.fizikade.ir:2828?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=safari&pbk=F55jhBaCQSw6Bt4jVCL8Kd2X7nJTbkqapwAfFpi7R1U&sid=00ba9a50c9f6e46d#vless-xtls-rprx-vision-tcp-reality-safari-AZ%F0%9F%87%A6%F0%9F%87%BF-1",
-      "ip": "180.149.44.158",
+      "fingerprint": "chrome",
+      "original": "vless://b543c35e-ec44-4979-849b-84099ca8a3d8@180.149.45.30:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&host=play.google.com&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#vless-tcp-reality-chrome-AZ%F0%9F%87%A6%F0%9F%87%BF-1",
+      "ip": "180.149.45.30",
       "country": "AZ",
       "cdn": null,
-      "rebuilt": "vless://07ee1745-9248-41f8-9706-6168527c4b2e@azw.fizikade.ir:2828?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=safari&pbk=F55jhBaCQSw6Bt4jVCL8Kd2X7nJTbkqapwAfFpi7R1U&sid=00ba9a50c9f6e46d#vless-xtls-rprx-vision-tcp-reality-safari-AZ%F0%9F%87%A6%F0%9F%87%BF-1"
+      "rebuilt": "vless://b543c35e-ec44-4979-849b-84099ca8a3d8@180.149.45.30:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&host=play.google.com&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#vless-tcp-reality-chrome-AZ%F0%9F%87%A6%F0%9F%87%BF-1"
     }
   ]
 }
