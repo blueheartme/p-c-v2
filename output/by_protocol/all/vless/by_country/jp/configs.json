@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T01:12:08.497817",
-  "count": 3,
+  "updated": "2026-08-10T09:12:03.170576",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -16,31 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@103.116.7.16:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#vless-ws-tls-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-21",
+      "original": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@103.116.7.16:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#vless-ws-tls-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-7",
       "ip": "103.116.7.16",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@103.116.7.16:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#vless-ws-tls-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-21"
-    },
-    {
-      "type": "vless",
-      "address": "3.114.220.22",
-      "port": "19645",
-      "id": "814bd064-544d-4255-a070-5705c03f6da9",
-      "name": "🇯🇵 JP 42",
-      "network": "tcp",
-      "sni": "www.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-27",
-      "ip": "3.114.220.22",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-27"
+      "rebuilt": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@103.116.7.16:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#vless-ws-tls-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-7"
     },
     {
       "type": "vless",
@@ -56,11 +36,51 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-39",
+      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-18",
       "ip": "15.168.173.144",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-39"
+      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-18"
+    },
+    {
+      "type": "vless",
+      "address": "64.118.151.32",
+      "port": "32985",
+      "id": "1d6b37c1-61e8-4b81-adf2-1b5f4bf20bef",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://1d6b37c1-61e8-4b81-adf2-1b5f4bf20bef@64.118.151.32:32985/?type=tcp&encryption=none&security=none#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-22",
+      "ip": "64.118.151.32",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://1d6b37c1-61e8-4b81-adf2-1b5f4bf20bef@64.118.151.32:32985/?type=tcp&encryption=none&security=none#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-22"
+    },
+    {
+      "type": "vless",
+      "address": "3.114.220.22",
+      "port": "19645",
+      "id": "814bd064-544d-4255-a070-5705c03f6da9",
+      "name": "🇯🇵 JP 42",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-34",
+      "ip": "3.114.220.22",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-34"
     }
   ]
 }

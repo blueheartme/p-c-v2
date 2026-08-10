@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T01:12:08.501482",
+  "updated": "2026-08-10T09:12:03.179016",
   "count": 2,
   "configs": [
     {
@@ -27,20 +27,20 @@
       "address": "103.227.225.198",
       "port": "32355",
       "id": "a2f6da81-64bd-4b86-b806-5658e161b7e4",
-      "name": "🇹🇼 TW 3",
-      "network": "",
+      "name": "🇹🇼 TW 1",
+      "network": "tcp",
       "sni": "",
       "host": "",
-      "security": "",
+      "security": "none",
       "flow": "",
       "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-3",
+      "original": "vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?security=none&type=tcp&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2",
       "ip": "103.227.225.198",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-3"
+      "rebuilt": "vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?security=none&type=tcp&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2"
     }
   ]
 }

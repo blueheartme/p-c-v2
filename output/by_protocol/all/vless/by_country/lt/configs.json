@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-09T08:34:38.900246",
-  "count": 2,
+  "updated": "2026-08-10T09:12:03.180424",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "46.166.167.222",
-      "port": "443",
-      "id": "cd1673b3-7cec-4fe6-bedf-b534eb54e647",
-      "name": "🇱🇹 LT 7",
-      "network": "tcp",
-      "sni": "ddc-chr-lt2.astralweb.tech",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@46.166.167.222:443?security=tls&sni=ddc-chr-lt2.astralweb.tech&fp=firefox&type=tcp&path=%2f#vless-tcp-tls-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1",
-      "ip": "46.166.167.222",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@46.166.167.222:443?security=tls&sni=ddc-chr-lt2.astralweb.tech&fp=firefox&type=tcp&path=%2f#vless-tcp-tls-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1"
-    },
     {
       "type": "vless",
       "address": "144.31.243.105",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-3",
+      "original": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1",
       "ip": "144.31.243.105",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-3"
+      "rebuilt": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1"
     }
   ]
 }
