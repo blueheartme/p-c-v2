@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-09T16:26:21.228029",
+  "updated": "2026-08-10T01:12:08.446329",
   "count": 7,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.141.234.218",
+      "port": "13868",
+      "id": "06d44c57-8e1a-41f4-b9c4-65d35869e078",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "amd.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.141.234.218:13868?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=firefox&pbk=XkqVl2cyWFosUZRHlg55Iek6KzLEoT_OPzuoErgWfWg&sid=e852dc&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-IE%F0%9F%87%AE%F0%9F%87%AA-1",
+      "ip": "45.141.234.218",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.141.234.218:13868?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=firefox&pbk=XkqVl2cyWFosUZRHlg55Iek6KzLEoT_OPzuoErgWfWg&sid=e852dc&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-IE%F0%9F%87%AE%F0%9F%87%AA-1"
+    },
+    {
+      "type": "ss",
+      "address": "20.223.129.129",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "tDa0Zpm4cAYkoc9r",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
+      "ip": "20.223.129.129",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
+    },
     {
       "type": "ss",
       "address": "20.166.58.64",
@@ -16,31 +49,17 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85"
     },
     {
-      "type": "trojan",
-      "address": "54.216.124.178",
-      "port": "443",
-      "password": "UO36402987",
-      "name": "🇮🇪 IE 1",
-      "sni": "warm-bass.rooster465.autos",
-      "host": "",
-      "original": "trojan://UO36402987@54.216.124.178:443?security=tls&sni=warm-bass.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2",
-      "ip": "54.216.124.178",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "trojan://UO36402987@54.216.124.178:443?security=tls&sni=warm-bass.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2"
-    },
-    {
       "type": "ss",
-      "address": "20.223.129.129",
+      "address": "20.123.9.48",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
-      "password": "tDa0Zpm4cAYkoc9r",
-      "name": "⚔ - @@proxy_kafee-45",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%E2%9A%94%20-%20%40%40proxy_kafee-45",
-      "ip": "20.223.129.129",
+      "password": "bX297As31bQMRsLP",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
+      "ip": "20.123.9.48",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%E2%9A%94%20-%20%40%40proxy_kafee-45"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
     },
     {
       "type": "ss",
@@ -57,19 +76,6 @@
     },
     {
       "type": "ss",
-      "address": "20.223.129.129",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "BNXte27zByuNvTsQ",
-      "name": "⚔ -@proxy_kafee -44",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#%E2%9A%94%20-%40proxy_kafee%20-44",
-      "ip": "20.223.129.129",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#%E2%9A%94%20-%40proxy_kafee%20-44"
-    },
-    {
-      "type": "ss",
       "address": "104.46.88.136",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
@@ -82,17 +88,18 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmZBS1J0azh3Smk4ZkZ1@104.46.88.136:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
     },
     {
-      "type": "ss",
-      "address": "20.234.89.202",
+      "type": "trojan",
+      "address": "54.216.124.178",
       "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "qJpsd87U4PLLrWRV",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSnBzZDg3VTRQTExyV1JW@20.234.89.202:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "ip": "20.234.89.202",
+      "password": "UO36402987",
+      "name": "🇮🇪 IE 1",
+      "sni": "warm-bass.rooster465.autos",
+      "host": "",
+      "original": "trojan://UO36402987@54.216.124.178:443?security=tls&sni=warm-bass.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-7",
+      "ip": "54.216.124.178",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSnBzZDg3VTRQTExyV1JW@20.234.89.202:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
+      "rebuilt": "trojan://UO36402987@54.216.124.178:443?security=tls&sni=warm-bass.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-7"
     }
   ]
 }
