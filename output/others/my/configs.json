@@ -1,21 +1,18 @@
 {
-  "updated": "2026-08-02T09:51:24.411680",
+  "updated": "2026-08-11T16:52:32.919095",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "47.250.135.244",
-      "port": "10000",
-      "id": "aedc66b8-99d7-4a21-8310-61870e7f870d",
-      "name": "🇲🇾 MY 1",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLU1Z8J+HsvCfh74tMSIsImFkZCI6IjQ3LjI1MC4xMzUuMjQ0IiwicG9ydCI6MTAwMDAsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "47.250.135.244",
+      "type": "tg",
+      "address": "56.68.116.97",
+      "port": "7443",
+      "secret": "dd8802d710847a3e6f3b964244eb872902",
+      "name": "",
+      "original": "https://t.me/proxy?server=56.68.116.97&port=7443&secret=dd8802d710847a3e6f3b964244eb872902",
+      "ip": "56.68.116.97",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLU1Z8J+HsvCfh74tMSIsImFkZCI6IjQ3LjI1MC4xMzUuMjQ0IiwicG9ydCI6MTAwMDAsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "https://t.me/proxy?server=56.68.116.97&port=7443&secret=dd8802d710847a3e6f3b964244eb872902"
     }
   ]
 }

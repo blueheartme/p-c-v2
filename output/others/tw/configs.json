@@ -1,39 +1,45 @@
 {
-  "updated": "2026-08-11T08:46:53.474163",
-  "count": 2,
+  "updated": "2026-08-11T16:52:32.928778",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "36.224.162.2",
+      "address": "r3mrcg001287h3p.cybervena.com",
       "port": "50099",
       "method": "chacha20-ietf-poly1305",
       "password": "b1ae0fce-9340-4f2e-882d-fdb2218e2e2b",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.162.2:50099#%40filembad",
-      "ip": "36.224.162.2",
+      "name": "🇹🇼 TW 2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg001287h3p.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%202",
+      "ip": "36.224.177.236",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.162.2:50099#%40filembad"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg001287h3p.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%202"
     },
     {
-      "type": "vless",
-      "address": "103.227.225.198",
-      "port": "32355",
-      "id": "a2f6da81-64bd-4b86-b806-5658e161b7e4",
-      "name": "🇹🇼 TW 2",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?security=none&type=tcp&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2",
-      "ip": "103.227.225.198",
+      "type": "ss",
+      "address": "36.224.177.236",
+      "port": "50099",
+      "method": "chacha20-ietf-poly1305",
+      "password": "b1ae0fce-9340-4f2e-882d-fdb2218e2e2b",
+      "name": "🇹🇼 TW 3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@36.224.177.236:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%203",
+      "ip": "36.224.177.236",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?security=none&type=tcp&path=%2f#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@36.224.177.236:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%203"
+    },
+    {
+      "type": "ss",
+      "address": "36.224.154.243",
+      "port": "50099",
+      "method": "chacha20-ietf-poly1305",
+      "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
+      "name": "🇹🇼 TW 4",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.154.243:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%204",
+      "ip": "36.224.154.243",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.154.243:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%204"
     }
   ]
 }

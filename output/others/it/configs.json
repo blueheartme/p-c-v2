@@ -1,26 +1,19 @@
 {
-  "updated": "2026-08-10T16:46:45.161379",
+  "updated": "2026-08-11T16:52:32.923976",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "31.77.154.248",
-      "port": "443",
-      "id": "71cada65-d23e-418c-88e4-a06188d14689",
-      "name": "Free 130 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "it-one.quiet-rogue.site",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.248:443?security=reality&encryption=none&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it-one.quiet-rogue.site#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-1",
-      "ip": "31.77.154.248",
+      "type": "ss",
+      "address": "185.213.20.110",
+      "port": "7001",
+      "method": "aes-256-gcm",
+      "password": "RexnBgU7EV5ADxG",
+      "name": "🇮🇹 IT 4",
+      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#%f0%9f%87%ae%f0%9f%87%b9%20IT%204",
+      "ip": "185.213.20.110",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.248:443?security=reality&encryption=none&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it-one.quiet-rogue.site#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-1"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#%f0%9f%87%ae%f0%9f%87%b9%20IT%204"
     }
   ]
 }

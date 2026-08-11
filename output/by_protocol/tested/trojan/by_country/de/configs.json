@@ -1,22 +1,22 @@
 {
-  "updated": "2026-08-10T09:12:03.223271",
+  "updated": "2026-08-11T16:52:33.010293",
   "count": 1,
   "configs": [
     {
       "type": "trojan",
-      "address": "gentle-raptor.rooster465.autos",
-      "port": "443",
-      "password": "ND91608427",
-      "name": "🇩🇪 DE 12",
-      "sni": "gentle-raptor.rooster465.autos",
+      "address": "91.107.139.186",
+      "port": "24227",
+      "password": "0kzEU0GpjBdnug71Mf76r29FUctQg5c+zRy5E6E+5cE=",
+      "name": "🇩🇪 DE 15",
+      "sni": "",
       "host": "",
-      "original": "trojan://ND91608427@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-68",
-      "ip": "3.64.59.246",
+      "original": "trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c+zRy5E6E+5cE=@91.107.139.186:24227?security=none&type=tcp&path=%2f#trojan-tcp-DE%F0%9F%87%A9%F0%9F%87%AA-39",
+      "ip": "91.107.139.186",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://ND91608427@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-68"
+      "rebuilt": "trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c+zRy5E6E+5cE=@91.107.139.186:24227?security=none&type=tcp&path=%2f#trojan-tcp-DE%F0%9F%87%A9%F0%9F%87%AA-39"
     }
   ]
 }
