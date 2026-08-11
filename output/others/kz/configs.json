@@ -1,26 +1,20 @@
 {
-  "updated": "2026-08-09T08:34:38.792319",
+  "updated": "2026-08-11T08:46:53.532218",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "111.88.143.139",
-      "port": "51940",
-      "id": "03464802-b517-404b-b15c-7750ffc5e78f",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?mode=gun&security=reality&encryption=none&authority=&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=yahoo.com&sid=fd7f#vless-grpc-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "111.88.143.139",
+      "type": "trojan",
+      "address": "45.82.14.144",
+      "port": "2025",
+      "password": "vpn",
+      "name": "🇰🇿 KZ 1",
+      "sni": "",
+      "host": "dns.google.com",
+      "original": "trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=%2f#trojan-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "45.82.14.144",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?mode=gun&security=reality&encryption=none&authority=&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=yahoo.com&sid=fd7f#vless-grpc-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=%2f#trojan-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }

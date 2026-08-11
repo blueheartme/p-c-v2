@@ -1,21 +1,7 @@
 {
-  "updated": "2026-08-11T01:11:08.622470",
-  "count": 6,
+  "updated": "2026-08-11T08:46:53.641249",
+  "count": 5,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "51.44.160.58",
-      "port": "443",
-      "password": "QV31589740",
-      "name": "🇫🇷 FR 9",
-      "sni": "great-krill.rooster465.autos",
-      "host": "",
-      "original": "trojan://QV31589740@51.44.160.58:443?security=tls&sni=great-krill.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-4",
-      "ip": "51.44.160.58",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "trojan://QV31589740@51.44.160.58:443?security=tls&sni=great-krill.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-4"
-    },
     {
       "type": "trojan",
       "address": "15.237.137.197",
@@ -24,39 +10,25 @@
       "name": "🇫🇷 FR 5",
       "sni": "fancy-skink.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@15.237.137.197:443?sni=fancy-skink.rooster465.autos&fp=chrome&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-14",
+      "original": "trojan://ND91608427@15.237.137.197:443?sni=fancy-skink.rooster465.autos&fp=chrome&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-7",
       "ip": "15.237.137.197",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@15.237.137.197:443?sni=fancy-skink.rooster465.autos&fp=chrome&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-14"
+      "rebuilt": "trojan://ND91608427@15.237.137.197:443?sni=fancy-skink.rooster465.autos&fp=chrome&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-7"
     },
     {
       "type": "trojan",
-      "address": "great-krill.rooster465.autos",
-      "port": "443",
-      "password": "QV31589740",
-      "name": "🇫🇷 FR 8",
-      "sni": "great-krill.rooster465.autos",
-      "host": "",
-      "original": "trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-17",
-      "ip": "51.44.160.58",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-17"
-    },
-    {
-      "type": "trojan",
-      "address": "classic-gator.rooster465.autos",
+      "address": "13.36.175.151",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇫🇷 FR 15",
+      "name": "🇫🇷 FR 12",
       "sni": "classic-gator.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-21",
+      "original": "trojan://ND91608427@13.36.175.151:443?sni=classic-gator.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-17",
       "ip": "13.36.175.151",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-21"
+      "rebuilt": "trojan://ND91608427@13.36.175.151:443?sni=classic-gator.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-17"
     },
     {
       "type": "trojan",
@@ -66,25 +38,39 @@
       "name": "🇫🇷 FR 7",
       "sni": "fancy-skink.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-22",
+      "original": "trojan://ND91608427@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-18",
       "ip": "15.237.137.197",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-22"
+      "rebuilt": "trojan://ND91608427@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-18"
     },
     {
       "type": "trojan",
-      "address": "13.38.35.46",
+      "address": "51.44.160.58",
       "port": "443",
-      "password": "ON38567014",
-      "name": "𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️-@prrofile_purple",
-      "sni": "lucky-marmot.rooster465.autos",
+      "password": "QV31589740",
+      "name": "🇫🇷 FR 9",
+      "sni": "great-krill.rooster465.autos",
       "host": "",
-      "original": "trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-33",
-      "ip": "13.38.35.46",
+      "original": "trojan://QV31589740@51.44.160.58:443?security=tls&sni=great-krill.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-23",
+      "ip": "51.44.160.58",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-33"
+      "rebuilt": "trojan://QV31589740@51.44.160.58:443?security=tls&sni=great-krill.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-23"
+    },
+    {
+      "type": "trojan",
+      "address": "classic-gator.rooster465.autos",
+      "port": "443",
+      "password": "ND91608427",
+      "name": "🇫🇷 FR 15",
+      "sni": "classic-gator.rooster465.autos",
+      "host": "",
+      "original": "trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-46",
+      "ip": "13.36.175.151",
+      "country": "FR",
+      "cdn": null,
+      "rebuilt": "trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos&path=%2f#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-46"
     }
   ]
 }
