@@ -1,33 +1,7 @@
 {
-  "updated": "2026-08-12T09:05:49.669175",
+  "updated": "2026-08-12T16:51:54.888238",
   "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "15.235.75.71",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "FD3rCuOsxOay",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40filembad",
-      "ip": "15.235.75.71",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40filembad"
-    },
-    {
-      "type": "ss",
-      "address": "149.22.95.183",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇨🇦 CA 1",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201",
-      "ip": "149.22.95.183",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
-    },
     {
       "type": "vless",
       "address": "3.96.31.222",
@@ -42,11 +16,37 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://7dbd891c-7053-45aa-a2a6-ef1e73985c93@3.96.31.222:15215?path=%2F&security=none&encryption=none&host=anten.ir&type=ws#vless-ws-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "original": "vless://7dbd891c-7053-45aa-a2a6-ef1e73985c93@3.96.31.222:15215?path=%2F&security=none&encryption=none&host=anten.ir&type=ws#vless-ws-CA%F0%9F%87%A8%F0%9F%87%A6-1",
       "ip": "3.96.31.222",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://7dbd891c-7053-45aa-a2a6-ef1e73985c93@3.96.31.222:15215?path=%2F&security=none&encryption=none&host=anten.ir&type=ws#vless-ws-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+      "rebuilt": "vless://7dbd891c-7053-45aa-a2a6-ef1e73985c93@3.96.31.222:15215?path=%2F&security=none&encryption=none&host=anten.ir&type=ws#vless-ws-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
+    {
+      "type": "ss",
+      "address": "15.235.75.71",
+      "port": "8388?",
+      "method": "chacha20-ietf-poly1305",
+      "password": "FD3rCuOsxOay",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388?#%40filembad",
+      "ip": "15.235.75.71",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388?#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "15.235.75.71",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "FD3rCuOsxOay",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40filembad",
+      "ip": "15.235.75.71",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40filembad"
     }
   ]
 }

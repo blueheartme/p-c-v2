@@ -1,22 +1,38 @@
 {
-  "updated": "2026-08-11T16:52:33.010293",
-  "count": 1,
+  "updated": "2026-08-12T16:51:54.984661",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
-      "address": "91.107.139.186",
-      "port": "24227",
-      "password": "0kzEU0GpjBdnug71Mf76r29FUctQg5c+zRy5E6E+5cE=",
-      "name": "🇩🇪 DE 15",
-      "sni": "",
+      "address": "217.217.222.230",
+      "port": "20004",
+      "password": "ba07a8af-5544-48ac-ab62-3b6c00a44fa6",
+      "name": "🇬🇧 GB 3",
+      "sni": "hk.catxstar.com",
       "host": "",
-      "original": "trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c+zRy5E6E+5cE=@91.107.139.186:24227?security=none&type=tcp&path=%2f#trojan-tcp-DE%F0%9F%87%A9%F0%9F%87%AA-39",
-      "ip": "91.107.139.186",
+      "original": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-34",
+      "ip": "217.217.222.230",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c+zRy5E6E+5cE=@91.107.139.186:24227?security=none&type=tcp&path=%2f#trojan-tcp-DE%F0%9F%87%A9%F0%9F%87%AA-39"
+      "rebuilt": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-34"
+    },
+    {
+      "type": "trojan",
+      "address": "45.147.228.249",
+      "port": "443",
+      "password": "humanity",
+      "name": "@meliproxyy",
+      "sni": "www.calmlunch.com",
+      "host": "www.calmlunch.com",
+      "original": "trojan://humanity@45.147.228.249:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-64",
+      "ip": "45.147.228.249",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://humanity@45.147.228.249:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-64"
     }
   ]
 }
