@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-11T16:52:32.994598",
-  "count": 3,
+  "updated": "2026-08-12T01:18:33.863960",
+  "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "185.226.172.8",
+      "port": "8008",
+      "method": "aes-256-gcm",
+      "password": "XKFKl2rULjIp74",
+      "name": "🇩🇪 DE 13",
+      "original": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%f0%9f%87%a9%f0%9f%87%aa%20DE%2013",
+      "ip": "185.226.172.8",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%f0%9f%87%a9%f0%9f%87%aa%20DE%2013"
+    },
     {
       "type": "ss",
       "address": "8.209.74.72",
@@ -19,6 +34,21 @@
     },
     {
       "type": "ss",
+      "address": "213.202.208.199",
+      "port": "7001",
+      "method": "aes-256-gcm",
+      "password": "RexnBgU7EV5ADxG",
+      "name": "🇩🇪 DE 27",
+      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%f0%9f%87%a9%f0%9f%87%aa%20DE%2027",
+      "ip": "213.202.208.199",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%f0%9f%87%a9%f0%9f%87%aa%20DE%2027"
+    },
+    {
+      "type": "ss",
       "address": "194.59.183.134",
       "port": "46114",
       "method": "chacha20-ietf-poly1305",
@@ -29,21 +59,6 @@
       "country": "DE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH"
-    },
-    {
-      "type": "ss",
-      "address": "185.226.172.8",
-      "port": "8008",
-      "method": "aes-256-gcm",
-      "password": "XKFKl2rULjIp74",
-      "name": "🇩🇪 DE 13",
-      "original": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%f0%9f%87%a9%f0%9f%87%aa%20DE%2013",
-      "ip": "185.226.172.8",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%f0%9f%87%a9%f0%9f%87%aa%20DE%2013"
     }
   ]
 }
