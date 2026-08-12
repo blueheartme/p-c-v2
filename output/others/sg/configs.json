@@ -1,26 +1,43 @@
 {
-  "updated": "2026-08-12T01:18:33.803639",
+  "updated": "2026-08-12T09:05:49.663731",
   "count": 4,
   "configs": [
     {
-      "type": "vless",
-      "address": "178.128.112.70",
-      "port": "443",
-      "id": "9206ae06-88ee-49b1-a558-531ade80fcaa",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.amazon.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality&encryption=none&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "178.128.112.70",
+      "type": "ss",
+      "address": "176.97.64.144",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "TFElG2FVqyqG",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#@meliproxyy",
+      "ip": "176.97.64.144",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality&encryption=none&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "sec2.masterdpibypass.com",
+      "port": "12892",
+      "method": "chacha20-ietf-poly1305",
+      "password": "gwzmrnjrsep/PzW/3yYc4jE4RG41aEwJAthlbTupBjw=",
+      "name": "🇸🇬 SG 5",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnd3ptcm5qcnNlcC9QelcvM3lZYzRqRTRSRzQxYUV3SkF0aGxiVHVwQmp3PQ==@sec2.masterdpibypass.com:12892#%f0%9f%87%b8%f0%9f%87%ac%20SG%205",
+      "ip": "89.125.70.240",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnd3ptcm5qcnNlcC9QelcvM3lZYzRqRTRSRzQxYUV3SkF0aGxiVHVwQmp3PQ==@sec2.masterdpibypass.com:12892#%f0%9f%87%b8%f0%9f%87%ac%20SG%205"
+    },
+    {
+      "type": "tuic",
+      "address": "sg2-8sb.6121999.dpdns.org",
+      "port": "33738",
+      "name": "🇸🇬 SG 2",
+      "original": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "146.235.16.130",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     },
     {
       "type": "vless",
@@ -36,33 +53,11 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "ios",
-      "original": "vless://ff334415-1a33-4c20-8301-07e1dd66fe8c@168.138.166.89:8899?flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://ff334415-1a33-4c20-8301-07e1dd66fe8c@168.138.166.89:8899?flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-4",
       "ip": "168.138.166.89",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://ff334415-1a33-4c20-8301-07e1dd66fe8c@168.138.166.89:8899?flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "tuic",
-      "address": "sg2-8sb.6121999.dpdns.org",
-      "port": "33738",
-      "name": "🇸🇬 SG 2",
-      "original": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "146.235.16.130",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-3"
-    },
-    {
-      "type": "tuic",
-      "address": "146.235.16.130",
-      "port": "33738",
-      "name": "🇸🇬 SG 1",
-      "original": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-4",
-      "ip": "146.235.16.130",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+      "rebuilt": "vless://ff334415-1a33-4c20-8301-07e1dd66fe8c@168.138.166.89:8899?flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }
