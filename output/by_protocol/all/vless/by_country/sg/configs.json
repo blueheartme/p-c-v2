@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T16:51:54.938188",
+  "updated": "2026-08-13T01:20:57.543031",
   "count": 2,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "217.217.254.126",
-      "port": "2053",
-      "id": "6b408e62-c5d5-45e1-ae3a-4c9833d46d82",
-      "name": "🇸🇬 SG 4",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
+      "address": "vbzm.cn",
+      "port": "443",
+      "id": "6de97a5c-acc0-473a-895e-0e9b3b120c74",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "on1sni.irandoc.info",
+      "host": "on1.irandoc.info",
+      "security": "tls",
       "flow": "",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://6b408e62-c5d5-45e1-ae3a-4c9833d46d82@217.217.254.126:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=T4CMxxAJiCcrGk2r87kMkDcvmfNs3nL-gKleaE1wTHQ&sid=fb7ebc9996caf9ac&type=tcp&path=%2f#vless-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "217.217.254.126",
+      "original": "vless://6de97a5c-acc0-473a-895e-0e9b3b120c74@vbzm.cn:443?path=%2F17001%2Fmsn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=on1.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=on1sni.irandoc.info#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "43.174.247.39",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://6b408e62-c5d5-45e1-ae3a-4c9833d46d82@217.217.254.126:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=T4CMxxAJiCcrGk2r87kMkDcvmfNs3nL-gKleaE1wTHQ&sid=fb7ebc9996caf9ac&type=tcp&path=%2f#vless-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "vless://6de97a5c-acc0-473a-895e-0e9b3b120c74@vbzm.cn:443?path=%2F17001%2Fmsn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=on1.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=on1sni.irandoc.info#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     }
   ]
 }
