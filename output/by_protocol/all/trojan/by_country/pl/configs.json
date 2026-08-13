@@ -1,21 +1,7 @@
 {
-  "updated": "2026-08-13T01:20:57.570911",
+  "updated": "2026-08-13T09:06:09.148641",
   "count": 3,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "relaxed-gull.rooster465.autos",
-      "port": "443",
-      "password": "ND91608427",
-      "name": "🇵🇱 PL 3",
-      "sni": "relaxed-gull.rooster465.autos",
-      "host": "",
-      "original": "trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "202.78.163.248",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
     {
       "type": "trojan",
       "address": "202.78.163.148",
@@ -24,25 +10,39 @@
       "name": "🇵🇱 PL 7",
       "sni": "discrete-basilisk.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "original": "trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
       "ip": "202.78.163.148",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
       "type": "trojan",
       "address": "202.78.163.248",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇵🇱 PL 16",
+      "name": "🇵🇱 PL 8",
       "sni": "relaxed-gull.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@202.78.163.248:443?sni=relaxed-gull.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-11",
+      "original": "trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7",
       "ip": "202.78.163.248",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@202.78.163.248:443?sni=relaxed-gull.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-11"
+      "rebuilt": "trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+    },
+    {
+      "type": "trojan",
+      "address": "relaxed-gull.rooster465.autos",
+      "port": "443",
+      "password": "ND91608427",
+      "name": "🇵🇱 PL 3",
+      "sni": "relaxed-gull.rooster465.autos",
+      "host": "",
+      "original": "trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-8",
+      "ip": "202.78.163.248",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-8"
     }
   ]
 }
