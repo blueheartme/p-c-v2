@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T09:06:09.153994",
+  "updated": "2026-08-13T16:50:00.800504",
   "count": 2,
   "configs": [
     {
@@ -7,28 +7,28 @@
       "address": "34.251.228.118",
       "port": "443",
       "password": "UO36402987",
-      "name": "🇮🇪 IE 9",
+      "name": "🇮🇪 IE 5",
       "sni": "definite-ladybird.rooster465.autos",
       "host": "",
-      "original": "trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1",
+      "original": "trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1",
       "ip": "34.251.228.118",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1"
+      "rebuilt": "trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1"
     },
     {
       "type": "trojan",
       "address": "definite-ladybird.rooster465.autos",
       "port": "443",
       "password": "UO36402987",
-      "name": "🇮🇪 IE 6",
+      "name": "🇮🇪 IE 2",
       "sni": "definite-ladybird.rooster465.autos",
       "host": "",
-      "original": "trojan://UO36402987@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-3",
+      "original": "trojan://UO36402987@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2",
       "ip": "34.251.228.118",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://UO36402987@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-3"
+      "rebuilt": "trojan://UO36402987@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2"
     }
   ]
 }

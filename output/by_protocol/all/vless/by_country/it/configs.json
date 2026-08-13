@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-13T09:06:09.131746",
-  "count": 3,
+  "updated": "2026-08-13T16:50:00.777068",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "xit.saturn-cloud.net",
-      "port": "443",
-      "id": "95ae0de8-d944-4b1e-b450-d34d80f9a528",
-      "name": "Free 293 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "xit.saturn-cloud.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-1",
-      "ip": "45.155.68.66",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-1"
-    },
     {
       "type": "vless",
       "address": "it.feywebsite.ir",
@@ -36,31 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?encryption=none&type=xhttp&security=reality&path=%2Fapi%2Fv1%2Fstream&mode=packet-up&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&sid=5f9a#vless-xhttp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-2",
+      "original": "vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?mode=packet-up&path=%2Fapi%2Fv1%2Fstream&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#vless-xhttp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-2",
       "ip": "57.131.42.58",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?encryption=none&type=xhttp&security=reality&path=%2Fapi%2Fv1%2Fstream&mode=packet-up&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&sid=5f9a#vless-xhttp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-2"
+      "rebuilt": "vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?mode=packet-up&path=%2Fapi%2Fv1%2Fstream&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#vless-xhttp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-2"
     },
     {
       "type": "vless",
-      "address": "ov-italy1.09vpn.com",
-      "port": "80",
-      "id": "049e56d8-0ba0-49e3-b764-ee04122b9f00",
-      "name": "🇮🇹 IT 2",
-      "network": "ws",
-      "sni": "",
-      "host": "OV-Italy1.09vpn.com",
-      "security": "none",
-      "flow": "",
+      "address": "xit.saturn-cloud.net",
+      "port": "443",
+      "id": "95ae0de8-d944-4b1e-b450-d34d80f9a528",
+      "name": "Free 293 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "xit.saturn-cloud.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?security=none&encryption=none&type=ws&host=OV-Italy1.09vpn.com&path=%2fvless%2f#vless-ws-IT%F0%9F%87%AE%F0%9F%87%B9-3",
-      "ip": "57.131.32.191",
+      "original": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-3",
+      "ip": "45.155.68.66",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?security=none&encryption=none&type=ws&host=OV-Italy1.09vpn.com&path=%2fvless%2f#vless-ws-IT%F0%9F%87%AE%F0%9F%87%B9-3"
+      "rebuilt": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-3"
     }
   ]
 }
