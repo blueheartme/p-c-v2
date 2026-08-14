@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-13T16:50:00.791231",
+  "updated": "2026-08-14T01:19:44.256754",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "95.93.3.5",
-      "port": "80",
-      "id": "af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1",
-      "ip": "95.93.3.5",
-      "country": "PT",
-      "cdn": null,
-      "rebuilt": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1"
-    },
     {
       "type": "vless",
       "address": "93.119.168.215",
@@ -36,11 +16,31 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&path=%2f#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-2",
+      "original": "vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&path=%2f#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1",
       "ip": "93.119.168.215",
       "country": "PT",
       "cdn": null,
-      "rebuilt": "vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&path=%2f#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-2"
+      "rebuilt": "vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&path=%2f#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "95.93.3.5",
+      "port": "80",
+      "id": "af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-2",
+      "ip": "95.93.3.5",
+      "country": "PT",
+      "cdn": null,
+      "rebuilt": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-2"
     }
   ]
 }

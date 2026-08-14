@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-13T16:50:00.747729",
-  "count": 3,
+  "updated": "2026-08-14T01:19:44.207115",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
-      "address": "84.32.51.253",
+      "address": "84.32.209.7",
       "port": "443",
-      "id": "ff1b0b50-70dc-4bae-866e-55cff86f4d6d",
-      "name": "@meliproxyy",
+      "id": "f1c496bf-d2ab-45be-bc13-051d60d227b7",
+      "name": "🇩🇪 DE 4",
       "network": "tcp",
-      "sni": "lt.nosok-top.com",
-      "host": "v2rayNplus--v2rayNplus--v2rayNplus",
+      "sni": "dartsearch-cn.net",
+      "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@84.32.51.253:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.nosok-top.com&sid=4fa44664f6a566d3#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-1",
-      "ip": "84.32.51.253",
+      "original": "vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "84.32.209.7",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@84.32.51.253:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.nosok-top.com&sid=4fa44664f6a566d3#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+      "rebuilt": "vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-1"
     },
     {
       "type": "vless",
@@ -44,6 +44,26 @@
     },
     {
       "type": "vless",
+      "address": "84.32.51.253",
+      "port": "443",
+      "id": "ff1b0b50-70dc-4bae-866e-55cff86f4d6d",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "lt.nosok-top.com",
+      "host": "v2rayNplus--v2rayNplus--v2rayNplus",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@84.32.51.253:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.nosok-top.com&sid=4fa44664f6a566d3#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-3",
+      "ip": "84.32.51.253",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@84.32.51.253:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.nosok-top.com&sid=4fa44664f6a566d3#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-3"
+    },
+    {
+      "type": "vless",
       "address": "144.31.243.105",
       "port": "443",
       "id": "f692629b-3557-488a-9c9b-60775331e423",
@@ -56,11 +76,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-3",
+      "original": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-4",
       "ip": "144.31.243.105",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-3"
+      "rebuilt": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-4"
     }
   ]
 }
