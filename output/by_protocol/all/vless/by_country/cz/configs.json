@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-10T16:46:45.205693",
+  "updated": "2026-08-14T09:04:39.140428",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "yt.czh.xanka.best",
-      "port": "1337",
-      "id": "db9a9b0f-fd4c-404b-9437-16e567544665",
-      "name": "🇨🇿 CZ 43",
+      "address": "195.133.35.81",
+      "port": "443",
+      "id": "e2cd1f88-8582-4ab9-9497-de59de37b626",
+      "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "czh.xanka.best",
+      "sni": "www.amd.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://db9a9b0f-fd4c-404b-9437-16e567544665@yt.czh.xanka.best:1337?flow=xtls-rprx-vision&security=reality&encryption=none&sni=czh.xanka.best&alpn=http%2f1.1&fp=firefox&pbk=8ik0rnxTlrrGfJaQnmLnUXpY0DSm_xohbJGvmfrbMSA&sid=459193ba&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "195.133.35.75",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://e2cd1f88-8582-4ab9-9497-de59de37b626@195.133.35.81:443?security=reality&encryption=none&pbk=8R53x47787bPBVJnKyLkOhTztNW6djdTh0WEWph8710&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=7479#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "ip": "195.133.35.81",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://db9a9b0f-fd4c-404b-9437-16e567544665@yt.czh.xanka.best:1337?flow=xtls-rprx-vision&security=reality&encryption=none&sni=czh.xanka.best&alpn=http%2f1.1&fp=firefox&pbk=8ik0rnxTlrrGfJaQnmLnUXpY0DSm_xohbJGvmfrbMSA&sid=459193ba&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+      "rebuilt": "vless://e2cd1f88-8582-4ab9-9497-de59de37b626@195.133.35.81:443?security=reality&encryption=none&pbk=8R53x47787bPBVJnKyLkOhTztNW6djdTh0WEWph8710&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=7479#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
     }
   ]
 }

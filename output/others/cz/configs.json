@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T01:19:44.212798",
-  "count": 1,
+  "updated": "2026-08-14T09:04:39.089631",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,26 @@
       "country": "CZ",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9"
+    },
+    {
+      "type": "vless",
+      "address": "195.133.35.81",
+      "port": "443",
+      "id": "e2cd1f88-8582-4ab9-9497-de59de37b626",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.amd.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://e2cd1f88-8582-4ab9-9497-de59de37b626@195.133.35.81:443?security=reality&encryption=none&pbk=8R53x47787bPBVJnKyLkOhTztNW6djdTh0WEWph8710&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=7479#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "ip": "195.133.35.81",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://e2cd1f88-8582-4ab9-9497-de59de37b626@195.133.35.81:443?security=reality&encryption=none&pbk=8R53x47787bPBVJnKyLkOhTztNW6djdTh0WEWph8710&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=7479#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
     }
   ]
 }
