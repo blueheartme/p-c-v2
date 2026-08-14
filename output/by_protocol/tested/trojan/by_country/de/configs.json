@@ -1,22 +1,38 @@
 {
-  "updated": "2026-08-14T09:04:39.182935",
-  "count": 1,
+  "updated": "2026-08-14T16:43:38.332741",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
       "address": "217.217.222.230",
       "port": "20004",
       "password": "ba07a8af-5544-48ac-ab62-3b6c00a44fa6",
-      "name": "🇬🇧 GB 2",
+      "name": "🇬🇧 GB 8",
       "sni": "hk.catxstar.com",
       "host": "",
-      "original": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=firefox&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1",
+      "original": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-73",
       "ip": "217.217.222.230",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=firefox&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1"
+      "rebuilt": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-73"
+    },
+    {
+      "type": "trojan",
+      "address": "teaching-gnu.rooster465.autos",
+      "port": "443",
+      "password": "AE62539071",
+      "name": "🇩🇪 DE 21",
+      "sni": "",
+      "host": "",
+      "original": "trojan://AE62539071@teaching-gnu.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-84",
+      "ip": "18.198.1.232",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://AE62539071@teaching-gnu.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-84"
     }
   ]
 }

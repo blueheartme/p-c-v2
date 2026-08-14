@@ -1,19 +1,7 @@
 {
-  "updated": "2026-08-14T09:04:39.160593",
+  "updated": "2026-08-14T16:43:38.293047",
   "count": 2,
   "configs": [
-    {
-      "type": "tg",
-      "address": "79.175.149.108",
-      "port": "443",
-      "secret": "38a6dbaadc4df74bd3f977d6ade0bbc5",
-      "name": "",
-      "original": "https://t.me/proxy?server=79.175.149.108&port=443&secret=38a6dbaadc4df74bd3f977d6ade0bbc5",
-      "ip": "79.175.149.108",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=79.175.149.108&port=443&secret=38a6dbaadc4df74bd3f977d6ade0bbc5"
-    },
     {
       "type": "tg",
       "address": "93.113.230.242",
@@ -27,6 +15,20 @@
       "tested": true,
       "working": true,
       "rebuilt": "https://t.me/proxy?server=93.113.230.242&port=443&secret=dd3dd937dd5a1748b47505d32759b12c35"
+    },
+    {
+      "type": "tg",
+      "address": "2.144.22.129",
+      "port": "443",
+      "secret": "dd71a4b6270eae005e0cd3d99fe5809522",
+      "name": "",
+      "original": "https://t.me/proxy?server=2.144.22.129&port=443&secret=dd71a4b6270eae005e0cd3d99fe5809522",
+      "ip": "2.144.22.129",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "https://t.me/proxy?server=2.144.22.129&port=443&secret=dd71a4b6270eae005e0cd3d99fe5809522"
     }
   ]
 }

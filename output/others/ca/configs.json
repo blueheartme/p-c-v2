@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T09:04:39.083000",
+  "updated": "2026-08-14T16:43:38.213682",
   "count": 3,
   "configs": [
     {
@@ -23,37 +23,37 @@
       "rebuilt": "vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@38.49.208.29:443?security=reality&encryption=none&pbk=N1KH15LltY-On3flp6KhR0VOouBqNrcFNktOnptsOTs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fqub.falsemirrov.com&sid=9c2378562188c3cb#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     },
     {
-      "type": "vless",
-      "address": "fqub.falsemirrov.com",
-      "port": "443",
-      "id": "ff1b0b50-70dc-4bae-866e-55cff86f4d6d",
-      "name": "🇨🇦 CA 1",
-      "network": "tcp",
-      "sni": "fqub.falsemirrov.com",
-      "host": "fqub.falsemirrov.com",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@fqub.falsemirrov.com:443?flow=xtls-rprx-vision&security=reality&sni=fqub.falsemirrov.com&fp=edge&pbk=N1KH15LltY-On3flp6KhR0VOouBqNrcFNktOnptsOTs&sid=9c2378562188c3cb&type=tcp&headerType=none&host=fqub.falsemirrov.com&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-CA%F0%9F%87%A8%F0%9F%87%A6-2",
-      "ip": "38.49.208.29",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@fqub.falsemirrov.com:443?flow=xtls-rprx-vision&security=reality&sni=fqub.falsemirrov.com&fp=edge&pbk=N1KH15LltY-On3flp6KhR0VOouBqNrcFNktOnptsOTs&sid=9c2378562188c3cb&type=tcp&headerType=none&host=fqub.falsemirrov.com&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-CA%F0%9F%87%A8%F0%9F%87%A6-2"
-    },
-    {
       "type": "ss",
       "address": "15.235.75.71",
       "port": "8388",
       "method": "chacha20-ietf-poly1305",
       "password": "FD3rCuOsxOay",
-      "name": "Biatoo@ConfingV2RaayNG",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#Biatoo@ConfingV2RaayNG",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#@meliproxyy",
       "ip": "15.235.75.71",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#Biatoo@ConfingV2RaayNG"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#@meliproxyy"
+    },
+    {
+      "type": "vless",
+      "address": "66.70.179.198",
+      "port": "2053",
+      "id": "339db138-41ff-44e9-a323-46da89fbf1a7",
+      "name": "🇨🇦 CA 1",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://339db138-41ff-44e9-a323-46da89fbf1a7@66.70.179.198:2053?security=reality&sni=www.apple.com&fp=firefox&pbk=0KeXfLKnfTgIL7U-hSEn284rsECLiru0s0Rd11XzyzQ&sid=d823e50b944daee4&type=tcp&path=%2f#vless-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "ip": "66.70.179.198",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://339db138-41ff-44e9-a323-46da89fbf1a7@66.70.179.198:2053?security=reality&sni=www.apple.com&fp=firefox&pbk=0KeXfLKnfTgIL7U-hSEn284rsECLiru0s0Rd11XzyzQ&sid=d823e50b944daee4&type=tcp&path=%2f#vless-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-3"
     }
   ]
 }

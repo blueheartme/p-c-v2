@@ -1,19 +1,20 @@
 {
-  "updated": "2026-08-14T09:04:39.091017",
+  "updated": "2026-08-14T16:43:38.245198",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "104.156.233.234",
-      "port": "27116",
-      "method": "chacha20-ietf-poly1305",
-      "password": "bIOoi5TuImG2KccxV7-jcA7Cez+vun-c_E",
-      "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#@meliproxyy",
-      "ip": "104.156.233.234",
+      "type": "trojan",
+      "address": "wanted-marmoset.rooster465.autos",
+      "port": "443",
+      "password": "AE62539071",
+      "name": "🇦🇺 AU 1",
+      "sni": "wanted-marmoset.rooster465.autos",
+      "host": "",
+      "original": "trojan://AE62539071@wanted-marmoset.rooster465.autos:443?security=tls&sni=wanted-marmoset.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "87.121.33.238",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#@meliproxyy"
+      "rebuilt": "trojan://AE62539071@wanted-marmoset.rooster465.autos:443?security=tls&sni=wanted-marmoset.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

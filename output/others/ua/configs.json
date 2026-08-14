@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-02T16:53:26.685728",
+  "updated": "2026-08-14T16:43:38.243283",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "ukraine.xiaomaimai.dpdns.org",
-      "port": "20071",
-      "id": "65c56e1f-5c41-40bc-b0b5-9346772476ca",
+      "address": "193.238.153.15",
+      "port": "443",
+      "id": "40cfbd0a-f133-4174-8e03-ab0e587e1099",
       "name": "🇺🇦 UA 1",
       "network": "tcp",
-      "sni": "www.lamer.com",
+      "sni": "www.cloudflare.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "",
       "headerType": "",
-      "fingerprint": "edge",
-      "original": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@ukraine.xiaomaimai.dpdns.org:20071?flow=xtls-rprx-vision&security=reality&sni=www.lamer.com&fp=edge&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-UA%F0%9F%87%BA%F0%9F%87%A6-1",
-      "ip": "91.236.248.20",
+      "fingerprint": "firefox",
+      "original": "vless://40cfbd0a-f133-4174-8e03-ab0e587e1099@193.238.153.15:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=dzknsuwujuOacNHTXzdPxBLNUEJfEImiwLinPPNFmwU&sid=1ea21a140beaecc5&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "ip": "193.238.153.15",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@ukraine.xiaomaimai.dpdns.org:20071?flow=xtls-rprx-vision&security=reality&sni=www.lamer.com&fp=edge&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "vless://40cfbd0a-f133-4174-8e03-ab0e587e1099@193.238.153.15:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=dzknsuwujuOacNHTXzdPxBLNUEJfEImiwLinPPNFmwU&sid=1ea21a140beaecc5&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-UA%F0%9F%87%BA%F0%9F%87%A6-1"
     }
   ]
 }

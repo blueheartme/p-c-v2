@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T09:04:39.074639",
-  "count": 7,
+  "updated": "2026-08-14T16:43:38.224979",
+  "count": 9,
   "configs": [
     {
       "type": "ss",
@@ -17,44 +17,31 @@
     },
     {
       "type": "trojan",
-      "address": "definite-ladybird.rooster465.autos",
-      "port": "443",
-      "password": "UO36402987",
-      "name": "🇮🇪 IE 2",
-      "sni": "definite-ladybird.rooster465.autos",
-      "host": "",
-      "original": "trojan://UO36402987@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2",
-      "ip": "34.251.228.118",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "trojan://UO36402987@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2"
-    },
-    {
-      "type": "ss",
-      "address": "104.46.88.136",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "mffAKRtk8wJi8fFu",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmZBS1J0azh3Smk4ZkZ1@104.46.88.136:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "ip": "104.46.88.136",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmZBS1J0azh3Smk4ZkZ1@104.46.88.136:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
-    },
-    {
-      "type": "trojan",
       "address": "34.251.228.118",
       "port": "443",
       "password": "UO36402987",
-      "name": "🇮🇪 IE 5",
+      "name": "🇮🇪 IE 6",
       "sni": "definite-ladybird.rooster465.autos",
       "host": "",
-      "original": "trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-4",
+      "original": "trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2",
       "ip": "34.251.228.118",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-4"
+      "rebuilt": "trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2"
+    },
+    {
+      "type": "trojan",
+      "address": "54.74.210.220",
+      "port": "443",
+      "password": "AE62539071",
+      "name": "🇮🇪 IE 2",
+      "sni": "funny-hen.rooster465.autos",
+      "host": "",
+      "original": "trojan://AE62539071@54.74.210.220:443?sni=funny-hen.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-3",
+      "ip": "54.74.210.220",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://AE62539071@54.74.210.220:443?sni=funny-hen.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-3"
     },
     {
       "type": "ss",
@@ -70,17 +57,31 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WG0xclVXWG5TcFRLdnZG@20.234.89.202:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
     },
     {
-      "type": "ss",
-      "address": "20.234.89.202",
+      "type": "trojan",
+      "address": "helped-haddock.rooster465.autos",
       "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "qJpsd87U4PLLrWRV",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSnBzZDg3VTRQTExyV1JW@20.234.89.202:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "ip": "20.234.89.202",
+      "password": "AE62539071",
+      "name": "🇮🇪 IE 5",
+      "sni": "",
+      "host": "",
+      "original": "trojan://AE62539071@helped-haddock.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-5",
+      "ip": "18.201.28.146",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSnBzZDg3VTRQTExyV1JW@20.234.89.202:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
+      "rebuilt": "trojan://AE62539071@helped-haddock.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-5"
+    },
+    {
+      "type": "ss",
+      "address": "20.123.9.48",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "bX297As31bQMRsLP",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
+      "ip": "20.123.9.48",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
     },
     {
       "type": "ss",
@@ -94,6 +95,34 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85"
+    },
+    {
+      "type": "trojan",
+      "address": "healthy-panda.rooster465.autos",
+      "port": "443",
+      "password": "AE62539071",
+      "name": "🇮🇪 IE 1",
+      "sni": "",
+      "host": "",
+      "original": "trojan://AE62539071@healthy-panda.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-8",
+      "ip": "18.201.47.180",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://AE62539071@healthy-panda.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-8"
+    },
+    {
+      "type": "trojan",
+      "address": "definite-ladybird.rooster465.autos",
+      "port": "443",
+      "password": "UO36402987",
+      "name": "🇮🇪 IE 9",
+      "sni": "definite-ladybird.rooster465.autos",
+      "host": "",
+      "original": "trojan://UO36402987@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-9",
+      "ip": "34.251.228.118",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://UO36402987@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-9"
     }
   ]
 }
