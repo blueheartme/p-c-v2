@@ -1,18 +1,30 @@
 {
-  "updated": "2026-08-15T08:20:00.407082",
-  "count": 1,
+  "updated": "2026-08-15T16:16:20.958564",
+  "count": 2,
   "configs": [
     {
       "type": "tg",
-      "address": "abcd.server2-5mk.info",
+      "address": "server2.server2-5mk.info",
       "port": "443",
       "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=abcd.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+      "original": "https://t.me/proxy?server=server2.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
       "ip": "172.232.158.59",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=abcd.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+      "rebuilt": "https://t.me/proxy?server=server2.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "api.server2-5mk.info",
+      "port": "443",
+      "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=api.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+      "ip": "172.232.158.59",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=api.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
     }
   ]
 }
