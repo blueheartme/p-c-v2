@@ -1,22 +1,54 @@
 {
-  "updated": "2026-08-15T00:51:34.351775",
-  "count": 1,
+  "updated": "2026-08-15T08:20:00.428929",
+  "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "18.198.1.232",
+      "port": "443",
+      "password": "AE62539071",
+      "name": "@meliproxyy",
+      "sni": "teaching-gnu.rooster465.autos",
+      "host": "",
+      "original": "trojan://AE62539071@18.198.1.232:443?security=tls&sni=teaching-gnu.rooster465.autos&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1",
+      "ip": "18.198.1.232",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://AE62539071@18.198.1.232:443?security=tls&sni=teaching-gnu.rooster465.autos&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1"
+    },
+    {
+      "type": "trojan",
+      "address": "18.194.130.12",
+      "port": "443",
+      "password": "AE62539071",
+      "name": "@meliproxyy",
+      "sni": "sterling-macaw.rooster465.autos",
+      "host": "",
+      "original": "trojan://AE62539071@18.194.130.12:443?security=tls&sni=sterling-macaw.rooster465.autos&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-48",
+      "ip": "18.194.130.12",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://AE62539071@18.194.130.12:443?security=tls&sni=sterling-macaw.rooster465.autos&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-48"
+    },
     {
       "type": "trojan",
       "address": "217.217.222.230",
       "port": "20004",
       "password": "ba07a8af-5544-48ac-ab62-3b6c00a44fa6",
-      "name": "🇬🇧 GB 7",
+      "name": "🇬🇧 GB 8",
       "sni": "hk.catxstar.com",
       "host": "",
-      "original": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=ios&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-28",
+      "original": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-75",
       "ip": "217.217.222.230",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=ios&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-28"
+      "rebuilt": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-75"
     }
   ]
 }

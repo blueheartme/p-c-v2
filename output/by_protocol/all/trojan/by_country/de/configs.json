@@ -1,22 +1,22 @@
 {
-  "updated": "2026-08-15T00:51:34.316974",
-  "count": 2,
+  "updated": "2026-08-15T08:20:00.348180",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
-      "address": "217.217.222.230",
-      "port": "20004",
-      "password": "ba07a8af-5544-48ac-ab62-3b6c00a44fa6",
-      "name": "🇬🇧 GB 7",
-      "sni": "hk.catxstar.com",
+      "address": "18.198.1.232",
+      "port": "443",
+      "password": "AE62539071",
+      "name": "@meliproxyy",
+      "sni": "teaching-gnu.rooster465.autos",
       "host": "",
-      "original": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=ios&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-28",
-      "ip": "217.217.222.230",
+      "original": "trojan://AE62539071@18.198.1.232:443?security=tls&sni=teaching-gnu.rooster465.autos&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1",
+      "ip": "18.198.1.232",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=ios&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-28"
+      "rebuilt": "trojan://AE62539071@18.198.1.232:443?security=tls&sni=teaching-gnu.rooster465.autos&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1"
     },
     {
       "type": "trojan",
@@ -26,11 +26,43 @@
       "name": "برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn",
       "sni": "www.calmlunch.com",
       "host": "www.calmlunch.com",
-      "original": "trojan://humanity@45.147.228.249:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-101",
+      "original": "trojan://humanity@45.147.228.249:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-18",
       "ip": "45.147.228.249",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://humanity@45.147.228.249:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-101"
+      "rebuilt": "trojan://humanity@45.147.228.249:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-18"
+    },
+    {
+      "type": "trojan",
+      "address": "18.194.130.12",
+      "port": "443",
+      "password": "AE62539071",
+      "name": "@meliproxyy",
+      "sni": "sterling-macaw.rooster465.autos",
+      "host": "",
+      "original": "trojan://AE62539071@18.194.130.12:443?security=tls&sni=sterling-macaw.rooster465.autos&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-48",
+      "ip": "18.194.130.12",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://AE62539071@18.194.130.12:443?security=tls&sni=sterling-macaw.rooster465.autos&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-48"
+    },
+    {
+      "type": "trojan",
+      "address": "217.217.222.230",
+      "port": "20004",
+      "password": "ba07a8af-5544-48ac-ab62-3b6c00a44fa6",
+      "name": "🇬🇧 GB 8",
+      "sni": "hk.catxstar.com",
+      "host": "",
+      "original": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-75",
+      "ip": "217.217.222.230",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-75"
     }
   ]
 }
