@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-11T08:46:53.617082",
+  "updated": "2026-08-15T00:51:34.302952",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "185.207.196.48",
-      "port": "443",
-      "id": "cf39fab0-bb85-42cb-9945-2ad69d78e575",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "rubifen.adaspoloandco.com",
-      "host": "rubifen.adaspoloandco.com",
-      "security": "tls",
+      "address": "46.250.240.80",
+      "port": "2053",
+      "id": "5c53b9e9-fbe8-4c50-a623-73cdafa3886b",
+      "name": "🇦🇺 AU 2",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
-      "encryption": "none",
+      "encryption": "",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@185.207.196.48:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "185.207.196.48",
+      "original": "vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp&path=%2f#vless-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "46.250.240.80",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@185.207.196.48:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp&path=%2f#vless-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }

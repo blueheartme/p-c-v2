@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T16:43:38.245198",
-  "count": 1,
+  "updated": "2026-08-15T00:51:34.260430",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,26 @@
       "country": "AU",
       "cdn": null,
       "rebuilt": "trojan://AE62539071@wanted-marmoset.rooster465.autos:443?security=tls&sni=wanted-marmoset.rooster465.autos&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
+    {
+      "type": "vless",
+      "address": "46.250.240.80",
+      "port": "2053",
+      "id": "5c53b9e9-fbe8-4c50-a623-73cdafa3886b",
+      "name": "🇦🇺 AU 2",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp&path=%2f#vless-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "46.250.240.80",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp&path=%2f#vless-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }
