@@ -1,26 +1,18 @@
 {
-  "updated": "2026-08-15T00:51:34.252306",
+  "updated": "2026-08-16T00:54:29.239704",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "ae.cdn.stun.su",
+      "type": "tg",
+      "address": "t.meow-network.com",
       "port": "443",
-      "id": "eb071647-72a6-46be-8e89-ff3d228d52f6",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "ae.cdn.stun.su",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "176.97.78.29",
+      "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
+      "ip": "31.56.54.116",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "https://t.me/proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
     }
   ]
 }

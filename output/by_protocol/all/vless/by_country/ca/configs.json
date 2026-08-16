@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-15T16:16:20.924424",
-  "count": 1,
+  "updated": "2026-08-16T00:54:29.267407",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "167.99.178.229",
+      "port": "8039",
+      "id": "3775ad6e-d281-8bc5-36e9-9c5324a69393",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "amp-api-edge.apps.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://3775ad6e-d281-8bc5-36e9-9c5324a69393@167.99.178.229:8039?flow=xtls-rprx-vision&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&type=tcp&sni=amp-api-edge.apps.apple.com&sid=35938c4e546cd459&security=reality&headerType=none&fp=ios#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "167.99.178.229",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://3775ad6e-d281-8bc5-36e9-9c5324a69393@167.99.178.229:8039?flow=xtls-rprx-vision&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&type=tcp&sni=amp-api-edge.apps.apple.com&sid=35938c4e546cd459&security=reality&headerType=none&fp=ios#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
     {
       "type": "vless",
       "address": "158.69.112.254",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "original": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "158.69.112.254",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+      "rebuilt": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     }
   ]
 }
