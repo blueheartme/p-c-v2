@@ -1,21 +1,46 @@
 {
-  "updated": "2026-08-16T00:54:29.240411",
-  "count": 1,
+  "updated": "2026-08-16T16:16:42.871836",
+  "count": 2,
   "configs": [
     {
-      "type": "vmess",
-      "address": "v29.hdacd.com",
-      "port": "30829",
-      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
-      "name": "🇸🇬 SG 45",
+      "type": "vless",
+      "address": "jp.sofast.live",
+      "port": "52683",
+      "id": "5aaa5259-f924-4682-a4a3-149d472a9dcc",
+      "name": "🇨🇳 CN 3",
       "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNO8J+HqPCfh7MtMSIsImFkZCI6InYyOS5oZGFjZC5jb20iLCJwb3J0IjozMDgyOSwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "134.175.111.95",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://5aaa5259-f924-4682-a4a3-149d472a9dcc@jp.sofast.live:52683?type=tcp&path=%2f#vless-tcp-CN%F0%9F%87%A8%F0%9F%87%B3-1",
+      "ip": "109.244.79.239",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNO8J+HqPCfh7MtMSIsImFkZCI6InYyOS5oZGFjZC5jb20iLCJwb3J0IjozMDgyOSwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "vless://5aaa5259-f924-4682-a4a3-149d472a9dcc@jp.sofast.live:52683?type=tcp&path=%2f#vless-tcp-CN%F0%9F%87%A8%F0%9F%87%B3-1"
+    },
+    {
+      "type": "vless",
+      "address": "us22.sofast.live",
+      "port": "58011",
+      "id": "0afc6426-606c-48e7-bd70-3c424a416842",
+      "name": "🇨🇳 CN 2",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?type=tcp&path=%2f#vless-tcp-CN%F0%9F%87%A8%F0%9F%87%B3-2",
+      "ip": "61.145.123.58",
+      "country": "CN",
+      "cdn": null,
+      "rebuilt": "vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?type=tcp&path=%2f#vless-tcp-CN%F0%9F%87%A8%F0%9F%87%B3-2"
     }
   ]
 }

@@ -1,18 +1,26 @@
 {
-  "updated": "2026-08-15T16:16:20.898183",
+  "updated": "2026-08-16T16:16:42.879730",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "proxy.lodkirmm.ru",
-      "port": "8443",
-      "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
-      "ip": "46.8.64.26",
+      "type": "vless",
+      "address": "95.182.99.100",
+      "port": "443",
+      "id": "e9a56d95-778b-4f6e-8b50-80c05e686191",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://e9a56d95-778b-4f6e-8b50-80c05e686191@95.182.99.100:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "ip": "95.182.99.100",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
+      "rebuilt": "vless://e9a56d95-778b-4f6e-8b50-80c05e686191@95.182.99.100:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-1"
     }
   ]
 }
