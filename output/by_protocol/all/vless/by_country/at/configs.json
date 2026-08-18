@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-17T08:35:44.369607",
+  "updated": "2026-08-18T08:28:17.756696",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "185.126.236.181",
-      "port": "2052",
-      "id": "daa34529-5219-4323-d26a-2c395b25a56d",
+      "address": "152.53.65.148",
+      "port": "443",
+      "id": "6705ddbd-04cf-40f6-99b9-36846b08c2a9",
       "name": "@meliproxyy",
       "network": "ws",
-      "sni": "",
-      "host": "www.icloud.com",
-      "security": "",
+      "sni": "kjgdksgghre466.pages.dev",
+      "host": "kjgdksgghre466.pages.dev",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?path=%2F&security=&encryption=none&host=www.icloud.com&type=ws#vless-ws-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "185.126.236.181",
+      "fingerprint": "chrome",
+      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@152.53.65.148:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "152.53.65.148",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?path=%2F&security=&encryption=none&host=www.icloud.com&type=ws#vless-ws-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@152.53.65.148:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }

@@ -1,26 +1,21 @@
 {
-  "updated": "2026-08-15T00:51:34.261460",
+  "updated": "2026-08-18T08:28:17.723126",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "193.238.153.15",
-      "port": "443",
-      "id": "40cfbd0a-f133-4174-8e03-ab0e587e1099",
-      "name": "🇺🇦 UA 2",
-      "network": "",
-      "sni": "www.cloudflare.com",
+      "type": "vmess",
+      "address": "2.59.223.72",
+      "port": "921",
+      "id": "2bedbb99-acb2-4cfb-b381-b3cea5045cff",
+      "name": "@meliproxyy",
+      "network": "tcp",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://40cfbd0a-f133-4174-8e03-ab0e587e1099@193.238.153.15:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=dzknsuwujuOacNHTXzdPxBLNUEJfEImiwLinPPNFmwU&sid=1ea21a140beaecc5&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-UA%F0%9F%87%BA%F0%9F%87%A6-1",
-      "ip": "193.238.153.15",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIyLjU5LjIyMy43MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyYmVkYmI5OS1hY2IyLTRjZmItYjM4MS1iM2NlYTUwNDVjZmYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjkyMSIsInBzIjoidm1lc3MtYXV0by10Y3AtVUHwn4e68J+Hpi0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "ip": "2.59.223.72",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://40cfbd0a-f133-4174-8e03-ab0e587e1099@193.238.153.15:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=dzknsuwujuOacNHTXzdPxBLNUEJfEImiwLinPPNFmwU&sid=1ea21a140beaecc5&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "vmess://eyJhZGQiOiIyLjU5LjIyMy43MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyYmVkYmI5OS1hY2IyLTRjZmItYjM4MS1iM2NlYTUwNDVjZmYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjkyMSIsInBzIjoidm1lc3MtYXV0by10Y3AtVUHwn4e68J+Hpi0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }
