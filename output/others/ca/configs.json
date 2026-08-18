@@ -1,19 +1,39 @@
 {
-  "updated": "2026-08-17T16:19:30.696222",
-  "count": 1,
+  "updated": "2026-08-18T00:50:30.308018",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "158.69.112.254",
+      "port": "443",
+      "id": "661f395d-b153-4199-a04b-693f5fe7f261",
+      "name": "☑➜چنلمون: Express_freevpn@",
+      "network": "tcp",
+      "sni": "www.speedtest.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "158.69.112.254",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
     {
       "type": "ss",
       "address": "15.235.75.71",
       "port": "8388",
       "method": "chacha20-ietf-poly1305",
       "password": "FD3rCuOsxOay",
-      "name": "4|@ConfingV2RaayNG",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#4|@ConfingV2RaayNG",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#@meliproxyy",
       "ip": "15.235.75.71",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#4|@ConfingV2RaayNG"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#@meliproxyy"
     }
   ]
 }

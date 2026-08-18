@@ -1,22 +1,7 @@
 {
-  "updated": "2026-08-17T16:19:30.733501",
+  "updated": "2026-08-18T00:50:30.388317",
   "count": 2,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "140.83.51.161",
-      "port": "25686",
-      "id": "6733c357-ba11-4e9f-f00f-7d87f2776ff9",
-      "name": "🇯🇵 JP 382",
-      "network": "ws",
-      "host": "140.83.51.161",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS01IiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsInBvcnQiOjI1Njg2LCJpZCI6IjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiMTQwLjgzLjUxLjE2MSIsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "140.83.51.161",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS01IiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsInBvcnQiOjI1Njg2LCJpZCI6IjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiMTQwLjgzLjUxLjE2MSIsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
-    },
     {
       "type": "vmess",
       "address": "168.138.43.75",
@@ -26,11 +11,26 @@
       "network": "ws",
       "host": "jp01.a0a.xyz",
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS01NiIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0Ijo4MCwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImpwMDEuYTBhLnh5eiIsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS0xMTkiLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6ODAsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
       "ip": "168.138.43.75",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS01NiIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0Ijo4MCwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImpwMDEuYTBhLnh5eiIsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS0xMTkiLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6ODAsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+    },
+    {
+      "type": "vmess",
+      "address": "140.83.51.161",
+      "port": "25686",
+      "id": "6733c357-ba11-4e9f-f00f-7d87f2776ff9",
+      "name": "🇯🇵 JP 380",
+      "network": "ws",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS0xMzgiLCJhZGQiOiIxNDAuODMuNTEuMTYxIiwicG9ydCI6MjU2ODYsImlkIjoiNjczM2MzNTctYmExMS00ZTlmLWYwMGYtN2Q4N2YyNzc2ZmY5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "140.83.51.161",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS0xMzgiLCJhZGQiOiIxNDAuODMuNTEuMTYxIiwicG9ydCI6MjU2ODYsImlkIjoiNjczM2MzNTctYmExMS00ZTlmLWYwMGYtN2Q4N2YyNzc2ZmY5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     }
   ]
 }
