@@ -1,48 +1,76 @@
 {
-  "updated": "2026-08-18T08:28:17.783065",
-  "count": 3,
+  "updated": "2026-08-18T16:23:13.178115",
+  "count": 5,
   "configs": [
     {
       "type": "trojan",
-      "address": "thorough-falcon.rooster465.autos",
+      "address": "whole-woodcock.rooster465.autos",
       "port": "443",
       "password": "AE62539071",
-      "name": "🇳🇱 NL 9",
-      "sni": "thorough-falcon.rooster465.autos",
+      "name": "🇳🇱 NL 23",
+      "sni": "",
       "host": "",
-      "original": "trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls&sni=thorough-falcon.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-5",
-      "ip": "193.169.239.160",
+      "original": "trojan://AE62539071@whole-woodcock.rooster465.autos:443?security=tls&type=tcp&path=%2f&allow_insecure=0#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-5",
+      "ip": "89.39.70.9",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls&sni=thorough-falcon.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-5"
+      "rebuilt": "trojan://AE62539071@whole-woodcock.rooster465.autos:443?security=tls&type=tcp&path=%2f&allow_insecure=0#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-5"
+    },
+    {
+      "type": "trojan",
+      "address": "nl-vk.tkbvpcompany.site",
+      "port": "443",
+      "password": "SEYnpOitNLndBhDtkZyeAShl",
+      "name": "🇳🇱 NL 21",
+      "sni": "nl-vk.tkbvpcompany.site",
+      "host": "",
+      "original": "trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&sni=nl-vk.tkbvpcompany.site&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-13",
+      "ip": "31.76.49.185",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&sni=nl-vk.tkbvpcompany.site&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-13"
     },
     {
       "type": "trojan",
       "address": "pro-crane.rooster465.autos",
       "port": "443",
       "password": "FH72359861",
-      "name": "🇳🇱 NL 8",
+      "name": "🇳🇱 NL 3",
       "sni": "pro-crane.rooster465.autos",
       "host": "",
-      "original": "trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls&sni=pro-crane.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-47",
+      "original": "trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls&sni=pro-crane.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-18",
       "ip": "89.39.70.120",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls&sni=pro-crane.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-47"
+      "rebuilt": "trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls&sni=pro-crane.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-18"
     },
     {
       "type": "trojan",
-      "address": "whole-woodcock.rooster465.autos",
+      "address": "thorough-falcon.rooster465.autos",
       "port": "443",
       "password": "AE62539071",
-      "name": "🇳🇱 NL 1",
-      "sni": "whole-woodcock.rooster465.autos",
+      "name": "🇳🇱 NL 7",
+      "sni": "thorough-falcon.rooster465.autos",
       "host": "",
-      "original": "trojan://AE62539071@whole-woodcock.rooster465.autos:443?security=tls&sni=whole-woodcock.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-70",
-      "ip": "89.39.70.9",
+      "original": "trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls&sni=thorough-falcon.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-31",
+      "ip": "193.169.239.160",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://AE62539071@whole-woodcock.rooster465.autos:443?security=tls&sni=whole-woodcock.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-70"
+      "rebuilt": "trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls&sni=thorough-falcon.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-31"
+    },
+    {
+      "type": "trojan",
+      "address": "present-warthog.rooster465.autos",
+      "port": "443",
+      "password": "AE62539071",
+      "name": "🇳🇱 NL 13",
+      "sni": "",
+      "host": "",
+      "original": "trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-50",
+      "ip": "89.39.70.238",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-50"
     }
   ]
 }

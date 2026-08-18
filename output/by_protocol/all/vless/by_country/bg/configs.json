@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-13T01:20:57.544919",
+  "updated": "2026-08-18T16:23:13.166273",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "91.92.136.28",
+      "address": "185.246.131.163",
       "port": "443",
-      "id": "52bc7468-0c2f-4e9d-bdfa-e266242ab44b",
-      "name": "@meliproxyy",
+      "id": "e75ad2eb-6c1f-45ce-8023-f5f10875df66",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "ripe.net",
+      "sni": "bg5.eu-cdn539.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "randomized",
-      "original": "vless://52bc7468-0c2f-4e9d-bdfa-e266242ab44b@91.92.136.28:443?encryption=none&security=reality&sni=ripe.net&fp=randomized&pbk=VuM9HrCRtt7gaOXYkrPggV3GT_HKj18_5y6PcQKjWgQ&sid=0a076a71&type=tcp&headerType=none#vless-tcp-reality-randomized-BG%F0%9F%87%A7%F0%9F%87%AC-1",
-      "ip": "91.92.136.28",
+      "fingerprint": "firefox",
+      "original": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.246.131.163:443?security=reality&encryption=none&pbk=Zy0CcZpChDo3kB_CTyhe3Q6yv6MVDzxg--kl_xh0nzA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bg5.eu-cdn539.com&sid=ecafd5d73dd26f72#vless-xtls-rprx-vision-tcp-reality-firefox-BG%F0%9F%87%A7%F0%9F%87%AC-1",
+      "ip": "185.246.131.163",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "vless://52bc7468-0c2f-4e9d-bdfa-e266242ab44b@91.92.136.28:443?encryption=none&security=reality&sni=ripe.net&fp=randomized&pbk=VuM9HrCRtt7gaOXYkrPggV3GT_HKj18_5y6PcQKjWgQ&sid=0a076a71&type=tcp&headerType=none#vless-tcp-reality-randomized-BG%F0%9F%87%A7%F0%9F%87%AC-1"
+      "rebuilt": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.246.131.163:443?security=reality&encryption=none&pbk=Zy0CcZpChDo3kB_CTyhe3Q6yv6MVDzxg--kl_xh0nzA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bg5.eu-cdn539.com&sid=ecafd5d73dd26f72#vless-xtls-rprx-vision-tcp-reality-firefox-BG%F0%9F%87%A7%F0%9F%87%AC-1"
     }
   ]
 }

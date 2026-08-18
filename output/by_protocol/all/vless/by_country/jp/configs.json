@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-18T08:28:17.744222",
+  "updated": "2026-08-18T16:23:13.161665",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "14.137.238.40",
-      "port": "10000",
-      "id": "431fe973-a43a-4fac-bf83-2a772e0d0625",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "",
+      "address": "45.192.200.133",
+      "port": "8443",
+      "id": "cf39fab0-bb85-42cb-9945-2ad69d78e575",
+      "name": "@proxy_kafee",
+      "network": "ws",
+      "sni": "rubifen.adaspoloandco.com",
+      "host": "rubifen.adaspoloandco.com",
+      "security": "tls",
       "flow": "",
-      "encryption": "",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?&type=tcp&headerType=none&path=%2F#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-103",
-      "ip": "14.137.238.40",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.192.200.133:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#vless-ws-tls-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-5",
+      "ip": "45.192.200.133",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?&type=tcp&headerType=none&path=%2F#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-103"
+      "rebuilt": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.192.200.133:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#vless-ws-tls-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-5"
     }
   ]
 }
