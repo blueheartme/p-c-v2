@@ -1,26 +1,20 @@
 {
-  "updated": "2026-08-19T00:51:40.243440",
+  "updated": "2026-08-19T08:28:34.423016",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "179.237.75.199",
-      "port": "443",
-      "id": "t.me.TradeIP",
+      "type": "trojan",
+      "address": "179.237.74.104",
+      "port": "361",
+      "password": "---------BanV2ray------------",
       "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
-      "sni": "play.google.com",
+      "sni": "world.yahoo.com:443",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://t.me.TradeIP@179.237.75.199:443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=%2F000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=218cdbeddf1a#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "179.237.75.199",
+      "original": "trojan://---------BanV2ray------------@179.237.74.104:361?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F0741da572c9d4fe&type=grpc&sni=world.yahoo.com%3A443&sid=c9d8#trojan-grpc-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "179.237.74.104",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://t.me.TradeIP@179.237.75.199:443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=%2F000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=218cdbeddf1a#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "trojan://---------BanV2ray------------@179.237.74.104:361?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F0741da572c9d4fe&type=grpc&sni=world.yahoo.com%3A443&sid=c9d8#trojan-grpc-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }

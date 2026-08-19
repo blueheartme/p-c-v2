@@ -1,39 +1,28 @@
 {
-  "updated": "2026-08-19T00:51:40.308011",
-  "count": 3,
+  "updated": "2026-08-19T08:28:34.485588",
+  "count": 2,
   "configs": [
-    {
-      "type": "hysteria2",
-      "address": "fiproxy1.lockdwn.com",
-      "port": "443",
-      "name": "8|@ConfingV2RaayNG",
-      "original": "hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-7",
-      "ip": "31.76.80.69",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-7"
-    },
-    {
-      "type": "hysteria2",
-      "address": "assets.gateway-stream.com",
-      "port": "52040",
-      "name": "@proxy_kafee",
-      "original": "hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52040?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=7206pa46enqqdnmt#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-30",
-      "ip": "95.217.96.131",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52040?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=7206pa46enqqdnmt#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-30"
-    },
     {
       "type": "hysteria2",
       "address": "130.49.161.70",
       "port": "443",
       "name": "Nightping",
-      "original": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-36",
+      "original": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-5",
       "ip": "130.49.161.70",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-36"
+      "rebuilt": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-5"
+    },
+    {
+      "type": "hysteria2",
+      "address": "31.76.80.69",
+      "port": "443",
+      "name": "Joinbede@ConfingV2RaayNG",
+      "original": "hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-24",
+      "ip": "31.76.80.69",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-24"
     }
   ]
 }
