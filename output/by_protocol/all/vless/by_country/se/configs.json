@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T08:28:34.474760",
-  "count": 1,
+  "updated": "2026-08-19T16:23:42.074492",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -10,17 +10,57 @@
       "name": "@filembad",
       "network": "tcp",
       "sni": "cdn-se.alohaapp.uk",
-      "host": "",
+      "host": "/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "original": "vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3",
       "ip": "80.66.78.227",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+    },
+    {
+      "type": "vless",
+      "address": "138.124.29.81",
+      "port": "57021",
+      "id": "My-chanel-1-ATOVPN",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://My-chanel-1-ATOVPN@138.124.29.81:57021?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-6",
+      "ip": "138.124.29.81",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://My-chanel-1-ATOVPN@138.124.29.81:57021?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-6"
+    },
+    {
+      "type": "vless",
+      "address": "swed1.helper-internet.com",
+      "port": "443",
+      "id": "670decfe-68cc-499e-8cb1-22b39c20acbb",
+      "name": "Free 330 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "swed1.helper-internet.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@swed1.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-7",
+      "ip": "185.231.102.220",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@swed1.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-7"
     }
   ]
 }

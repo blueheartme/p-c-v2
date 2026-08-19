@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-19T00:51:40.290618",
-  "count": 1,
+  "updated": "2026-08-19T16:23:42.062557",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "111.119.235.145",
+      "port": "13779",
+      "id": "928e6cce-8ced-4243-9a48-a6642edd09b0",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "tesla.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://928e6cce-8ced-4243-9a48-a6642edd09b0@111.119.235.145:13779?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-21",
+      "ip": "111.119.235.145",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://928e6cce-8ced-4243-9a48-a6642edd09b0@111.119.235.145:13779?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-21"
+    },
     {
       "type": "vless",
       "address": "5iehome.cc",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?encryption=none&security=tls&sni=onisni.irandoc.info&fp=firefox&allowinsecure=0&type=ws&host=onisni.irandoc.info&path=%2F11030%2Fapi1#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-24",
-      "ip": "43.174.246.27",
+      "original": "vless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?encryption=none&security=tls&sni=onisni.irandoc.info&fp=firefox&allowinsecure=0&type=ws&host=onisni.irandoc.info&path=%2F11030%2Fapi1#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-25",
+      "ip": "43.174.247.27",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?encryption=none&security=tls&sni=onisni.irandoc.info&fp=firefox&allowinsecure=0&type=ws&host=onisni.irandoc.info&path=%2F11030%2Fapi1#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-24"
+      "rebuilt": "vless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?encryption=none&security=tls&sni=onisni.irandoc.info&fp=firefox&allowinsecure=0&type=ws&host=onisni.irandoc.info&path=%2F11030%2Fapi1#vless-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-25"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-19T08:28:34.419780",
-  "count": 1,
+  "updated": "2026-08-19T16:23:42.035128",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "195.135.252.28",
+      "port": "443",
+      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
+      "name": "Latvia Sia Veesp",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "ip": "195.135.252.28",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+    },
     {
       "type": "vless",
       "address": "lat.o4ka-internet.com",
@@ -16,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@lat.o4ka-internet.com:443?security=reality&encryption=none&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lat.o4ka-internet.com&sid=5629431325884ff0#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "original": "vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@lat.o4ka-internet.com:443?security=reality&encryption=none&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lat.o4ka-internet.com&sid=5629431325884ff0#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%87%B1%F0%9F%87%BB-2",
       "ip": "185.28.47.111",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@lat.o4ka-internet.com:443?security=reality&encryption=none&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lat.o4ka-internet.com&sid=5629431325884ff0#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+      "rebuilt": "vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@lat.o4ka-internet.com:443?security=reality&encryption=none&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lat.o4ka-internet.com&sid=5629431325884ff0#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%87%B1%F0%9F%87%BB-2"
+    },
+    {
+      "type": "vless",
+      "address": "pasarguardpanel.nenenet1.ir",
+      "port": "2044",
+      "id": "1066a72e-d262-424d-95b0-749e929dfed6",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://1066a72e-d262-424d-95b0-749e929dfed6@pasarguardpanel.nenenet1.ir:2044?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-3",
+      "ip": "95.182.90.223",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://1066a72e-d262-424d-95b0-749e929dfed6@pasarguardpanel.nenenet1.ir:2044?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-3"
     }
   ]
 }
