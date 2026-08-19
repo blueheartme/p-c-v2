@@ -1,21 +1,7 @@
 {
-  "updated": "2026-08-18T16:23:13.178115",
+  "updated": "2026-08-19T00:51:40.265801",
   "count": 5,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "whole-woodcock.rooster465.autos",
-      "port": "443",
-      "password": "AE62539071",
-      "name": "🇳🇱 NL 23",
-      "sni": "",
-      "host": "",
-      "original": "trojan://AE62539071@whole-woodcock.rooster465.autos:443?security=tls&type=tcp&path=%2f&allow_insecure=0#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-5",
-      "ip": "89.39.70.9",
-      "country": "NL",
-      "cdn": null,
-      "rebuilt": "trojan://AE62539071@whole-woodcock.rooster465.autos:443?security=tls&type=tcp&path=%2f&allow_insecure=0#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-5"
-    },
     {
       "type": "trojan",
       "address": "nl-vk.tkbvpcompany.site",
@@ -24,53 +10,67 @@
       "name": "🇳🇱 NL 21",
       "sni": "nl-vk.tkbvpcompany.site",
       "host": "",
-      "original": "trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&sni=nl-vk.tkbvpcompany.site&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-13",
+      "original": "trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&sni=nl-vk.tkbvpcompany.site&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-1",
       "ip": "31.76.49.185",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&sni=nl-vk.tkbvpcompany.site&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-13"
-    },
-    {
-      "type": "trojan",
-      "address": "pro-crane.rooster465.autos",
-      "port": "443",
-      "password": "FH72359861",
-      "name": "🇳🇱 NL 3",
-      "sni": "pro-crane.rooster465.autos",
-      "host": "",
-      "original": "trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls&sni=pro-crane.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-18",
-      "ip": "89.39.70.120",
-      "country": "NL",
-      "cdn": null,
-      "rebuilt": "trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls&sni=pro-crane.rooster465.autos&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-18"
-    },
-    {
-      "type": "trojan",
-      "address": "thorough-falcon.rooster465.autos",
-      "port": "443",
-      "password": "AE62539071",
-      "name": "🇳🇱 NL 7",
-      "sni": "thorough-falcon.rooster465.autos",
-      "host": "",
-      "original": "trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls&sni=thorough-falcon.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-31",
-      "ip": "193.169.239.160",
-      "country": "NL",
-      "cdn": null,
-      "rebuilt": "trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls&sni=thorough-falcon.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-31"
+      "rebuilt": "trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&sni=nl-vk.tkbvpcompany.site&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-1"
     },
     {
       "type": "trojan",
       "address": "present-warthog.rooster465.autos",
       "port": "443",
       "password": "AE62539071",
-      "name": "🇳🇱 NL 13",
-      "sni": "",
+      "name": "🇳🇱 NL 15",
+      "sni": "present-warthog.rooster465.autos",
       "host": "",
-      "original": "trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-50",
+      "original": "trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&sni=present-warthog.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-17",
       "ip": "89.39.70.238",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-50"
+      "rebuilt": "trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&sni=present-warthog.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-17"
+    },
+    {
+      "type": "trojan",
+      "address": "whole-woodcock.rooster465.autos",
+      "port": "443",
+      "password": "AE62539071",
+      "name": "🇳🇱 NL 11",
+      "sni": "",
+      "host": "",
+      "original": "trojan://AE62539071@whole-woodcock.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-24",
+      "ip": "89.39.70.9",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "trojan://AE62539071@whole-woodcock.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-24"
+    },
+    {
+      "type": "trojan",
+      "address": "renewed-chigger.rooster465.autos",
+      "port": "443",
+      "password": "FH72359861",
+      "name": "🇳🇱 NL 1",
+      "sni": "",
+      "host": "",
+      "original": "trojan://FH72359861@renewed-chigger.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-25",
+      "ip": "79.133.126.136",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "trojan://FH72359861@renewed-chigger.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-25"
+    },
+    {
+      "type": "trojan",
+      "address": "31.76.49.185",
+      "port": "443",
+      "password": "SEYnpOitNLndBhDtkZyeAShl",
+      "name": "🇳🇱 NL 19",
+      "sni": "nl-vk.tkbvpcompany.site",
+      "host": "",
+      "original": "trojan://SEYnpOitNLndBhDtkZyeAShl@31.76.49.185:443?sni=nl-vk.tkbvpcompany.site&alpn=http%2f1.1&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-69",
+      "ip": "31.76.49.185",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "trojan://SEYnpOitNLndBhDtkZyeAShl@31.76.49.185:443?sni=nl-vk.tkbvpcompany.site&alpn=http%2f1.1&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-69"
     }
   ]
 }
