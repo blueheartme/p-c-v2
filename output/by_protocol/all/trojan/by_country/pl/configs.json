@@ -1,62 +1,20 @@
 {
-  "updated": "2026-08-20T00:51:09.419277",
-  "count": 5,
+  "updated": "2026-08-20T08:30:01.195678",
+  "count": 3,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "optimal-urchin.rooster465.autos",
-      "port": "443",
-      "password": "FH72359861",
-      "name": "🇵🇱 PL 5",
-      "sni": "optimal-urchin.rooster465.autos",
-      "host": "",
-      "original": "trojan://FH72359861@optimal-urchin.rooster465.autos:443?security=tls&sni=optimal-urchin.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "202.78.163.175",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://FH72359861@optimal-urchin.rooster465.autos:443?security=tls&sni=optimal-urchin.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
     {
       "type": "trojan",
       "address": "202.78.163.248",
       "port": "443",
       "password": "ND91608427",
-      "name": "🇵🇱 PL 7",
+      "name": "🇵🇱 PL 6",
       "sni": "relaxed-gull.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos&fp=chrome&type=tcp&path=%2f&allow_insecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-8",
+      "original": "trojan://ND91608427@202.78.163.248:443?sni=relaxed-gull.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "202.78.163.248",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos&fp=chrome&type=tcp&path=%2f&allow_insecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-8"
-    },
-    {
-      "type": "trojan",
-      "address": "202.78.163.233",
-      "port": "443",
-      "password": "FH72359861",
-      "name": "🇵🇱 PL 2",
-      "sni": "magnetic-caiman.rooster465.autos",
-      "host": "",
-      "original": "trojan://FH72359861@202.78.163.233:443?sni=magnetic-caiman.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-13",
-      "ip": "202.78.163.233",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://FH72359861@202.78.163.233:443?sni=magnetic-caiman.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-13"
-    },
-    {
-      "type": "trojan",
-      "address": "202.78.163.148",
-      "port": "443",
-      "password": "ND91608427",
-      "name": "🇵🇱 PL 4",
-      "sni": "discrete-basilisk.rooster465.autos",
-      "host": "",
-      "original": "trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-15",
-      "ip": "202.78.163.148",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-15"
+      "rebuilt": "trojan://ND91608427@202.78.163.248:443?sni=relaxed-gull.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     },
     {
       "type": "trojan",
@@ -66,11 +24,25 @@
       "name": "🇵🇱 PL 3",
       "sni": "relaxed-gull.rooster465.autos",
       "host": "",
-      "original": "trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-16",
+      "original": "trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4",
       "ip": "202.78.163.248",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-16"
+      "rebuilt": "trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+    },
+    {
+      "type": "trojan",
+      "address": "optimal-urchin.rooster465.autos",
+      "port": "443",
+      "password": "FH72359861",
+      "name": "🇵🇱 PL 5",
+      "sni": "optimal-urchin.rooster465.autos",
+      "host": "",
+      "original": "trojan://FH72359861@optimal-urchin.rooster465.autos:443?security=tls&sni=optimal-urchin.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6",
+      "ip": "202.78.163.175",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://FH72359861@optimal-urchin.rooster465.autos:443?security=tls&sni=optimal-urchin.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6"
     }
   ]
 }

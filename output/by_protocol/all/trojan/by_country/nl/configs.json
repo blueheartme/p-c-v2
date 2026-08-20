@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T00:51:09.417274",
-  "count": 1,
+  "updated": "2026-08-20T08:30:01.192564",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -10,11 +10,25 @@
       "name": "🇳🇱 NL 7",
       "sni": "",
       "host": "",
-      "original": "trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-3",
+      "original": "trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-34",
       "ip": "31.76.49.185",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-3"
+      "rebuilt": "trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-34"
+    },
+    {
+      "type": "trojan",
+      "address": "alive-snapper.rooster465.autos",
+      "port": "443",
+      "password": "FH72359861",
+      "name": "🇳🇱 NL 4",
+      "sni": "",
+      "host": "",
+      "original": "trojan://FH72359861@alive-snapper.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-62",
+      "ip": "193.169.239.218",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "trojan://FH72359861@alive-snapper.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-62"
     }
   ]
 }

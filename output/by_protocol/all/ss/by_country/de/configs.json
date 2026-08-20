@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-20T00:51:09.439001",
-  "count": 1,
+  "updated": "2026-08-20T08:30:01.154266",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "91.107.243.39",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "YpLdYtmKUGiLVYuyI3P9hA",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZcExkWXRtS1VHaUxWWXV5STNQOWhB@91.107.243.39:1080#@meliproxyy",
+      "ip": "91.107.243.39",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZcExkWXRtS1VHaUxWWXV5STNQOWhB@91.107.243.39:1080#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "3.75.179.86",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "8af226b7726f4d4cb5c72fe3b57050f0",
+      "name": "Channel : @proxy_kafee",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWYyMjZiNzcyNmY0ZDRjYjVjNzJmZTNiNTcwNTBmMA@3.75.179.86:443#Channel%20%3A%20%40proxy_kafee%20",
+      "ip": "3.75.179.86",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWYyMjZiNzcyNmY0ZDRjYjVjNzJmZTNiNTcwNTBmMA@3.75.179.86:443#Channel%20%3A%20%40proxy_kafee%20"
+    },
     {
       "type": "ss",
       "address": "144.31.168.176",

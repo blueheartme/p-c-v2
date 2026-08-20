@@ -1,19 +1,26 @@
 {
-  "updated": "2026-08-20T00:51:09.356725",
-  "count": 6,
+  "updated": "2026-08-20T08:30:01.082977",
+  "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "155.138.136.240",
-      "port": "80",
-      "method": "aes-256-gcm",
-      "password": "sZSZi7tGs9wodT7k",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206c1pTWmk3dEdzOXdvZFQ3aw@155.138.136.240:80#@meliproxyy",
-      "ip": "155.138.136.240",
+      "type": "vless",
+      "address": "158.69.112.254",
+      "port": "443",
+      "id": "661f395d-b153-4199-a04b-693f5fe7f261",
+      "name": "برای اتصال دائمی جوین شو🕖 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "www.speedtest.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "158.69.112.254",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206c1pTWmk3dEdzOXdvZFQ3aw@155.138.136.240:80#@meliproxyy"
+      "rebuilt": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     },
     {
       "type": "vmess",
@@ -31,54 +38,6 @@
       "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNB8J+HqPCfh6YtMiIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii9AUHJveHlWUE4xMSIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0="
     },
     {
-      "type": "ss",
-      "address": "51.222.12.127",
-      "port": "445",
-      "method": "aes-256-gcm",
-      "password": "zDNVedRFPQexG9v",
-      "name": "☑➜چنلمون: Express_freevpn@",
-      "original": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%E2%98%91%E2%9E%9C%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86%3A%20Express_freevpn%40",
-      "ip": "51.222.12.127",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%E2%98%91%E2%9E%9C%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86%3A%20Express_freevpn%40"
-    },
-    {
-      "type": "vmess",
-      "address": "216.128.176.166",
-      "port": "28809",
-      "id": "ebca559c-a4a1-4062-9453-6412d8ff5255",
-      "name": "🇨🇦 CA 1",
-      "network": "ws",
-      "host": "216.128.176.166",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtQ0Hwn4eo8J+Hpi00IiwiYWRkIjoiMjE2LjEyOC4xNzYuMTY2IiwicG9ydCI6Mjg4MDksImlkIjoiZWJjYTU1OWMtYTRhMS00MDYyLTk0NTMtNjQxMmQ4ZmY1MjU1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIyMTYuMTI4LjE3Ni4xNjYiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2ViY2E1NTljLWE0YTEtNDA2Mi05NDUzLTY0MTJkOGZmNTI1NSIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ==",
-      "ip": "216.128.176.166",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtQ0Hwn4eo8J+Hpi00IiwiYWRkIjoiMjE2LjEyOC4xNzYuMTY2IiwicG9ydCI6Mjg4MDksImlkIjoiZWJjYTU1OWMtYTRhMS00MDYyLTk0NTMtNjQxMmQ4ZmY1MjU1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIyMTYuMTI4LjE3Ni4xNjYiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2ViY2E1NTljLWE0YTEtNDA2Mi05NDUzLTY0MTJkOGZmNTI1NSIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOiJjaHJvbWUifQ=="
-    },
-    {
-      "type": "vless",
-      "address": "158.69.112.254",
-      "port": "443",
-      "id": "661f395d-b153-4199-a04b-693f5fe7f261",
-      "name": "برای اتصال دائمی جوین شو🕖 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "www.speedtest.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-5",
-      "ip": "158.69.112.254",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-5"
-    },
-    {
       "type": "vless",
       "address": "184.107.141.174",
       "port": "443",
@@ -92,11 +51,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@184.107.141.174:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ca.servers.gracevpnbuy.com&sid=b91a73752053b039#vless-xtls-rprx-vision-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-6",
+      "original": "vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@184.107.141.174:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ca.servers.gracevpnbuy.com&sid=b91a73752053b039#vless-xtls-rprx-vision-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-3",
       "ip": "184.107.141.174",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@184.107.141.174:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ca.servers.gracevpnbuy.com&sid=b91a73752053b039#vless-xtls-rprx-vision-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-6"
+      "rebuilt": "vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@184.107.141.174:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ca.servers.gracevpnbuy.com&sid=b91a73752053b039#vless-xtls-rprx-vision-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-3"
     }
   ]
 }
