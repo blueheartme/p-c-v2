@@ -1,34 +1,20 @@
 {
-  "updated": "2026-08-19T08:28:34.454357",
-  "count": 2,
+  "updated": "2026-08-20T16:26:17.957338",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
-      "address": "ru-5b7331.atlanta-games.com",
-      "port": "443",
-      "password": "HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK",
-      "name": "🇷🇺 RU 8",
-      "sni": "ru-5b7331.atlanta-games.com",
+      "address": "ru.techdatacloud.org",
+      "port": "8443",
+      "password": "5e19b3c8-c1dc-4163-95e2-895319c15d6c",
+      "name": "🇷🇺 RU 2",
+      "sni": "cloud.mail.ru",
       "host": "",
-      "original": "trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@ru-5b7331.atlanta-games.com:443?security=tls&sni=ru-5b7331.atlanta-games.com&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-RU%F0%9F%87%B7%F0%9F%87%BA-1",
-      "ip": "176.108.242.191",
+      "original": "trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&fp=firefox&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&sid=8c3785d47c2017ec&spx=%2f&type=tcp&path=%2f#trojan-tcp-reality-RU%F0%9F%87%B7%F0%9F%87%BA-4",
+      "ip": "45.90.216.147",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@ru-5b7331.atlanta-games.com:443?security=tls&sni=ru-5b7331.atlanta-games.com&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-RU%F0%9F%87%B7%F0%9F%87%BA-1"
-    },
-    {
-      "type": "trojan",
-      "address": "176.108.242.191",
-      "port": "443",
-      "password": "HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK",
-      "name": "🇷🇺 RU 3",
-      "sni": "ru-5b7331.atlanta-games.com",
-      "host": "",
-      "original": "trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@176.108.242.191:443?security=tls&sni=ru-5b7331.atlanta-games.com&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-RU%F0%9F%87%B7%F0%9F%87%BA-10",
-      "ip": "176.108.242.191",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@176.108.242.191:443?security=tls&sni=ru-5b7331.atlanta-games.com&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-RU%F0%9F%87%B7%F0%9F%87%BA-10"
+      "rebuilt": "trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&fp=firefox&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&sid=8c3785d47c2017ec&spx=%2f&type=tcp&path=%2f#trojan-tcp-reality-RU%F0%9F%87%B7%F0%9F%87%BA-4"
     }
   ]
 }
