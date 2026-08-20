@@ -1,90 +1,20 @@
 {
-  "updated": "2026-08-19T16:23:42.112899",
-  "count": 9,
+  "updated": "2026-08-20T00:51:09.419762",
+  "count": 6,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "95.40.43.135",
-      "port": "50887",
-      "password": "6ec301428255a78a1d826988d86cc87e",
-      "name": "🇭🇰 HK 10",
-      "sni": "www.nintendogames.net",
-      "host": "",
-      "original": "trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "95.40.43.135",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
-    {
-      "type": "trojan",
-      "address": "renewing-ewe.rooster465.autos",
-      "port": "443",
-      "password": "HC04361579",
-      "name": "🇭🇰 HK 16",
-      "sni": "renewing-ewe.rooster465.autos",
-      "host": "",
-      "original": "trojan://HC04361579@renewing-ewe.rooster465.autos:443?security=tls&sni=renewing-ewe.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "185.244.208.60",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://HC04361579@renewing-ewe.rooster465.autos:443?security=tls&sni=renewing-ewe.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
-      "type": "trojan",
-      "address": "185.244.208.210",
-      "port": "443",
-      "password": "ND91608427",
-      "name": "🇭🇰 HK 18",
-      "sni": "upright-hamster.rooster465.autos",
-      "host": "",
-      "original": "trojan://ND91608427@185.244.208.210:443?sni=upright-hamster.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "185.244.208.210",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://ND91608427@185.244.208.210:443?sni=upright-hamster.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
-    },
     {
       "type": "trojan",
       "address": "8.217.167.229",
       "port": "5496",
       "password": "fg20mtCFHy",
-      "name": "🇭🇰 HK 3",
+      "name": "🇭🇰 HK 1",
       "sni": "hyctx.southbyte.xyz",
       "host": "",
-      "original": "trojan://fg20mtCFHy@8.217.167.229:5496?sni=hyctx.southbyte.xyz&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7",
+      "original": "trojan://fg20mtCFHy@8.217.167.229:5496?security=tls&sni=hyctx.southbyte.xyz&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "8.217.167.229",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://fg20mtCFHy@8.217.167.229:5496?sni=hyctx.southbyte.xyz&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7"
-    },
-    {
-      "type": "trojan",
-      "address": "just-alpaca.rooster465.autos",
-      "port": "443",
-      "password": "PQ05174892",
-      "name": "🇭🇰 HK 11",
-      "sni": "just-alpaca.rooster465.autos",
-      "host": "",
-      "original": "trojan://PQ05174892@just-alpaca.rooster465.autos:443?security=tls&sni=just-alpaca.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-10",
-      "ip": "185.244.208.25",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://PQ05174892@just-alpaca.rooster465.autos:443?security=tls&sni=just-alpaca.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-10"
-    },
-    {
-      "type": "trojan",
-      "address": "219.79.214.159",
-      "port": "443",
-      "password": "BxceQaOe",
-      "name": "Hong Kong Netvigator",
-      "sni": "t.me%2Fripaojiedian",
-      "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-11",
-      "ip": "219.79.214.159",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-11"
+      "rebuilt": "trojan://fg20mtCFHy@8.217.167.229:5496?security=tls&sni=hyctx.southbyte.xyz&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "trojan",
@@ -94,11 +24,39 @@
       "name": "🇭🇰 HK 15",
       "sni": "eminent-lamb.rooster465.autos",
       "host": "",
-      "original": "trojan://HC04361579@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-14",
+      "original": "trojan://HC04361579@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7",
       "ip": "185.14.47.125",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://HC04361579@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-14"
+      "rebuilt": "trojan://HC04361579@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-7"
+    },
+    {
+      "type": "trojan",
+      "address": "strong-haddock.rooster465.autos",
+      "port": "443",
+      "password": "AE62539071",
+      "name": "🇭🇰 HK 13",
+      "sni": "",
+      "host": "",
+      "original": "trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-9",
+      "ip": "185.244.208.69",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-9"
+    },
+    {
+      "type": "trojan",
+      "address": "91.199.84.120",
+      "port": "443",
+      "password": "ND91608427",
+      "name": "🇭🇰 HK 14",
+      "sni": "dynamic-grubworm.rooster465.autos",
+      "host": "",
+      "original": "trojan://ND91608427@91.199.84.120:443?security=tls&sni=dynamic-grubworm.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-12",
+      "ip": "91.199.84.120",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://ND91608427@91.199.84.120:443?security=tls&sni=dynamic-grubworm.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-12"
     },
     {
       "type": "trojan",
@@ -108,25 +66,25 @@
       "name": "🇭🇰 HK 12",
       "sni": "strong-haddock.rooster465.autos",
       "host": "",
-      "original": "trojan://AE62539071@185.244.208.69:443?security=tls&sni=strong-haddock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-16",
+      "original": "trojan://AE62539071@185.244.208.69:443?security=tls&sni=strong-haddock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-13",
       "ip": "185.244.208.69",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://AE62539071@185.244.208.69:443?security=tls&sni=strong-haddock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-16"
+      "rebuilt": "trojan://AE62539071@185.244.208.69:443?security=tls&sni=strong-haddock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-13"
     },
     {
       "type": "trojan",
-      "address": "2c.fast9988.com",
+      "address": "95.40.43.135",
       "port": "50887",
       "password": "6ec301428255a78a1d826988d86cc87e",
-      "name": "🇭🇰 HK 20",
+      "name": "🇭🇰 HK 10",
       "sni": "www.nintendogames.net",
       "host": "",
-      "original": "trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-17",
+      "original": "trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-14",
       "ip": "95.40.43.135",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-17"
+      "rebuilt": "trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-14"
     }
   ]
 }

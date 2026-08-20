@@ -1,20 +1,18 @@
 {
-  "updated": "2026-08-19T16:23:42.095675",
-  "count": 2,
+  "updated": "2026-08-20T00:51:09.423709",
+  "count": 3,
   "configs": [
     {
       "type": "tg",
-      "address": "93.113.230.242",
+      "address": "79.175.149.108",
       "port": "443",
-      "secret": "dd3dd937dd5a1748b47505d32759b12c35",
+      "secret": "38a6dbaadc4df74bd3f977d6ade0bbc5",
       "name": "",
-      "original": "https://t.me/proxy?server=93.113.230.242&port=443&secret=dd3dd937dd5a1748b47505d32759b12c35",
-      "ip": "93.113.230.242",
+      "original": "https://t.me/proxy?server=79.175.149.108&port=443&secret=38a6dbaadc4df74bd3f977d6ade0bbc5",
+      "ip": "79.175.149.108",
       "country": "IR",
       "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "https://t.me/proxy?server=93.113.230.242&port=443&secret=dd3dd937dd5a1748b47505d32759b12c35"
+      "rebuilt": "https://t.me/proxy?server=79.175.149.108&port=443&secret=38a6dbaadc4df74bd3f977d6ade0bbc5"
     },
     {
       "type": "tg",
@@ -29,6 +27,20 @@
       "tested": true,
       "working": true,
       "rebuilt": "https://t.me/proxy?server=93.113.230.218&port=443&secret=4772827e920fc13e1fd29c7ccda1a459"
+    },
+    {
+      "type": "tg",
+      "address": "93.113.230.242",
+      "port": "443",
+      "secret": "3dd937dd5a1748b47505d32759b12c35",
+      "name": "",
+      "original": "https://t.me/proxy?server=93.113.230.242&port=443&secret=3dd937dd5a1748b47505d32759b12c35&@MPT_Proxy",
+      "ip": "93.113.230.242",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "https://t.me/proxy?server=93.113.230.242&port=443&secret=3dd937dd5a1748b47505d32759b12c35&@MPT_Proxy"
     }
   ]
 }
