@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-12T01:18:33.856260",
+  "updated": "2026-08-21T08:32:16.872678",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "217.12.194.249",
+      "address": "85.90.197.131",
       "port": "443",
-      "id": "fc1b3bda-b226-452a-8c5c-b0e36a1f8f88",
+      "id": "423b1d79-08c4-403f-9d5e-c541f791b55f",
       "name": "🇬🇷 GR 1",
-      "network": "tcp",
+      "network": "",
       "sni": "eu-central.cendora.ru",
       "host": "",
-      "security": "reality",
+      "security": "tls",
       "flow": "xtls-rprx-vision",
       "encryption": "",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@217.12.194.249:443?flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-GR%F0%9F%87%AC%F0%9F%87%B7-1",
-      "ip": "217.12.194.249",
+      "fingerprint": "chrome",
+      "original": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@85.90.197.131:443?flow=xtls-rprx-vision&security=tls&sni=eu-central.cendora.ru&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&path=%2f#vless-xtls-rprx-vision-tcp-tls-chrome-GR%F0%9F%87%AC%F0%9F%87%B7-1",
+      "ip": "85.90.197.131",
       "country": "GR",
       "cdn": null,
-      "rebuilt": "vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@217.12.194.249:443?flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-GR%F0%9F%87%AC%F0%9F%87%B7-1"
+      "rebuilt": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@85.90.197.131:443?flow=xtls-rprx-vision&security=tls&sni=eu-central.cendora.ru&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&path=%2f#vless-xtls-rprx-vision-tcp-tls-chrome-GR%F0%9F%87%AC%F0%9F%87%B7-1"
     }
   ]
 }

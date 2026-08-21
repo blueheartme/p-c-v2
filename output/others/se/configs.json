@@ -1,13 +1,33 @@
 {
-  "updated": "2026-08-21T00:54:30.446863",
+  "updated": "2026-08-21T08:32:16.814819",
   "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "80.66.78.227",
+      "port": "443",
+      "id": "76f6b7fe-5de8-4637-87a0-6ddd33d67b3e",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "cdn-se.alohaapp.uk",
+      "host": "/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?encryption=none&type=tcp&security=reality&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&sni=cdn-se.alohaapp.uk&fp=firefox&insecure=1&allowInsecure=1&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&sid=b9f8f9772217538f&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "80.66.78.227",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?encryption=none&type=tcp&security=reality&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&sni=cdn-se.alohaapp.uk&fp=firefox&insecure=1&allowInsecure=1&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&sid=b9f8f9772217538f&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
     {
       "type": "vless",
       "address": "v6.ir.battlenetcp.com",
       "port": "80",
       "id": "ad753970-b772-473f-a10e-8c4664779472",
-      "name": "@proxy_kafee",
+      "name": "@meliproxyy",
       "network": "tcp",
       "sni": "",
       "host": "cdn-apple.com",
@@ -16,24 +36,11 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://ad753970-b772-473f-a10e-8c4664779472@v6.ir.battlenetcp.com:80?encryption=none&security=none&type=tcp&headerType=http&host=cdn-apple.com#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "original": "vless://ad753970-b772-473f-a10e-8c4664779472@v6.ir.battlenetcp.com:80?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-2",
       "ip": "104.105.108.217",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://ad753970-b772-473f-a10e-8c4664779472@v6.ir.battlenetcp.com:80?encryption=none&security=none&type=tcp&headerType=http&host=cdn-apple.com#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
-    {
-      "type": "ss",
-      "address": "193.188.21.165",
-      "port": "8390?",
-      "method": "chacha20-ietf-poly1305",
-      "password": "EyGy11BMfeP-6UHjsgajWw",
-      "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.188.21.165:8390?#@meliproxyy",
-      "ip": "193.188.21.165",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.188.21.165:8390?#@meliproxyy"
+      "rebuilt": "vless://ad753970-b772-473f-a10e-8c4664779472@v6.ir.battlenetcp.com:80?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     },
     {
       "type": "vless",
