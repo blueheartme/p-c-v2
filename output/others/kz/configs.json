@@ -1,20 +1,26 @@
 {
-  "updated": "2026-08-19T16:23:42.043747",
+  "updated": "2026-08-21T16:24:30.919534",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "45.82.14.144",
-      "port": "2025",
-      "password": "vpn",
-      "name": "🇰🇿 KZ 1",
-      "sni": "",
-      "host": "dns.google.com",
-      "original": "trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=%2f#trojan-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "45.82.14.144",
+      "type": "vless",
+      "address": "194.59.5.46",
+      "port": "2096",
+      "id": "8525fe74-67e6-4a55-8a26-95f227bd1384",
+      "name": "🏳️ Jafar | 🛡️🔥 226ms",
+      "network": "ws",
+      "sni": "wild-sky-f384.alvlirm3737.workers.dev",
+      "host": "wild-sky-f384.alvlirm3737.workers.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@194.59.5.46:2096?allowInsecure=1&encryption=none&host=wild-sky-f384.alvlirm3737.workers.dev&path=/proxyip=172.86.93.55,194.99.20.245,46.101.165.85,46.101.181.132,209.38.201.199,165.22.89.207,207.154.242.240,64.188.83.202&security=tls&sni=wild-sky-f384.alvlirm3737.workers.dev&type=ws#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "194.59.5.46",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=%2f#trojan-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@194.59.5.46:2096?allowInsecure=1&encryption=none&host=wild-sky-f384.alvlirm3737.workers.dev&path=/proxyip=172.86.93.55,194.99.20.245,46.101.165.85,46.101.181.132,209.38.201.199,165.22.89.207,207.154.242.240,64.188.83.202&security=tls&sni=wild-sky-f384.alvlirm3737.workers.dev&type=ws#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }

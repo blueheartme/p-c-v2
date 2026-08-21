@@ -1,26 +1,39 @@
 {
-  "updated": "2026-08-21T08:32:16.828599",
-  "count": 1,
+  "updated": "2026-08-21T16:24:30.904410",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "103.126.50.203",
       "port": "443",
       "id": "76f6b7fe-5de8-4637-87a0-6ddd33d67b3e",
-      "name": "@meliproxyy",
+      "name": "@filembad",
       "network": "tcp",
       "sni": "ro.getvlessvpn.com",
-      "host": "/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI",
+      "host": "/?BIA_TELEGRAM@TOOTFFARANGI",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ro.getvlessvpn.com&fp=firefox&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&sid=b9f8f9772217538f&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "original": "vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-1",
       "ip": "103.126.50.203",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ro.getvlessvpn.com&fp=firefox&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&sid=b9f8f9772217538f&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+      "rebuilt": "vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+    },
+    {
+      "type": "ss",
+      "address": "bogging-eyeteeth-fly.freesocks.work",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "QFWzCw2uX9B9i6qAYeFBIE",
+      "name": "🇷🇴 RO 3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%203",
+      "ip": "154.46.31.106",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%203"
     }
   ]
 }
