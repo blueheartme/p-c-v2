@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T16:26:17.934019",
-  "count": 1,
+  "updated": "2026-08-21T00:54:30.504526",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://f67e149c-e1f4-4162-876b-a34591b8349f@163.128.98.110:443?security=reality&encryption=none&pbk=f7ysLjHXSTFqwfeUvS26zrbLmjwpvsa0xtfMYz46OjQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0123456789abcdef#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "original": "vless://f67e149c-e1f4-4162-876b-a34591b8349f@163.128.98.110:443?security=reality&encryption=none&pbk=f7ysLjHXSTFqwfeUvS26zrbLmjwpvsa0xtfMYz46OjQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0123456789abcdef#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-3",
       "ip": "163.128.98.110",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://f67e149c-e1f4-4162-876b-a34591b8349f@163.128.98.110:443?security=reality&encryption=none&pbk=f7ysLjHXSTFqwfeUvS26zrbLmjwpvsa0xtfMYz46OjQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0123456789abcdef#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://f67e149c-e1f4-4162-876b-a34591b8349f@163.128.98.110:443?security=reality&encryption=none&pbk=f7ysLjHXSTFqwfeUvS26zrbLmjwpvsa0xtfMYz46OjQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0123456789abcdef#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+    },
+    {
+      "type": "vless",
+      "address": "111.119.235.145",
+      "port": "13779",
+      "id": "928e6cce-8ced-4243-9a48-a6642edd09b0",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "tesla.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://928e6cce-8ced-4243-9a48-a6642edd09b0@111.119.235.145:13779?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "111.119.235.145",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://928e6cce-8ced-4243-9a48-a6642edd09b0@111.119.235.145:13779?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }
