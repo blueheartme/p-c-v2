@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-21T16:24:30.980977",
+  "updated": "2026-08-22T00:51:18.552837",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "57.131.32.191",
-      "port": "80",
-      "id": "1e280316-0408-47c4-b058-05b8f1f17f02",
+      "address": "45.155.68.9",
+      "port": "443",
+      "id": "2b622609-bb92-49e8-9631-4ada00324f47",
       "name": "@meliproxyy",
       "network": "ws",
-      "sni": "",
+      "sni": "it2ws.wba-pn.ru",
       "host": "",
-      "security": "",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=%2Fvless%2F&security=&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws#vless-ws-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-1",
-      "ip": "57.131.32.191",
+      "original": "vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-1",
+      "ip": "45.155.68.9",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=%2Fvless%2F&security=&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws#vless-ws-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-1"
+      "rebuilt": "vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-1"
     }
   ]
 }

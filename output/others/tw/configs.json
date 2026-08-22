@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-21T16:24:30.918806",
-  "count": 1,
+  "updated": "2026-08-22T00:51:18.491437",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
       "address": "207.56.137.51",
       "port": "443",
       "id": "01ada9fb-fa2f-45da-a0d0-bce80cdf433b",
-      "name": "Channel : @proxy_kafee",
+      "name": "@i10VPN✨",
       "network": "tcp",
       "sni": "www.cloudflare.com",
       "host": "",
@@ -21,6 +21,34 @@
       "country": "TW",
       "cdn": null,
       "rebuilt": "vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+    },
+    {
+      "type": "ss",
+      "address": "r3mrcg00129437x.cybervena.com",
+      "port": "50099",
+      "method": "chacha20-ietf-poly1305",
+      "password": "b1ae0fce-9340-4f2e-882d-fdb2218e2e2b",
+      "name": "🇹🇼 TW 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201",
+      "ip": "114.25.9.70",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201"
+    },
+    {
+      "type": "vmess",
+      "address": "165.154.195.38",
+      "port": "35034",
+      "id": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
+      "name": "🇹🇼 TW 4",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLVRX8J+HufCfh7wtMyIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6MzUwMzQsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "165.154.195.38",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLVRX8J+HufCfh7wtMyIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6MzUwMzQsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     }
   ]
 }
