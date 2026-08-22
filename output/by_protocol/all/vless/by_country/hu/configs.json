@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-10T01:12:08.504310",
+  "updated": "2026-08-22T16:16:20.333748",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "45.195.111.15",
+      "address": "45.195.111.108",
       "port": "443",
-      "id": "82e209b2-97a6-4d67-a10b-72627b9f6702",
-      "name": "🇭🇺 HU 1",
+      "id": "dbc43f55-79cd-4331-84ff-d891356d387a",
+      "name": "@filembad",
       "network": "tcp",
       "sni": "storage.yandex.net",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "qq",
-      "original": "vless://82e209b2-97a6-4d67-a10b-72627b9f6702@45.195.111.15:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=storage.yandex.net&alpn=http%2f1.1&fp=qq&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-HU%F0%9F%87%AD%F0%9F%87%BA-1",
-      "ip": "45.195.111.15",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://dbc43f55-79cd-4331-84ff-d891356d387a@45.195.111.108:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-4",
+      "ip": "45.195.111.108",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://82e209b2-97a6-4d67-a10b-72627b9f6702@45.195.111.15:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=storage.yandex.net&alpn=http%2f1.1&fp=qq&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-HU%F0%9F%87%AD%F0%9F%87%BA-1"
+      "rebuilt": "vless://dbc43f55-79cd-4331-84ff-d891356d387a@45.195.111.108:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-4"
     }
   ]
 }

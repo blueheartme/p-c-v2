@@ -1,26 +1,21 @@
 {
-  "updated": "2026-08-17T08:35:44.313954",
+  "updated": "2026-08-22T16:16:20.316255",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "jp.sofast.live",
-      "port": "52683",
-      "id": "399b6b23-cc40-4831-a494-61948e2df133",
+      "type": "vmess",
+      "address": "v6.hdacd.com",
+      "port": "30806",
+      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
       "name": "🇨🇳 CN 1",
       "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?type=tcp&path=%2f#vless-tcp-CN%F0%9F%87%A8%F0%9F%87%B3-1",
-      "ip": "109.244.79.239",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DTvCfh6jwn4ezLTEiLCJhZGQiOiJ2Ni5oZGFjZC5jb20iLCJwb3J0IjozMDgwNiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "ip": "118.24.104.35",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?type=tcp&path=%2f#vless-tcp-CN%F0%9F%87%A8%F0%9F%87%B3-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1DTvCfh6jwn4ezLTEiLCJhZGQiOiJ2Ni5oZGFjZC5jb20iLCJwb3J0IjozMDgwNiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0="
     }
   ]
 }
