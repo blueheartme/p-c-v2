@@ -1,26 +1,46 @@
 {
-  "updated": "2026-08-20T08:30:01.181609",
-  "count": 1,
+  "updated": "2026-08-23T00:55:18.162069",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "149.130.190.236",
+      "address": "157.137.210.242",
       "port": "62145",
       "id": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
-      "name": "@filembad",
+      "name": "@proxy_kafee : کانال",
       "network": "tcp",
       "sni": "",
       "host": "",
-      "security": "",
+      "security": "none",
       "flow": "",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.236:62145?&type=tcp&headerType=none&path=%2F#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1",
-      "ip": "149.130.190.236",
+      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.242:62145?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1",
+      "ip": "157.137.210.242",
       "country": "CO",
       "cdn": null,
-      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.236:62145?&type=tcp&headerType=none&path=%2F#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1"
+      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.242:62145?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1"
+    },
+    {
+      "type": "vless",
+      "address": "157.137.222.243",
+      "port": "62145",
+      "id": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "name": "@proxy_kafee : کانال",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.243:62145?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-2",
+      "ip": "157.137.222.243",
+      "country": "CO",
+      "cdn": null,
+      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.243:62145?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-2"
     }
   ]
 }

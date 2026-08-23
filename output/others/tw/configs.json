@@ -1,13 +1,28 @@
 {
-  "updated": "2026-08-22T16:16:20.315136",
-  "count": 1,
+  "updated": "2026-08-23T00:55:18.107821",
+  "count": 2,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "165.154.195.38",
+      "port": "35034",
+      "id": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
+      "name": "🇹🇼 TW 1",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UV/Cfh7nwn4e8LTEiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOjM1MDM0LCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "ip": "165.154.195.38",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UV/Cfh7nwn4e8LTEiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOjM1MDM0LCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+    },
     {
       "type": "vless",
       "address": "207.56.137.51",
       "port": "443",
       "id": "01ada9fb-fa2f-45da-a0d0-bce80cdf433b",
-      "name": "@i10VPN✨",
+      "name": "Channel : @proxy_kafee",
       "network": "tcp",
       "sni": "www.cloudflare.com",
       "host": "",
@@ -16,11 +31,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "original": "vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-2",
       "ip": "207.56.137.51",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-2"
     }
   ]
 }

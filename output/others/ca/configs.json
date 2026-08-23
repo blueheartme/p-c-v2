@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-22T16:16:20.313321",
-  "count": 4,
+  "updated": "2026-08-23T00:55:18.102556",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
       "address": "184.107.106.68",
       "port": "443",
       "id": "716426fa-bcb7-4eb9-b460-36399ebf740d",
-      "name": "@meliproxyy",
+      "name": "Channel : @proxy_kafee",
       "network": "tcp",
       "sni": "lizca2.footballfantasyforum.com",
       "host": "",
@@ -23,19 +23,6 @@
       "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     },
     {
-      "type": "ss",
-      "address": "51.79.64.198",
-      "port": "8119",
-      "method": "aes-256-gcm",
-      "password": "cdBIDV42DCwnfIN",
-      "name": "@i10VPN⚡",
-      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1",
-      "ip": "51.79.64.198",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1"
-    },
-    {
       "type": "vless",
       "address": "147.182.156.111",
       "port": "8039",
@@ -49,11 +36,24 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://32d851aa-b5f8-7d42-45cc-01e541b4cb90@147.182.156.111:8039?flow=xtls-rprx-vision&encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowinsecure=1&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "original": "vless://32d851aa-b5f8-7d42-45cc-01e541b4cb90@147.182.156.111:8039?flow=xtls-rprx-vision&encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowinsecure=1&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "147.182.156.111",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://32d851aa-b5f8-7d42-45cc-01e541b4cb90@147.182.156.111:8039?flow=xtls-rprx-vision&encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowinsecure=1&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+      "rebuilt": "vless://32d851aa-b5f8-7d42-45cc-01e541b4cb90@147.182.156.111:8039?flow=xtls-rprx-vision&encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowinsecure=1&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+    },
+    {
+      "type": "ss",
+      "address": "51.79.64.198",
+      "port": "8119",
+      "method": "aes-256-gcm",
+      "password": "cdBIDV42DCwnfIN",
+      "name": "@i10VPN⚡",
+      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1",
+      "ip": "51.79.64.198",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1"
     },
     {
       "type": "ss",
@@ -67,6 +67,21 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWZOcmh4ZnZBa1VPRXE3THlDcnFLM0RnMVIvU0JlTA@vip-ca-1.hkd4fwmg.xyz:10586#Free%20x13%20%40Outline_Vpn"
+    },
+    {
+      "type": "vmess",
+      "address": "134.195.196.211",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "🇨🇦 CA 1",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNB8J+HqPCfh6YtNSIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii9AUHJveHlWUE4xMSIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0=",
+      "ip": "134.195.196.211",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNB8J+HqPCfh6YtNSIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii9AUHJveHlWUE4xMSIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0="
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-10T01:12:08.504986",
+  "updated": "2026-08-23T00:55:18.165283",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "77.91.68.70",
-      "port": "55983",
-      "id": "f667a096-5231-4cfb-8759-92bb32473139",
-      "name": "🇦🇲 AM 1",
+      "address": "88.218.92.126",
+      "port": "13443",
+      "id": "b80b392c-0cf4-42f9-ae54-9f862e3ba276",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "yahoo.com",
+      "sni": "auto.cendora.ru",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&path=%2f#vless-tcp-reality-chrome-AM%F0%9F%87%A6%F0%9F%87%B2-1",
-      "ip": "77.91.68.70",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@88.218.92.126:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#vless-xtls-rprx-vision-tcp-reality-qq-AM%F0%9F%87%A6%F0%9F%87%B2-1",
+      "ip": "88.218.92.126",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&path=%2f#vless-tcp-reality-chrome-AM%F0%9F%87%A6%F0%9F%87%B2-1"
+      "rebuilt": "vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@88.218.92.126:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#vless-xtls-rprx-vision-tcp-reality-qq-AM%F0%9F%87%A6%F0%9F%87%B2-1"
     }
   ]
 }

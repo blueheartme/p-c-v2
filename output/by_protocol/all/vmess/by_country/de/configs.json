@@ -1,38 +1,23 @@
 {
-  "updated": "2026-08-22T16:16:20.353443",
-  "count": 2,
+  "updated": "2026-08-23T00:55:18.197651",
+  "count": 1,
   "configs": [
     {
       "type": "vmess",
       "address": "deapp.jisuyun.top",
       "port": "2053",
       "id": "9a1a05d9-69be-45d3-e326-c6621edf7b31",
-      "name": "🇩🇪 DE 4",
+      "name": "🇩🇪 DE 5",
       "network": "ws",
       "host": "deapp.jisuyun.top",
-      "sni": "deapp.jisuyun.top",
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtdGxzLURF8J+HqfCfh6otMTEiLCJhZGQiOiJkZWFwcC5qaXN1eXVuLnRvcCIsInBvcnQiOjIwNTMsImlkIjoiOWExYTA1ZDktNjliZS00NWQzLWUzMjYtYzY2MjFlZGY3YjMxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJkZWFwcC5qaXN1eXVuLnRvcCIsImFscG4iOm51bGwsInBhdGgiOiIvZGV2bSIsInRscyI6InRscyIsInNuaSI6ImRlYXBwLmppc3V5dW4udG9wIiwiZnAiOm51bGx9",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1ERfCfh6nwn4eqLTQ5IiwiYWRkIjoiZGVhcHAuamlzdXl1bi50b3AiLCJwb3J0IjoyMDUzLCJpZCI6IjlhMWEwNWQ5LTY5YmUtNDVkMy1lMzI2LWM2NjIxZWRmN2IzMSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImRlYXBwLmppc3V5dW4udG9wIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9kZXZtIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
       "ip": "172.238.96.215",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtdGxzLURF8J+HqfCfh6otMTEiLCJhZGQiOiJkZWFwcC5qaXN1eXVuLnRvcCIsInBvcnQiOjIwNTMsImlkIjoiOWExYTA1ZDktNjliZS00NWQzLWUzMjYtYzY2MjFlZGY3YjMxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJkZWFwcC5qaXN1eXVuLnRvcCIsImFscG4iOm51bGwsInBhdGgiOiIvZGV2bSIsInRscyI6InRscyIsInNuaSI6ImRlYXBwLmppc3V5dW4udG9wIiwiZnAiOm51bGx9"
-    },
-    {
-      "type": "vmess",
-      "address": "4.182.7.0",
-      "port": "8081",
-      "id": "ec65b970-dce5-4ff1-9ec4-95ea0b01b15c",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiI0LjE4Mi43LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWM2NWI5NzAtZGNlNS00ZmYxLTllYzQtOTVlYTBiMDFiMTVjIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODA4MSIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi0xMzYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "4.182.7.0",
-      "country": "DE",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI0LjE4Mi43LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWM2NWI5NzAtZGNlNS00ZmYxLTllYzQtOTVlYTBiMDFiMTVjIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODA4MSIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi0xMzYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1ERfCfh6nwn4eqLTQ5IiwiYWRkIjoiZGVhcHAuamlzdXl1bi50b3AiLCJwb3J0IjoyMDUzLCJpZCI6IjlhMWEwNWQ5LTY5YmUtNDVkMy1lMzI2LWM2NjIxZWRmN2IzMSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImRlYXBwLmppc3V5dW4udG9wIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9kZXZtIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
     }
   ]
 }
