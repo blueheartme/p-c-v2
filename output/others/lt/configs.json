@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T00:55:18.119950",
-  "count": 1,
+  "updated": "2026-08-23T08:21:47.194659",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,19 @@
       "country": "LT",
       "cdn": null,
       "rebuilt": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+    },
+    {
+      "type": "ss",
+      "address": "144.31.243.2",
+      "port": "16015?",
+      "method": "chacha20-ietf-poly1305",
+      "password": "J1InuU6QRT5JOh1mQfkjU2",
+      "name": "6|@ConfingV2RaayNG",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015?#6|@ConfingV2RaayNG",
+      "ip": "144.31.243.2",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015?#6|@ConfingV2RaayNG"
     }
   ]
 }

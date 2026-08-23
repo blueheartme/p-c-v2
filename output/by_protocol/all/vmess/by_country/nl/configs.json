@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T00:55:18.199852",
-  "count": 1,
+  "updated": "2026-08-23T08:21:47.248926",
+  "count": 2,
   "configs": [
     {
       "type": "vmess",
@@ -11,11 +11,26 @@
       "network": "tcp",
       "host": "",
       "sni": "astra.iraniangamersclub.ir",
-      "original": "vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzNTMxYjViLWQ5NGItNDliYS04YTVlLTdhNmQ0YmI2ODQ1OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTAxNSIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLU5M8J+Hs/Cfh7EtNzYiLCJzY3kiOiJhdXRvIiwic25pIjoiYXN0cmEuaXJhbmlhbmdhbWVyc2NsdWIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "original": "vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzNTMxYjViLWQ5NGItNDliYS04YTVlLTdhNmQ0YmI2ODQ1OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTAxNSIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLU5M8J+Hs/Cfh7EtNTIiLCJzY3kiOiJhdXRvIiwic25pIjoiYXN0cmEuaXJhbmlhbmdhbWVyc2NsdWIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
       "ip": "176.120.17.21",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzNTMxYjViLWQ5NGItNDliYS04YTVlLTdhNmQ0YmI2ODQ1OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTAxNSIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLU5M8J+Hs/Cfh7EtNzYiLCJzY3kiOiJhdXRvIiwic25pIjoiYXN0cmEuaXJhbmlhbmdhbWVyc2NsdWIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+      "rebuilt": "vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzNTMxYjViLWQ5NGItNDliYS04YTVlLTdhNmQ0YmI2ODQ1OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTAxNSIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLU5M8J+Hs/Cfh7EtNTIiLCJzY3kiOiJhdXRvIiwic25pIjoiYXN0cmEuaXJhbmlhbmdhbWVyc2NsdWIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+    },
+    {
+      "type": "vmess",
+      "address": "31.15.16.37",
+      "port": "443",
+      "id": "2e547753-7f19-480e-b276-1d26af429b95",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIzMS4xNS4xNi4zNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZTU0Nzc1My03ZjE5LTQ4MGUtYjI3Ni0xZDI2YWY0MjliOTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3MtYXV0by10Y3AtTkzwn4ez8J+HsS03NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "31.15.16.37",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIzMS4xNS4xNi4zNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZTU0Nzc1My03ZjE5LTQ4MGUtYjI3Ni0xZDI2YWY0MjliOTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3MtYXV0by10Y3AtTkzwn4ez8J+HsS03NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
     }
   ]
 }
