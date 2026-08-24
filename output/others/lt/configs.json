@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-23T16:17:45.574576",
-  "count": 2,
+  "updated": "2026-08-24T00:53:39.889911",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "144.31.243.105",
+      "port": "443",
+      "id": "f692629b-3557-488a-9c9b-60775331e423",
+      "name": "Nightping-‌MCI&MTN",
+      "network": "grpc",
+      "sni": "fi1-cosmostechnology.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "144.31.243.105",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+    },
     {
       "type": "ss",
       "address": "144.31.243.2",

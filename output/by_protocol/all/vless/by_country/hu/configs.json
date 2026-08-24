@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T16:17:45.610426",
+  "updated": "2026-08-24T00:53:39.943739",
   "count": 2,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "45.195.111.108",
       "port": "443",
       "id": "66824c94-7ba9-4113-908e-bd793f296852",
-      "name": "1|@ConfingV2RaayNG",
+      "name": "@meliproxyy",
       "network": "tcp",
       "sni": "storage.yandex.net",
       "host": "",
@@ -15,19 +15,19 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-1",
+      "fingerprint": "firefox",
+      "original": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&allowinsecure=0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-3",
       "ip": "45.195.111.108",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-1"
+      "rebuilt": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&allowinsecure=0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-3"
     },
     {
       "type": "vless",
       "address": "hu10.levikogjgfdd.ir",
       "port": "443",
       "id": "66824c94-7ba9-4113-908e-bd793f296852",
-      "name": "@proxy_kafee",
+      "name": "7|@ConfingV2RaayNG",
       "network": "tcp",
       "sni": "storage.yandex.net",
       "host": "Telegram-Leviko_v2ray",
@@ -36,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://66824c94-7ba9-4113-908e-bd793f296852@hu10.levikogjgfdd.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-5",
+      "original": "vless://66824c94-7ba9-4113-908e-bd793f296852@hu10.levikogjgfdd.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-6",
       "ip": "45.195.111.108",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://66824c94-7ba9-4113-908e-bd793f296852@hu10.levikogjgfdd.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-5"
+      "rebuilt": "vless://66824c94-7ba9-4113-908e-bd793f296852@hu10.levikogjgfdd.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-6"
     }
   ]
 }
