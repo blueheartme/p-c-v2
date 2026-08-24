@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-24T00:53:39.904041",
+  "updated": "2026-08-24T08:40:20.722040",
   "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "185.210.217.94",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.210.217.94:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9",
+      "ip": "185.210.217.94",
+      "country": "BE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.210.217.94:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9"
+    },
     {
       "type": "vless",
       "address": "113.30.152.6",
@@ -16,18 +29,18 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&security=tls&sni=be2.wba-pn.ru&fp=chrome&allowinsecure=0&type=ws&path=%2F#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-1",
+      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&security=tls&sni=be2.wba-pn.ru&fp=chrome&allowinsecure=0&type=ws&path=%2F#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-2",
       "ip": "113.30.152.6",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&security=tls&sni=be2.wba-pn.ru&fp=chrome&allowinsecure=0&type=ws&path=%2F#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-1"
+      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&security=tls&sni=be2.wba-pn.ru&fp=chrome&allowinsecure=0&type=ws&path=%2F#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-2"
     },
     {
       "type": "vless",
       "address": "be2.wba-pn.ru",
       "port": "443",
       "id": "08f84d53-e262-459c-a15a-26213e7a07c9",
-      "name": "Free x18 @Outline_Vpn",
+      "name": "Channel : @proxy_kafee",
       "network": "ws",
       "sni": "be2.wba-pn.ru",
       "host": "",
@@ -35,12 +48,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-BE%F0%9F%87%A7%F0%9F%87%AA-2",
+      "fingerprint": "chrome",
+      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-3",
       "ip": "113.30.152.6",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-BE%F0%9F%87%A7%F0%9F%87%AA-2"
+      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-3"
     },
     {
       "type": "vless",
@@ -56,31 +69,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.215:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-BE%F0%9F%87%A7%F0%9F%87%AA-3",
+      "original": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.215:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-BE%F0%9F%87%A7%F0%9F%87%AA-4",
       "ip": "109.69.218.215",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.215:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-BE%F0%9F%87%A7%F0%9F%87%AA-3"
-    },
-    {
-      "type": "vless",
-      "address": "194.71.227.213",
-      "port": "443",
-      "id": "6705ddbd-04cf-40f6-99b9-36846b08c2a9",
-      "name": "Free 335 @Outline_Vpn",
-      "network": "ws",
-      "sni": "kjgdksgghre466.pages.dev",
-      "host": "kjgdksgghre466.pages.dev",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-4",
-      "ip": "194.71.227.213",
-      "country": "BE",
-      "cdn": null,
-      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-4"
+      "rebuilt": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.215:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-BE%F0%9F%87%A7%F0%9F%87%AA-4"
     }
   ]
 }

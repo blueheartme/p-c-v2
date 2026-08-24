@@ -1,58 +1,34 @@
 {
-  "updated": "2026-08-24T00:53:39.975209",
-  "count": 4,
+  "updated": "2026-08-24T08:40:20.787067",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "net10-3.shaygan.site",
-      "port": "8080?type=tcp",
-      "method": "chacha20-poly1305",
-      "password": "YsIGl683z1sbSJqMO1RBFciUVBtQxGRJr6GztwNeK90=",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtcG9seTEzMDU6WXNJR2w2ODN6MXNiU0pxTU8xUkJGY2lVVkJ0UXhHUkpyNkd6dHdOZUs5MD0@net10-3.shaygan.site:8080?type=tcp#%40filembad",
-      "ip": "45.89.223.167",
+      "address": "ir.best-cloud.ir",
+      "port": "2087?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Dgateway.icloud.com",
+      "method": "chacha20-ietf-poly1305",
+      "password": "wx6c2fuehhh6nsv1",
+      "name": "@proxy_kafee",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3eDZjMmZ1ZWhoaDZuc3Yx@ir.best-cloud.ir:2087?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Dgateway.icloud.com#%40proxy_kafee",
+      "ip": "193.111.235.117",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtcG9seTEzMDU6WXNJR2w2ODN6MXNiU0pxTU8xUkJGY2lVVkJ0UXhHUkpyNkd6dHdOZUs5MD0@net10-3.shaygan.site:8080?type=tcp#%40filembad"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3eDZjMmZ1ZWhoaDZuc3Yx@ir.best-cloud.ir:2087?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Dgateway.icloud.com#%40proxy_kafee"
     },
     {
       "type": "ss",
-      "address": "net12-newww.shaygan.site",
-      "port": "2095?type=tcp",
-      "method": "chacha20-poly1305",
-      "password": "YsIGl683z1sbSJqMO1RBFciUVBtQxGRJr6GztwNeK90=",
+      "address": "188.213.197.139",
+      "port": "1515",
+      "method": "chacha20-ietf-poly1305",
+      "password": "1Df9ujhY9DXTqR9C8A9lU-Qn_daquF0M",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtcG9seTEzMDU6WXNJR2w2ODN6MXNiU0pxTU8xUkJGY2lVVkJ0UXhHUkpyNkd6dHdOZUs5MD0@net12-newww.shaygan.site:2095?type=tcp#%40filembad",
-      "ip": "45.89.223.167",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxRGY5dWpoWTlEWFRxUjlDOEE5bFUtUW5fZGFxdUYwTQ@188.213.197.139:1515#%40filembad",
+      "ip": "188.213.197.139",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtcG9seTEzMDU6WXNJR2w2ODN6MXNiU0pxTU8xUkJGY2lVVkJ0UXhHUkpyNkd6dHdOZUs5MD0@net12-newww.shaygan.site:2095?type=tcp#%40filembad"
-    },
-    {
-      "type": "ss",
-      "address": "cdn11-1.netkhorplus.ir",
-      "port": "2082?type=tcp",
-      "method": "chacha20-poly1305",
-      "password": "YsIGl683z1sbSJqMO1RBFciUVBtQxGRJr6GztwNeK90=",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtcG9seTEzMDU6WXNJR2w2ODN6MXNiU0pxTU8xUkJGY2lVVkJ0UXhHUkpyNkd6dHdOZUs5MD0@cdn11-1.netkhorplus.ir:2082?type=tcp#%40filembad",
-      "ip": "45.89.223.167",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtcG9seTEzMDU6WXNJR2w2ODN6MXNiU0pxTU8xUkJGY2lVVkJ0UXhHUkpyNkd6dHdOZUs5MD0@cdn11-1.netkhorplus.ir:2082?type=tcp#%40filembad"
-    },
-    {
-      "type": "ss",
-      "address": "net13.shaygan.site",
-      "port": "80?type=tcp",
-      "method": "chacha20-poly1305",
-      "password": "YsIGl683z1sbSJqMO1RBFciUVBtQxGRJr6GztwNeK90=",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtcG9seTEzMDU6WXNJR2w2ODN6MXNiU0pxTU8xUkJGY2lVVkJ0UXhHUkpyNkd6dHdOZUs5MD0@net13.shaygan.site:80?type=tcp#%40filembad",
-      "ip": "45.89.223.167",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtcG9seTEzMDU6WXNJR2w2ODN6MXNiU0pxTU8xUkJGY2lVVkJ0UXhHUkpyNkd6dHdOZUs5MD0@net13.shaygan.site:80?type=tcp#%40filembad"
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxRGY5dWpoWTlEWFRxUjlDOEE5bFUtUW5fZGFxdUYwTQ@188.213.197.139:1515#%40filembad"
     }
   ]
 }
