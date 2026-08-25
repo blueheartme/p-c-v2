@@ -1,26 +1,18 @@
 {
-  "updated": "2026-08-25T00:53:37.465455",
+  "updated": "2026-08-25T08:34:43.767435",
   "count": 6,
   "configs": [
     {
-      "type": "vless",
-      "address": "128.128.90.72",
-      "port": "443",
-      "id": "ec31f6d7-c71a-413d-93aa-24296805a594",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "www.bing.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://ec31f6d7-c71a-413d-93aa-24296805a594@128.128.90.72:443?security=reality&encryption=none&pbk=FL9zvOg48NhHk_YWJMcDXNOseisuzeBW7d8KitUaAQM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=dc941fb0778384e2#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "128.128.90.72",
+      "type": "tg",
+      "address": "dev.nowabst.net",
+      "port": "853",
+      "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d",
+      "ip": "104.234.29.13",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://ec31f6d7-c71a-413d-93aa-24296805a594@128.128.90.72:443?security=reality&encryption=none&pbk=FL9zvOg48NhHk_YWJMcDXNOseisuzeBW7d8KitUaAQM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=dc941fb0778384e2#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "https://t.me/proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
     },
     {
       "type": "vless",
@@ -43,28 +35,24 @@
       "rebuilt": "vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     },
     {
-      "type": "tg",
-      "address": "ge.nowabst.net",
-      "port": "853",
-      "secret": "ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=ge.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d",
-      "ip": "104.234.29.64",
+      "type": "vless",
+      "address": "128.128.90.72",
+      "port": "443",
+      "id": "ec31f6d7-c71a-413d-93aa-24296805a594",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.bing.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://ec31f6d7-c71a-413d-93aa-24296805a594@128.128.90.72:443?security=reality&encryption=none&pbk=FL9zvOg48NhHk_YWJMcDXNOseisuzeBW7d8KitUaAQM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=dc941fb0778384e2#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-3",
+      "ip": "128.128.90.72",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=ge.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "dev.nowabst.net",
-      "port": "853",
-      "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d",
-      "ip": "104.234.29.158",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
+      "rebuilt": "vless://ec31f6d7-c71a-413d-93aa-24296805a594@128.128.90.72:443?security=reality&encryption=none&pbk=FL9zvOg48NhHk_YWJMcDXNOseisuzeBW7d8KitUaAQM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=dc941fb0778384e2#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     },
     {
       "type": "vless",
@@ -80,11 +68,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-5",
+      "original": "vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-4",
       "ip": "5.253.30.99",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-5"
+      "rebuilt": "vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-4"
     },
     {
       "type": "tg",
@@ -93,10 +81,22 @@
       "secret": "ee6104d5fd936c4930978f0227166deaa9766b2e636f6d",
       "name": "",
       "original": "https://t.me/proxy?server=gw.nowabst.net&port=853&secret=ee6104d5fd936c4930978f0227166deaa9766b2e636f6d",
-      "ip": "104.234.29.3",
+      "ip": "104.234.29.69",
       "country": "IN",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=gw.nowabst.net&port=853&secret=ee6104d5fd936c4930978f0227166deaa9766b2e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "ge.nowabst.net",
+      "port": "853",
+      "secret": "ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=ge.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d",
+      "ip": "104.234.29.18",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=ge.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d"
     }
   ]
 }

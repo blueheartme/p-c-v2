@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-25T00:53:37.477465",
+  "updated": "2026-08-25T08:34:43.779125",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "194.110.207.48",
-      "port": "443",
-      "id": "14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "kibi-institut.de",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-1",
-      "ip": "194.110.207.48",
-      "country": "NO",
-      "cdn": null,
-      "rebuilt": "vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-1"
-    },
     {
       "type": "vless",
       "address": "194.110.207.48",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=qq&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-2",
+      "original": "vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=qq&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-1",
       "ip": "194.110.207.48",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=qq&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-2"
+      "rebuilt": "vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=qq&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-1"
+    },
+    {
+      "type": "vless",
+      "address": "194.110.207.48",
+      "port": "443",
+      "id": "14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "kibi-institut.de",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-2",
+      "ip": "194.110.207.48",
+      "country": "NO",
+      "cdn": null,
+      "rebuilt": "vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-2"
     }
   ]
 }

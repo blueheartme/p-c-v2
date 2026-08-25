@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T00:53:37.479598",
+  "updated": "2026-08-25T08:34:43.789881",
   "count": 2,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "194.59.5.46",
-      "port": "2096",
-      "id": "8525fe74-67e6-4a55-8a26-95f227bd1384",
-      "name": "🏳️ Jafar | 🛡️🔥 244ms",
-      "network": "ws",
-      "sni": "wild-sky-f384.alvlirm3737.workers.dev",
-      "host": "wild-sky-f384.alvlirm3737.workers.dev",
-      "security": "tls",
+      "address": "188.130.234.239",
+      "port": "443",
+      "id": "308cf8e0-e922-49bb-9b68-203e5aafcc97",
+      "name": "🇰🇿 KZ 1",
+      "network": "grpc",
+      "sni": "kz.node.goidanet.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@194.59.5.46:2096?allowInsecure=1&encryption=none&host=wild-sky-f384.alvlirm3737.workers.dev&path=%2Fproxyip%3D172.86.93.55%2C194.99.20.245%2C46.101.165.85%2C46.101.181.132%2C209.38.201.199%2C165.22.89.207%2C207.154.242.240%2C64.188.83.202&security=tls&sni=wild-sky-f384.alvlirm3737.workers.dev&type=ws#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-2",
-      "ip": "194.59.5.46",
+      "fingerprint": "firefox",
+      "original": "vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@188.130.234.239:443?security=reality&encryption=none&sni=kz.node.goidanet.com&fp=firefox&pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&sid=1a55b8fd25417fbf&type=grpc&path=%2f#vless-grpc-reality-firefox-KZ%F0%9F%87%B0%F0%9F%87%BF-2",
+      "ip": "188.130.234.239",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@194.59.5.46:2096?allowInsecure=1&encryption=none&host=wild-sky-f384.alvlirm3737.workers.dev&path=%2Fproxyip%3D172.86.93.55%2C194.99.20.245%2C46.101.165.85%2C46.101.181.132%2C209.38.201.199%2C165.22.89.207%2C207.154.242.240%2C64.188.83.202&security=tls&sni=wild-sky-f384.alvlirm3737.workers.dev&type=ws#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-2"
+      "rebuilt": "vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@188.130.234.239:443?security=reality&encryption=none&sni=kz.node.goidanet.com&fp=firefox&pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&sid=1a55b8fd25417fbf&type=grpc&path=%2f#vless-grpc-reality-firefox-KZ%F0%9F%87%B0%F0%9F%87%BF-2"
     }
   ]
 }
