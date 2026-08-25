@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-24T16:28:54.526659",
-  "count": 4,
+  "updated": "2026-08-25T00:53:37.473452",
+  "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "51.222.155.113",
+      "port": "5601",
+      "method": "aes-256-gcm",
+      "password": "Y6R9pAtvxxzmGC",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#@meliproxyy",
+      "ip": "51.222.155.113",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "vip-ca-1.hkd4fwmg.xyz",
+      "port": "10586",
+      "method": "chacha20-ietf-poly1305",
+      "password": "b1fNrhxfvAkUOEq7LyCrqK3Dg1R/SBeL",
+      "name": "Free x13 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWZOcmh4ZnZBa1VPRXE3THlDcnFLM0RnMVIvU0JlTA@vip-ca-1.hkd4fwmg.xyz:10586#Free%20x13%20%40Outline_Vpn",
+      "ip": "184.107.141.34",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWZOcmh4ZnZBa1VPRXE3THlDcnFLM0RnMVIvU0JlTA@vip-ca-1.hkd4fwmg.xyz:10586#Free%20x13%20%40Outline_Vpn"
+    },
     {
       "type": "ss",
       "address": "51.79.64.198",
@@ -16,6 +42,26 @@
       "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1"
     },
     {
+      "type": "vless",
+      "address": "147.182.156.111",
+      "port": "8039",
+      "id": "a763a363-133f-9d6a-2220-e3228fb7dfe0",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "amp-api-edge.apps.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://a763a363-133f-9d6a-2220-e3228fb7dfe0@147.182.156.111:8039?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=35938c4e546cd459#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "ip": "147.182.156.111",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://a763a363-133f-9d6a-2220-e3228fb7dfe0@147.182.156.111:8039?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=35938c4e546cd459#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+    },
+    {
       "type": "ss",
       "address": "15.235.75.71",
       "port": "8388",
@@ -27,32 +73,6 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "142.4.216.225",
-      "port": "443?",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ytw2awn",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%40filembad",
-      "ip": "142.4.216.225",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%40filembad"
-    },
-    {
-      "type": "ss",
-      "address": "vip-ca-1.hkd4fwmg.xyz",
-      "port": "10586",
-      "method": "chacha20-ietf-poly1305",
-      "password": "b1fNrhxfvAkUOEq7LyCrqK3Dg1R/SBeL",
-      "name": "Free x13 @Outline_Vpn",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWZOcmh4ZnZBa1VPRXE3THlDcnFLM0RnMVIvU0JlTA@vip-ca-1.hkd4fwmg.xyz:10586#Free%20x13%20%40Outline_Vpn",
-      "ip": "184.107.141.34",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWZOcmh4ZnZBa1VPRXE3THlDcnFLM0RnMVIvU0JlTA@vip-ca-1.hkd4fwmg.xyz:10586#Free%20x13%20%40Outline_Vpn"
     }
   ]
 }

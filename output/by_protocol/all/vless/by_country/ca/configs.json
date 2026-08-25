@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-24T08:40:20.778569",
+  "updated": "2026-08-25T00:53:37.531794",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "184.107.106.68",
-      "port": "443",
-      "id": "716426fa-bcb7-4eb9-b460-36399ebf740d",
-      "name": "8|@ConfingV2RaayNG",
+      "address": "147.182.156.111",
+      "port": "8039",
+      "id": "a763a363-133f-9d6a-2220-e3228fb7dfe0",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "lizca2.footballfantasyforum.com",
+      "sni": "amp-api-edge.apps.apple.com",
       "host": "",
-      "security": "tls",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4",
-      "ip": "184.107.106.68",
+      "fingerprint": "ios",
+      "original": "vless://a763a363-133f-9d6a-2220-e3228fb7dfe0@147.182.156.111:8039?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=35938c4e546cd459#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "ip": "147.182.156.111",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+      "rebuilt": "vless://a763a363-133f-9d6a-2220-e3228fb7dfe0@147.182.156.111:8039?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=35938c4e546cd459#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-4"
     }
   ]
 }

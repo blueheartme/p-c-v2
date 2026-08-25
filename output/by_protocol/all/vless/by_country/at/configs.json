@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-18T08:28:17.756696",
+  "updated": "2026-08-25T00:53:37.532959",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "152.53.65.148",
+      "address": "152.53.33.73",
       "port": "443",
-      "id": "6705ddbd-04cf-40f6-99b9-36846b08c2a9",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "kjgdksgghre466.pages.dev",
-      "host": "kjgdksgghre466.pages.dev",
-      "security": "tls",
-      "flow": "",
+      "id": "85cc845e-644c-4148-8288-f0c03c83c1ec",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "at.quattro-tech.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@152.53.65.148:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "152.53.65.148",
+      "original": "vless://85cc845e-644c-4148-8288-f0c03c83c1ec@152.53.33.73:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at.quattro-tech.ru&sid=43dcff53849b81e6#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "152.53.33.73",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@152.53.65.148:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://85cc845e-644c-4148-8288-f0c03c83c1ec@152.53.33.73:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at.quattro-tech.ru&sid=43dcff53849b81e6#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }
