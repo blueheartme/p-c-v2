@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-05T10:29:31.974422",
+  "updated": "2026-08-25T16:28:31.430246",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "195.133.18.161",
-      "port": "30153",
-      "id": "da97d2d7-d255-4efd-8398-7101d698768e",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "",
+      "address": "rs1.univesalsrv.com",
+      "port": "443",
+      "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "rs1.univesalsrv.com",
       "host": "",
-      "security": "",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?encryption=none&type=tcp&headerType=none#vless-tcp-RS%F0%9F%87%B7%F0%9F%87%B8-1",
-      "ip": "195.133.18.161",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?encryption=none&security=reality&sni=rs1.univesalsrv.com&fp=firefox&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7&type=grpc&authority=&serviceName=node.v2.ObjectService&mode=gun#vless-grpc-reality-firefox-RS%F0%9F%87%B7%F0%9F%87%B8-1",
+      "ip": "150.40.126.18",
       "country": "RS",
       "cdn": null,
-      "rebuilt": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?encryption=none&type=tcp&headerType=none#vless-tcp-RS%F0%9F%87%B7%F0%9F%87%B8-1"
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?encryption=none&security=reality&sni=rs1.univesalsrv.com&fp=firefox&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7&type=grpc&authority=&serviceName=node.v2.ObjectService&mode=gun#vless-grpc-reality-firefox-RS%F0%9F%87%B7%F0%9F%87%B8-1"
     }
   ]
 }

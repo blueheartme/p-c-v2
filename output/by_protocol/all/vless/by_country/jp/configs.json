@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T08:34:43.839093",
-  "count": 4,
+  "updated": "2026-08-25T16:28:31.418873",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -16,71 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-5",
       "ip": "15.168.173.144",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-1"
-    },
-    {
-      "type": "vless",
-      "address": "jpaws.ccwink.photos",
-      "port": "39777",
-      "id": "a157bb84-dd84-4ad8-86b0-0656bc76e4d1",
-      "name": "🇯🇵 JP 4",
-      "network": "",
-      "sni": "docs.aws.amazon.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "edge",
-      "original": "vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:39777?flow=xtls-rprx-vision&security=reality&sni=docs.aws.amazon.com&fp=edge&pbk=g34pLEPfAcoh-gu60CCUfUAVr0bEjlexzNIYPujm0Xw&sid=e84cf8eb3d&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-JP%F0%9F%87%AF%F0%9F%87%B5-2",
-      "ip": "35.78.90.185",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:39777?flow=xtls-rprx-vision&security=reality&sni=docs.aws.amazon.com&fp=edge&pbk=g34pLEPfAcoh-gu60CCUfUAVr0bEjlexzNIYPujm0Xw&sid=e84cf8eb3d&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-JP%F0%9F%87%AF%F0%9F%87%B5-2"
-    },
-    {
-      "type": "vless",
-      "address": "jpaws.ccwink.photos",
-      "port": "64294",
-      "id": "a157bb84-dd84-4ad8-86b0-0656bc76e4d1",
-      "name": "🇯🇵 JP 7",
-      "network": "tcp",
-      "sni": "docs.aws.amazon.com",
-      "host": "docs.aws.amazon.com",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:64294?flow=xtls-rprx-vision&security=reality&sni=docs.aws.amazon.com&fp=qq&pbk=KmcS-yU6kDycbSojXgUYU1-fHwXmF1oBk_ke0gbGUy0&sid=7083&type=tcp&headerType=none&host=docs.aws.amazon.com&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-JP%F0%9F%87%AF%F0%9F%87%B5-3",
-      "ip": "35.78.90.185",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:64294?flow=xtls-rprx-vision&security=reality&sni=docs.aws.amazon.com&fp=qq&pbk=KmcS-yU6kDycbSojXgUYU1-fHwXmF1oBk_ke0gbGUy0&sid=7083&type=tcp&headerType=none&host=docs.aws.amazon.com&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-JP%F0%9F%87%AF%F0%9F%87%B5-3"
-    },
-    {
-      "type": "vless",
-      "address": "162.128.181.182",
-      "port": "443",
-      "id": "048a61f8-b236-4082-b1c3-c22a85693c12",
-      "name": "@i10VPN✨",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?security=reality&encryption=none&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=674a07ea4d1c4255#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-7",
-      "ip": "162.128.181.182",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?security=reality&encryption=none&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=674a07ea4d1c4255#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-7"
+      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-5"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-25T08:34:43.798386",
-  "count": 10,
+  "updated": "2026-08-25T16:28:31.391419",
+  "count": 7,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.195.111.108",
+      "port": "443",
+      "id": "219762a7-b918-4e2b-8a3d-d309ef98bb61",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&allowinsecure=1&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-1",
+      "ip": "45.195.111.108",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&allowinsecure=1&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-1"
+    },
     {
       "type": "tg",
       "address": "87.229.56.5",
@@ -19,7 +39,7 @@
       "address": "45.195.111.108",
       "port": "443",
       "id": "66824c94-7ba9-4113-908e-bd793f296852",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "name": "5|@ConfingV2RaayNG",
       "network": "tcp",
       "sni": "storage.yandex.net",
       "host": "",
@@ -27,12 +47,24 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-2",
+      "fingerprint": "chrome",
+      "original": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-3",
       "ip": "45.195.111.108",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-2"
+      "rebuilt": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-3"
+    },
+    {
+      "type": "tg",
+      "address": "87.229.56.8",
+      "port": "443",
+      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=87.229.56.8&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "87.229.56.8",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=87.229.56.8&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     },
     {
       "type": "vless",
@@ -48,79 +80,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://66824c94-7ba9-4113-908e-bd793f296852@hu10.levikogjgfdd.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-3",
+      "original": "vless://66824c94-7ba9-4113-908e-bd793f296852@hu10.levikogjgfdd.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-5",
       "ip": "45.195.111.108",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://66824c94-7ba9-4113-908e-bd793f296852@hu10.levikogjgfdd.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-3"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.10",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.10&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.10",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.10&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.20",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.20&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.20",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.20&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "vless",
-      "address": "45.195.111.108",
-      "port": "443",
-      "id": "219762a7-b918-4e2b-8a3d-d309ef98bb61",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "storage.yandex.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-6",
-      "ip": "45.195.111.108",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-6"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.15",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.15&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.15",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.15&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.7",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.7",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+      "rebuilt": "vless://66824c94-7ba9-4113-908e-bd793f296852@hu10.levikogjgfdd.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-5"
     },
     {
       "type": "tg",
@@ -136,15 +100,15 @@
     },
     {
       "type": "tg",
-      "address": "87.229.56.8",
+      "address": "87.229.56.7",
       "port": "443",
       "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.8&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.8",
+      "original": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "87.229.56.7",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.8&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+      "rebuilt": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T08:34:43.839600",
+  "updated": "2026-08-25T16:28:31.431614",
   "count": 2,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "188.130.234.239",
+      "address": "kz.alertyagency.com",
       "port": "443",
-      "id": "308cf8e0-e922-49bb-9b68-203e5aafcc97",
-      "name": "🇰🇿 KZ 1",
-      "network": "grpc",
-      "sni": "kz.node.goidanet.com",
+      "id": "a704443d-655e-4d9f-8ce6-12eeb17a9a08",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "api-maps.yandex.ru",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@188.130.234.239:443?security=reality&encryption=none&sni=kz.node.goidanet.com&fp=firefox&pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&sid=1a55b8fd25417fbf&type=grpc&path=%2f#vless-grpc-reality-firefox-KZ%F0%9F%87%B0%F0%9F%87%BF-2",
-      "ip": "188.130.234.239",
+      "original": "vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?security=reality&encryption=none&pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=01e4de88#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%87%B0%F0%9F%87%BF-2",
+      "ip": "5.180.42.103",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@188.130.234.239:443?security=reality&encryption=none&sni=kz.node.goidanet.com&fp=firefox&pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&sid=1a55b8fd25417fbf&type=grpc&path=%2f#vless-grpc-reality-firefox-KZ%F0%9F%87%B0%F0%9F%87%BF-2"
+      "rebuilt": "vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?security=reality&encryption=none&pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=01e4de88#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%87%B0%F0%9F%87%BF-2"
     }
   ]
 }
