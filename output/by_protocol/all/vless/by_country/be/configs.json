@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-26T08:35:27.885423",
+  "updated": "2026-08-26T16:43:51.026753",
   "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "be2.wba-pn.ru",
+      "port": "443",
+      "id": "08f84d53-e262-459c-a15a-26213e7a07c9",
+      "name": "Free x18 @Outline_Vpn",
+      "network": "ws",
+      "sni": "be2.wba-pn.ru",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-BE%F0%9F%87%A7%F0%9F%87%AA-1",
+      "ip": "113.30.152.6",
+      "country": "BE",
+      "cdn": null,
+      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-BE%F0%9F%87%A7%F0%9F%87%AA-1"
+    },
     {
       "type": "vless",
       "address": "109.69.218.215",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.215:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-BE%F0%9F%87%A7%F0%9F%87%AA-1",
+      "original": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.215:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-BE%F0%9F%87%A7%F0%9F%87%AA-2",
       "ip": "109.69.218.215",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.215:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-BE%F0%9F%87%A7%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "113.30.152.6",
-      "port": "443",
-      "id": "08f84d53-e262-459c-a15a-26213e7a07c9",
-      "name": "Free x23 @Outline_Vpn",
-      "network": "ws",
-      "sni": "be2.wba-pn.ru",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-2",
-      "ip": "113.30.152.6",
-      "country": "BE",
-      "cdn": null,
-      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-2"
+      "rebuilt": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.215:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-BE%F0%9F%87%A7%F0%9F%87%AA-2"
     },
     {
       "type": "vless",
@@ -56,18 +56,18 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-4",
+      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-3",
       "ip": "194.71.227.213",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-4"
+      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-3"
     },
     {
       "type": "vless",
-      "address": "be2.wba-pn.ru",
+      "address": "113.30.152.6",
       "port": "443",
       "id": "08f84d53-e262-459c-a15a-26213e7a07c9",
-      "name": "7|@ConfingV2RaayNG",
+      "name": "Free x23 @Outline_Vpn",
       "network": "ws",
       "sni": "be2.wba-pn.ru",
       "host": "",
@@ -75,12 +75,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?encryption=none&security=tls&sni=be2.wba-pn.ru&type=ws&path=%2F#vless-ws-tls-BE%F0%9F%87%A7%F0%9F%87%AA-5",
+      "fingerprint": "chrome",
+      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-4",
       "ip": "113.30.152.6",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?encryption=none&security=tls&sni=be2.wba-pn.ru&type=ws&path=%2F#vless-ws-tls-BE%F0%9F%87%A7%F0%9F%87%AA-5"
+      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-4"
     }
   ]
 }
