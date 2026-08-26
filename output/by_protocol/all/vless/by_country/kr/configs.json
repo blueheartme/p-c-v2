@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-15T16:16:20.923054",
+  "updated": "2026-08-26T00:54:05.980401",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "43.201.21.170",
-      "port": "8686",
-      "id": "1a17b19d-4896-4531-af79-6e91d8ef8228",
-      "name": "Join@ConfingV2RaayNG",
-      "network": "tcp",
-      "sni": "www.apple.com",
+      "address": "59.3.3.161",
+      "port": "443",
+      "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "vh.ylks.link",
       "host": "",
-      "security": "reality",
+      "security": "tls",
       "flow": "",
-      "encryption": "none",
-      "headerType": "none",
+      "encryption": "",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.21.170:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#vless-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-51",
-      "ip": "43.201.21.170",
+      "original": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@59.3.3.161:443?security=tls&sni=vh.ylks.link&type=ws&path=%2F#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "59.3.3.161",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.21.170:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#vless-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-51"
+      "rebuilt": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@59.3.3.161:443?security=tls&sni=vh.ylks.link&type=ws&path=%2F#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
     }
   ]
 }
