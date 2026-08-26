@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-26T00:54:05.971501",
+  "updated": "2026-08-26T08:35:27.894030",
   "count": 5,
   "configs": [
-    {
-      "type": "vless",
-      "address": "151.242.169.44",
-      "port": "443",
-      "id": "3e5cc22b-a471-412d-bf84-6da9c929a0d9",
-      "name": "🇳🇴 NO 2",
-      "network": "tcp",
-      "sni": "frantax.my3cx.de",
-      "host": "frantax.my3cx.de",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://3e5cc22b-a471-412d-bf84-6da9c929a0d9@151.242.169.44:443?flow=xtls-rprx-vision&security=reality&sni=frantax.my3cx.de&fp=firefox&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4&sid=f6b5862c1f73ab80&type=tcp&headerType=none&host=frantax.my3cx.de&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-1",
-      "ip": "151.242.169.44",
-      "country": "NO",
-      "cdn": null,
-      "rebuilt": "vless://3e5cc22b-a471-412d-bf84-6da9c929a0d9@151.242.169.44:443?flow=xtls-rprx-vision&security=reality&sni=frantax.my3cx.de&fp=firefox&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4&sid=f6b5862c1f73ab80&type=tcp&headerType=none&host=frantax.my3cx.de&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-1"
-    },
     {
       "type": "vless",
       "address": "31.76.5.26",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:13443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=auto.cendora.ru&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-2",
+      "original": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:13443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=auto.cendora.ru&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-1",
       "ip": "31.76.5.26",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:13443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=auto.cendora.ru&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-2"
+      "rebuilt": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:13443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=auto.cendora.ru&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-1"
+    },
+    {
+      "type": "vless",
+      "address": "194.110.207.48",
+      "port": "443",
+      "id": "d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2",
+      "name": "5|@ConfingV2RaayNG",
+      "network": "tcp",
+      "sni": "kibi-institut.de",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=qq&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-2",
+      "ip": "194.110.207.48",
+      "country": "NO",
+      "cdn": null,
+      "rebuilt": "vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=qq&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-2"
     },
     {
       "type": "vless",
@@ -64,26 +64,6 @@
     },
     {
       "type": "vless",
-      "address": "194.110.207.48",
-      "port": "443",
-      "id": "d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2",
-      "name": "5|@ConfingV2RaayNG",
-      "network": "tcp",
-      "sni": "kibi-institut.de",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=qq&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-4",
-      "ip": "194.110.207.48",
-      "country": "NO",
-      "cdn": null,
-      "rebuilt": "vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=qq&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-4"
-    },
-    {
-      "type": "vless",
       "address": "31.76.5.26",
       "port": "443",
       "id": "423b1d79-08c4-403f-9d5e-c541f791b55f",
@@ -96,11 +76,31 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "qq",
-      "original": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:443?flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=qq&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-5",
+      "original": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:443?flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=qq&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-4",
       "ip": "31.76.5.26",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:443?flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=qq&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-5"
+      "rebuilt": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:443?flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=qq&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-4"
+    },
+    {
+      "type": "vless",
+      "address": "151.242.169.44",
+      "port": "443",
+      "id": "3e5cc22b-a471-412d-bf84-6da9c929a0d9",
+      "name": "🇳🇴 NO 2",
+      "network": "tcp",
+      "sni": "frantax.my3cx.de",
+      "host": "frantax.my3cx.de",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://3e5cc22b-a471-412d-bf84-6da9c929a0d9@151.242.169.44:443?flow=xtls-rprx-vision&security=reality&sni=frantax.my3cx.de&fp=firefox&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4&sid=f6b5862c1f73ab80&type=tcp&headerType=none&host=frantax.my3cx.de&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-5",
+      "ip": "151.242.169.44",
+      "country": "NO",
+      "cdn": null,
+      "rebuilt": "vless://3e5cc22b-a471-412d-bf84-6da9c929a0d9@151.242.169.44:443?flow=xtls-rprx-vision&security=reality&sni=frantax.my3cx.de&fp=firefox&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4&sid=f6b5862c1f73ab80&type=tcp&headerType=none&host=frantax.my3cx.de&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-5"
     }
   ]
 }

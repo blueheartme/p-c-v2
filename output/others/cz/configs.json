@@ -1,26 +1,19 @@
 {
-  "updated": "2026-08-26T00:54:05.908571",
+  "updated": "2026-08-26T08:35:27.847225",
   "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "5.39.202.111",
-      "port": "443",
-      "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
-      "name": "☑➜چنلمون: Express_freevpn@",
-      "network": "tcp",
-      "sni": "cz.helper-internet.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "5.39.202.111",
+      "type": "ss",
+      "address": "146.70.222.126",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9",
+      "ip": "146.70.222.126",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9"
     },
     {
       "type": "vless",
@@ -43,17 +36,24 @@
       "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@cz.helper-internet.com:443?flow=xtls-rprx-vision&security=reality&sni=cz.helper-internet.com&fp=edge&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&type=tcp&headerType=none&host=cz.helper-internet.com&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
     },
     {
-      "type": "ss",
-      "address": "146.70.222.126",
-      "port": "1080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "XF0klw7870vXn3uQIxe19Q",
-      "name": "𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9",
-      "ip": "146.70.222.126",
+      "type": "vless",
+      "address": "5.39.202.111",
+      "port": "443",
+      "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "cz.helper-internet.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
+      "ip": "5.39.202.111",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9"
+      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
     }
   ]
 }
