@@ -1,33 +1,33 @@
 {
-  "updated": "2026-08-27T06:35:26.956123",
+  "updated": "2026-08-27T18:43:12.643423",
   "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "czeckhellllooo.hchdhsbs12gd.ir",
-      "port": "7007",
-      "id": "6017b67c-5a4b-4299-84c6-909462508790",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
+      "address": "150.241.121.61",
+      "port": "443",
+      "id": "98b0ccb7-325d-4dd4-b1c0-92671e94f5be",
+      "name": "@",
+      "network": "grpc",
+      "sni": "1pgt5wjq9slq.bosfiles.net",
       "host": "",
-      "security": "reality",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://6017b67c-5a4b-4299-84c6-909462508790@czeckhellllooo.hchdhsbs12gd.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "141.227.135.227",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://98b0ccb7-325d-4dd4-b1c0-92671e94f5be@150.241.121.61:443?encryption=none&type=grpc&security=tls&serviceName=grpc&mode=gun&sni=1pgt5wjq9slq.bosfiles.net&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#vless-grpc-tls-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "ip": "150.241.121.61",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://6017b67c-5a4b-4299-84c6-909462508790@czeckhellllooo.hchdhsbs12gd.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+      "rebuilt": "vless://98b0ccb7-325d-4dd4-b1c0-92671e94f5be@150.241.121.61:443?encryption=none&type=grpc&security=tls&serviceName=grpc&mode=gun&sni=1pgt5wjq9slq.bosfiles.net&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#vless-grpc-tls-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
     },
     {
       "type": "vless",
       "address": "5.39.202.111",
       "port": "443",
       "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
-      "name": "2|@ConfingV2RaayNG",
+      "name": "☑➜چنلمون: Express_freevpn@",
       "network": "tcp",
       "sni": "cz.helper-internet.com",
       "host": "",
@@ -36,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
       "ip": "5.39.202.111",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
     }
   ]
 }

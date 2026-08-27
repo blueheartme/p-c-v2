@@ -1,26 +1,46 @@
 {
-  "updated": "2026-08-27T06:35:26.949825",
-  "count": 1,
+  "updated": "2026-08-27T18:43:12.634528",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "cadanaorakus.chipsomast.ir",
-      "port": "7007",
-      "id": "6017b67c-5a4b-4299-84c6-909462508790",
-      "name": "@filembad",
+      "address": "184.107.106.68",
+      "port": "443",
+      "id": "716426fa-bcb7-4eb9-b460-36399ebf740d",
+      "name": "برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn",
       "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
+      "sni": "lizca2.footballfantasyforum.com",
       "host": "",
-      "security": "reality",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://6017b67c-5a4b-4299-84c6-909462508790@cadanaorakus.chipsomast.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-9",
-      "ip": "51.79.88.214",
+      "fingerprint": "",
+      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "ip": "184.107.106.68",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://6017b67c-5a4b-4299-84c6-909462508790@cadanaorakus.chipsomast.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-9"
+      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+    },
+    {
+      "type": "vless",
+      "address": "38.128.251.24",
+      "port": "42538",
+      "id": "6185150a-40bb-448b-b237-b37e3c10938c",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "",
+      "host": "mangaarabics.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.random.0rtt.swy_akeuuhuhko0bhvv2uot-ufbtrxplwr7g8uzk0xk",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://6185150a-40bb-448b-b237-b37e3c10938c@38.128.251.24:42538?encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&security=none&type=tcp&headerType=http&host=mangaarabics.com#vless-mlkem768x25519plus.random.0rtt.swy_akeuuhuhko0bhvv2uot-ufbtrxplwr7g8uzk0xk-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-5",
+      "ip": "38.128.251.24",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://6185150a-40bb-448b-b237-b37e3c10938c@38.128.251.24:42538?encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&security=none&type=tcp&headerType=http&host=mangaarabics.com#vless-mlkem768x25519plus.random.0rtt.swy_akeuuhuhko0bhvv2uot-ufbtrxplwr7g8uzk0xk-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-5"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-27T06:35:26.954310",
-  "count": 2,
+  "updated": "2026-08-27T18:43:12.637503",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
       "address": "89.35.14.30",
       "port": "443",
       "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
-      "name": "@meliproxyy",
+      "name": "برای اتصال دائمی جوین شو🕖 TelegramID ⌲Express_freevpn 🪩",
       "network": "grpc",
       "sni": "md1.univesalsrv.com",
       "host": "",
@@ -36,11 +36,51 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?encryption=none&security=reality&sni=md5.univesalsrv.com&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&type=grpc&authority=&serviceName=app.v1.PushService&mode=gun#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-2",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?encryption=none&type=grpc&security=reality&serviceName=app.v1.PushService&mode=gun&sni=md5.univesalsrv.com&fp=firefox&insecure=1&allowInsecure=1&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-2",
       "ip": "89.35.14.34",
       "country": "MD",
       "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?encryption=none&security=reality&sni=md5.univesalsrv.com&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&type=grpc&authority=&serviceName=app.v1.PushService&mode=gun#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-2"
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?encryption=none&type=grpc&security=reality&serviceName=app.v1.PushService&mode=gun&sni=md5.univesalsrv.com&fp=firefox&insecure=1&allowInsecure=1&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-2"
+    },
+    {
+      "type": "vless",
+      "address": "89.35.14.31",
+      "port": "443",
+      "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "name": "Channel : @proxy_kafee",
+      "network": "grpc",
+      "sni": "md2.univesalsrv.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-3",
+      "ip": "89.35.14.31",
+      "country": "MD",
+      "cdn": null,
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-3"
+    },
+    {
+      "type": "vless",
+      "address": "85.120.216.178",
+      "port": "443",
+      "id": "a704443d-655e-4d9f-8ce6-12eeb17a9a08",
+      "name": "Channel : @proxy_kafee",
+      "network": "tcp",
+      "sni": "api-maps.yandex.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@85.120.216.178:443?security=reality&encryption=none&pbk=RTJejnFwln1GAFLeyZ4NRcMpvsRiL1Yu-WFRy8NtIwU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a0a5d889#vless-xtls-rprx-vision-tcp-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-4",
+      "ip": "85.120.216.178",
+      "country": "MD",
+      "cdn": null,
+      "rebuilt": "vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@85.120.216.178:443?security=reality&encryption=none&pbk=RTJejnFwln1GAFLeyZ4NRcMpvsRiL1Yu-WFRy8NtIwU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a0a5d889#vless-xtls-rprx-vision-tcp-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-4"
     }
   ]
 }

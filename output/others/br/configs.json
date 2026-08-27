@@ -1,26 +1,32 @@
 {
-  "updated": "2026-08-25T08:34:43.804192",
-  "count": 1,
+  "updated": "2026-08-27T18:43:12.575544",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "23.251.56.78",
-      "port": "443",
-      "id": "9638a83e-f1f7-4cc8-a602-924965d9534f",
-      "name": "3|@ConfingV2RaayNG",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&encryption=none&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=59ccabb0a1483c4b#vless-xtls-rprx-vision-tcp-reality-firefox-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "23.251.56.78",
+      "type": "ss",
+      "address": "137.131.128.103",
+      "port": "59319",
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "GGGJ69mNdkRpgCbE/lUZvtaebOqshKW8PVWgIUaaRHc=",
+      "name": "@meliproxyy",
+      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R0dHSjY5bU5ka1JwZ0NiRS9sVVp2dGFlYk9xc2hLVzhQVldnSVVhYVJIYz0@137.131.128.103:59319#@meliproxyy",
+      "ip": "137.131.128.103",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&encryption=none&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=59ccabb0a1483c4b#vless-xtls-rprx-vision-tcp-reality-firefox-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R0dHSjY5bU5ka1JwZ0NiRS9sVVp2dGFlYk9xc2hLVzhQVldnSVVhYVJIYz0@137.131.128.103:59319#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "147.15.73.104",
+      "port": "59319?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server",
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "7/EA6g8zfS5vVYXrk+16wA+41eejpQjr7ll5C2BXsx4=",
+      "name": "@filembad",
+      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Ny9FQTZnOHpmUzV2VllYcmsrMTZ3QSs0MWVlanBRanI3bGw1QzJCWHN4ND0@147.15.73.104:59319?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server#%40filembad",
+      "ip": "147.15.73.104",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Ny9FQTZnOHpmUzV2VllYcmsrMTZ3QSs0MWVlanBRanI3bGw1QzJCWHN4ND0@147.15.73.104:59319?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server#%40filembad"
     }
   ]
 }
