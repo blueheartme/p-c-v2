@@ -1,35 +1,20 @@
 {
-  "updated": "2026-08-26T16:43:50.996299",
-  "count": 2,
+  "updated": "2026-08-27T06:35:26.886578",
+  "count": 1,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "149.88.23.202",
-      "port": "18000",
-      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
-      "name": "🇸🇬 SG 1",
-      "network": "tcp",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1TR/Cfh7jwn4esLTEiLCJhZGQiOiIxNDkuODguMjMuMjAyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "149.88.23.202",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1TR/Cfh7jwn4esLTEiLCJhZGQiOiIxNDkuODguMjMuMjAyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
-    },
     {
       "type": "trojan",
       "address": "86.38.247.109",
       "port": "2087",
       "password": "sshs8_6481354771",
-      "name": "🇸🇬 SG 4",
+      "name": "🇸🇬 SG 2",
       "sni": "ul-singapore1.09vpn.com",
       "host": "",
-      "original": "trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&sni=ul-singapore1.09vpn.com&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "trojan://sshs8_6481354771@86.38.247.109:2087?sni=ul-singapore1.09vpn.com&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "86.38.247.109",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&sni=ul-singapore1.09vpn.com&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "trojan://sshs8_6481354771@86.38.247.109:2087?sni=ul-singapore1.09vpn.com&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }

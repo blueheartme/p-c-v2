@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-25T00:53:37.531794",
+  "updated": "2026-08-27T06:35:26.949825",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "147.182.156.111",
-      "port": "8039",
-      "id": "a763a363-133f-9d6a-2220-e3228fb7dfe0",
+      "address": "cadanaorakus.chipsomast.ir",
+      "port": "7007",
+      "id": "6017b67c-5a4b-4299-84c6-909462508790",
       "name": "@filembad",
       "network": "tcp",
       "sni": "amp-api-edge.apps.apple.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://a763a363-133f-9d6a-2220-e3228fb7dfe0@147.182.156.111:8039?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=35938c4e546cd459#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-4",
-      "ip": "147.182.156.111",
+      "original": "vless://6017b67c-5a4b-4299-84c6-909462508790@cadanaorakus.chipsomast.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-9",
+      "ip": "51.79.88.214",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://a763a363-133f-9d6a-2220-e3228fb7dfe0@147.182.156.111:8039?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=35938c4e546cd459#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+      "rebuilt": "vless://6017b67c-5a4b-4299-84c6-909462508790@cadanaorakus.chipsomast.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-9"
     }
   ]
 }

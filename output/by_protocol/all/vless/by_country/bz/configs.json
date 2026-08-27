@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-09T08:34:38.908540",
+  "updated": "2026-08-27T06:35:26.956673",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "45.131.5.8",
-      "port": "443",
-      "id": "47fcef29-ab4e-4aa6-932b-d95a18f28a4e",
-      "name": "@meliproxyy",
+      "address": "mci.v2plus.ovh",
+      "port": "80",
+      "id": "0c6c9627-95fe-418a-bd4c-50df888c44bd",
+      "name": "@filembad",
       "network": "ws",
-      "sni": "gj2rf.mlrb.tyr.hh.vavava.kdns.fr",
-      "host": "gj2rf.mlrb.tyr.hh.vavava.kdns.fr",
-      "security": "tls",
+      "sni": "",
+      "host": "worker3.bobiv63003.workers.dev",
+      "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@45.131.5.8:443?path=%2F&security=tls&encryption=none&insecure=0&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws&allowInsecure=0&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr#vless-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-1",
-      "ip": "45.131.5.8",
+      "original": "vless://0c6c9627-95fe-418a-bd4c-50df888c44bd@mci.v2plus.ovh:80?path=%2FffEt2nn4iTWiXfi8&security=none&encryption=none&host=worker3.bobiv63003.workers.dev&type=ws#vless-ws-BZ%F0%9F%87%A7%F0%9F%87%BF-1",
+      "ip": "45.131.4.115",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@45.131.5.8:443?path=%2F&security=tls&encryption=none&insecure=0&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws&allowInsecure=0&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr#vless-ws-tls-BZ%F0%9F%87%A7%F0%9F%87%BF-1"
+      "rebuilt": "vless://0c6c9627-95fe-418a-bd4c-50df888c44bd@mci.v2plus.ovh:80?path=%2FffEt2nn4iTWiXfi8&security=none&encryption=none&host=worker3.bobiv63003.workers.dev&type=ws#vless-ws-BZ%F0%9F%87%A7%F0%9F%87%BF-1"
     }
   ]
 }
