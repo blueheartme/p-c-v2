@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T18:43:12.563570",
-  "count": 5,
+  "updated": "2026-08-28T08:25:37.652365",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -16,31 +16,15 @@
       "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ODhBWkVucXdlNlkrWHZjbHlEdGcxWHIxTHJoMHRCVzBMZ1NIUitBd3BEST0@213.35.110.13:56927#%40ir_IRANy%20%F0%9F%87%B8%F0%9F%87%AC"
     },
     {
-      "type": "trojan",
-      "address": "86.38.247.109",
-      "port": "2087",
-      "password": "sshs8_6481354771",
-      "name": "🇸🇬 SG 3",
-      "sni": "ul-singapore1.09vpn.com",
-      "host": "",
-      "original": "trojan://sshs8_6481354771@86.38.247.109:2087?sni=ul-singapore1.09vpn.com&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "86.38.247.109",
+      "type": "tuic",
+      "address": "sg2-8sb.6121999.dpdns.org",
+      "port": "33738",
+      "name": "🇸🇬 SG 1",
+      "original": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "146.235.16.130",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://sshs8_6481354771@86.38.247.109:2087?sni=ul-singapore1.09vpn.com&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "ss",
-      "address": "158.178.228.130",
-      "port": "56927?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server",
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "nAycKRkJJFqQd06ESjNRcqcCoojodNPUoNA3Ws7LNvs=",
-      "name": "@filembad",
-      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bkF5Y0tSa0pKRnFRZDA2RVNqTlJjcWNDb29qb2ROUFVvTkEzV3M3TE52cz0@158.178.228.130:56927?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server#%40filembad",
-      "ip": "158.178.228.130",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bkF5Y0tSa0pKRnFRZDA2RVNqTlJjcWNDb29qb2ROUFVvTkEzV3M3TE52cz0@158.178.228.130:56927?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server#%40filembad"
+      "rebuilt": "tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#tuic-udp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     },
     {
       "type": "ss",
@@ -54,19 +38,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCakVZM3Y1MlhxcVBGUEhFTXN5UEgvekcxQnA2TXl4dDZRNytOeXY5N3g0PQ@206.189.40.108:54898#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "158.178.228.130",
-      "port": "56927",
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "nAycKRkJJFqQd06ESjNRcqcCoojodNPUoNA3Ws7LNvs=",
-      "name": "@filembad",
-      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bkF5Y0tSa0pKRnFRZDA2RVNqTlJjcWNDb29qb2ROUFVvTkEzV3M3TE52cz0@158.178.228.130:56927#%40filembad",
-      "ip": "158.178.228.130",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bkF5Y0tSa0pKRnFRZDA2RVNqTlJjcWNDb29qb2ROUFVvTkEzV3M3TE52cz0@158.178.228.130:56927#%40filembad"
     }
   ]
 }

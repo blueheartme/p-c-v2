@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T18:43:12.567785",
-  "count": 4,
+  "updated": "2026-08-28T08:25:37.655261",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
@@ -24,39 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "66.245.207.124",
-      "port": "32855",
-      "id": "09d901c5-a5ca-4c11-8470-13df1f741937",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://09d901c5-a5ca-4c11-8470-13df1f741937@66.245.207.124:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#vless-tcp-reality-edge-IT%F0%9F%87%AE%F0%9F%87%B9-2",
-      "ip": "66.245.207.124",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://09d901c5-a5ca-4c11-8470-13df1f741937@66.245.207.124:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#vless-tcp-reality-edge-IT%F0%9F%87%AE%F0%9F%87%B9-2"
-    },
-    {
-      "type": "ss",
-      "address": "194.87.47.204",
-      "port": "10901",
-      "method": "aes-256-gcm",
-      "password": "d1fa2f4b98a38bc8",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#@meliproxyy",
-      "ip": "194.87.47.204",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#@meliproxyy"
-    },
-    {
-      "type": "vless",
       "address": "45.155.68.9",
       "port": "443",
       "id": "2b622609-bb92-49e8-9631-4ada00324f47",
@@ -69,11 +36,57 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-4",
+      "original": "vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-2",
       "ip": "45.155.68.9",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-4"
+      "rebuilt": "vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-2"
+    },
+    {
+      "type": "ss",
+      "address": "91.201.65.122",
+      "port": "9070",
+      "method": "aes-256-cfb",
+      "password": "bf7v334KKDV3YDhH",
+      "name": "🇮🇹 IT 2",
+      "original": "ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@91.201.65.122:9070#%f0%9f%87%ae%f0%9f%87%b9%20IT%202",
+      "ip": "91.201.65.122",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@91.201.65.122:9070#%f0%9f%87%ae%f0%9f%87%b9%20IT%202"
+    },
+    {
+      "type": "ss",
+      "address": "91.201.65.122",
+      "port": "9039",
+      "method": "aes-256-cfb",
+      "password": "qYEN5HX4JKeVCdEC",
+      "name": "🇮🇹 IT 3",
+      "original": "ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@91.201.65.122:9039#%f0%9f%87%ae%f0%9f%87%b9%20IT%203",
+      "ip": "91.201.65.122",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@91.201.65.122:9039#%f0%9f%87%ae%f0%9f%87%b9%20IT%203"
+    },
+    {
+      "type": "vless",
+      "address": "66.245.207.124",
+      "port": "32855",
+      "id": "09d901c5-a5ca-4c11-8470-13df1f741937",
+      "name": "Channel : @proxy_kafee",
+      "network": "tcp",
+      "sni": "amp-api-edge.apps.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "edge",
+      "original": "vless://09d901c5-a5ca-4c11-8470-13df1f741937@66.245.207.124:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#vless-tcp-reality-edge-IT%F0%9F%87%AE%F0%9F%87%B9-5",
+      "ip": "66.245.207.124",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://09d901c5-a5ca-4c11-8470-13df1f741937@66.245.207.124:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#vless-tcp-reality-edge-IT%F0%9F%87%AE%F0%9F%87%B9-5"
     }
   ]
 }

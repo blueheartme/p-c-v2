@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-08T16:25:27.920365",
+  "updated": "2026-08-28T08:25:37.651255",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "103.118.29.142",
-      "port": "35730",
-      "id": "376dc930-a905-4e75-a2d5-bb801a6adc25",
-      "name": "☑➜چنلمون: Express_freevpn@",
-      "network": "tcp",
+      "address": "171.244.142.193",
+      "port": "8080",
+      "id": "e2c6905e-46ec-434b-8400-0bc5bf0363e6",
+      "name": "@filembad",
+      "network": "ws",
       "sni": "",
-      "host": "varzesh3.com",
+      "host": "",
       "security": "none",
       "flow": "",
       "encryption": "none",
-      "headerType": "http",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://376dc930-a905-4e75-a2d5-bb801a6adc25@103.118.29.142:35730?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#vless-tcp-http-VN%F0%9F%87%BB%F0%9F%87%B3-1",
-      "ip": "103.118.29.142",
+      "original": "vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@171.244.142.193:8080?path=%2Fv-ws&security=none&encryption=none&type=ws#vless-ws-VN%F0%9F%87%BB%F0%9F%87%B3-1",
+      "ip": "171.244.142.193",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "vless://376dc930-a905-4e75-a2d5-bb801a6adc25@103.118.29.142:35730?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#vless-tcp-http-VN%F0%9F%87%BB%F0%9F%87%B3-1"
+      "rebuilt": "vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@171.244.142.193:8080?path=%2Fv-ws&security=none&encryption=none&type=ws#vless-ws-VN%F0%9F%87%BB%F0%9F%87%B3-1"
     }
   ]
 }

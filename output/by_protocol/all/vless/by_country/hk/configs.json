@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-27T18:43:12.639571",
-  "count": 1,
+  "updated": "2026-08-28T08:25:37.695591",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "134.122.202.244",
+      "port": "44915",
+      "id": "0ca45842-71e2-47fe-889f-9e75f93ea459",
+      "name": "🇯🇵 JP 10",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-5",
+      "ip": "134.122.202.244",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-5"
+    },
     {
       "type": "vless",
       "address": "27.50.48.69",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-16",
       "ip": "27.50.48.69",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-16"
     }
   ]
 }

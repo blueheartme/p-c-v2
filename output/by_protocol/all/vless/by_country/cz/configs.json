@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-27T18:43:12.643423",
-  "count": 2,
+  "updated": "2026-08-28T08:25:37.691668",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "5.39.202.111",
+      "port": "443",
+      "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
+      "name": "☑➜چنلمون: Express_freevpn@",
+      "network": "tcp",
+      "sni": "cz.helper-internet.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
+      "ip": "5.39.202.111",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+    },
     {
       "type": "vless",
       "address": "150.241.121.61",
@@ -24,23 +44,23 @@
     },
     {
       "type": "vless",
-      "address": "5.39.202.111",
+      "address": "212.102.38.25",
       "port": "443",
-      "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
-      "name": "☑➜چنلمون: Express_freevpn@",
+      "id": "b34a52cb-cd52-49a8-9362-b8e97c151d49",
+      "name": "🇨🇿 CZ 21",
       "network": "tcp",
-      "sni": "cz.helper-internet.com",
+      "sni": "udemy.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
-      "ip": "5.39.202.111",
+      "headerType": "",
+      "fingerprint": "ios",
+      "original": "vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=udemy.com&fp=ios&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
+      "ip": "212.102.38.25",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
+      "rebuilt": "vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=udemy.com&fp=ios&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
     }
   ]
 }

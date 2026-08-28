@@ -1,19 +1,45 @@
 {
-  "updated": "2026-08-27T06:35:26.978655",
-  "count": 1,
+  "updated": "2026-08-28T08:25:37.708889",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "193.111.30.213",
-      "port": "20000",
-      "method": "chacha20-ietf-poly1305",
-      "password": "578686f5-9ff9-4ff7-9394-5d53133a2792",
-      "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Nzg2ODZmNS05ZmY5LTRmZjctOTM5NC01ZDUzMTMzYTI3OTI@193.111.30.213:20000#@meliproxyy",
-      "ip": "193.111.30.213",
+      "address": "149.22.87.241",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇯🇵 JP 7",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%207",
+      "ip": "149.22.87.241",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Nzg2ODZmNS05ZmY5LTRmZjctOTM5NC01ZDUzMTMzYTI3OTI@193.111.30.213:20000#@meliproxyy"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%207"
+    },
+    {
+      "type": "ss",
+      "address": "149.22.87.204",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇯🇵 JP 6",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%206",
+      "ip": "149.22.87.204",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%206"
+    },
+    {
+      "type": "ss",
+      "address": "176.97.73.215",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ma6zc4JoLRJA",
+      "name": "🇯🇵 JP 8",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%208",
+      "ip": "176.97.73.215",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%208"
     }
   ]
 }
