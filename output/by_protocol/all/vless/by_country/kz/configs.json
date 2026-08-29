@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-29T00:19:30.790894",
+  "updated": "2026-08-29T19:04:23.679035",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "5.180.43.233",
+      "address": "kz3.freeinternat.com",
       "port": "443",
-      "id": "423b1d79-08c4-403f-9d5e-c541f791b55f",
-      "name": "🇰🇿 KZ 1",
+      "id": "dabb9a19-03ab-4cdf-8963-d3c45eb0f80d",
+      "name": "🇵🇱 PL 10",
       "network": "tcp",
-      "sni": "nordic.cendora.ru",
-      "host": "nordic.cendora.ru",
+      "sni": "kz3.freeinternat.com",
+      "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.180.43.233:443?flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=qq&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&type=tcp&headerType=none&host=nordic.cendora.ru&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "5.180.43.233",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "random",
+      "original": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@kz3.freeinternat.com:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=kz3.freeinternat.com&fp=random&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2f&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-random-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "87.199.129.193",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.180.43.233:443?flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=qq&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&type=tcp&headerType=none&host=nordic.cendora.ru&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@kz3.freeinternat.com:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=kz3.freeinternat.com&fp=random&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2f&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-random-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }

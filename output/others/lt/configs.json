@@ -1,45 +1,26 @@
 {
-  "updated": "2026-08-28T08:25:37.656816",
-  "count": 3,
+  "updated": "2026-08-29T19:04:23.619970",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9068",
-      "method": "aes-256-cfb",
-      "password": "mwgRg9hRq3b4Qnwb",
-      "name": "🇱🇹 LT 2",
-      "original": "ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%f0%9f%87%b1%f0%9f%87%b9%20LT%202",
-      "ip": "195.238.126.20",
+      "type": "vless",
+      "address": "88.119.176.24",
+      "port": "443",
+      "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "lit9.helper-internet.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "88.119.176.24",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%f0%9f%87%b1%f0%9f%87%b9%20LT%202"
-    },
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9012",
-      "method": "aes-256-cfb",
-      "password": "xaupMUvhptwxdDUg",
-      "name": "🇱🇹 LT 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw==@195.238.126.20:9012#%f0%9f%87%b1%f0%9f%87%b9%20LT%201",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw==@195.238.126.20:9012#%f0%9f%87%b1%f0%9f%87%b9%20LT%201"
-    },
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9002",
-      "method": "aes-256-cfb",
-      "password": "b8KkNDjEd5QqFyRm",
-      "name": "🇱🇹 LT 3",
-      "original": "ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@195.238.126.20:9002#%f0%9f%87%b1%f0%9f%87%b9%20LT%203",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@195.238.126.20:9002#%f0%9f%87%b1%f0%9f%87%b9%20LT%203"
+      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1"
     }
   ]
 }

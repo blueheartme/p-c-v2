@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-26T00:54:05.979015",
+  "updated": "2026-08-29T19:04:23.673759",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "144.31.243.105",
+      "address": "88.119.176.24",
       "port": "443",
-      "id": "f692629b-3557-488a-9c9b-60775331e423",
-      "name": "Nightping-‌MCI&MTN",
-      "network": "grpc",
-      "sni": "fi1-cosmostechnology.ru",
+      "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "lit9.helper-internet.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-2",
-      "ip": "144.31.243.105",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "88.119.176.24",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%87%B1%F0%9F%87%B9-2"
+      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1"
     }
   ]
 }
