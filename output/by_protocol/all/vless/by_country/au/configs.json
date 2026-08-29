@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-15T00:51:34.302952",
+  "updated": "2026-08-29T00:19:30.792604",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "46.250.240.80",
-      "port": "2053",
-      "id": "5c53b9e9-fbe8-4c50-a623-73cdafa3886b",
-      "name": "🇦🇺 AU 2",
+      "address": "51.161.199.124",
+      "port": "443",
+      "id": "643cdd4d-8731-440b-9e46-9496f593aa27",
+      "name": "🇦🇺 AU 1",
       "network": "tcp",
-      "sni": "www.cloudflare.com",
+      "sni": "suetinklerartglass.co.uk",
       "host": "",
       "security": "reality",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp&path=%2f#vless-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-2",
-      "ip": "46.250.240.80",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://643cdd4d-8731-440b-9e46-9496f593aa27@51.161.199.124:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=suetinklerartglass.co.uk&fp=firefox&pbk=qM0uZ1Gp_Ve59S_iKPyFqQXjfjkUqf6iSHH_fxFt7w0&sid=0f4d3210977f51a5&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "51.161.199.124",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp&path=%2f#vless-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+      "rebuilt": "vless://643cdd4d-8731-440b-9e46-9496f593aa27@51.161.199.124:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=suetinklerartglass.co.uk&fp=firefox&pbk=qM0uZ1Gp_Ve59S_iKPyFqQXjfjkUqf6iSHH_fxFt7w0&sid=0f4d3210977f51a5&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

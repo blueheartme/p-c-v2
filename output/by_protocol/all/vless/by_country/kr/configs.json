@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-27T06:35:26.959912",
+  "updated": "2026-08-29T00:19:30.788577",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "59.3.3.161",
-      "port": "443",
-      "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+      "address": "43.203.242.114",
+      "port": "12359",
+      "id": "78990f64-7bc8-48b9-a127-0d5545593a38",
       "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "vh.ylks.link",
+      "network": "tcp",
+      "sni": "www.tesla.com",
       "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@59.3.3.161:443?security=tls&sni=vh.ylks.link&type=ws&path=%2F#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2",
-      "ip": "59.3.3.161",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://78990f64-7bc8-48b9-a127-0d5545593a38@43.203.242.114:12359?security=reality&encryption=none&pbk=8SUi1EG0YaPd7spjghl2QcZYvuJfEtPjqR9Vpzgc2Q4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=8f30f2fa8282cebc#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "43.203.242.114",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@59.3.3.161:443?security=tls&sni=vh.ylks.link&type=ws&path=%2F#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+      "rebuilt": "vless://78990f64-7bc8-48b9-a127-0d5545593a38@43.203.242.114:12359?security=reality&encryption=none&pbk=8SUi1EG0YaPd7spjghl2QcZYvuJfEtPjqR9Vpzgc2Q4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=8f30f2fa8282cebc#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-1"
     }
   ]
 }

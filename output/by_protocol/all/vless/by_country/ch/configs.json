@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-28T08:25:37.697703",
-  "count": 2,
+  "updated": "2026-08-29T00:19:30.792007",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "fardad-ch.safire-soleiman.ir",
+      "port": "6800",
+      "id": "0b0f1f7b-d005-4765-939f-9a2f6a2f3d85",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "amp-api-edge.apps.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://0b0f1f7b-d005-4765-939f-9a2f6a2f3d85@fardad-ch.safire-soleiman.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "141.227.138.49",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://0b0f1f7b-d005-4765-939f-9a2f6a2f3d85@fardad-ch.safire-soleiman.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "vless",
       "address": "83.228.235.10",
@@ -36,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://t.me.TradeIP@channel.tradeip.store:443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=%2F000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=285efec4#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "original": "vless://t.me.TradeIP@channel.tradeip.store:443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=%2F000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=285efec4#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3",
       "ip": "179.237.73.187",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://t.me.TradeIP@channel.tradeip.store:443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=%2F000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=285efec4#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+      "rebuilt": "vless://t.me.TradeIP@channel.tradeip.store:443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=%2F000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=285efec4#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }

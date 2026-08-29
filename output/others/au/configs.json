@@ -1,19 +1,26 @@
 {
-  "updated": "2026-08-28T08:25:37.660953",
+  "updated": "2026-08-29T00:19:30.730608",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "82.23.146.72",
-      "port": "65443",
-      "method": "aes-256-cfb",
-      "password": "7eadc6dbe2ae",
+      "type": "vless",
+      "address": "51.161.199.124",
+      "port": "443",
+      "id": "643cdd4d-8731-440b-9e46-9496f593aa27",
       "name": "🇦🇺 AU 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@82.23.146.72:65443#%f0%9f%87%a6%f0%9f%87%ba%20AU%201",
-      "ip": "82.23.146.72",
+      "network": "tcp",
+      "sni": "suetinklerartglass.co.uk",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://643cdd4d-8731-440b-9e46-9496f593aa27@51.161.199.124:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=suetinklerartglass.co.uk&fp=firefox&pbk=qM0uZ1Gp_Ve59S_iKPyFqQXjfjkUqf6iSHH_fxFt7w0&sid=0f4d3210977f51a5&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "51.161.199.124",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@82.23.146.72:65443#%f0%9f%87%a6%f0%9f%87%ba%20AU%201"
+      "rebuilt": "vless://643cdd4d-8731-440b-9e46-9496f593aa27@51.161.199.124:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=suetinklerartglass.co.uk&fp=firefox&pbk=qM0uZ1Gp_Ve59S_iKPyFqQXjfjkUqf6iSHH_fxFt7w0&sid=0f4d3210977f51a5&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }
