@@ -1,19 +1,26 @@
 {
-  "updated": "2026-08-28T08:25:37.653616",
+  "updated": "2026-08-29T13:32:03.742248",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "118.107.222.231",
-      "port": "65443",
-      "method": "aes-256-cfb",
-      "password": "7eadc6dbe2ae",
-      "name": "🇲🇾 MY 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@118.107.222.231:65443#%f0%9f%87%b2%f0%9f%87%be%20MY%201",
-      "ip": "118.107.222.231",
+      "type": "vless",
+      "address": "43.217.131.214",
+      "port": "34581",
+      "id": "7caf75cd-43e2-4d90-9df1-de2396875b3f",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.sony.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://7caf75cd-43e2-4d90-9df1-de2396875b3f@43.217.131.214:34581?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.sony.com&fp=firefox&pbk=DzJipJKxpMfjwDmcs2YxsQ56EAwp0PgmYjdqwlMgDBQ&sid=b7e1be34c9975c6e&allowinsecure=0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-MY%F0%9F%87%B2%F0%9F%87%BE-1",
+      "ip": "43.217.131.214",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@118.107.222.231:65443#%f0%9f%87%b2%f0%9f%87%be%20MY%201"
+      "rebuilt": "vless://7caf75cd-43e2-4d90-9df1-de2396875b3f@43.217.131.214:34581?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.sony.com&fp=firefox&pbk=DzJipJKxpMfjwDmcs2YxsQ56EAwp0PgmYjdqwlMgDBQ&sid=b7e1be34c9975c6e&allowinsecure=0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-MY%F0%9F%87%B2%F0%9F%87%BE-1"
     }
   ]
 }

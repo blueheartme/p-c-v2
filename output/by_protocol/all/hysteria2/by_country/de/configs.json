@@ -1,17 +1,19 @@
 {
-  "updated": "2026-08-25T16:28:31.468175",
+  "updated": "2026-08-29T13:32:03.820041",
   "count": 1,
   "configs": [
     {
       "type": "hysteria2",
-      "address": "45.128.99.14",
-      "port": "8443",
-      "name": "Telegram channel : @proxy_kafee",
-      "original": "hysteria2://Germany2026hy@45.128.99.14:8443?sni=de.nobelchat.ru&insecure=1&obfs=salamander&obfs-password=SalamanderDE2026#hysteria2-udp-DE%F0%9F%87%A9%F0%9F%87%AA-102",
-      "ip": "45.128.99.14",
+      "address": "de1.sferavpn.pro",
+      "port": "443",
+      "name": "Channel : @proxy_kafee",
+      "original": "hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#hysteria2-udp-DE%F0%9F%87%A9%F0%9F%87%AA-38",
+      "ip": "2.27.59.206",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "hysteria2://Germany2026hy@45.128.99.14:8443?sni=de.nobelchat.ru&insecure=1&obfs=salamander&obfs-password=SalamanderDE2026#hysteria2-udp-DE%F0%9F%87%A9%F0%9F%87%AA-102"
+      "tested": true,
+      "working": true,
+      "rebuilt": "hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#hysteria2-udp-DE%F0%9F%87%A9%F0%9F%87%AA-38"
     }
   ]
 }

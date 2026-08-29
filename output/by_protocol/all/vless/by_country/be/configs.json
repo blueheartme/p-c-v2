@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T00:19:30.793114",
+  "updated": "2026-08-29T13:32:03.770518",
   "count": 3,
   "configs": [
     {
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "194.71.227.213",
-      "port": "443",
-      "id": "6705ddbd-04cf-40f6-99b9-36846b08c2a9",
-      "name": "Free 335 @Outline_Vpn",
-      "network": "ws",
-      "sni": "kjgdksgghre466.pages.dev",
-      "host": "kjgdksgghre466.pages.dev",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-2",
-      "ip": "194.71.227.213",
-      "country": "BE",
-      "cdn": null,
-      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-2"
-    },
-    {
-      "type": "vless",
       "address": "be2.wba-pn.ru",
       "port": "443",
       "id": "08f84d53-e262-459c-a15a-26213e7a07c9",
@@ -56,11 +36,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-BE%F0%9F%87%A7%F0%9F%87%AA-3",
+      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-BE%F0%9F%87%A7%F0%9F%87%AA-2",
       "ip": "113.30.152.6",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-BE%F0%9F%87%A7%F0%9F%87%AA-3"
+      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-BE%F0%9F%87%A7%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "194.71.227.213",
+      "port": "443",
+      "id": "6705ddbd-04cf-40f6-99b9-36846b08c2a9",
+      "name": "Free 335 @Outline_Vpn",
+      "network": "ws",
+      "sni": "kjgdksgghre466.pages.dev",
+      "host": "kjgdksgghre466.pages.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-3",
+      "ip": "194.71.227.213",
+      "country": "BE",
+      "cdn": null,
+      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-3"
     }
   ]
 }
