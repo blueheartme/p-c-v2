@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-30T02:56:23.147005",
+  "updated": "2026-08-30T13:28:08.819816",
   "count": 5,
   "configs": [
+    {
+      "type": "vless",
+      "address": "34.80.184.198",
+      "port": "44848",
+      "id": "b0342e8a-a25e-4e30-b598-d9391b0df4c9",
+      "name": "🇹🇼 TW 3",
+      "network": "tcp",
+      "sni": "www.tesla.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://b0342e8a-a25e-4e30-b598-d9391b0df4c9@34.80.184.198:44848?flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=qq&pbk=w9vWLOHjl46krA8IEpGoPI9scTL0rFdjCtjdukJDciU&sid=2338740580a5de&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "ip": "34.80.184.198",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vless://b0342e8a-a25e-4e30-b598-d9391b0df4c9@34.80.184.198:44848?flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=qq&pbk=w9vWLOHjl46krA8IEpGoPI9scTL0rFdjCtjdukJDciU&sid=2338740580a5de&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+    },
     {
       "type": "vless",
       "address": "35.229.150.105",
@@ -16,11 +36,11 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "ios",
-      "original": "vless://b76630cc-5b12-4a76-8a1a-a7097f4a0e30@35.229.150.105:29465?flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=ios&pbk=kKqDTc16crLdoQHb4X13-rUHEc83bY7eWtn1kwAaqSE&sid=74f639401060da1f&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "original": "vless://b76630cc-5b12-4a76-8a1a-a7097f4a0e30@35.229.150.105:29465?flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=ios&pbk=kKqDTc16crLdoQHb4X13-rUHEc83bY7eWtn1kwAaqSE&sid=74f639401060da1f&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-TW%F0%9F%87%B9%F0%9F%87%BC-2",
       "ip": "35.229.150.105",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://b76630cc-5b12-4a76-8a1a-a7097f4a0e30@35.229.150.105:29465?flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=ios&pbk=kKqDTc16crLdoQHb4X13-rUHEc83bY7eWtn1kwAaqSE&sid=74f639401060da1f&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "vless://b76630cc-5b12-4a76-8a1a-a7097f4a0e30@35.229.150.105:29465?flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=ios&pbk=kKqDTc16crLdoQHb4X13-rUHEc83bY7eWtn1kwAaqSE&sid=74f639401060da1f&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-ios-TW%F0%9F%87%B9%F0%9F%87%BC-2"
     },
     {
       "type": "vless",
@@ -36,31 +56,11 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&path=%2f#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-2",
+      "original": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&path=%2f#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-3",
       "ip": "118.167.224.189",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&path=%2f#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-2"
-    },
-    {
-      "type": "vless",
-      "address": "35.229.131.182",
-      "port": "47394",
-      "id": "0fada528-59c7-44b7-a3d7-377c36c55d97",
-      "name": "🇹🇼 TW 5",
-      "network": "tcp",
-      "sni": "www.nvidia.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://0fada528-59c7-44b7-a3d7-377c36c55d97@35.229.131.182:47394?flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=yrZ6uI4z0IVUK3s_FJxIhEfLofvK9PwxT0HcSj_ljmQ&sid=8ecbc93134b311&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-3",
-      "ip": "35.229.131.182",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "vless://0fada528-59c7-44b7-a3d7-377c36c55d97@35.229.131.182:47394?flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=yrZ6uI4z0IVUK3s_FJxIhEfLofvK9PwxT0HcSj_ljmQ&sid=8ecbc93134b311&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-3"
+      "rebuilt": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&path=%2f#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-3"
     },
     {
       "type": "vless",
@@ -84,23 +84,23 @@
     },
     {
       "type": "vless",
-      "address": "45.121.50.241",
-      "port": "50159",
-      "id": "47a97b7f-044d-43d6-86b0-8b256873d1b5",
-      "name": "☑➜چنلمون: Express_freevpn@",
+      "address": "35.229.131.182",
+      "port": "47394",
+      "id": "0fada528-59c7-44b7-a3d7-377c36c55d97",
+      "name": "🇹🇼 TW 5",
       "network": "tcp",
-      "sni": "www.cloudflare.com",
+      "sni": "www.nvidia.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
+      "encryption": "",
+      "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://47a97b7f-044d-43d6-86b0-8b256873d1b5@45.121.50.241:50159?security=reality&encryption=none&pbk=E9gCs_C_mSDcHmlCZSMk1kSXpmua48DhgsT_aDpZ1WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=4c3f80051030ba1b#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-5",
-      "ip": "45.121.50.241",
+      "original": "vless://0fada528-59c7-44b7-a3d7-377c36c55d97@35.229.131.182:47394?flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=yrZ6uI4z0IVUK3s_FJxIhEfLofvK9PwxT0HcSj_ljmQ&sid=8ecbc93134b311&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-5",
+      "ip": "35.229.131.182",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://47a97b7f-044d-43d6-86b0-8b256873d1b5@45.121.50.241:50159?security=reality&encryption=none&pbk=E9gCs_C_mSDcHmlCZSMk1kSXpmua48DhgsT_aDpZ1WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=4c3f80051030ba1b#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-5"
+      "rebuilt": "vless://0fada528-59c7-44b7-a3d7-377c36c55d97@35.229.131.182:47394?flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=yrZ6uI4z0IVUK3s_FJxIhEfLofvK9PwxT0HcSj_ljmQ&sid=8ecbc93134b311&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-5"
     }
   ]
 }
