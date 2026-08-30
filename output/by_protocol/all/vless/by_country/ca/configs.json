@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T19:04:23.665019",
-  "count": 4,
+  "updated": "2026-08-30T02:56:23.193914",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,38 +16,18 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?security=reality&encryption=none&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ee94ded352b795#vless-xtls-rprx-vision-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "original": "vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?security=reality&encryption=none&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ee94ded352b795#vless-xtls-rprx-vision-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "172.105.104.54",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?security=reality&encryption=none&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ee94ded352b795#vless-xtls-rprx-vision-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-3"
-    },
-    {
-      "type": "vless",
-      "address": "147.182.156.111",
-      "port": "1161",
-      "id": "0336579a-8cc8-0288-cfc1-890ba73094d8",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "",
-      "host": "amp-api-edge.apps.apple.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://0336579a-8cc8-0288-cfc1-890ba73094d8@147.182.156.111:1161?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-4",
-      "ip": "147.182.156.111",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://0336579a-8cc8-0288-cfc1-890ba73094d8@147.182.156.111:1161?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+      "rebuilt": "vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?security=reality&encryption=none&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ee94ded352b795#vless-xtls-rprx-vision-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     },
     {
       "type": "vless",
       "address": "184.107.106.68",
       "port": "443",
       "id": "716426fa-bcb7-4eb9-b460-36399ebf740d",
-      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "name": "🇹🇷@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
       "network": "tcp",
       "sni": "lizca2.footballfantasyforum.com",
       "host": "",
@@ -61,26 +41,6 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&headerType=none&type=tcp&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5"
-    },
-    {
-      "type": "vless",
-      "address": "147.182.156.111",
-      "port": "8039",
-      "id": "0336579a-8cc8-0288-cfc1-890ba73094d8",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://0336579a-8cc8-0288-cfc1-890ba73094d8@147.182.156.111:8039?flow=xtls-rprx-vision&encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowinsecure=0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-7",
-      "ip": "147.182.156.111",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://0336579a-8cc8-0288-cfc1-890ba73094d8@147.182.156.111:8039?flow=xtls-rprx-vision&encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowinsecure=0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-7"
     }
   ]
 }

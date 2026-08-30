@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-24T08:40:20.784142",
+  "updated": "2026-08-30T02:56:23.204557",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "85.155.228.58",
+      "address": "alblack.vodniki.monster",
       "port": "443",
-      "id": "2ab5d143-d8be-4506-b8ae-039fee32dfa2",
+      "id": "dabb9a19-03ab-4cdf-8963-d3c45eb0f80d",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "al1.cdn-global.pro",
+      "sni": "alblack.vodniki.monster",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://2ab5d143-d8be-4506-b8ae-039fee32dfa2@85.155.228.58:443?security=reality&encryption=none&pbk=7zCzgzF_vJYAVe3uvFLfkZ_YS-4FQ0SZM9Bjf_r9OBg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=al1.cdn-global.pro&sid=b868b87c347a451e#vless-xtls-rprx-vision-tcp-reality-firefox-AL%F0%9F%87%A6%F0%9F%87%B1-1",
-      "ip": "85.155.228.58",
+      "fingerprint": "chrome",
+      "original": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@alblack.vodniki.monster:443?security=reality&encryption=none&pbk=wTITbZ7gXSeLOTMLOVC4ePziVIyELIgQeaPihXrbqAk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alblack.vodniki.monster&sid=946b7ff3ebdd350c#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%87%A6%F0%9F%87%B1-1",
+      "ip": "45.89.60.235",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "vless://2ab5d143-d8be-4506-b8ae-039fee32dfa2@85.155.228.58:443?security=reality&encryption=none&pbk=7zCzgzF_vJYAVe3uvFLfkZ_YS-4FQ0SZM9Bjf_r9OBg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=al1.cdn-global.pro&sid=b868b87c347a451e#vless-xtls-rprx-vision-tcp-reality-firefox-AL%F0%9F%87%A6%F0%9F%87%B1-1"
+      "rebuilt": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@alblack.vodniki.monster:443?security=reality&encryption=none&pbk=wTITbZ7gXSeLOTMLOVC4ePziVIyELIgQeaPihXrbqAk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alblack.vodniki.monster&sid=946b7ff3ebdd350c#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%87%A6%F0%9F%87%B1-1"
     }
   ]
 }

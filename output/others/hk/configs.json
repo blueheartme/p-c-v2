@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-29T19:04:23.620820",
-  "count": 4,
+  "updated": "2026-08-30T02:56:23.111766",
+  "count": 6,
   "configs": [
-    {
-      "type": "vless",
-      "address": "hkayydswnnds.cfooov.xyz",
-      "port": "38218",
-      "id": "0234cdd9-35ee-40a5-b698-9820f09a04f5",
-      "name": "🇭🇰 HK 3",
-      "network": "",
-      "sni": "www.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://0234cdd9-35ee-40a5-b698-9820f09a04f5@hkayydswnnds.cfooov.xyz:38218?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=03hWBp-xwElEmilVxbhasf1Al0MZnvARUr4zclCV6S0&sid=30752ffd01a85649&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "18.166.74.242",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://0234cdd9-35ee-40a5-b698-9820f09a04f5@hkayydswnnds.cfooov.xyz:38218?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=03hWBp-xwElEmilVxbhasf1Al0MZnvARUr4zclCV6S0&sid=30752ffd01a85649&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
     {
       "type": "vless",
       "address": "134.122.202.244",
@@ -36,11 +16,25 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "134.122.202.244",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "trojan",
+      "address": "219.79.214.159",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "Hong Kong Netvigator",
+      "sni": "t.me%2Fripaojiedian",
+      "host": "",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "219.79.214.159",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     },
     {
       "type": "vless",
@@ -63,19 +57,59 @@
       "rebuilt": "vless://399c4c9b-27e1-37f1-9dce-22ccc2727a86@nian.001.url111.kcloud02.top:15007?flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=qVNutDFjEp3v2wjeUl_Yy6l9TXawXfSjAsFj3iktmRA&sid=2c4d005b&type=tcp&headerType=none&host=www.bing.com&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     },
     {
+      "type": "vless",
+      "address": "hkayydswnnds.cfooov.xyz",
+      "port": "38218",
+      "id": "0234cdd9-35ee-40a5-b698-9820f09a04f5",
+      "name": "🇭🇰 HK 3",
+      "network": "",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://0234cdd9-35ee-40a5-b698-9820f09a04f5@hkayydswnnds.cfooov.xyz:38218?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=03hWBp-xwElEmilVxbhasf1Al0MZnvARUr4zclCV6S0&sid=30752ffd01a85649&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "18.166.74.242",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://0234cdd9-35ee-40a5-b698-9820f09a04f5@hkayydswnnds.cfooov.xyz:38218?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=03hWBp-xwElEmilVxbhasf1Al0MZnvARUr4zclCV6S0&sid=30752ffd01a85649&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+    },
+    {
+      "type": "vless",
+      "address": "nian.001.url111.kcloud02.top",
+      "port": "15006",
+      "id": "399c4c9b-27e1-37f1-9dce-22ccc2727a86",
+      "name": "🇭🇰 HK 2",
+      "network": "",
+      "sni": "www.adobe.com",
+      "host": "",
+      "security": "tls",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://399c4c9b-27e1-37f1-9dce-22ccc2727a86@nian.001.url111.kcloud02.top:15006?flow=xtls-rprx-vision&security=tls&sni=www.adobe.com&fp=chrome&pbk=g9KZONtwSL8mL772rps2nXVAuQpsgHY33K_pHpI89Rg&sid=029a6cc4&path=%2f#vless-xtls-rprx-vision-tcp-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-5",
+      "ip": "82.38.46.66",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://399c4c9b-27e1-37f1-9dce-22ccc2727a86@nian.001.url111.kcloud02.top:15006?flow=xtls-rprx-vision&security=tls&sni=www.adobe.com&fp=chrome&pbk=g9KZONtwSL8mL772rps2nXVAuQpsgHY33K_pHpI89Rg&sid=029a6cc4&path=%2f#vless-xtls-rprx-vision-tcp-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-5"
+    },
+    {
       "type": "vmess",
       "address": "156.245.232.239",
       "port": "35043",
       "id": "b15e481d-17e4-41a8-84c2-23d4f0514d9a",
-      "name": "برای اتصال دائمی جوین شو🕖 TelegramID ⌲Express_freevpn 🪩",
+      "name": "☑➜چنلمون: Express_freevpn@",
       "network": "ws",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSEvwn4et8J+HsC00Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "original": "vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSEvwn4et8J+HsC02Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9",
       "ip": "156.245.232.239",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSEvwn4et8J+HsC00Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9"
+      "rebuilt": "vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSEvwn4et8J+HsC02Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9"
     }
   ]
 }

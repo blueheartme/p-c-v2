@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-29T00:19:30.794996",
+  "updated": "2026-08-30T02:56:23.204061",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "5.253.42.163",
-      "port": "40443",
-      "id": "15fd22d1-8931-4d41-af37-8ba6711e93fe",
+      "address": "65.20.84.60",
+      "port": "443",
+      "id": "OwLimbo",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "deepl.com",
+      "sni": "amp-api-edge.apps.apple.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@5.253.42.163:40443?security=reality&encryption=none&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=84fc#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "5.253.42.163",
+      "fingerprint": "chrome",
+      "original": "vless://OwLimbo@65.20.84.60:443?security=reality&encryption=none&pbk=rW32mnGIawfF0HfU6-NYsue8jXVfGIBgEwgIEHC-FBY&headerType=none&fp=chrome&spx=%2Fr50vEOL8TAVH9eX&type=tcp&sni=amp-api-edge.apps.apple.com&sid=485c0fafd745#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "65.20.84.60",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@5.253.42.163:40443?security=reality&encryption=none&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=84fc#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vless://OwLimbo@65.20.84.60:443?security=reality&encryption=none&pbk=rW32mnGIawfF0HfU6-NYsue8jXVfGIBgEwgIEHC-FBY&headerType=none&fp=chrome&spx=%2Fr50vEOL8TAVH9eX&type=tcp&sni=amp-api-edge.apps.apple.com&sid=485c0fafd745#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }
