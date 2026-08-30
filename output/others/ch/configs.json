@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T13:28:08.836323",
+  "updated": "2026-08-30T18:59:13.196087",
   "count": 2,
   "configs": [
     {
@@ -23,18 +23,24 @@
       "rebuilt": "vless://TradeIP.t.me@83.228.235.10:8443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=%2Fd5029e289305f39&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=285efec4#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
-      "type": "trojan",
-      "address": "tr-switzerlandgopota.unlimited-access.ru",
+      "type": "vless",
+      "address": "channel.tradeip.store",
       "port": "443",
-      "password": "kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi",
-      "name": "🇨🇭 CH 1",
-      "sni": "tr-switzerlandgopota.unlimited-access.ru",
+      "id": "t.me.TradeIP",
+      "name": "⚡️ 𝗡𝗲𝗧𝗠𝗲𝗹𝗶 ⚡️ | @prrofile_purple",
+      "network": "tcp",
+      "sni": "play.google.com",
       "host": "",
-      "original": "trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?security=tls&sni=tr-switzerlandgopota.unlimited-access.ru&alpn=http%2f1.1&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "45.95.232.189",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://t.me.TradeIP@channel.tradeip.store:443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=%2F000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=285efec4#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "179.237.73.187",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?security=tls&sni=tr-switzerlandgopota.unlimited-access.ru&alpn=http%2f1.1&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://t.me.TradeIP@channel.tradeip.store:443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=%2F000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=285efec4#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }
