@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-30T18:59:13.192809",
-  "count": 5,
+  "updated": "2026-08-31T02:50:05.753830",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "134.122.202.244",
+      "port": "44915",
+      "id": "0ca45842-71e2-47fe-889f-9e75f93ea459",
+      "name": "🇯🇵 JP 3",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "134.122.202.244",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
     {
       "type": "vmess",
       "address": "47.244.120.197",
@@ -11,31 +31,11 @@
       "network": "ws",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjQ0ODY3IiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
+      "original": "vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjQ0ODY3IiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1IS/Cfh63wn4ewLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
       "ip": "47.244.120.197",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjQ0ODY3IiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
-    },
-    {
-      "type": "vless",
-      "address": "134.122.202.244",
-      "port": "44915",
-      "id": "0ca45842-71e2-47fe-889f-9e75f93ea459",
-      "name": "🇯🇵 JP 4",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "134.122.202.244",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjQ0ODY3IiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1IS/Cfh63wn4ewLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
     },
     {
       "type": "vmess",
@@ -65,21 +65,6 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
-    },
-    {
-      "type": "vmess",
-      "address": "156.245.232.239",
-      "port": "35043",
-      "id": "b15e481d-17e4-41a8-84c2-23d4f0514d9a",
-      "name": "☑➜چنلمون: Express_freevpn@",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSEvwn4et8J+HsC01Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "156.245.232.239",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSEvwn4et8J+HsC01Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9"
     }
   ]
 }

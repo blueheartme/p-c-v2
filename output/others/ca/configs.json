@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T18:59:13.201864",
-  "count": 5,
+  "updated": "2026-08-31T02:50:05.750033",
+  "count": 8,
   "configs": [
     {
       "type": "ss",
@@ -17,6 +17,64 @@
     },
     {
       "type": "vless",
+      "address": "172.105.104.54",
+      "port": "58676",
+      "id": "e9076558-2c9b-4c39-9b52-220f932c570f",
+      "name": "☑➜چنلمون: Express_freevpn@",
+      "network": "tcp",
+      "sni": "www.intel.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?security=reality&encryption=none&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ee94ded352b795#vless-xtls-rprx-vision-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "ip": "172.105.104.54",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?security=reality&encryption=none&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ee94ded352b795#vless-xtls-rprx-vision-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+    },
+    {
+      "type": "ss",
+      "address": "51.79.64.198",
+      "port": "8119?",
+      "method": "aes-256-gcm",
+      "password": "cdBIDV42DCwnfIN",
+      "name": "Channel: @0proxy_kafee",
+      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119?#Channel%3A%20%400proxy_kafee",
+      "ip": "51.79.64.198",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119?#Channel%3A%20%400proxy_kafee"
+    },
+    {
+      "type": "ss",
+      "address": "51.79.64.198",
+      "port": "8119",
+      "method": "aes-256-gcm",
+      "password": "cdBIDV42DCwnfIN",
+      "name": "@i10VPN⚡",
+      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1",
+      "ip": "51.79.64.198",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1"
+    },
+    {
+      "type": "tg",
+      "address": "t.meow-network.com",
+      "port": "443",
+      "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
+      "ip": "104.234.77.117",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
+    },
+    {
+      "type": "vless",
       "address": "184.107.106.68",
       "port": "443",
       "id": "716426fa-bcb7-4eb9-b460-36399ebf740d",
@@ -29,11 +87,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-6",
       "ip": "184.107.106.68",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-6"
     },
     {
       "type": "ss",
@@ -60,26 +118,6 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#Free%20x52%20%40Outline_Vpn"
-    },
-    {
-      "type": "vless",
-      "address": "172.105.104.54",
-      "port": "58676",
-      "id": "e9076558-2c9b-4c39-9b52-220f932c570f",
-      "name": "☑➜چنلمون: Express_freevpn@",
-      "network": "tcp",
-      "sni": "www.intel.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?security=reality&encryption=none&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ee94ded352b795#vless-xtls-rprx-vision-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-5",
-      "ip": "172.105.104.54",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?security=reality&encryption=none&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ee94ded352b795#vless-xtls-rprx-vision-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-5"
     }
   ]
 }
