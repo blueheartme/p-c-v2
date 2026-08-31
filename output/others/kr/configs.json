@@ -1,37 +1,19 @@
 {
-  "updated": "2026-08-30T18:59:13.205113",
-  "count": 2,
+  "updated": "2026-08-31T21:15:52.016441",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "43.203.242.114",
-      "port": "12359",
-      "id": "78990f64-7bc8-48b9-a127-0d5545593a38",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "www.tesla.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://78990f64-7bc8-48b9-a127-0d5545593a38@43.203.242.114:12359?security=reality&encryption=none&pbk=8SUi1EG0YaPd7spjghl2QcZYvuJfEtPjqR9Vpzgc2Q4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=8f30f2fa8282cebc#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "43.203.242.114",
+      "type": "ss",
+      "address": "141.164.45.187",
+      "port": "8119",
+      "method": "aes-256-gcm",
+      "password": "cdBIDV42DCwnfIN",
+      "name": "🇰🇷 KR 3",
+      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#%f0%9f%87%b0%f0%9f%87%b7%20KR%203",
+      "ip": "141.164.45.187",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://78990f64-7bc8-48b9-a127-0d5545593a38@43.203.242.114:12359?security=reality&encryption=none&pbk=8SUi1EG0YaPd7spjghl2QcZYvuJfEtPjqR9Vpzgc2Q4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=8f30f2fa8282cebc#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-1"
-    },
-    {
-      "type": "hysteria2",
-      "address": "140.238.31.111",
-      "port": "20000",
-      "name": "Channel : @proxy_kafee",
-      "original": "hysteria2://C0DD7bgChaltqnh%2FT2az6ijM@140.238.31.111:20000?security=tls&obfs=salamander&obfs-password=C0DD7bgChaltqnh%2FT2az6ijM&insecure=0&sni=rmgyvpn.rest#hysteria2-udp-KR%F0%9F%87%B0%F0%9F%87%B7-2",
-      "ip": "140.238.31.111",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "hysteria2://C0DD7bgChaltqnh%2FT2az6ijM@140.238.31.111:20000?security=tls&obfs=salamander&obfs-password=C0DD7bgChaltqnh%2FT2az6ijM&insecure=0&sni=rmgyvpn.rest#hysteria2-udp-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#%f0%9f%87%b0%f0%9f%87%b7%20KR%203"
     }
   ]
 }

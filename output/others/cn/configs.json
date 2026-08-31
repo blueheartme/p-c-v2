@@ -1,21 +1,32 @@
 {
-  "updated": "2026-08-29T13:32:03.743562",
-  "count": 1,
+  "updated": "2026-08-31T21:15:52.012498",
+  "count": 2,
   "configs": [
     {
-      "type": "vmess",
-      "address": "v45.hdacd.com",
-      "port": "30845",
-      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
-      "name": "🇨🇳 CN 1",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNO8J+HqPCfh7MtMSIsImFkZCI6InY0NS5oZGFjZC5jb20iLCJwb3J0IjozMDg0NSwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "193.112.217.129",
+      "type": "ss",
+      "address": "121.46.230.232",
+      "port": "65443",
+      "method": "aes-256-cfb",
+      "password": "7eadc6dbe2ae",
+      "name": "🇨🇳 CN 2",
+      "original": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#%f0%9f%87%a8%f0%9f%87%b3%20CN%202",
+      "ip": "121.46.230.232",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNO8J+HqPCfh7MtMSIsImFkZCI6InY0NS5oZGFjZC5jb20iLCJwb3J0IjozMDg0NSwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#%f0%9f%87%a8%f0%9f%87%b3%20CN%202"
+    },
+    {
+      "type": "ss",
+      "address": "121.46.230.233",
+      "port": "65443",
+      "method": "aes-256-cfb",
+      "password": "7eadc6dbe2ae",
+      "name": "🇨🇳 CN 3",
+      "original": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#%f0%9f%87%a8%f0%9f%87%b3%20CN%203",
+      "ip": "121.46.230.233",
+      "country": "CN",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#%f0%9f%87%a8%f0%9f%87%b3%20CN%203"
     }
   ]
 }
