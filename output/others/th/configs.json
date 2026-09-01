@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T12:57:01.054704",
-  "count": 1,
+  "updated": "2026-09-01T19:07:18.357498",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,19 @@
       "country": "TH",
       "cdn": null,
       "rebuilt": "vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?path=%2F&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#vless-ws-TH%F0%9F%87%B9%F0%9F%87%AD-1"
+    },
+    {
+      "type": "ss",
+      "address": "103.169.67.34",
+      "port": "65443",
+      "method": "aes-256-cfb",
+      "password": "7eadc6dbe2ae",
+      "name": "🇹🇭 TH 1",
+      "original": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%f0%9f%87%b9%f0%9f%87%ad%20TH%201",
+      "ip": "103.169.67.34",
+      "country": "TH",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%f0%9f%87%b9%f0%9f%87%ad%20TH%201"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-01T12:57:01.092310",
+  "updated": "2026-09-01T19:07:18.403527",
   "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "139.59.124.172",
-      "port": "443",
-      "id": "54a9c202-cfe9-4bb8-826c-653a52a96c6d",
-      "name": "برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "8.sahanwickramasinghe.me",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#vless-tcp-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "139.59.124.172",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#vless-tcp-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
     {
       "type": "vless",
       "address": "54.169.168.70",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://e77f740b-609e-41e0-86e7-14881c1185ea@54.169.168.70:12346?security=reality&encryption=none&pbk=8CbVZ66WQw2bBVlxbQuCZu9WmbFcxzY6nNSz1JcQZkE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a739eb7afcffa605#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-5",
+      "original": "vless://e77f740b-609e-41e0-86e7-14881c1185ea@54.169.168.70:12346?security=reality&encryption=none&pbk=8CbVZ66WQw2bBVlxbQuCZu9WmbFcxzY6nNSz1JcQZkE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a739eb7afcffa605#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "54.169.168.70",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://e77f740b-609e-41e0-86e7-14881c1185ea@54.169.168.70:12346?security=reality&encryption=none&pbk=8CbVZ66WQw2bBVlxbQuCZu9WmbFcxzY6nNSz1JcQZkE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a739eb7afcffa605#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-5"
+      "rebuilt": "vless://e77f740b-609e-41e0-86e7-14881c1185ea@54.169.168.70:12346?security=reality&encryption=none&pbk=8CbVZ66WQw2bBVlxbQuCZu9WmbFcxzY6nNSz1JcQZkE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a739eb7afcffa605#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     },
     {
       "type": "vless",
@@ -56,11 +36,31 @@
       "encryption": "mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-6",
-      "ip": "43.174.246.25",
+      "original": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "43.174.247.25",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-6"
+      "rebuilt": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+    },
+    {
+      "type": "vless",
+      "address": "139.59.124.172",
+      "port": "443",
+      "id": "54a9c202-cfe9-4bb8-826c-653a52a96c6d",
+      "name": "برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "8.sahanwickramasinghe.me",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#vless-tcp-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "139.59.124.172",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#vless-tcp-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }

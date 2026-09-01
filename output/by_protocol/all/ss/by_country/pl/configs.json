@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T12:57:01.163539",
-  "count": 4,
+  "updated": "2026-09-01T19:07:18.480669",
+  "count": 6,
   "configs": [
     {
       "type": "ss",
@@ -8,25 +8,25 @@
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "ytw2awn",
-      "name": "🇵🇱 PL 2",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%202",
+      "name": "🇵🇱 PL 3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%203",
       "ip": "54.36.174.140",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%202"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%203"
     },
     {
       "type": "ss",
-      "address": "54.36.174.134",
+      "address": "pl134.vpnbook.com",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "ytw2awn",
-      "name": "🇵🇱 PL 4",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%204",
+      "name": "🇵🇱 PL 2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%202",
       "ip": "54.36.174.134",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%204"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%202"
     },
     {
       "type": "ss",
@@ -43,16 +43,42 @@
     },
     {
       "type": "ss",
-      "address": "pl134.vpnbook.com",
+      "address": "pl140.vpnbook.com",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "ytw2awn",
-      "name": "🇵🇱 PL 3",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%203",
+      "name": "🇵🇱 PL 4",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%204",
+      "ip": "54.36.174.140",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%204"
+    },
+    {
+      "type": "ss",
+      "address": "194.61.121.93",
+      "port": "7538",
+      "method": "chacha20-ietf-poly1305",
+      "password": "U9YAoqBgg5VyGBc6vQv1sN",
+      "name": "🇵🇱 PL 6",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#%f0%9f%87%b5%f0%9f%87%b1%20PL%206",
+      "ip": "194.61.121.93",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#%f0%9f%87%b5%f0%9f%87%b1%20PL%206"
+    },
+    {
+      "type": "ss",
+      "address": "54.36.174.134",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ytw2awn",
+      "name": "🇵🇱 PL 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%201",
       "ip": "54.36.174.134",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%203"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%201"
     }
   ]
 }

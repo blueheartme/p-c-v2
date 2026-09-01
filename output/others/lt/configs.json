@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T12:57:01.055393",
-  "count": 1,
+  "updated": "2026-09-01T19:07:18.356643",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,19 @@
       "country": "LT",
       "cdn": null,
       "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+    },
+    {
+      "type": "ss",
+      "address": "144.31.243.2",
+      "port": "16015",
+      "method": "chacha20-ietf-poly1305",
+      "password": "J1InuU6QRT5JOh1mQfkjU2",
+      "name": "🇱🇹 LT 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#%f0%9f%87%b1%f0%9f%87%b9%20LT%201",
+      "ip": "144.31.243.2",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#%f0%9f%87%b1%f0%9f%87%b9%20LT%201"
     }
   ]
 }
