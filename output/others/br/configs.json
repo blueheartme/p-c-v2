@@ -1,19 +1,26 @@
 {
-  "updated": "2026-08-29T00:19:30.736782",
+  "updated": "2026-09-01T12:57:01.023843",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "137.131.128.103",
-      "port": "59319",
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "GGGJ69mNdkRpgCbE/lUZvtaebOqshKW8PVWgIUaaRHc=",
+      "type": "vless",
+      "address": "147.45.116.52",
+      "port": "443",
+      "id": "a34b5e88-cf0d-4c01-8199-2d1002d3c787",
       "name": "@meliproxyy",
-      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R0dHSjY5bU5ka1JwZ0NiRS9sVVp2dGFlYk9xc2hLVzhQVldnSVVhYVJIYz0@137.131.128.103:59319#@meliproxyy",
-      "ip": "137.131.128.103",
+      "network": "tcp",
+      "sni": "www.wikihow.com",
+      "host": "--v2rayNplus--v2rayNplus--v2rayNplus--",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@147.45.116.52:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#vless-xtls-rprx-vision-tcp-reality-firefox-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "ip": "147.45.116.52",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R0dHSjY5bU5ka1JwZ0NiRS9sVVp2dGFlYk9xc2hLVzhQVldnSVVhYVJIYz0@137.131.128.103:59319#@meliproxyy"
+      "rebuilt": "vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@147.45.116.52:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#vless-xtls-rprx-vision-tcp-reality-firefox-BR%F0%9F%87%A7%F0%9F%87%B7-1"
     }
   ]
 }

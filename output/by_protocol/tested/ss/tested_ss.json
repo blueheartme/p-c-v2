@@ -1,7 +1,22 @@
 {
-  "updated": "2026-09-01T02:59:44.841877",
-  "count": 4,
+  "updated": "2026-09-01T12:57:01.181680",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "209.46.102.22",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "1hhrqrokj3ag",
+      "name": "🇩🇪 DE 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%201",
+      "ip": "209.46.102.22",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%201"
+    },
     {
       "type": "ss",
       "address": "51.195.126.38",
@@ -31,36 +46,6 @@
       "tested": true,
       "working": true,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%f0%9f%87%b5%f0%9f%87%b1%20PL%201"
-    },
-    {
-      "type": "ss",
-      "address": "209.46.102.22",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "1hhrqrokj3ag",
-      "name": "🇩🇪 DE 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%201",
-      "ip": "209.46.102.22",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%201"
-    },
-    {
-      "type": "ss",
-      "address": "8.209.74.72",
-      "port": "20001",
-      "method": "chacha20-ietf-poly1305",
-      "password": "PWpjPo3tqhPN4yRZ",
-      "name": "🇩🇪 DE 9",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%f0%9f%87%a9%f0%9f%87%aa%20DE%209",
-      "ip": "8.209.74.72",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%f0%9f%87%a9%f0%9f%87%aa%20DE%209"
     }
   ]
 }
