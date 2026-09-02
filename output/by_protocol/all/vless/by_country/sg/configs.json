@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T12:27:02.854331",
+  "updated": "2026-09-02T19:09:30.702960",
   "count": 2,
   "configs": [
     {
@@ -16,31 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#vless-tcp-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "original": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#vless-tcp-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-3",
       "ip": "139.59.124.172",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#vless-tcp-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#vless-tcp-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     },
     {
       "type": "vless",
-      "address": "54.169.168.70",
-      "port": "12346",
-      "id": "e77f740b-609e-41e0-86e7-14881c1185ea",
+      "address": "146.235.16.130",
+      "port": "19825",
+      "id": "2d1ad594-80a4-4bfb-87a6-038e39701f51",
       "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "www.intel.com",
-      "host": "",
+      "sni": "sg2-8sb.6121999.dpdns.org",
+      "host": "Telegram-Leviko_v2ray",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://e77f740b-609e-41e0-86e7-14881c1185ea@54.169.168.70:12346?security=reality&encryption=none&pbk=8CbVZ66WQw2bBVlxbQuCZu9WmbFcxzY6nNSz1JcQZkE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a739eb7afcffa605#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "54.169.168.70",
+      "fingerprint": "",
+      "original": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "146.235.16.130",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://e77f740b-609e-41e0-86e7-14881c1185ea@54.169.168.70:12346?security=reality&encryption=none&pbk=8CbVZ66WQw2bBVlxbQuCZu9WmbFcxzY6nNSz1JcQZkE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a739eb7afcffa605#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }

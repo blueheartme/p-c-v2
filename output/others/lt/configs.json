@@ -1,39 +1,26 @@
 {
-  "updated": "2026-09-02T12:27:02.803442",
-  "count": 2,
+  "updated": "2026-09-02T19:09:30.667881",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "144.31.243.2",
-      "port": "16015",
-      "method": "chacha20-ietf-poly1305",
-      "password": "J1InuU6QRT5JOh1mQfkjU2",
-      "name": "🇱🇹 LT 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#%f0%9f%87%b1%f0%9f%87%b9%20LT%201",
-      "ip": "144.31.243.2",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#%f0%9f%87%b1%f0%9f%87%b9%20LT%201"
-    },
-    {
       "type": "vless",
-      "address": "88.119.176.24",
+      "address": "ltu-02.node.lumixnet.com",
       "port": "443",
-      "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
-      "name": "Free x83 @Outline_Vpn",
+      "id": "8645697d-51c1-4e90-aca5-ba63a0392f11",
+      "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "lit9.helper-internet.com",
-      "host": "",
+      "sni": "ltu-02.node.lumixnet.com",
+      "host": "v2rayNplus--v2rayNplus--v2rayNplus",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-2",
-      "ip": "88.119.176.24",
+      "original": "vless://8645697d-51c1-4e90-aca5-ba63a0392f11@ltu-02.node.lumixnet.com:443?security=reality&encryption=none&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ltu-02.node.lumixnet.com&sid=bd8a588cebc3395a#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "31.76.83.172",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-2"
+      "rebuilt": "vless://8645697d-51c1-4e90-aca5-ba63a0392f11@ltu-02.node.lumixnet.com:443?security=reality&encryption=none&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ltu-02.node.lumixnet.com&sid=bd8a588cebc3395a#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1"
     }
   ]
 }

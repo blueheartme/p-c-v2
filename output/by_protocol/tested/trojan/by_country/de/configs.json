@@ -1,22 +1,22 @@
 {
-  "updated": "2026-08-29T13:32:03.829657",
+  "updated": "2026-09-02T19:09:30.734274",
   "count": 1,
   "configs": [
     {
       "type": "trojan",
-      "address": "45.80.111.7",
+      "address": "88.99.189.60",
       "port": "443",
       "password": "humanity",
       "name": "@meliproxyy",
       "sni": "www.calmlunch.com",
-      "host": "",
-      "original": "trojan://humanity@45.80.111.7:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-56",
-      "ip": "45.80.111.7",
+      "host": "www.calmlunch.com",
+      "original": "trojan://humanity@88.99.189.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-154",
+      "ip": "88.99.189.60",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@45.80.111.7:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-56"
+      "rebuilt": "trojan://humanity@88.99.189.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-154"
     }
   ]
 }
