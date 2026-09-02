@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-02T02:20:01.163570",
+  "updated": "2026-09-02T12:27:02.845409",
   "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "maple.adaspoloandco.com",
-      "port": "8443",
-      "id": "db3f09ae-23f2-42b8-abee-7b89fb392c5e",
-      "name": "☑➜چنلمون: Express_freevpn@",
-      "network": "ws",
-      "sni": "maple.adaspoloandco.com",
+      "address": "130.107.73.148",
+      "port": "41373",
+      "id": "a71c8954-66a8-4321-bedb-2336230d81ce",
+      "name": "Free x103 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "google.com",
       "host": "",
-      "security": "tls",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-8",
-      "ip": "54.39.96.233",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-6",
+      "ip": "130.107.73.148",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-8"
+      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-6"
     },
     {
       "type": "vless",
@@ -36,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "qq",
-      "original": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@54.39.96.233:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vless-ws-tls-qq-CA%F0%9F%87%A8%F0%9F%87%A6-9",
+      "original": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@54.39.96.233:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vless-ws-tls-qq-CA%F0%9F%87%A8%F0%9F%87%A6-7",
       "ip": "54.39.96.233",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@54.39.96.233:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vless-ws-tls-qq-CA%F0%9F%87%A8%F0%9F%87%A6-9"
+      "rebuilt": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@54.39.96.233:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vless-ws-tls-qq-CA%F0%9F%87%A8%F0%9F%87%A6-7"
     }
   ]
 }
