@@ -1,7 +1,22 @@
 {
-  "updated": "2026-09-03T02:27:29.397403",
+  "updated": "2026-09-03T12:27:38.225366",
   "count": 2,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "140.238.2.250",
+      "port": "443",
+      "id": "41a7089a-040b-4538-8b8d-010902405bde",
+      "name": "🇰🇷 KR 1",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMSIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "140.238.2.250",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMSIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
     {
       "type": "vless",
       "address": "43.202.46.25",
@@ -16,26 +31,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "original": "vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-2",
       "ip": "43.202.46.25",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vmess",
-      "address": "140.238.2.250",
-      "port": "443",
-      "id": "41a7089a-040b-4538-8b8d-010902405bde",
-      "name": "🇰🇷 KR 1",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMiIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "140.238.2.250",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMiIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-2"
     }
   ]
 }

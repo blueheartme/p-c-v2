@@ -1,21 +1,26 @@
 {
-  "updated": "2026-09-03T02:27:29.391346",
-  "count": 4,
+  "updated": "2026-09-03T12:27:38.229945",
+  "count": 2,
   "configs": [
     {
-      "type": "vmess",
-      "address": "ww11.levikogjgfdd.ir",
-      "port": "18000",
-      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "type": "vless",
+      "address": "146.235.16.130",
+      "port": "19825",
+      "id": "2d1ad594-80a4-4bfb-87a6-038e39701f51",
       "name": "@meliproxyy",
       "network": "tcp",
+      "sni": "sg2-8sb.6121999.dpdns.org",
       "host": "Telegram-Leviko_v2ray",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
-      "ip": "149.88.23.207",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "146.235.16.130",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+      "rebuilt": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     },
     {
       "type": "vmess",
@@ -31,46 +36,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
-    },
-    {
-      "type": "vless",
-      "address": "139.59.124.172",
-      "port": "443",
-      "id": "54a9c202-cfe9-4bb8-826c-653a52a96c6d",
-      "name": "برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "8.sahanwickramasinghe.me",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#vless-tcp-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "139.59.124.172",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#vless-tcp-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-3"
-    },
-    {
-      "type": "vless",
-      "address": "146.235.16.130",
-      "port": "19825",
-      "id": "2d1ad594-80a4-4bfb-87a6-038e39701f51",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "sg2-8sb.6121999.dpdns.org",
-      "host": "Telegram-Leviko_v2ray",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-4",
-      "ip": "146.235.16.130",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }

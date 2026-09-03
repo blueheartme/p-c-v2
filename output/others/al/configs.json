@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-03T02:27:29.385582",
+  "updated": "2026-09-03T12:27:38.239832",
   "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "130.49.189.158",
+      "port": "10792",
+      "method": "chacha20-ietf-poly1305",
+      "password": "EVXeUUW84vJeLkFojcamg4",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVlhlVVVXODR2SmVMa0ZvamNhbWc0@130.49.189.158:10792#@meliproxyy",
+      "ip": "130.49.189.158",
+      "country": "AL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVlhlVVVXODR2SmVMa0ZvamNhbWc0@130.49.189.158:10792#@meliproxyy"
+    },
     {
       "type": "vless",
       "address": "45.89.60.235",
@@ -16,24 +29,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@45.89.60.235:443?security=reality&encryption=none&pbk=wTITbZ7gXSeLOTMLOVC4ePziVIyELIgQeaPihXrbqAk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alblack.vodniki.monster&sid=946b7ff3ebdd350c#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%87%A6%F0%9F%87%B1-1",
+      "original": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@45.89.60.235:443?security=reality&encryption=none&pbk=wTITbZ7gXSeLOTMLOVC4ePziVIyELIgQeaPihXrbqAk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alblack.vodniki.monster&sid=946b7ff3ebdd350c#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%87%A6%F0%9F%87%B1-2",
       "ip": "45.89.60.235",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@45.89.60.235:443?security=reality&encryption=none&pbk=wTITbZ7gXSeLOTMLOVC4ePziVIyELIgQeaPihXrbqAk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alblack.vodniki.monster&sid=946b7ff3ebdd350c#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%87%A6%F0%9F%87%B1-1"
-    },
-    {
-      "type": "ss",
-      "address": "130.49.189.158",
-      "port": "10792",
-      "method": "chacha20-ietf-poly1305",
-      "password": "EVXeUUW84vJeLkFojcamg4",
-      "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVlhlVVVXODR2SmVMa0ZvamNhbWc0@130.49.189.158:10792#@meliproxyy",
-      "ip": "130.49.189.158",
-      "country": "AL",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVlhlVVVXODR2SmVMa0ZvamNhbWc0@130.49.189.158:10792#@meliproxyy"
+      "rebuilt": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@45.89.60.235:443?security=reality&encryption=none&pbk=wTITbZ7gXSeLOTMLOVC4ePziVIyELIgQeaPihXrbqAk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alblack.vodniki.monster&sid=946b7ff3ebdd350c#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%87%A6%F0%9F%87%B1-2"
     }
   ]
 }
