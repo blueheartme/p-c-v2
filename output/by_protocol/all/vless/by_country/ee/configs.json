@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-02T19:09:30.704302",
+  "updated": "2026-09-03T02:27:29.452544",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "185.174.135.28",
-      "port": "443",
-      "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
-      "name": "☑➜چنلمون: Express_freevpn@",
-      "network": "tcp",
-      "sni": "eston8.helper-internet.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@185.174.135.28:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eston8.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-1",
-      "ip": "185.174.135.28",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@185.174.135.28:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eston8.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-1"
-    },
     {
       "type": "vless",
       "address": "188.255.236.213",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "random",
-      "original": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "original": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-1",
       "ip": "188.255.236.213",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-2"
+      "rebuilt": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "185.174.135.28",
+      "port": "443",
+      "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
+      "name": "☑➜چنلمون: Express_freevpn@",
+      "network": "tcp",
+      "sni": "eston8.helper-internet.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@185.174.135.28:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eston8.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "ip": "185.174.135.28",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@185.174.135.28:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eston8.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-2"
     }
   ]
 }
