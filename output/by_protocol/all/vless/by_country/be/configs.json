@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-03T12:27:38.295874",
-  "count": 2,
+  "updated": "2026-09-03T19:01:42.685414",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "be2.wba-pn.ru",
-      "port": "443",
-      "id": "08f84d53-e262-459c-a15a-26213e7a07c9",
-      "name": "Free x18 @Outline_Vpn",
-      "network": "ws",
-      "sni": "be2.wba-pn.ru",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-BE%F0%9F%87%A7%F0%9F%87%AA-1",
-      "ip": "113.30.152.6",
-      "country": "BE",
-      "cdn": null,
-      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-BE%F0%9F%87%A7%F0%9F%87%AA-1"
-    },
     {
       "type": "vless",
       "address": "113.30.152.6",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-2",
+      "original": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-1",
       "ip": "113.30.152.6",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-2"
+      "rebuilt": "vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#vless-ws-tls-chrome-BE%F0%9F%87%A7%F0%9F%87%AA-1"
     }
   ]
 }

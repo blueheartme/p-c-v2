@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-03T12:27:38.289856",
+  "updated": "2026-09-03T19:01:42.678674",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "207.56.137.51",
-      "port": "443",
-      "id": "01ada9fb-fa2f-45da-a0d0-bce80cdf433b",
-      "name": "@i10VPN✨",
+      "address": "118.167.230.216",
+      "port": "24215",
+      "id": "19d5a678-8396-4e3b-93da-ece618d0e83a",
+      "name": "7691",
       "network": "tcp",
-      "sni": "www.cloudflare.com",
+      "sni": "addons.mozilla.org",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1",
-      "ip": "207.56.137.51",
+      "fingerprint": "firefox",
+      "original": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.230.216:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=firefox&type=tcp&sni=addons.mozilla.org#vless-tcp-reality-firefox-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "ip": "118.167.230.216",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.230.216:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=firefox&type=tcp&sni=addons.mozilla.org#vless-tcp-reality-firefox-TW%F0%9F%87%B9%F0%9F%87%BC-1"
     }
   ]
 }
