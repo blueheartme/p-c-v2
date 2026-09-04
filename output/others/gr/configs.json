@@ -1,26 +1,46 @@
 {
-  "updated": "2026-08-31T15:44:50.892315",
-  "count": 1,
+  "updated": "2026-09-04T18:45:30.198307",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "217.12.194.226",
+      "address": "gr.freeinternat.com",
       "port": "443",
-      "id": "b8cff836-8a21-4b72-a77d-231c8678c711",
-      "name": "@meliproxyy",
+      "id": "dabb9a19-03ab-4cdf-8963-d3c45eb0f80d",
+      "name": "🇬🇷 GR 1",
       "network": "tcp",
-      "sni": "www.cloudflare.com",
+      "sni": "gr.freeinternat.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://b8cff836-8a21-4b72-a77d-231c8678c711@217.12.194.226:443?security=reality&encryption=none&pbk=oOp4xgD1R9MGm17qYp4XIHiq1dAfTaknr39UvhOv8Gc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=ab55ed2e71e8f58e#vless-xtls-rprx-vision-tcp-reality-firefox-GR%F0%9F%87%AC%F0%9F%87%B7-1",
-      "ip": "217.12.194.226",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?flow=xtls-rprx-vision&security=reality&sni=gr.freeinternat.com&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-GR%F0%9F%87%AC%F0%9F%87%B7-1",
+      "ip": "85.90.197.91",
       "country": "GR",
       "cdn": null,
-      "rebuilt": "vless://b8cff836-8a21-4b72-a77d-231c8678c711@217.12.194.226:443?security=reality&encryption=none&pbk=oOp4xgD1R9MGm17qYp4XIHiq1dAfTaknr39UvhOv8Gc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=ab55ed2e71e8f58e#vless-xtls-rprx-vision-tcp-reality-firefox-GR%F0%9F%87%AC%F0%9F%87%B7-1"
+      "rebuilt": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?flow=xtls-rprx-vision&security=reality&sni=gr.freeinternat.com&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-GR%F0%9F%87%AC%F0%9F%87%B7-1"
+    },
+    {
+      "type": "vless",
+      "address": "185.126.238.87",
+      "port": "2083",
+      "id": "7668f678-faee-40cc-9b56-9c39dc773388",
+      "name": "@meliproxyy",
+      "network": "grpc",
+      "sni": "",
+      "host": "--v2rayNplus--v2rayNplus--v2rayNplus--",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=&encryption=none&authority=--v2rayNplus--v2rayNplus--v2rayNplus--&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%87%AC%F0%9F%87%B7-2",
+      "ip": "185.126.238.87",
+      "country": "GR",
+      "cdn": null,
+      "rebuilt": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=&encryption=none&authority=--v2rayNplus--v2rayNplus--v2rayNplus--&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%87%AC%F0%9F%87%B7-2"
     }
   ]
 }

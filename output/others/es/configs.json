@@ -1,41 +1,7 @@
 {
-  "updated": "2026-09-04T12:26:09.022784",
-  "count": 3,
+  "updated": "2026-09-04T18:45:30.171168",
+  "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "213.182.199.137",
-      "port": "443",
-      "password": "humanity",
-      "name": "برای اتصال دائمی جوین شو🥎 TelegramID ⌲Express_freevpn 🪩",
-      "sni": "www.pleadcourt.org",
-      "host": "www.pleadcourt.org",
-      "original": "trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1",
-      "ip": "213.182.199.137",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1"
-    },
-    {
-      "type": "vless",
-      "address": "193.238.154.18",
-      "port": "443",
-      "id": "2297ea1f-2415-4a2c-be20-4a3a978283a2",
-      "name": "@i10VPN🛸",
-      "network": "tcp",
-      "sni": "es1.hat.onl",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://2297ea1f-2415-4a2c-be20-4a3a978283a2@193.238.154.18:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2",
-      "ip": "193.238.154.18",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://2297ea1f-2415-4a2c-be20-4a3a978283a2@193.238.154.18:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2"
-    },
     {
       "type": "vless",
       "address": "us.differentok.com",
@@ -50,11 +16,25 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://eb1c3a3c-c828-404d-bf98-b878c5435600@us.differentok.com:443?mode=gun&security=reality&encryption=none&pbk=Jxwj8rNcJnXop1Xk9Ydst_wFPJsQOtZ74g50saIgokU&fp=firefox&type=grpc&serviceName=media.v2.RelayService&sni=us.differentok.com&sid=a5668d2759baa4ac#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "original": "vless://eb1c3a3c-c828-404d-bf98-b878c5435600@us.differentok.com:443?mode=gun&security=reality&encryption=none&pbk=Jxwj8rNcJnXop1Xk9Ydst_wFPJsQOtZ74g50saIgokU&fp=firefox&type=grpc&serviceName=media.v2.RelayService&sni=us.differentok.com&sid=a5668d2759baa4ac#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1",
       "ip": "88.148.121.11",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://eb1c3a3c-c828-404d-bf98-b878c5435600@us.differentok.com:443?mode=gun&security=reality&encryption=none&pbk=Jxwj8rNcJnXop1Xk9Ydst_wFPJsQOtZ74g50saIgokU&fp=firefox&type=grpc&serviceName=media.v2.RelayService&sni=us.differentok.com&sid=a5668d2759baa4ac#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+      "rebuilt": "vless://eb1c3a3c-c828-404d-bf98-b878c5435600@us.differentok.com:443?mode=gun&security=reality&encryption=none&pbk=Jxwj8rNcJnXop1Xk9Ydst_wFPJsQOtZ74g50saIgokU&fp=firefox&type=grpc&serviceName=media.v2.RelayService&sni=us.differentok.com&sid=a5668d2759baa4ac#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+    },
+    {
+      "type": "trojan",
+      "address": "213.182.199.137",
+      "port": "443",
+      "password": "humanity",
+      "name": "برای اتصال دائمی جوین شو🥎 TelegramID ⌲Express_freevpn 🪩",
+      "sni": "www.pleadcourt.org",
+      "host": "www.pleadcourt.org",
+      "original": "trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "213.182.199.137",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     }
   ]
 }

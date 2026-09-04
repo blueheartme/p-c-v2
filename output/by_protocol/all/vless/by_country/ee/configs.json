@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-04T12:26:09.124624",
-  "count": 1,
+  "updated": "2026-09-04T18:45:30.238134",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "94.183.170.135",
+      "port": "8443",
+      "id": "06c4e938-2954-478f-a870-ca1b163e30e9",
+      "name": "🇪🇪 EE 1",
+      "network": "tcp",
+      "sni": "estproxy4.lockdwn.com",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&sni=estproxy4.lockdwn.com&fp=firefox&type=tcp&path=%2f#vless-tcp-tls-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-1",
+      "ip": "94.183.170.135",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&sni=estproxy4.lockdwn.com&fp=firefox&type=tcp&path=%2f#vless-tcp-tls-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+    },
     {
       "type": "vless",
       "address": "188.255.236.213",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "random",
-      "original": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-1",
+      "original": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-2",
       "ip": "188.255.236.213",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+      "rebuilt": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-2"
     }
   ]
 }
