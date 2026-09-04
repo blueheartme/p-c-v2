@@ -1,13 +1,33 @@
 {
-  "updated": "2026-09-04T02:22:48.532348",
+  "updated": "2026-09-04T12:26:09.121094",
   "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "130.107.73.148",
+      "port": "41373",
+      "id": "a71c8954-66a8-4321-bedb-2336230d81ce",
+      "name": "Free x103 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "130.107.73.148",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
     {
       "type": "vless",
       "address": "maple.adaspoloandco.com",
       "port": "8443",
       "id": "db3f09ae-23f2-42b8-abee-7b89fb392c5e",
-      "name": "@proxy_kafee",
+      "name": "@meliproxyy",
       "network": "ws",
       "sni": "maple.adaspoloandco.com",
       "host": "",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&type=ws&path=%2Fuploader.php#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "original": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "54.39.96.233",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&type=ws&path=%2Fuploader.php#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+      "rebuilt": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     },
     {
       "type": "vless",
@@ -61,26 +81,6 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@54.39.96.233:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vless-ws-tls-qq-CA%F0%9F%87%A8%F0%9F%87%A6-4"
-    },
-    {
-      "type": "vless",
-      "address": "130.107.73.148",
-      "port": "41373",
-      "id": "a71c8954-66a8-4321-bedb-2336230d81ce",
-      "name": "Free x103 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-5",
-      "ip": "130.107.73.148",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-5"
     }
   ]
 }
