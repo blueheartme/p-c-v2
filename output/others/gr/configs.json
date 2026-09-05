@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-04T18:45:30.198307",
+  "updated": "2026-09-05T11:32:14.350194",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "185.126.238.87",
+      "port": "2083",
+      "id": "7668f678-faee-40cc-9b56-9c39dc773388",
+      "name": "🇬🇸@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "grpc",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%87%AC%F0%9F%87%B7-1",
+      "ip": "185.126.238.87",
+      "country": "GR",
+      "cdn": null,
+      "rebuilt": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%87%AC%F0%9F%87%B7-1"
+    },
     {
       "type": "vless",
       "address": "gr.freeinternat.com",
@@ -16,31 +36,11 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?flow=xtls-rprx-vision&security=reality&sni=gr.freeinternat.com&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-GR%F0%9F%87%AC%F0%9F%87%B7-1",
+      "original": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?flow=xtls-rprx-vision&security=reality&sni=gr.freeinternat.com&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-GR%F0%9F%87%AC%F0%9F%87%B7-2",
       "ip": "85.90.197.91",
       "country": "GR",
       "cdn": null,
-      "rebuilt": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?flow=xtls-rprx-vision&security=reality&sni=gr.freeinternat.com&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-GR%F0%9F%87%AC%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "185.126.238.87",
-      "port": "2083",
-      "id": "7668f678-faee-40cc-9b56-9c39dc773388",
-      "name": "@meliproxyy",
-      "network": "grpc",
-      "sni": "",
-      "host": "--v2rayNplus--v2rayNplus--v2rayNplus--",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=&encryption=none&authority=--v2rayNplus--v2rayNplus--v2rayNplus--&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%87%AC%F0%9F%87%B7-2",
-      "ip": "185.126.238.87",
-      "country": "GR",
-      "cdn": null,
-      "rebuilt": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=&encryption=none&authority=--v2rayNplus--v2rayNplus--v2rayNplus--&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%87%AC%F0%9F%87%B7-2"
+      "rebuilt": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?flow=xtls-rprx-vision&security=reality&sni=gr.freeinternat.com&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-GR%F0%9F%87%AC%F0%9F%87%B7-2"
     }
   ]
 }

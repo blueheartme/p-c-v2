@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T02:23:39.225168",
-  "count": 2,
+  "updated": "2026-09-05T11:32:14.347218",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -26,6 +26,26 @@
       "type": "vless",
       "address": "pk-play.mobileemdad.top",
       "port": "443",
+      "id": "18a46172-92db-42b2-959a-4f3af68597f7",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "delivery.mp.microsoft.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://18a46172-92db-42b2-959a-4f3af68597f7@pk-play.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=delivery.mp.microsoft.com&sid=377d#vless-tcp-reality-qq-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "109.61.42.163",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://18a46172-92db-42b2-959a-4f3af68597f7@pk-play.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=delivery.mp.microsoft.com&sid=377d#vless-tcp-reality-qq-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "pk-play.mobileemdad.top",
+      "port": "443",
       "id": "61d291c2-4149-4d9b-8540-a83bf1dcf9f2",
       "name": "@i10VPN🏆",
       "network": "tcp",
@@ -36,11 +56,25 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@pk-play.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=delivery.mp.microsoft.com&sid=f88610dd#vless-tcp-reality-qq-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "original": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@pk-play.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=delivery.mp.microsoft.com&sid=f88610dd#vless-tcp-reality-qq-AE%F0%9F%87%A6%F0%9F%87%AA-3",
       "ip": "109.61.42.163",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@pk-play.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=delivery.mp.microsoft.com&sid=f88610dd#vless-tcp-reality-qq-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@pk-play.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=delivery.mp.microsoft.com&sid=f88610dd#vless-tcp-reality-qq-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+    },
+    {
+      "type": "trojan",
+      "address": "94.140.0.100",
+      "port": "8443",
+      "password": "5e5340e6-433d-b5f7-0062-d793046eb281",
+      "name": "",
+      "sni": "blue-queen-d517.aaj1388324.workers.dev",
+      "host": "blue-queen-d517.aaj1388324.workers.dev",
+      "original": "trojan://5e5340e6-433d-b5f7-0062-d793046eb281@94.140.0.100:8443?path=%2FeyJqdW5rIjoiMWphS1ZyYzRTbGsiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4IjoyM30%3D&security=tls&insecure=0&host=blue-queen-d517.aaj1388324.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=blue-queen-d517.aaj1388324.workers.dev#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-4",
+      "ip": "94.140.0.100",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "trojan://5e5340e6-433d-b5f7-0062-d793046eb281@94.140.0.100:8443?path=%2FeyJqdW5rIjoiMWphS1ZyYzRTbGsiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4IjoyM30%3D&security=tls&insecure=0&host=blue-queen-d517.aaj1388324.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=blue-queen-d517.aaj1388324.workers.dev#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-4"
     }
   ]
 }

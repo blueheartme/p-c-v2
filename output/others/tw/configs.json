@@ -1,26 +1,21 @@
 {
-  "updated": "2026-09-04T12:26:09.019746",
+  "updated": "2026-09-05T11:32:14.339917",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "118.167.230.216",
-      "port": "24215",
-      "id": "19d5a678-8396-4e3b-93da-ece618d0e83a",
-      "name": "7691",
+      "type": "vmess",
+      "address": "165.154.195.38",
+      "port": "35034",
+      "id": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
+      "name": "🇧🇻@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
       "network": "tcp",
-      "sni": "addons.mozilla.org",
       "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.230.216:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=firefox&type=tcp&sni=addons.mozilla.org#vless-tcp-reality-firefox-TW%F0%9F%87%B9%F0%9F%87%BC-1",
-      "ip": "118.167.230.216",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1UV/Cfh7nwn4e8LTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "ip": "165.154.195.38",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.230.216:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=firefox&type=tcp&sni=addons.mozilla.org#vless-tcp-reality-firefox-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1UV/Cfh7nwn4e8LTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
     }
   ]
 }
