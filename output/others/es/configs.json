@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-05T11:32:14.341682",
-  "count": 2,
+  "updated": "2026-09-05T17:51:26.936430",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
       "address": "213.182.199.137",
       "port": "443",
       "password": "humanity",
-      "name": "@meliproxyy",
+      "name": "برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn",
       "sni": "www.pleadcourt.org",
       "host": "www.pleadcourt.org",
-      "original": "trojan://humanity@213.182.199.137:443?security=tls&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=chrome&type=ws&host=www.pleadcourt.org&path=%2Fassignment#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "original": "trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1",
       "ip": "213.182.199.137",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://humanity@213.182.199.137:443?security=tls&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=chrome&type=ws&host=www.pleadcourt.org&path=%2Fassignment#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1"
     },
     {
       "type": "vless",
@@ -35,6 +35,31 @@
       "country": "ES",
       "cdn": null,
       "rebuilt": "vless://2297ea1f-2415-4a2c-be20-4a3a978283a2@193.238.154.18:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
+    {
+      "type": "ss",
+      "address": "140.174.184.5",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "qItG8SueYQcP",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#@meliproxyy",
+      "ip": "140.174.184.5",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#@meliproxyy"
+    },
+    {
+      "type": "tg",
+      "address": "fttd.codepathtech.ir",
+      "port": "2525",
+      "secret": "eebb39a701532e3764f1af69c3cc6273d57777772e636c6f7564666c6172652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=fttd.codepathtech.ir&port=2525&secret=eebb39a701532e3764f1af69c3cc6273d57777772e636c6f7564666c6172652e636f6d",
+      "ip": "208.76.222.187",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=fttd.codepathtech.ir&port=2525&secret=eebb39a701532e3764f1af69c3cc6273d57777772e636c6f7564666c6172652e636f6d"
     }
   ]
 }

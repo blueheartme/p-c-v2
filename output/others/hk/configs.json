@@ -1,26 +1,56 @@
 {
-  "updated": "2026-09-05T11:32:14.343768",
-  "count": 3,
+  "updated": "2026-09-05T17:51:26.941408",
+  "count": 5,
   "configs": [
     {
-      "type": "vless",
-      "address": "49c3de25-tl4g00-tvgkxc-hrtf.hk3.hyhuawei.com",
-      "port": "443",
-      "id": "0da8651e-e1f6-11ec-bd7c-f23c913c8d2b",
-      "name": "🇭🇰 HK 1",
+      "type": "vmess",
+      "address": "156.226.183.181",
+      "port": "54321",
+      "id": "d3bcc1f1-6294-4f68-bcf3-c3bcb2001520",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "updates.cdn-apple.com",
       "host": "",
-      "security": "reality",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNTYuMjI2LjE4My4xODEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDNiY2MxZjEtNjI5NC00ZjY4LWJjZjMtYzNiY2IyMDAxNTIwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiNTQzMjEiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "156.226.183.181",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxNTYuMjI2LjE4My4xODEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDNiY2MxZjEtNjI5NC00ZjY4LWJjZjMtYzNiY2IyMDAxNTIwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiNTQzMjEiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+    },
+    {
+      "type": "vless",
+      "address": "134.122.202.244",
+      "port": "44915",
+      "id": "0ca45842-71e2-47fe-889f-9e75f93ea459",
+      "name": "🇯🇵 JP 5",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
       "flow": "",
       "encryption": "",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@49c3de25-tl4g00-tvgkxc-hrtf.hk3.hyhuawei.com:443?security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&type=tcp&path=%2f#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "219.77.167.19",
+      "fingerprint": "",
+      "original": "vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&type=tcp&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "134.122.202.244",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@49c3de25-tl4g00-tvgkxc-hrtf.hk3.hyhuawei.com:443?security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&type=tcp&path=%2f#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&type=tcp&path=%2f#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
+      "type": "vmess",
+      "address": "v33.hdacd.com",
+      "port": "30833",
+      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "name": "🇭🇰 HK 3",
+      "network": null,
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUhL8J+HrfCfh7AtMyIsImFkZCI6InYzMy5oZGFjZC5jb20iLCJwb3J0IjozMDgzMywiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOm51bGwsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "107.151.244.82",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUhL8J+HrfCfh7AtMyIsImFkZCI6InYzMy5oZGFjZC5jb20iLCJwb3J0IjozMDgzMywiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOm51bGwsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     },
     {
       "type": "trojan",
@@ -30,18 +60,18 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     },
     {
       "type": "vless",
-      "address": "f070a8ea-tl4g00-u5ip77-duku.hk3.hyhuawei.com",
+      "address": "f24f53f5-tl4g00-u093mf-1mina.hk3.hyhuawei.com",
       "port": "443",
-      "id": "8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9",
-      "name": "🇭🇰 HK 3",
+      "id": "367e233c-2f54-11ee-9ae1-f23c9164ca5d",
+      "name": "🇭🇰 HK 2",
       "network": "tcp",
       "sni": "updates.cdn-apple.com",
       "host": "",
@@ -50,11 +80,11 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@f070a8ea-tl4g00-u5ip77-duku.hk3.hyhuawei.com:443?security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&type=tcp&path=%2f#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "original": "vless://367e233c-2f54-11ee-9ae1-f23c9164ca5d@f24f53f5-tl4g00-u093mf-1mina.hk3.hyhuawei.com:443?security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&type=tcp&path=%2f#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-5",
       "ip": "219.77.167.19",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@f070a8ea-tl4g00-u5ip77-duku.hk3.hyhuawei.com:443?security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&type=tcp&path=%2f#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "vless://367e233c-2f54-11ee-9ae1-f23c9164ca5d@f24f53f5-tl4g00-u093mf-1mina.hk3.hyhuawei.com:443?security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&type=tcp&path=%2f#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-5"
     }
   ]
 }

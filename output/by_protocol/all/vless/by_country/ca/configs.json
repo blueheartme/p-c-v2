@@ -1,26 +1,46 @@
 {
-  "updated": "2026-09-05T11:32:14.386331",
-  "count": 1,
+  "updated": "2026-09-05T17:51:26.995125",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "23.227.39.123",
-      "port": "443",
-      "id": "05214830-5d65-4ee1-a3d4-68f36cbea637",
-      "name": "@meliproxyy",
+      "address": "maple.adaspoloandco.com",
+      "port": "8443",
+      "id": "db3f09ae-23f2-42b8-abee-7b89fb392c5e",
+      "name": "برای اتصال دائمی جوین شو🎡 TelegramID ⌲Express_freevpn 🪩",
       "network": "ws",
-      "sni": "api5.htve.ir",
-      "host": "api5.htve.ir",
+      "sni": "maple.adaspoloandco.com",
+      "host": "",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://05214830-5d65-4ee1-a3d4-68f36cbea637@23.227.39.123:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=api5.htve.ir&fp=chrome&type=ws&allowInsecure=0&sni=api5.htve.ir#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3",
-      "ip": "23.227.39.123",
+      "original": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "54.39.96.233",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://05214830-5d65-4ee1-a3d4-68f36cbea637@23.227.39.123:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=api5.htve.ir&fp=chrome&type=ws&allowInsecure=0&sni=api5.htve.ir#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+      "rebuilt": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
+    {
+      "type": "vless",
+      "address": "130.107.73.148",
+      "port": "41373",
+      "id": "a71c8954-66a8-4321-bedb-2336230d81ce",
+      "name": "Free x103 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "ip": "130.107.73.148",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     }
   ]
 }

@@ -1,26 +1,19 @@
 {
-  "updated": "2026-09-02T12:27:02.804874",
+  "updated": "2026-09-05T17:51:26.934176",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "i---s---r---a.cd2-ger1.ir",
-      "port": "2087",
-      "id": "5643695e-10bf-4260-be2b-719cd3d2cdf7",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "",
-      "host": "play.google.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://5643695e-10bf-4260-be2b-719cd3d2cdf7@i---s---r---a.cd2-ger1.ir:2087?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-IL%F0%9F%87%AE%F0%9F%87%B1-1",
-      "ip": "92.118.124.45",
+      "type": "ss",
+      "address": "85.209.157.209",
+      "port": "29367",
+      "method": "chacha20-ietf-poly1305",
+      "password": "3hSrBrmKmrgNGsD97RSGOS5p+XIFqEVk6Zo4AHbsRhg=",
+      "name": "🇳🇱 NL 10",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozaFNyQnJtS21yZ05Hc0Q5N1JTR09TNXArWElGcUVWazZabzRBSGJzUmhnPQ==@85.209.157.209:29367#%f0%9f%87%b3%f0%9f%87%b1%20NL%2010",
+      "ip": "85.209.157.209",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "vless://5643695e-10bf-4260-be2b-719cd3d2cdf7@i---s---r---a.cd2-ger1.ir:2087?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vless-tcp-http-IL%F0%9F%87%AE%F0%9F%87%B1-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozaFNyQnJtS21yZ05Hc0Q5N1JTR09TNXArWElGcUVWazZabzRBSGJzUmhnPQ==@85.209.157.209:29367#%f0%9f%87%b3%f0%9f%87%b1%20NL%2010"
     }
   ]
 }

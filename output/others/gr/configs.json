@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T11:32:14.350194",
-  "count": 2,
+  "updated": "2026-09-05T17:51:26.940605",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "GR",
       "cdn": null,
       "rebuilt": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%87%AC%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "gr.freeinternat.com",
-      "port": "443",
-      "id": "dabb9a19-03ab-4cdf-8963-d3c45eb0f80d",
-      "name": "🇬🇷 GR 1",
-      "network": "tcp",
-      "sni": "gr.freeinternat.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?flow=xtls-rprx-vision&security=reality&sni=gr.freeinternat.com&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-GR%F0%9F%87%AC%F0%9F%87%B7-2",
-      "ip": "85.90.197.91",
-      "country": "GR",
-      "cdn": null,
-      "rebuilt": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?flow=xtls-rprx-vision&security=reality&sni=gr.freeinternat.com&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-GR%F0%9F%87%AC%F0%9F%87%B7-2"
     }
   ]
 }

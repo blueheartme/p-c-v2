@@ -1,13 +1,33 @@
 {
-  "updated": "2026-09-05T11:32:14.348001",
+  "updated": "2026-09-05T17:51:26.911536",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "kr5-r.link-t7.com",
+      "port": "10050",
+      "id": "DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3",
+      "name": "🇰🇷 KR 2",
+      "network": "grpc",
+      "sni": "s0.awsstatic.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3@kr5-r.link-t7.com:10050?security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&type=grpc&serviceName=update&path=%2f#vless-grpc-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "3.36.111.168",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vless://DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3@kr5-r.link-t7.com:10050?security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&type=grpc&serviceName=update&path=%2f#vless-grpc-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+    },
     {
       "type": "vless",
       "address": "43.202.46.25",
       "port": "28482",
       "id": "83973343-90db-423d-a5f7-2e3b56aeb8f4",
-      "name": "@i10VPN🎀",
+      "name": "برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn",
       "network": "tcp",
       "sni": "www.intel.com",
       "host": "",
@@ -16,26 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "original": "vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-2",
       "ip": "43.202.46.25",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vmess",
-      "address": "146.56.112.110",
-      "port": "8888",
-      "id": "e7c302f3-90d6-42dd-9d7d-94a3683a3707",
-      "name": "🇰🇷 KR 1",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMiIsImFkZCI6IjE0Ni41Ni4xMTIuMTEwIiwicG9ydCI6ODg4OCwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "146.56.112.110",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMiIsImFkZCI6IjE0Ni41Ni4xMTIuMTEwIiwicG9ydCI6ODg4OCwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-2"
     }
   ]
 }
