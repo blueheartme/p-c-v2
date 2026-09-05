@@ -1,20 +1,26 @@
 {
-  "updated": "2026-06-18T11:47:50.965115",
+  "updated": "2026-09-05T02:23:39.228206",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "130.94.107.242",
+      "type": "vless",
+      "address": "149.33.19.143",
       "port": "443",
-      "password": "Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP",
-      "name": "🇦🇷 AR 4",
-      "sni": "130.94.107.242",
+      "id": "25acff7f-3aff-4c68-bc5e-bbc68589f459",
+      "name": "🇦🇷 AR 1",
+      "network": "tcp",
+      "sni": "zvukipro.com",
       "host": "",
-      "original": "trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?security=tls&sni=130.94.107.242&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-AR%F0%9F%87%A6%F0%9F%87%B7-1",
-      "ip": "130.94.107.242",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://25acff7f-3aff-4c68-bc5e-bbc68589f459@149.33.19.143:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=zvukipro.com&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-AR%F0%9F%87%A6%F0%9F%87%B7-1",
+      "ip": "149.33.19.143",
       "country": "AR",
       "cdn": null,
-      "rebuilt": "trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?security=tls&sni=130.94.107.242&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#trojan-tcp-tls-AR%F0%9F%87%A6%F0%9F%87%B7-1"
+      "rebuilt": "vless://25acff7f-3aff-4c68-bc5e-bbc68589f459@149.33.19.143:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=zvukipro.com&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-AR%F0%9F%87%A6%F0%9F%87%B7-1"
     }
   ]
 }

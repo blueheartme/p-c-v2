@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04T18:45:30.243001",
-  "count": 1,
+  "updated": "2026-09-05T02:23:39.268758",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "UZ",
       "cdn": null,
       "rebuilt": "vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&security=&encryption=none&type=ws#vless-ws-UZ%F0%9F%87%BA%F0%9F%87%BF-1"
+    },
+    {
+      "type": "vless",
+      "address": "157.22.133.130",
+      "port": "2087",
+      "id": "e6d369db-22be-4f30-8685-455c717aaa8c",
+      "name": "",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&security=&encryption=none&type=ws#vless-ws-UZ%F0%9F%87%BA%F0%9F%87%BF-2",
+      "ip": "157.22.133.130",
+      "country": "UZ",
+      "cdn": null,
+      "rebuilt": "vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&security=&encryption=none&type=ws#vless-ws-UZ%F0%9F%87%BA%F0%9F%87%BF-2"
     }
   ]
 }
