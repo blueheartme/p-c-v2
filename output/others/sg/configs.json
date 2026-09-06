@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-06T11:52:53.765088",
-  "count": 3,
+  "updated": "2026-09-06T17:56:23.069251",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "img.krenholm.com",
+      "address": "pixelchatverse.com",
       "port": "443",
-      "id": "79af209c-dd50-4751-8100-9107b536a022",
-      "name": "Free x173 @Outline_Vpn",
+      "id": "2143c404-49a0-4e2d-af21-3e204cb8034c",
+      "name": "@meliproxyy",
       "network": "httpupgrade",
       "sni": "channel.irandoc.info",
       "host": "sni.irandoc.info",
@@ -15,47 +15,25 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#vless-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "fingerprint": "firefox",
+      "original": "vless://2143c404-49a0-4e2d-af21-3e204cb8034c@pixelchatverse.com:443?encryption=none&security=tls&sni=channel.irandoc.info&fp=firefox&allowinsecure=0&type=httpupgrade&host=sni.irandoc.info&path=%2F1002%2Fgoogle&fragment=5-94%2C0%2Ctlshello%2C&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%225-94%22%2C%22delay%22%3A%220%22%2C%22maxSplit%22%3A%22%22%7D%2C%22type%22%3A%22fragment%22%7D%2C%7B%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22length%22%3A%22109-1%22%2C%22delay%22%3A%221%22%2C%22maxSplit%22%3A%22355%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#vless-httpupgrade-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "43.174.246.25",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#vless-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://2143c404-49a0-4e2d-af21-3e204cb8034c@pixelchatverse.com:443?encryption=none&security=tls&sni=channel.irandoc.info&fp=firefox&allowinsecure=0&type=httpupgrade&host=sni.irandoc.info&path=%2F1002%2Fgoogle&fragment=5-94%2C0%2Ctlshello%2C&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%225-94%22%2C%22delay%22%3A%220%22%2C%22maxSplit%22%3A%22%22%7D%2C%22type%22%3A%22fragment%22%7D%2C%7B%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22length%22%3A%22109-1%22%2C%22delay%22%3A%221%22%2C%22maxSplit%22%3A%22355%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#vless-httpupgrade-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     },
     {
-      "type": "vless",
-      "address": "54.151.153.129",
-      "port": "59180",
-      "id": "44aedcca-28f8-411d-bed2-9bd6aa491cb5",
-      "name": "🇸🇬 SG 4",
-      "network": "tcp",
-      "sni": "www.tesla.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://44aedcca-28f8-411d-bed2-9bd6aa491cb5@54.151.153.129:59180?flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=NntGU23khU2ASY2g1XM5_Vl0G39MyoXre5q7vanorDM&sid=3ced8a51ce74468c&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "54.151.153.129",
+      "type": "ss",
+      "address": "176.97.64.144",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "TFElG2FVqyqG",
+      "name": "🇸🇬 SG 2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc=@176.97.64.144:8388#%f0%9f%87%b8%f0%9f%87%ac%20SG%202",
+      "ip": "176.97.64.144",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://44aedcca-28f8-411d-bed2-9bd6aa491cb5@54.151.153.129:59180?flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=NntGU23khU2ASY2g1XM5_Vl0G39MyoXre5q7vanorDM&sid=3ced8a51ce74468c&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "vmess",
-      "address": "149.88.23.202",
-      "port": "18000",
-      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
-      "name": "🇸🇬 SG 1",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMyIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "149.88.23.202",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMyIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc=@176.97.64.144:8388#%f0%9f%87%b8%f0%9f%87%ac%20SG%202"
     }
   ]
 }

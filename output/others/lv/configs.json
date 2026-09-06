@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-06T11:52:53.761818",
-  "count": 3,
+  "updated": "2026-09-06T17:56:23.060985",
+  "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "185.135.86.175",
+      "port": "9094",
+      "method": "aes-256-cfb",
+      "password": "rpgbNnU9rDDU4aWZ",
+      "name": "🇱🇻 LV 1",
+      "original": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094#%f0%9f%87%b1%f0%9f%87%bb%20LV%201",
+      "ip": "185.135.86.175",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094#%f0%9f%87%b1%f0%9f%87%bb%20LV%201"
+    },
+    {
+      "type": "ss",
+      "address": "185.135.86.175",
+      "port": "9034",
+      "method": "aes-256-cfb",
+      "password": "Yg4MbdXFQ9HFFVY6",
+      "name": "🇱🇻 LV 5",
+      "original": "ss://YWVzLTI1Ni1jZmI6WWc0TWJkWEZROUhGRlZZNg==@185.135.86.175:9034#%f0%9f%87%b1%f0%9f%87%bb%20LV%205",
+      "ip": "185.135.86.175",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WWc0TWJkWEZROUhGRlZZNg==@185.135.86.175:9034#%f0%9f%87%b1%f0%9f%87%bb%20LV%205"
+    },
+    {
+      "type": "ss",
+      "address": "185.135.86.175",
+      "port": "9036",
+      "method": "aes-256-cfb",
+      "password": "hbtvgUz5uNYyB3Rf",
+      "name": "🇱🇻 LV 2",
+      "original": "ss://YWVzLTI1Ni1jZmI6aGJ0dmdVejV1Tll5QjNSZg==@185.135.86.175:9036#%f0%9f%87%b1%f0%9f%87%bb%20LV%202",
+      "ip": "185.135.86.175",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6aGJ0dmdVejV1Tll5QjNSZg==@185.135.86.175:9036#%f0%9f%87%b1%f0%9f%87%bb%20LV%202"
+    },
     {
       "type": "vless",
       "address": "195.135.252.28",
@@ -16,51 +55,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-4",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
-    },
-    {
-      "type": "vless",
-      "address": "46.28.64.242",
-      "port": "443",
-      "id": "1e560bb6-4d52-4625-a629-54b1282f1b93",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?security=reality&encryption=none&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=64c147592a2f84d9#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%87%B1%F0%9F%87%BB-2",
-      "ip": "46.28.64.242",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?security=reality&encryption=none&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=64c147592a2f84d9#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%87%B1%F0%9F%87%BB-2"
-    },
-    {
-      "type": "vless",
-      "address": "89.36.161.222",
-      "port": "2096",
-      "id": "70e20b2e-3b1f-4c25-9a3d-9240570391bb",
-      "name": "🇦🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?path=%2F&security=none&encryption=none&type=ws#vless-ws-LV%F0%9F%87%B1%F0%9F%87%BB-3",
-      "ip": "89.36.161.222",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?path=%2F&security=none&encryption=none&type=ws#vless-ws-LV%F0%9F%87%B1%F0%9F%87%BB-3"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-4"
     }
   ]
 }

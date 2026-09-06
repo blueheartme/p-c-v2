@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T11:52:53.878619",
-  "count": 3,
+  "updated": "2026-09-06T17:56:23.144570",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -10,39 +10,25 @@
       "name": "Japan Klayer LLC",
       "sni": "kuame.missionsec.us",
       "host": "",
-      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5",
+      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-9",
       "ip": "93.93.246.88",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5"
+      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-9"
     },
     {
       "type": "trojan",
-      "address": "jp200m.jiasu.asia",
-      "port": "50000",
-      "password": "acaadfd9-629d-499d-88b6-d5bc1a3f6337",
-      "name": "🇯🇵 JP 1",
-      "sni": "jp200m.jiasu.asia",
+      "address": "185.200.65.251",
+      "port": "443",
+      "password": "UQfj7bdfjibTjpUHfg72aew51S7fB32g",
+      "name": "🇯🇵 JP 8",
+      "sni": "portal.buildtunnel.com",
       "host": "",
-      "original": "trojan://acaadfd9-629d-499d-88b6-d5bc1a3f6337@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-8",
-      "ip": "43.165.185.191",
+      "original": "trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@185.200.65.251:443?sni=portal.buildtunnel.com&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-11",
+      "ip": "185.200.65.251",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://acaadfd9-629d-499d-88b6-d5bc1a3f6337@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-8"
-    },
-    {
-      "type": "trojan",
-      "address": "jp200m.jiasu.asia",
-      "port": "50000",
-      "password": "5cd930f7-0c06-4b52-90e4-977c3e7720bc",
-      "name": "🇯🇵 JP 2",
-      "sni": "jp200m.jiasu.asia",
-      "host": "",
-      "original": "trojan://5cd930f7-0c06-4b52-90e4-977c3e7720bc@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-10",
-      "ip": "43.165.185.191",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://5cd930f7-0c06-4b52-90e4-977c3e7720bc@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-10"
+      "rebuilt": "trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@185.200.65.251:443?sni=portal.buildtunnel.com&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-11"
     }
   ]
 }

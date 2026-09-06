@@ -1,26 +1,19 @@
 {
-  "updated": "2026-09-02T19:09:30.649849",
+  "updated": "2026-09-06T17:56:23.059865",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "147.45.116.52",
-      "port": "443",
-      "id": "a34b5e88-cf0d-4c01-8199-2d1002d3c787",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "www.wikihow.com",
-      "host": "--v2rayNplus--v2rayNplus--v2rayNplus--",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@147.45.116.52:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#vless-xtls-rprx-vision-tcp-reality-firefox-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "147.45.116.52",
+      "type": "ss",
+      "address": "181.41.201.242",
+      "port": "65443",
+      "method": "aes-256-cfb",
+      "password": "7eadc6dbe2ae",
+      "name": "🇧🇷 BR 1",
+      "original": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@181.41.201.242:65443#%f0%9f%87%a7%f0%9f%87%b7%20BR%201",
+      "ip": "181.41.201.242",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@147.45.116.52:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#vless-xtls-rprx-vision-tcp-reality-firefox-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@181.41.201.242:65443#%f0%9f%87%a7%f0%9f%87%b7%20BR%201"
     }
   ]
 }
