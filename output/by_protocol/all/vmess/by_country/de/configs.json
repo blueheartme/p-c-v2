@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T02:19:37.812581",
+  "updated": "2026-09-06T11:52:53.829957",
   "count": 2,
   "configs": [
     {
@@ -7,15 +7,15 @@
       "address": "185.204.169.127",
       "port": "443",
       "id": "5fd0c433-efe8-466a-9fd7-233a448e8b58",
-      "name": "Channel: @Daily_Configs",
+      "name": "@meliproxyy",
       "network": "httpupgrade",
       "host": "185.204.169.127",
       "sni": "185.204.169.127",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by1odHRwdXBncmFkZS10bHMtREXwn4ep8J+Hqi02NSIsImFkZCI6IjE4NS4yMDQuMTY5LjEyNyIsInBvcnQiOiI0NDMiLCJpZCI6IjVmZDBjNDMzLWVmZTgtNDY2YS05ZmQ3LTIzM2E0NDhlOGI1OCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIxODUuMjA0LjE2OS4xMjciLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6IjE4NS4yMDQuMTY5LjEyNyIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0=",
+      "original": "vmess://eyJhZGQiOiIxODUuMjA0LjE2OS4xMjciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiMTg1LjIwNC4xNjkuMTI3IiwiaWQiOiI1ZmQwYzQzMy1lZmU4LTQ2NmEtOWZkNy0yMzNhNDQ4ZThiNTgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3MtYXV0by1odHRwdXBncmFkZS0tLS0tdGxzLURF8J+HqfCfh6otNTIiLCJzY3kiOiJhdXRvIiwic25pIjoiMTg1LjIwNC4xNjkuMTI3IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=",
       "ip": "185.204.169.127",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by1odHRwdXBncmFkZS10bHMtREXwn4ep8J+Hqi02NSIsImFkZCI6IjE4NS4yMDQuMTY5LjEyNyIsInBvcnQiOiI0NDMiLCJpZCI6IjVmZDBjNDMzLWVmZTgtNDY2YS05ZmQ3LTIzM2E0NDhlOGI1OCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIxODUuMjA0LjE2OS4xMjciLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6IjE4NS4yMDQuMTY5LjEyNyIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0="
+      "rebuilt": "vmess://eyJhZGQiOiIxODUuMjA0LjE2OS4xMjciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiMTg1LjIwNC4xNjkuMTI3IiwiaWQiOiI1ZmQwYzQzMy1lZmU4LTQ2NmEtOWZkNy0yMzNhNDQ4ZThiNTgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3MtYXV0by1odHRwdXBncmFkZS0tLS0tdGxzLURF8J+HqfCfh6otNTIiLCJzY3kiOiJhdXRvIiwic25pIjoiMTg1LjIwNC4xNjkuMTI3IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0="
     },
     {
       "type": "vmess",
@@ -26,13 +26,13 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI5NC4xNTYuMTc5LjEzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi02MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+      "original": "vmess://eyJhZGQiOiI5NC4xNTYuMTc5LjEzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi0xNDAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
       "ip": "94.156.179.138",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiI5NC4xNTYuMTc5LjEzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi02MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+      "rebuilt": "vmess://eyJhZGQiOiI5NC4xNTYuMTc5LjEzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi0xNDAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
     }
   ]
 }
