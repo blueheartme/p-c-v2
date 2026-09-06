@@ -1,21 +1,7 @@
 {
-  "updated": "2026-09-05T17:51:27.053024",
+  "updated": "2026-09-06T02:19:37.821141",
   "count": 4,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "jp200m.jiasu.asia",
-      "port": "50000",
-      "password": "5cd930f7-0c06-4b52-90e4-977c3e7720bc",
-      "name": "🇯🇵 JP 2",
-      "sni": "jp200m.jiasu.asia",
-      "host": "",
-      "original": "trojan://5cd930f7-0c06-4b52-90e4-977c3e7720bc@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
-      "ip": "43.165.185.191",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://5cd930f7-0c06-4b52-90e4-977c3e7720bc@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
-    },
     {
       "type": "trojan",
       "address": "160.16.107.37",
@@ -24,25 +10,11 @@
       "name": "Japan NTT Pc",
       "sni": "www.nintendogames.net",
       "host": "",
-      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4",
+      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
       "ip": "160.16.107.37",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4"
-    },
-    {
-      "type": "trojan",
-      "address": "kuame.missionsec.us",
-      "port": "443",
-      "password": "FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D",
-      "name": "Japan Klayer LLC",
-      "sni": "kuame.missionsec.us",
-      "host": "",
-      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-6",
-      "ip": "93.93.246.88",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-6"
+      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
     },
     {
       "type": "trojan",
@@ -52,11 +24,39 @@
       "name": "🇯🇵 JP 1",
       "sni": "jp200m.jiasu.asia",
       "host": "",
-      "original": "trojan://acaadfd9-629d-499d-88b6-d5bc1a3f6337@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-8",
+      "original": "trojan://acaadfd9-629d-499d-88b6-d5bc1a3f6337@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5",
       "ip": "43.165.185.191",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://acaadfd9-629d-499d-88b6-d5bc1a3f6337@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-8"
+      "rebuilt": "trojan://acaadfd9-629d-499d-88b6-d5bc1a3f6337@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5"
+    },
+    {
+      "type": "trojan",
+      "address": "jp200m.jiasu.asia",
+      "port": "50000",
+      "password": "5cd930f7-0c06-4b52-90e4-977c3e7720bc",
+      "name": "🇯🇵 JP 2",
+      "sni": "jp200m.jiasu.asia",
+      "host": "",
+      "original": "trojan://5cd930f7-0c06-4b52-90e4-977c3e7720bc@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-7",
+      "ip": "43.165.185.191",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://5cd930f7-0c06-4b52-90e4-977c3e7720bc@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-7"
+    },
+    {
+      "type": "trojan",
+      "address": "kuame.missionsec.us",
+      "port": "443",
+      "password": "FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D",
+      "name": "Japan Klayer LLC",
+      "sni": "kuame.missionsec.us",
+      "host": "",
+      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-10",
+      "ip": "93.93.246.88",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-10"
     }
   ]
 }
