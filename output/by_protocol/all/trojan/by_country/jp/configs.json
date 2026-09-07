@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T02:17:07.656809",
-  "count": 1,
+  "updated": "2026-09-07T13:52:18.883740",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -10,11 +10,25 @@
       "name": "Japan NTT Pc",
       "sni": "www.nintendogames.net",
       "host": "",
-      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-6",
+      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4",
       "ip": "160.16.107.37",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-6"
+      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4"
+    },
+    {
+      "type": "trojan",
+      "address": "185.200.65.251",
+      "port": "443",
+      "password": "UQfj7bdfjibTjpUHfg72aew51S7fB32g",
+      "name": "🇯🇵 JP 8",
+      "sni": "portal.buildtunnel.com",
+      "host": "",
+      "original": "trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@185.200.65.251:443?sni=portal.buildtunnel.com&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-11",
+      "ip": "185.200.65.251",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@185.200.65.251:443?sni=portal.buildtunnel.com&type=tcp&path=%2f#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-11"
     }
   ]
 }
