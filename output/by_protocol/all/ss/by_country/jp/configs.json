@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-06T17:56:23.134009",
-  "count": 3,
+  "updated": "2026-09-07T02:17:07.651104",
+  "count": 6,
   "configs": [
+    {
+      "type": "ss",
+      "address": "176.97.73.215",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ma6zc4JoLRJA",
+      "name": "🇯🇵 JP 9",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%209",
+      "ip": "176.97.73.215",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%209"
+    },
     {
       "type": "ss",
       "address": "149.22.87.204",
@@ -17,16 +30,16 @@
     },
     {
       "type": "ss",
-      "address": "84.247.155.196",
-      "port": "80",
-      "method": "aes-256-gcm",
-      "password": "3eOFeNssde7PYYMv",
-      "name": "🇯🇵 JP 10",
-      "original": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%f0%9f%87%af%f0%9f%87%b5%20JP%2010",
-      "ip": "84.247.155.196",
+      "address": "149.22.87.241",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇯🇵 JP 4",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%204",
+      "ip": "149.22.87.241",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%f0%9f%87%af%f0%9f%87%b5%20JP%2010"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%204"
     },
     {
       "type": "ss",
@@ -40,6 +53,32 @@
       "country": "JP",
       "cdn": null,
       "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%202"
+    },
+    {
+      "type": "ss",
+      "address": "84.247.155.196",
+      "port": "443",
+      "method": "aes-256-gcm",
+      "password": "3eOFeNssde7PYYMv",
+      "name": "🇯🇵 JP 11",
+      "original": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%f0%9f%87%af%f0%9f%87%b5%20JP%2011",
+      "ip": "84.247.155.196",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%f0%9f%87%af%f0%9f%87%b5%20JP%2011"
+    },
+    {
+      "type": "ss",
+      "address": "84.247.155.196",
+      "port": "80",
+      "method": "aes-256-gcm",
+      "password": "3eOFeNssde7PYYMv",
+      "name": "🇯🇵 JP 10",
+      "original": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%f0%9f%87%af%f0%9f%87%b5%20JP%2010",
+      "ip": "84.247.155.196",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%f0%9f%87%af%f0%9f%87%b5%20JP%2010"
     }
   ]
 }
