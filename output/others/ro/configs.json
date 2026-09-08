@@ -1,17 +1,19 @@
 {
-  "updated": "2026-09-08T02:29:18.974769",
+  "updated": "2026-09-08T19:11:55.508441",
   "count": 1,
   "configs": [
     {
-      "type": "hysteria2",
-      "address": "162.249.125.133",
+      "type": "ss",
+      "address": "bogging-eyeteeth-fly.freesocks.work",
       "port": "443",
-      "name": "@filembad",
-      "original": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1",
-      "ip": "162.249.125.133",
+      "method": "chacha20-ietf-poly1305",
+      "password": "QFWzCw2uX9B9i6qAYeFBIE",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#@meliproxyy",
+      "ip": "154.46.31.106",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#@meliproxyy"
     }
   ]
 }

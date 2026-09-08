@@ -1,32 +1,86 @@
 {
-  "updated": "2026-09-08T12:30:02.505412",
-  "count": 2,
+  "updated": "2026-09-08T19:11:55.482137",
+  "count": 6,
   "configs": [
     {
-      "type": "ss",
-      "address": "102.37.156.224",
+      "type": "vmess",
+      "address": "za-a-zzy.glnyhlgc.com",
       "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "aduB9HGxQHjA2SBMRjkHX6",
-      "name": "🇿🇦 ZA 2",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%f0%9f%87%bf%f0%9f%87%a6%20ZA%202",
-      "ip": "102.37.156.224",
+      "id": "5583af50-f464-4df6-e2ef-34592311e5c6",
+      "name": "🇿🇦 ZA 1",
+      "network": "ws",
+      "host": null,
+      "sni": "za-a-zzy.glnyhlgc.com",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtdGxzLVpB8J+Hv/Cfh6YtMSIsImFkZCI6InphLWEtenp5LmdsbnlobGdjLmNvbSIsInBvcnQiOjQ0MywiaWQiOiI1NTgzYWY1MC1mNDY0LTRkZjYtZTJlZi0zNDU5MjMxMWU1YzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii9hYm91dC83Njc4IiwidGxzIjoidGxzIiwic25pIjoiemEtYS16enkuZ2xueWhsZ2MuY29tIiwiZnAiOm51bGx9",
+      "ip": "13.244.61.17",
       "country": "ZA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%f0%9f%87%bf%f0%9f%87%a6%20ZA%202"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtdGxzLVpB8J+Hv/Cfh6YtMSIsImFkZCI6InphLWEtenp5LmdsbnlobGdjLmNvbSIsInBvcnQiOjQ0MywiaWQiOiI1NTgzYWY1MC1mNDY0LTRkZjYtZTJlZi0zNDU5MjMxMWU1YzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii9hYm91dC83Njc4IiwidGxzIjoidGxzIiwic25pIjoiemEtYS16enkuZ2xueWhsZ2MuY29tIiwiZnAiOm51bGx9"
     },
     {
       "type": "ss",
-      "address": "139.84.247.164",
-      "port": "8388",
+      "address": "20.164.211.25",
+      "port": "443",
       "method": "chacha20-ietf-poly1305",
-      "password": "tfAcRikawhNoZAhu",
-      "name": "🇿🇦 ZA 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZkFjUmlrYXdoTm9aQWh1@139.84.247.164:8388#%f0%9f%87%bf%f0%9f%87%a6%20ZA%201",
-      "ip": "139.84.247.164",
+      "password": "BhYMkBpjAjE6ixSw",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443#%40filembad",
+      "ip": "20.164.211.25",
       "country": "ZA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZkFjUmlrYXdoTm9aQWh1@139.84.247.164:8388#%f0%9f%87%bf%f0%9f%87%a6%20ZA%201"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "20.164.211.25",
+      "port": "443?type=tcp",
+      "method": "chacha20-ietf-poly1305",
+      "password": "BhYMkBpjAjE6ixSw",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443?type=tcp#%40filembad",
+      "ip": "20.164.211.25",
+      "country": "ZA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443?type=tcp#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "20.164.211.25",
+      "port": "443?",
+      "method": "chacha20-ietf-poly1305",
+      "password": "BhYMkBpjAjE6ixSw",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443?#%40filembad",
+      "ip": "20.164.211.25",
+      "country": "ZA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443?#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "20.164.211.25",
+      "port": "443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server",
+      "method": "chacha20-ietf-poly1305",
+      "password": "BhYMkBpjAjE6ixSw",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server#%40filembad",
+      "ip": "20.164.211.25",
+      "country": "ZA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "20.164.43.105",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "BhYMkBpjAjE6ixSw",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.43.105:443#@meliproxyy",
+      "ip": "20.164.43.105",
+      "country": "ZA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.43.105:443#@meliproxyy"
     }
   ]
 }

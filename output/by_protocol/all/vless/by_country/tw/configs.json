@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-04T12:26:09.106875",
+  "updated": "2026-09-08T19:11:55.572933",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "118.167.230.216",
-      "port": "24215",
-      "id": "19d5a678-8396-4e3b-93da-ece618d0e83a",
-      "name": "7691",
+      "address": "35.201.163.218",
+      "port": "30837",
+      "id": "85a6bd94-83a9-4e80-849f-c06d7011d1a4",
+      "name": "🇹🇼 TW 3",
       "network": "tcp",
-      "sni": "addons.mozilla.org",
+      "sni": "www.sony.com",
       "host": "",
       "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.230.216:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=firefox&type=tcp&sni=addons.mozilla.org#vless-tcp-reality-firefox-TW%F0%9F%87%B9%F0%9F%87%BC-1",
-      "ip": "118.167.230.216",
+      "original": "vless://85a6bd94-83a9-4e80-849f-c06d7011d1a4@35.201.163.218:30837?flow=xtls-rprx-vision&security=reality&sni=www.sony.com&fp=firefox&pbk=LXPNhrAGxr_QE4YCdJfKE40ebsPNIHnLbydhl6bipCo&sid=97101ba788915e5a&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-TW%F0%9F%87%B9%F0%9F%87%BC-2",
+      "ip": "35.201.163.218",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.230.216:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=firefox&type=tcp&sni=addons.mozilla.org#vless-tcp-reality-firefox-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "vless://85a6bd94-83a9-4e80-849f-c06d7011d1a4@35.201.163.218:30837?flow=xtls-rprx-vision&security=reality&sni=www.sony.com&fp=firefox&pbk=LXPNhrAGxr_QE4YCdJfKE40ebsPNIHnLbydhl6bipCo&sid=97101ba788915e5a&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-TW%F0%9F%87%B9%F0%9F%87%BC-2"
     }
   ]
 }

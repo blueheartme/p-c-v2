@@ -1,19 +1,32 @@
 {
-  "updated": "2026-09-04T12:26:09.134207",
-  "count": 1,
+  "updated": "2026-09-08T19:11:55.537443",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "161.104.55.242",
-      "port": "4500",
-      "method": "chacha20-ietf-poly1305",
-      "password": "btzgQnWc6-LS6E5loBMHZm0rQCqyjXkn",
-      "name": "7680",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHpnUW5XYzYtTFM2RTVsb0JNSFptMHJRQ3F5alhrbg@161.104.55.242:4500#7680",
-      "ip": "161.104.55.242",
+      "address": "45.140.169.123",
+      "port": "10661",
+      "method": "aes-256-gcm",
+      "password": "6b39ae3234dfd68b",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@45.140.169.123:10661#@meliproxyy",
+      "ip": "45.140.169.123",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHpnUW5XYzYtTFM2RTVsb0JNSFptMHJRQ3F5alhrbg@161.104.55.242:4500#7680"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@45.140.169.123:10661#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "195.133.23.200",
+      "port": "10661",
+      "method": "aes-256-gcm",
+      "password": "81a20429165df87e",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:10661#@meliproxyy",
+      "ip": "195.133.23.200",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:10661#@meliproxyy"
     }
   ]
 }

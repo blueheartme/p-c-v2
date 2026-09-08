@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T12:30:02.504045",
-  "count": 1,
+  "updated": "2026-09-08T19:11:55.470617",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "CZ",
       "cdn": null,
       "rebuilt": "vless://8c9a8787-056f-4b47-b193-0dcfa273d825@194.87.52.142:443?encryption=none&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&type=tcp&headerType=none&sid=d82c4b67f9a13e5c&flow=xtls-rprx-vision&fp=firefox&sni=ads.x5.ru&security=reality#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+    },
+    {
+      "type": "vless",
+      "address": "5.39.202.70",
+      "port": "443",
+      "id": "953e3703-4ddc-49a7-a087-c96049d22340",
+      "name": "@proxy_ksfee : کانال",
+      "network": "tcp",
+      "sni": "auto.synserv1.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://953e3703-4ddc-49a7-a087-c96049d22340@5.39.202.70:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.synserv1.net&fp=firefox&pbk=AdQo-b7PBuLTwnZT_7Tw6VcucPyJpyLy44e_NqFCVjM&sid=adcded1286104819&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "ip": "5.39.202.70",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://953e3703-4ddc-49a7-a087-c96049d22340@5.39.202.70:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.synserv1.net&fp=firefox&pbk=AdQo-b7PBuLTwnZT_7Tw6VcucPyJpyLy44e_NqFCVjM&sid=adcded1286104819&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
     }
   ]
 }
