@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-07T19:32:12.445998",
-  "count": 1,
+  "updated": "2026-09-08T02:29:18.985669",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "43.202.46.25",
+      "port": "28482",
+      "id": "83973343-90db-423d-a5f7-2e3b56aeb8f4",
+      "name": "@i10VPN🎀",
+      "network": "tcp",
+      "sni": "www.intel.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "43.202.46.25",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+    },
     {
       "type": "ss",
       "address": "141.164.45.187",
