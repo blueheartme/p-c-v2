@@ -1,19 +1,45 @@
 {
-  "updated": "2026-09-08T02:29:19.016025",
-  "count": 1,
+  "updated": "2026-09-09T18:59:52.322739",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "94.101.187.94",
-      "port": "9112?prefix=%16%03%01%00%C2%A8%01%01",
+      "address": "94.101.180.163",
+      "port": "9142?prefix=%16%03%01%00%C2%A8%01%01",
       "method": "aes-256-gcm",
-      "password": "ZjIyMDE4MWUxYmQ0ZTAwZDQwYTBkY2I1NGM0ZGVi",
+      "password": "NWM1OGJlNjc2MmY3ZDY2OTdjZTZmMDIzZmE3ZmIw",
       "name": "@filembad",
-      "original": "ss://YWVzLTI1Ni1nY206WmpJeU1ERTRNV1V4WW1RMFpUQXdaRFF3WVRCa1kySTFOR00wWkdWaQ@94.101.187.94:9112?prefix=%16%03%01%00%C2%A8%01%01#%40filembad",
-      "ip": "94.101.187.94",
+      "original": "ss://YWVzLTI1Ni1nY206TldNMU9HSmxOamMyTW1ZM1pEWTJPVGRqWlRabU1ESXpabUUzWm1Jdw@94.101.180.163:9142?prefix=%16%03%01%00%C2%A8%01%01#%40filembad",
+      "ip": "94.101.180.163",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WmpJeU1ERTRNV1V4WW1RMFpUQXdaRFF3WVRCa1kySTFOR00wWkdWaQ@94.101.187.94:9112?prefix=%16%03%01%00%C2%A8%01%01#%40filembad"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206TldNMU9HSmxOamMyTW1ZM1pEWTJPVGRqWlRabU1ESXpabUUzWm1Jdw@94.101.180.163:9142?prefix=%16%03%01%00%C2%A8%01%01#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "94.101.180.163",
+      "port": "9142?",
+      "method": "aes-256-gcm",
+      "password": "NWM1OGJlNjc2MmY3ZDY2OTdjZTZmMDIzZmE3ZmIw",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206TldNMU9HSmxOamMyTW1ZM1pEWTJPVGRqWlRabU1ESXpabUUzWm1Jdw@94.101.180.163:9142?#%40filembad",
+      "ip": "94.101.180.163",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206TldNMU9HSmxOamMyTW1ZM1pEWTJPVGRqWlRabU1ESXpabUUzWm1Jdw@94.101.180.163:9142?#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "dzland.takmilit.ir",
+      "port": "8443?type=tcp",
+      "method": "chacha20-ietf-poly1305",
+      "password": "TpOuzQhJNHkbPEl9",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUcE91elFoSk5Ia2JQRWw5@dzland.takmilit.ir:8443?type=tcp#%40filembad",
+      "ip": "87.107.190.98",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUcE91elFoSk5Ia2JQRWw5@dzland.takmilit.ir:8443?type=tcp#%40filembad"
     }
   ]
 }

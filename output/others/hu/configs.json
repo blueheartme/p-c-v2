@@ -1,26 +1,20 @@
 {
-  "updated": "2026-09-09T02:31:26.562516",
+  "updated": "2026-09-09T18:59:52.261678",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.9.168.17",
-      "port": "443",
-      "id": "5d4a87fa-16f1-4b65-b217-225a31e36239",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "hu.convert-flow.net",
+      "type": "trojan",
+      "address": "hu2.vpnjantit.com",
+      "port": "4443",
+      "password": "C0ldyfh-vpnjantit.com",
+      "name": "🇭🇺 HU 1",
+      "sni": "hu2.vpnjantit.com",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://5d4a87fa-16f1-4b65-b217-225a31e36239@45.9.168.17:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hu.convert-flow.net&sid=00a61d55a07de885#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-1",
-      "ip": "45.9.168.17",
+      "original": "trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&sni=hu2.vpnjantit.com&fp=safari&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HU%F0%9F%87%AD%F0%9F%87%BA-1",
+      "ip": "46.29.142.57",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://5d4a87fa-16f1-4b65-b217-225a31e36239@45.9.168.17:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hu.convert-flow.net&sid=00a61d55a07de885#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%87%AD%F0%9F%87%BA-1"
+      "rebuilt": "trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&sni=hu2.vpnjantit.com&fp=safari&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-HU%F0%9F%87%AD%F0%9F%87%BA-1"
     }
   ]
 }

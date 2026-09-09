@@ -1,54 +1,32 @@
 {
-  "updated": "2026-09-09T12:38:03.998467",
-  "count": 3,
+  "updated": "2026-09-09T18:59:52.266788",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "r3mrcg00129437x.cybervena.com",
+      "address": "36.224.151.80",
       "port": "50099",
       "method": "chacha20-ietf-poly1305",
-      "password": "b1ae0fce-9340-4f2e-882d-fdb2218e2e2b",
+      "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
       "name": "🇹🇼 TW 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.151.80:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201",
       "ip": "36.224.151.80",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.151.80:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201"
     },
     {
-      "type": "vless",
-      "address": "35.201.163.218",
-      "port": "30837",
-      "id": "85a6bd94-83a9-4e80-849f-c06d7011d1a4",
+      "type": "ss",
+      "address": "36.224.152.189",
+      "port": "50099",
+      "method": "chacha20-ietf-poly1305",
+      "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
       "name": "🇹🇼 TW 3",
-      "network": "tcp",
-      "sni": "www.sony.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://85a6bd94-83a9-4e80-849f-c06d7011d1a4@35.201.163.218:30837?flow=xtls-rprx-vision&security=reality&sni=www.sony.com&fp=firefox&pbk=LXPNhrAGxr_QE4YCdJfKE40ebsPNIHnLbydhl6bipCo&sid=97101ba788915e5a&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-TW%F0%9F%87%B9%F0%9F%87%BC-2",
-      "ip": "35.201.163.218",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.152.189:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%203",
+      "ip": "36.224.152.189",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://85a6bd94-83a9-4e80-849f-c06d7011d1a4@35.201.163.218:30837?flow=xtls-rprx-vision&security=reality&sni=www.sony.com&fp=firefox&pbk=LXPNhrAGxr_QE4YCdJfKE40ebsPNIHnLbydhl6bipCo&sid=97101ba788915e5a&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-TW%F0%9F%87%B9%F0%9F%87%BC-2"
-    },
-    {
-      "type": "vmess",
-      "address": "165.154.195.38",
-      "port": "35034",
-      "id": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
-      "name": "🇹🇼 TW 2",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UV/Cfh7nwn4e8LTMiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOjM1MDM0LCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "165.154.195.38",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UV/Cfh7nwn4e8LTMiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOjM1MDM0LCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.152.189:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%203"
     }
   ]
 }
