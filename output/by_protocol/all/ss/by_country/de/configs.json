@@ -1,21 +1,34 @@
 {
-  "updated": "2026-09-08T19:11:55.534139",
-  "count": 5,
+  "updated": "2026-09-09T02:31:26.588753",
+  "count": 6,
   "configs": [
     {
       "type": "ss",
-      "address": "213.202.208.199",
-      "port": "7001",
-      "method": "aes-256-gcm",
-      "password": "RexnBgU7EV5ADxG",
-      "name": "🇩🇪 DE 3",
-      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%f0%9f%87%a9%f0%9f%87%aa%20DE%203",
-      "ip": "213.202.208.199",
+      "address": "179.61.138.73",
+      "port": "8444",
+      "method": "chacha20-ietf-poly1305",
+      "password": "tunnel-tg_astrovpn_official",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGdfYXN0cm92cG5fb2ZmaWNpYWw@179.61.138.73:8444#%40filembad",
+      "ip": "179.61.138.73",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGdfYXN0cm92cG5fb2ZmaWNpYWw@179.61.138.73:8444#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "209.46.102.22",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "1hhrqrokj3ag",
+      "name": "🇩🇪 DE 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%201",
+      "ip": "209.46.102.22",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%f0%9f%87%a9%f0%9f%87%aa%20DE%203"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%201"
     },
     {
       "type": "ss",
@@ -23,14 +36,14 @@
       "port": "1",
       "method": "chacha20-ietf-poly1305",
       "password": "816Efx8yiCSDDpvvpxXL8Q",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:1#%40filembad",
+      "name": "@ir_IRANy 🇩🇪",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:1#%40ir_IRANy%20%F0%9F%87%A9%F0%9F%87%AA",
       "ip": "185.203.4.204",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:1#%40filembad"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:1#%40ir_IRANy%20%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
       "type": "ss",
@@ -53,7 +66,7 @@
       "password": "cXzqTLtMHmVAuueEq2rByw",
       "name": "Free x174 @Outline_Vpn",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWHpxVEx0TUhtVkF1dWVFcTJyQnl3@cdn-2d12.giftcardbazarbot.com:8243#Free%20x174%20%40Outline_Vpn",
-      "ip": "116.202.187.197",
+      "ip": "78.47.72.179",
       "country": "DE",
       "cdn": null,
       "tested": true,
@@ -62,16 +75,18 @@
     },
     {
       "type": "ss",
-      "address": "185.203.4.204",
-      "port": "1?",
-      "method": "chacha20-ietf-poly1305",
-      "password": "816Efx8yiCSDDpvvpxXL8Q",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:1?#%40filembad",
-      "ip": "185.203.4.204",
+      "address": "213.202.208.199",
+      "port": "7001",
+      "method": "aes-256-gcm",
+      "password": "RexnBgU7EV5ADxG",
+      "name": "🇩🇪 DE 3",
+      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%f0%9f%87%a9%f0%9f%87%aa%20DE%203",
+      "ip": "213.202.208.199",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:1?#%40filembad"
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%f0%9f%87%a9%f0%9f%87%aa%20DE%203"
     }
   ]
 }

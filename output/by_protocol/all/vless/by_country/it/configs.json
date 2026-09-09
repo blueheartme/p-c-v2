@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-08T19:11:55.572388",
+  "updated": "2026-09-09T02:31:26.583382",
   "count": 5,
   "configs": [
-    {
-      "type": "vless",
-      "address": "57.131.21.102",
-      "port": "8443",
-      "id": "69ac162b-1643-4acb-9f49-09d8b0fad609",
-      "name": "برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn",
-      "network": "ws",
-      "sni": "milan.adaspoloandco.com",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-1",
-      "ip": "57.131.21.102",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-1"
-    },
     {
       "type": "vless",
       "address": "itl.mobileemdad.top",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "edge",
-      "original": "vless://ac9d1592-e589-4d52-886e-354bdaaf83d5@itl.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=08#vless-tcp-reality-edge-IT%F0%9F%87%AE%F0%9F%87%B9-2",
+      "original": "vless://ac9d1592-e589-4d52-886e-354bdaaf83d5@itl.mobileemdad.top:443?pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&fp=edge&sni=play-apps-features.googleusercontent.com&type=tcp&encryption=none&sid=08&headerType=none&security=reality#vless-tcp-reality-edge-IT%F0%9F%87%AE%F0%9F%87%B9-1",
       "ip": "195.231.60.104",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://ac9d1592-e589-4d52-886e-354bdaaf83d5@itl.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=08#vless-tcp-reality-edge-IT%F0%9F%87%AE%F0%9F%87%B9-2"
+      "rebuilt": "vless://ac9d1592-e589-4d52-886e-354bdaaf83d5@itl.mobileemdad.top:443?pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&fp=edge&sni=play-apps-features.googleusercontent.com&type=tcp&encryption=none&sid=08&headerType=none&security=reality#vless-tcp-reality-edge-IT%F0%9F%87%AE%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "57.131.21.102",
+      "port": "8443",
+      "id": "69ac162b-1643-4acb-9f49-09d8b0fad609",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "milan.adaspoloandco.com",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-2",
+      "ip": "57.131.21.102",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-2"
     },
     {
       "type": "vless",
@@ -56,11 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-3",
+      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-4",
       "ip": "57.131.21.102",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-3"
+      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-4"
     },
     {
       "type": "vless",
@@ -76,11 +76,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "edge",
-      "original": "vless://ac9d1592-e589-4d52-886e-354bdaaf83d5@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=377d#vless-tcp-reality-edge-IT%F0%9F%87%AE%F0%9F%87%B9-4",
+      "original": "vless://ac9d1592-e589-4d52-886e-354bdaaf83d5@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=377d#vless-tcp-reality-edge-IT%F0%9F%87%AE%F0%9F%87%B9-5",
       "ip": "57.131.22.97",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://ac9d1592-e589-4d52-886e-354bdaaf83d5@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=377d#vless-tcp-reality-edge-IT%F0%9F%87%AE%F0%9F%87%B9-4"
+      "rebuilt": "vless://ac9d1592-e589-4d52-886e-354bdaaf83d5@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=377d#vless-tcp-reality-edge-IT%F0%9F%87%AE%F0%9F%87%B9-5"
     },
     {
       "type": "vless",
@@ -96,11 +96,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-5",
+      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-6",
       "ip": "172.232.196.241",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-5"
+      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-6"
     }
   ]
 }
