@@ -1,19 +1,18 @@
 {
-  "updated": "2026-09-08T12:30:02.504765",
+  "updated": "2026-09-09T12:38:03.974177",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "181.41.201.242",
-      "port": "65443",
-      "method": "aes-256-cfb",
-      "password": "7eadc6dbe2ae",
-      "name": "🇧🇷 BR 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@181.41.201.242:65443#%f0%9f%87%a7%f0%9f%87%b7%20BR%201",
-      "ip": "181.41.201.242",
+      "type": "tg",
+      "address": "global.lovely.lat",
+      "port": "443",
+      "secret": "eeaadd88aa9facd454936d0c42dc128e77676c6f62616c2e6c6f76656c792e6c6174",
+      "name": "",
+      "original": "https://t.me/proxy?server=global.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e77676c6f62616c2e6c6f76656c792e6c6174",
+      "ip": "201.7.22.60",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@181.41.201.242:65443#%f0%9f%87%a7%f0%9f%87%b7%20BR%201"
+      "rebuilt": "https://t.me/proxy?server=global.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e77676c6f62616c2e6c6f76656c792e6c6174"
     }
   ]
 }

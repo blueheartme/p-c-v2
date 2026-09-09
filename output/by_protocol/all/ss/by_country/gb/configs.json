@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T02:31:26.589986",
+  "updated": "2026-09-09T12:38:04.066523",
   "count": 5,
   "configs": [
     {
@@ -17,19 +17,6 @@
     },
     {
       "type": "ss",
-      "address": "141.98.101.182",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "United Kingdom M247",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
-      "ip": "141.98.101.182",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
-    },
-    {
-      "type": "ss",
       "address": "57.129.140.88",
       "port": "8388",
       "method": "chacha20-ietf-poly1305",
@@ -43,19 +30,6 @@
     },
     {
       "type": "ss",
-      "address": "94.156.250.148",
-      "port": "7001",
-      "method": "aes-256-gcm",
-      "password": "RexnBgU7EV5ADxG",
-      "name": "🇬🇧 GB 3",
-      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%f0%9f%87%ac%f0%9f%87%a7%20GB%203",
-      "ip": "94.156.250.148",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%f0%9f%87%ac%f0%9f%87%a7%20GB%203"
-    },
-    {
-      "type": "ss",
       "address": "146.70.23.32",
       "port": "8080",
       "method": "rc4-md5",
@@ -66,6 +40,32 @@
       "country": "GB",
       "cdn": null,
       "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.23.32:8080#%f0%9f%87%ac%f0%9f%87%a7%20GB%202"
+    },
+    {
+      "type": "ss",
+      "address": "141.98.101.182",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "United Kingdom M247",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
+      "ip": "141.98.101.182",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
+    },
+    {
+      "type": "ss",
+      "address": "94.156.250.148",
+      "port": "7001",
+      "method": "aes-256-gcm",
+      "password": "RexnBgU7EV5ADxG",
+      "name": "🇬🇧 GB 3",
+      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%f0%9f%87%ac%f0%9f%87%a7%20GB%203",
+      "ip": "94.156.250.148",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%f0%9f%87%ac%f0%9f%87%a7%20GB%203"
     }
   ]
 }
