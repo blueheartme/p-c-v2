@@ -1,42 +1,18 @@
 {
-  "updated": "2026-09-10T02:31:50.326472",
-  "count": 5,
+  "updated": "2026-09-10T12:36:00.886293",
+  "count": 4,
   "configs": [
     {
       "type": "tg",
-      "address": "cdn14.cdnwave.org",
-      "port": "443",
-      "secret": "ee4f9067589367c2ef531642d501664f43686f66662e7275",
+      "address": "data.utkanos.life",
+      "port": "2443",
+      "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
       "name": "",
-      "original": "https://t.me/proxy?server=cdn14.cdnwave.org&port=443&secret=ee4f9067589367c2ef531642d501664f43686f66662e7275",
-      "ip": "79.137.174.219",
+      "original": "https://t.me/proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
+      "ip": "46.21.247.152",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=cdn14.cdnwave.org&port=443&secret=ee4f9067589367c2ef531642d501664f43686f66662e7275"
-    },
-    {
-      "type": "tg",
-      "address": "s2.assetflux.org",
-      "port": "443",
-      "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=s2.assetflux.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275",
-      "ip": "84.23.53.64",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=s2.assetflux.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
-    },
-    {
-      "type": "tg",
-      "address": "chto-za-internet.online",
-      "port": "443",
-      "secret": "eededaca910c735dcdadb6952778e3a2106368746f2d7a612d696e7465726e65742e6f6e6c696e65",
-      "name": "",
-      "original": "https://t.me/proxy?server=chto-za-internet.online&port=443&secret=eededaca910c735dcdadb6952778e3a2106368746f2d7a612d696e7465726e65742e6f6e6c696e65&@MPT_Proxy",
-      "ip": "186.246.6.164",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=chto-za-internet.online&port=443&secret=eededaca910c735dcdadb6952778e3a2106368746f2d7a612d696e7465726e65742e6f6e6c696e65&@MPT_Proxy"
+      "rebuilt": "https://t.me/proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
     },
     {
       "type": "tg",
@@ -52,15 +28,27 @@
     },
     {
       "type": "tg",
-      "address": "data.utkanos.life",
-      "port": "2443",
-      "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
+      "address": "s2.assetflux.org",
+      "port": "443",
+      "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275",
       "name": "",
-      "original": "https://t.me/proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
-      "ip": "62.84.116.110",
+      "original": "https://t.me/proxy?server=s2.assetflux.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275",
+      "ip": "84.23.53.64",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
+      "rebuilt": "https://t.me/proxy?server=s2.assetflux.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
+    },
+    {
+      "type": "tg",
+      "address": "cdn14.cdnwave.org",
+      "port": "443",
+      "secret": "ee4f9067589367c2ef531642d501664f43686f66662e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=cdn14.cdnwave.org&port=443&secret=ee4f9067589367c2ef531642d501664f43686f66662e7275",
+      "ip": "79.137.174.219",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=cdn14.cdnwave.org&port=443&secret=ee4f9067589367c2ef531642d501664f43686f66662e7275"
     }
   ]
 }

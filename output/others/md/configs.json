@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T02:31:50.240576",
+  "updated": "2026-09-10T12:36:00.792937",
   "count": 4,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "89.35.14.30",
       "port": "443",
       "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
-      "name": "@meliproxyy",
+      "name": "@filembad",
       "network": "grpc",
       "sni": "md1.univesalsrv.com",
       "host": "/?TELEGRAM--MARAMBASHI--MARAMBASHI",
@@ -44,26 +44,6 @@
     },
     {
       "type": "vless",
-      "address": "89.35.14.31",
-      "port": "443",
-      "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
-      "name": "@meliproxyy",
-      "network": "grpc",
-      "sni": "md2.univesalsrv.com",
-      "host": "/t.me/V2rayBaaz",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-3",
-      "ip": "89.35.14.31",
-      "country": "MD",
-      "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-3"
-    },
-    {
-      "type": "vless",
       "address": "89.35.14.32",
       "port": "443",
       "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
@@ -76,11 +56,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM---TOOTFFARANGI&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-4",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM---TOOTFFARANGI&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-3",
       "ip": "89.35.14.32",
       "country": "MD",
       "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM---TOOTFFARANGI&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-4"
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM---TOOTFFARANGI&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-3"
+    },
+    {
+      "type": "vless",
+      "address": "89.35.14.31",
+      "port": "443",
+      "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "name": "4|@ConfingV2RaayNG",
+      "network": "grpc",
+      "sni": "md2.univesalsrv.com",
+      "host": "/t.me/V2rayBaaz",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-4",
+      "ip": "89.35.14.31",
+      "country": "MD",
+      "cdn": null,
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#vless-grpc-reality-firefox-MD%F0%9F%87%B2%F0%9F%87%A9-4"
     }
   ]
 }

@@ -1,50 +1,37 @@
 {
-  "updated": "2026-09-10T02:31:50.248450",
-  "count": 3,
+  "updated": "2026-09-10T12:36:00.830159",
+  "count": 2,
   "configs": [
     {
       "type": "hysteria2",
       "address": "162.249.125.133",
       "port": "443",
-      "name": "Channel : @proxy_kafee",
-      "original": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "name": "@proxy_kafee",
+      "original": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1",
       "ip": "162.249.125.133",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+      "rebuilt": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1"
     },
     {
       "type": "vless",
-      "address": "80.96.112.163",
-      "port": "443",
-      "id": "7bafeb9d-06ba-4c43-94f5-b8666354d1c6",
-      "name": "@meliproxyy",
+      "address": "ro-xh02.tcp-reset-club.net",
+      "port": "8443",
+      "id": "4fb82973-a7f1-4fc2-9958-cb21f5162f06",
+      "name": "@proxy_kafee :‌ کانال تلگرام",
       "network": "xhttp",
-      "sni": "rom.skysafe.online",
+      "sni": "s3.netavex.com",
       "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://7bafeb9d-06ba-4c43-94f5-b8666354d1c6@80.96.112.163:443?encryption=none&security=reality&sni=rom.skysafe.online&fp=firefox&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1&allowinsecure=0&type=xhttp&mode=auto&path=%2Fpatch#vless-xhttp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-2",
-      "ip": "80.96.112.163",
+      "fingerprint": "chrome",
+      "original": "vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06@ro-xh02.tcp-reset-club.net:8443?encryption=none&security=reality&sni=s3.netavex.com&fp=chrome&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sid=e0&type=xhttp&path=%2Fassets%2Fv2%2Fpkg&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D#vless-xhttp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-2",
+      "ip": "37.46.196.85",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://7bafeb9d-06ba-4c43-94f5-b8666354d1c6@80.96.112.163:443?encryption=none&security=reality&sni=rom.skysafe.online&fp=firefox&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1&allowinsecure=0&type=xhttp&mode=auto&path=%2Fpatch#vless-xhttp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-2"
-    },
-    {
-      "type": "ss",
-      "address": "bogging-eyeteeth-fly.freesocks.work",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "QFWzCw2uX9B9i6qAYeFBIE",
-      "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#@meliproxyy",
-      "ip": "154.46.31.106",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#@meliproxyy"
+      "rebuilt": "vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06@ro-xh02.tcp-reset-club.net:8443?encryption=none&security=reality&sni=s3.netavex.com&fp=chrome&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sid=e0&type=xhttp&path=%2Fassets%2Fv2%2Fpkg&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D#vless-xhttp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-2"
     }
   ]
 }
