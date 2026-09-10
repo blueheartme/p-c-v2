@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-10T12:36:00.868937",
+  "updated": "2026-09-10T18:52:53.880243",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "43.202.46.25",
-      "port": "28482",
-      "id": "83973343-90db-423d-a5f7-2e3b56aeb8f4",
-      "name": "@i10VPN🎀",
+      "address": "129.154.192.50",
+      "port": "2053",
+      "id": "48e84fcc-ecb1-48a3-a596-88fea84887f5",
+      "name": "🇰🇷 KR 3",
       "network": "tcp",
-      "sni": "www.intel.com",
+      "sni": "www.ibm.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "43.202.46.25",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://48e84fcc-ecb1-48a3-a596-88fea84887f5@129.154.192.50:2053?flow=xtls-rprx-vision&security=reality&sni=www.ibm.com&fp=chrome&pbk=oBYxqt4GNTWrmvHRHM_6SAVj_yy95lXtQ0NLd1QWQDU&sid=dea6d68a3f6f96e3&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-2",
+      "ip": "129.154.192.50",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#vless-xtls-rprx-vision-tcp-reality-firefox-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+      "rebuilt": "vless://48e84fcc-ecb1-48a3-a596-88fea84887f5@129.154.192.50:2053?flow=xtls-rprx-vision&security=reality&sni=www.ibm.com&fp=chrome&pbk=oBYxqt4GNTWrmvHRHM_6SAVj_yy95lXtQ0NLd1QWQDU&sid=dea6d68a3f6f96e3&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-2"
     }
   ]
 }

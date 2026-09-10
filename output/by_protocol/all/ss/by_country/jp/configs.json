@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-10T12:36:00.893938",
-  "count": 1,
+  "updated": "2026-09-10T18:52:53.897908",
+  "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "149.22.87.240",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇯🇵 JP 3",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%203",
+      "ip": "149.22.87.240",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%203"
+    },
+    {
+      "type": "ss",
+      "address": "45.32.16.53",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "uTBjZhDmOMwBVAJI",
+      "name": "🇯🇵 JP 2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%202",
+      "ip": "45.32.16.53",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%202"
+    },
+    {
+      "type": "ss",
+      "address": "149.22.87.204",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇯🇵 JP 1",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201",
+      "ip": "149.22.87.204",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201"
+    },
+    {
+      "type": "ss",
+      "address": "84.247.155.196",
+      "port": "80",
+      "method": "aes-256-gcm",
+      "password": "3eOFeNssde7PYYMv",
+      "name": "🇯🇵 JP 5",
+      "original": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%f0%9f%87%af%f0%9f%87%b5%20JP%205",
+      "ip": "84.247.155.196",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%f0%9f%87%af%f0%9f%87%b5%20JP%205"
+    },
     {
       "type": "ss",
       "address": "64.83.33.45",

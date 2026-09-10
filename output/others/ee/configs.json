@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T12:36:00.793851",
+  "updated": "2026-09-10T18:52:53.824613",
   "count": 3,
   "configs": [
     {
@@ -44,23 +44,23 @@
     },
     {
       "type": "vless",
-      "address": "188.255.236.213",
+      "address": "150.241.101.243",
       "port": "443",
-      "id": "2a12bb81-f3a3-41bb-99ab-36febf676b4a",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "network": "tcp",
-      "sni": "cosmic-aurora.cdn.cachefleet.com",
+      "id": "49d39628-53cf-554b-a8d7-b31e0069b545",
+      "name": "☑➜چنلمون: Express_freevpn@",
+      "network": "ws",
+      "sni": "150.241.101.243.fwqfw783rg2dad.website",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "security": "tls",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-3",
-      "ip": "188.255.236.213",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://49d39628-53cf-554b-a8d7-b31e0069b545@150.241.101.243:443?path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=150.241.101.243.fwqfw783rg2dad.website#vless-ws-tls-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-3",
+      "ip": "150.241.101.243",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-3"
+      "rebuilt": "vless://49d39628-53cf-554b-a8d7-b31e0069b545@150.241.101.243:443?path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=150.241.101.243.fwqfw783rg2dad.website#vless-ws-tls-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-3"
     }
   ]
 }
