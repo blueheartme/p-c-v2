@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-11T02:26:00.634801",
-  "count": 5,
+  "updated": "2026-09-11T12:30:00.453093",
+  "count": 6,
   "configs": [
+    {
+      "type": "ss",
+      "address": "217.30.10.44",
+      "port": "9095",
+      "method": "aes-256-cfb",
+      "password": "N7j3pdTYkKmsy8CR",
+      "name": "🇵🇱 PL 4",
+      "original": "ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg==@217.30.10.44:9095#%f0%9f%87%b5%f0%9f%87%b1%20PL%204",
+      "ip": "217.30.10.44",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg==@217.30.10.44:9095#%f0%9f%87%b5%f0%9f%87%b1%20PL%204"
+    },
     {
       "type": "ss",
       "address": "194.61.121.93",
@@ -43,19 +56,6 @@
     },
     {
       "type": "ss",
-      "address": "217.30.10.44",
-      "port": "9095",
-      "method": "aes-256-cfb",
-      "password": "N7j3pdTYkKmsy8CR",
-      "name": "🇵🇱 PL 4",
-      "original": "ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg==@217.30.10.44:9095#%f0%9f%87%b5%f0%9f%87%b1%20PL%204",
-      "ip": "217.30.10.44",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg==@217.30.10.44:9095#%f0%9f%87%b5%f0%9f%87%b1%20PL%204"
-    },
-    {
-      "type": "ss",
       "address": "64.176.73.160",
       "port": "8388",
       "method": "chacha20-ietf-poly1305",
@@ -66,6 +66,19 @@
       "country": "PL",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#%f0%9f%87%b5%f0%9f%87%b1%20PL%201"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.44",
+      "port": "9006",
+      "method": "aes-256-cfb",
+      "password": "FAdUvMJUq5vDgKEq",
+      "name": "🇵🇱 PL 2",
+      "original": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.44:9006#%f0%9f%87%b5%f0%9f%87%b1%20PL%202",
+      "ip": "217.30.10.44",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.44:9006#%f0%9f%87%b5%f0%9f%87%b1%20PL%202"
     }
   ]
 }
