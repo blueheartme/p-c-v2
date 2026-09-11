@@ -1,19 +1,32 @@
 {
-  "updated": "2026-09-10T18:52:53.901560",
+  "updated": "2026-09-11T02:26:00.634801",
   "count": 5,
   "configs": [
     {
       "type": "ss",
+      "address": "194.61.121.93",
+      "port": "7538",
+      "method": "chacha20-ietf-poly1305",
+      "password": "U9YAoqBgg5VyGBc6vQv1sN",
+      "name": "🇵🇱 PL 7",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#%f0%9f%87%b5%f0%9f%87%b1%20PL%207",
+      "ip": "194.61.121.93",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#%f0%9f%87%b5%f0%9f%87%b1%20PL%207"
+    },
+    {
+      "type": "ss",
       "address": "217.30.10.44",
-      "port": "9006",
+      "port": "9099",
       "method": "aes-256-cfb",
-      "password": "FAdUvMJUq5vDgKEq",
-      "name": "🇵🇱 PL 2",
-      "original": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.44:9006#%f0%9f%87%b5%f0%9f%87%b1%20PL%202",
+      "password": "7heRqkPG3hg4UnRm",
+      "name": "🇵🇱 PL 3",
+      "original": "ss://YWVzLTI1Ni1jZmI6N2hlUnFrUEczaGc0VW5SbQ==@217.30.10.44:9099#%f0%9f%87%b5%f0%9f%87%b1%20PL%203",
       "ip": "217.30.10.44",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.44:9006#%f0%9f%87%b5%f0%9f%87%b1%20PL%202"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6N2hlUnFrUEczaGc0VW5SbQ==@217.30.10.44:9099#%f0%9f%87%b5%f0%9f%87%b1%20PL%203"
     },
     {
       "type": "ss",
@@ -43,29 +56,16 @@
     },
     {
       "type": "ss",
-      "address": "194.61.121.93",
-      "port": "7538",
+      "address": "64.176.73.160",
+      "port": "8388",
       "method": "chacha20-ietf-poly1305",
-      "password": "U9YAoqBgg5VyGBc6vQv1sN",
-      "name": "🇵🇱 PL 7",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#%f0%9f%87%b5%f0%9f%87%b1%20PL%207",
-      "ip": "194.61.121.93",
+      "password": "VJtsgllDDJfNmaTe",
+      "name": "🇵🇱 PL 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#%f0%9f%87%b5%f0%9f%87%b1%20PL%201",
+      "ip": "64.176.73.160",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#%f0%9f%87%b5%f0%9f%87%b1%20PL%207"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.44",
-      "port": "9099",
-      "method": "aes-256-cfb",
-      "password": "7heRqkPG3hg4UnRm",
-      "name": "🇵🇱 PL 3",
-      "original": "ss://YWVzLTI1Ni1jZmI6N2hlUnFrUEczaGc0VW5SbQ==@217.30.10.44:9099#%f0%9f%87%b5%f0%9f%87%b1%20PL%203",
-      "ip": "217.30.10.44",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6N2hlUnFrUEczaGc0VW5SbQ==@217.30.10.44:9099#%f0%9f%87%b5%f0%9f%87%b1%20PL%203"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#%f0%9f%87%b5%f0%9f%87%b1%20PL%201"
     }
   ]
 }

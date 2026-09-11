@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T18:52:53.839063",
-  "count": 2,
+  "updated": "2026-09-11T02:26:00.567642",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -16,24 +16,31 @@
       "rebuilt": "ss://YWVzLTI1Ni1nY206d0JZaURqRER5RnFjQm5ObA==@64.177.32.29:8388#%f0%9f%87%ba%f0%9f%87%b8%20US%2025"
     },
     {
-      "type": "vless",
-      "address": "ac391083a2467acb.neshatinjafood.ir",
+      "type": "trojan",
+      "address": "213.182.199.137",
       "port": "443",
-      "id": "2e050832-ad53-42ba-9fd3-cec1f74cb626",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "play-apps-features.googleusercontent.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://2e050832-ad53-42ba-9fd3-cec1f74cb626@ac391083a2467acb.neshatinjafood.ir:443?security=reality&encryption=none&pbk=-Nw4pIuzq_vnQiII34vwq-_Hot3THgvXB6teTaX1jiQ&headerType=none&fp=firefox&type=tcp&sni=play-apps-features.googleusercontent.com&sid=56c0d432cdf36f66#vless-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2",
-      "ip": "194.62.98.130",
+      "password": "humanity",
+      "name": "برای اتصال دائمی جوین شو🥎 TelegramID ⌲Express_freevpn 🪩",
+      "sni": "www.pleadcourt.org",
+      "host": "www.pleadcourt.org",
+      "original": "trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "213.182.199.137",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://2e050832-ad53-42ba-9fd3-cec1f74cb626@ac391083a2467acb.neshatinjafood.ir:443?security=reality&encryption=none&pbk=-Nw4pIuzq_vnQiII34vwq-_Hot3THgvXB6teTaX1jiQ&headerType=none&fp=firefox&type=tcp&sni=play-apps-features.googleusercontent.com&sid=56c0d432cdf36f66#vless-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+      "rebuilt": "trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
+    {
+      "type": "ss",
+      "address": "108.181.121.226",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "WSyL4XTwNsdv",
+      "name": "🇪🇸 ES 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%201",
+      "ip": "108.181.121.226",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%201"
     }
   ]
 }
