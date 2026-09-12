@@ -1,18 +1,17 @@
 {
-  "updated": "2026-09-12T02:33:37.966170",
+  "updated": "2026-09-12T11:53:06.507284",
   "count": 3,
   "configs": [
     {
-      "type": "tg",
-      "address": "media11.happtg.org",
+      "type": "hysteria2",
+      "address": "162.249.125.133",
       "port": "443",
-      "secret": "eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=media11.happtg.org&port=443&secret=eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275",
-      "ip": "89.37.192.53",
+      "name": "@proxy_kafee",
+      "original": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "ip": "162.249.125.133",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=media11.happtg.org&port=443&secret=eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275"
+      "rebuilt": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1"
     },
     {
       "type": "tg",
@@ -27,15 +26,16 @@
       "rebuilt": "https://t.me/proxy?server=s16.assetflux.org&port=443&secret=eea669969a1f4dabafd3beee9b34663b52686f66662e7275"
     },
     {
-      "type": "hysteria2",
-      "address": "162.249.125.133",
+      "type": "tg",
+      "address": "media11.happtg.org",
       "port": "443",
-      "name": "@filembad",
-      "original": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-3",
-      "ip": "162.249.125.133",
+      "secret": "eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=media11.happtg.org&port=443&secret=eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275",
+      "ip": "89.37.192.53",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-3"
+      "rebuilt": "https://t.me/proxy?server=media11.happtg.org&port=443&secret=eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275"
     }
   ]
 }
