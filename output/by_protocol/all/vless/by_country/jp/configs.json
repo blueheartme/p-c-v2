@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-12T11:53:06.578929",
-  "count": 1,
+  "updated": "2026-09-12T18:01:32.828363",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "137.220.221.179",
+      "port": "443",
+      "id": "a16a3336-c9ab-489f-9b85-c973f5e2cfa4",
+      "name": "🇯🇵 JP 3",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&path=%2f#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "ip": "137.220.221.179",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&path=%2f#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+    },
     {
       "type": "vless",
       "address": "15.168.173.144",
