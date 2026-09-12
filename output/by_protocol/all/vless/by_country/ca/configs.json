@@ -1,47 +1,7 @@
 {
-  "updated": "2026-09-11T18:55:36.033102",
-  "count": 3,
+  "updated": "2026-09-12T02:33:38.015735",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "38.128.251.24",
-      "port": "56539",
-      "id": "61bf1e79-a2fc-44ee-a576-e4b9ef0d3b16",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "",
-      "host": "mangaarabics.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "mlkem768x25519plus.random.0rtt.swy_akeuuhuhko0bhvv2uot-ufbtrxplwr7g8uzk0xk",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://61bf1e79-a2fc-44ee-a576-e4b9ef0d3b16@38.128.251.24:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=mangaarabics.com&headerType=http&type=tcp#vless-mlkem768x25519plus.random.0rtt.swy_akeuuhuhko0bhvv2uot-ufbtrxplwr7g8uzk0xk-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "38.128.251.24",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://61bf1e79-a2fc-44ee-a576-e4b9ef0d3b16@38.128.251.24:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=mangaarabics.com&headerType=http&type=tcp#vless-mlkem768x25519plus.random.0rtt.swy_akeuuhuhko0bhvv2uot-ufbtrxplwr7g8uzk0xk-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1"
-    },
-    {
-      "type": "vless",
-      "address": "lizca2.footballfantasyforum.com",
-      "port": "443",
-      "id": "716426fa-bcb7-4eb9-b460-36399ebf740d",
-      "name": "Free x246 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "lizca2.footballfantasyforum.com",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4",
-      "ip": "184.107.106.68",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4"
-    },
     {
       "type": "vless",
       "address": "184.107.106.68",
@@ -56,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5",
+      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "184.107.106.68",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5"
+      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+    },
+    {
+      "type": "vless",
+      "address": "38.128.251.24",
+      "port": "56539",
+      "id": "61bf1e79-a2fc-44ee-a576-e4b9ef0d3b16",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "",
+      "host": "mangaarabics.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.random.0rtt.swy_akeuuhuhko0bhvv2uot-ufbtrxplwr7g8uzk0xk",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://61bf1e79-a2fc-44ee-a576-e4b9ef0d3b16@38.128.251.24:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=mangaarabics.com&headerType=http&type=tcp#vless-mlkem768x25519plus.random.0rtt.swy_akeuuhuhko0bhvv2uot-ufbtrxplwr7g8uzk0xk-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "ip": "38.128.251.24",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://61bf1e79-a2fc-44ee-a576-e4b9ef0d3b16@38.128.251.24:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=mangaarabics.com&headerType=http&type=tcp#vless-mlkem768x25519plus.random.0rtt.swy_akeuuhuhko0bhvv2uot-ufbtrxplwr7g8uzk0xk-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-3"
     }
   ]
 }
