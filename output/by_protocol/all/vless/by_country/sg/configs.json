@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T18:01:32.827443",
-  "count": 1,
+  "updated": "2026-09-13T02:32:51.932022",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#vless-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#vless-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "43.174.247.25",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#vless-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#vless-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "vless",
+      "address": "www.hxino.com",
+      "port": "443",
+      "id": "00f8cbcc-bf10-418b-a842-35519f460c7f",
+      "name": "Free x217 @Outline_Vpn",
+      "network": "httpupgrade",
+      "sni": "",
+      "host": "deh.irandoc.info",
+      "security": "tls",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.random.0rtt.bt6vamtdf4jpeunn2b5ehc7vwnj4kklered_aiakft0",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://00f8cbcc-bf10-418b-a842-35519f460c7f@www.hxino.com:443?path=%2F38284%2Fapi4&security=tls&encryption=mlkem768x25519plus.random.0rtt.bt6vamtdf4jPeuNn2b5eHC7VwnJ4KklEReD_AIAkfT0&insecure=0&host=deh.irandoc.info&fp=firefox&type=httpupgrade&allowInsecure=0#vless-mlkem768x25519plus.random.0rtt.bt6vamtdf4jpeunn2b5ehc7vwnj4kklered_aiakft0-httpupgrade-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "43.174.247.103",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://00f8cbcc-bf10-418b-a842-35519f460c7f@www.hxino.com:443?path=%2F38284%2Fapi4&security=tls&encryption=mlkem768x25519plus.random.0rtt.bt6vamtdf4jPeuNn2b5eHC7VwnJ4KklEReD_AIAkfT0&insecure=0&host=deh.irandoc.info&fp=firefox&type=httpupgrade&allowInsecure=0#vless-mlkem768x25519plus.random.0rtt.bt6vamtdf4jpeunn2b5ehc7vwnj4kklered_aiakft0-httpupgrade-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     }
   ]
 }

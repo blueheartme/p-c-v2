@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-12T18:01:32.828363",
-  "count": 2,
+  "updated": "2026-09-13T02:32:51.933153",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "137.220.221.179",
-      "port": "443",
-      "id": "a16a3336-c9ab-489f-9b85-c973f5e2cfa4",
-      "name": "🇯🇵 JP 3",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&path=%2f#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-1",
-      "ip": "137.220.221.179",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&path=%2f#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-1"
-    },
     {
       "type": "vless",
       "address": "15.168.173.144",
@@ -36,11 +16,51 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-2",
+      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-3",
       "ip": "15.168.173.144",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-3"
+    },
+    {
+      "type": "vless",
+      "address": "47.79.32.249",
+      "port": "443",
+      "id": "6030877e-32a0-4f16-b65e-92e076f9e3f9",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://6030877e-32a0-4f16-b65e-92e076f9e3f9@47.79.32.249:443?security=reality&encryption=none&pbk=5-5-JEuwU97zcy-IJg32zruuHAOZ-85DM0YhRmzWbG4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=25d14b49bd77142e#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-4",
+      "ip": "47.79.32.249",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://6030877e-32a0-4f16-b65e-92e076f9e3f9@47.79.32.249:443?security=reality&encryption=none&pbk=5-5-JEuwU97zcy-IJg32zruuHAOZ-85DM0YhRmzWbG4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=25d14b49bd77142e#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-4"
+    },
+    {
+      "type": "vless",
+      "address": "137.220.221.179",
+      "port": "443",
+      "id": "a16a3336-c9ab-489f-9b85-c973f5e2cfa4",
+      "name": "🇯🇵 JP 3",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&path=%2f#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-6",
+      "ip": "137.220.221.179",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&path=%2f#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-6"
     }
   ]
 }
