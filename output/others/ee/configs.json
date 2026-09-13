@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-13T13:02:48.822583",
+  "updated": "2026-09-13T18:28:10.442549",
   "count": 4,
   "configs": [
-    {
-      "type": "vless",
-      "address": "150.241.101.243",
-      "port": "443",
-      "id": "49d39628-53cf-554b-a8d7-b31e0069b545",
-      "name": "☑➜چنلمون: Express_freevpn@",
-      "network": "ws",
-      "sni": "150.241.101.243.fwqfw783rg2dad.website",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://49d39628-53cf-554b-a8d7-b31e0069b545@150.241.101.243:443?path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=150.241.101.243.fwqfw783rg2dad.website#vless-ws-tls-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-1",
-      "ip": "150.241.101.243",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://49d39628-53cf-554b-a8d7-b31e0069b545@150.241.101.243:443?path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=150.241.101.243.fwqfw783rg2dad.website#vless-ws-tls-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-1"
-    },
     {
       "type": "vless",
       "address": "185.155.55.10",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://42d932cb-8768-41de-b57b-299252a493d2@185.155.55.10:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "original": "vless://42d932cb-8768-41de-b57b-299252a493d2@185.155.55.10:8443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-1",
       "ip": "185.155.55.10",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://42d932cb-8768-41de-b57b-299252a493d2@185.155.55.10:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-2"
+      "rebuilt": "vless://42d932cb-8768-41de-b57b-299252a493d2@185.155.55.10:8443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "150.241.101.243",
+      "port": "443",
+      "id": "49d39628-53cf-554b-a8d7-b31e0069b545",
+      "name": "☑➜چنلمون: Express_freevpn@",
+      "network": "ws",
+      "sni": "150.241.101.243.fwqfw783rg2dad.website",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://49d39628-53cf-554b-a8d7-b31e0069b545@150.241.101.243:443?path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=150.241.101.243.fwqfw783rg2dad.website#vless-ws-tls-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "ip": "150.241.101.243",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://49d39628-53cf-554b-a8d7-b31e0069b545@150.241.101.243:443?path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=150.241.101.243.fwqfw783rg2dad.website#vless-ws-tls-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-2"
     },
     {
       "type": "vless",

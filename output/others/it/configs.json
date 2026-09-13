@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T13:02:48.824586",
-  "count": 6,
+  "updated": "2026-09-13T18:28:10.444776",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
@@ -44,6 +44,26 @@
     },
     {
       "type": "vless",
+      "address": "31.76.113.202",
+      "port": "8443",
+      "id": "70e46815-9cae-46e5-8224-d35f6bd7897d",
+      "name": "@i10VPN5️⃣",
+      "network": "tcp",
+      "sni": "www.sciencedirect.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.113.202:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#vless-xtls-rprx-vision-tcp-reality-qq-IT%F0%9F%87%AE%F0%9F%87%B9-3",
+      "ip": "31.76.113.202",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.113.202:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#vless-xtls-rprx-vision-tcp-reality-qq-IT%F0%9F%87%AE%F0%9F%87%B9-3"
+    },
+    {
+      "type": "vless",
       "address": "172.232.196.241",
       "port": "32396",
       "id": "bd6ebd72-25cd-4209-a418-a8c72946da90",
@@ -56,31 +76,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-3",
+      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-4",
       "ip": "172.232.196.241",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-3"
-    },
-    {
-      "type": "vless",
-      "address": "ww4.levikogjgfdd.ir",
-      "port": "32396",
-      "id": "bd6ebd72-25cd-4209-a418-a8c72946da90",
-      "name": "Free x130 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "www.sony.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-4",
-      "ip": "172.232.196.241",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-4"
+      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-4"
     },
     {
       "type": "vless",
@@ -101,26 +101,6 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "vless://3b6a9df3-f1d1-4bc1-94a5-0d8f2d5512b1@mil.2clash.ru:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=vMpyuTZ06hfF-Yu1u8w43TiUidkML1Ges5KGeyr6Ui4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mil.2clash.ru&sid=324344345654#vless-xtls-rprx-vision-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-5"
-    },
-    {
-      "type": "vless",
-      "address": "31.76.113.202",
-      "port": "8443",
-      "id": "70e46815-9cae-46e5-8224-d35f6bd7897d",
-      "name": "@i10VPN5️⃣",
-      "network": "tcp",
-      "sni": "www.sciencedirect.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.113.202:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#vless-xtls-rprx-vision-tcp-reality-qq-IT%F0%9F%87%AE%F0%9F%87%B9-6",
-      "ip": "31.76.113.202",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.113.202:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#vless-xtls-rprx-vision-tcp-reality-qq-IT%F0%9F%87%AE%F0%9F%87%B9-6"
     }
   ]
 }

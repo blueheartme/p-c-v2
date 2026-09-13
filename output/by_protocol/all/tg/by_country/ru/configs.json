@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-13T13:02:48.852987",
-  "count": 6,
+  "updated": "2026-09-13T18:28:10.517970",
+  "count": 5,
   "configs": [
+    {
+      "type": "tg",
+      "address": "data.utkanos.life",
+      "port": "2443",
+      "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
+      "name": "",
+      "original": "https://t.me/proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
+      "ip": "130.193.37.35",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
+    },
     {
       "type": "tg",
       "address": "1b2aca9d-6852-45a7-bd7b-771a70fde2b7.fast-cdn.cc",
@@ -13,42 +25,6 @@
       "country": "RU",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=1b2aca9d-6852-45a7-bd7b-771a70fde2b7.fast-cdn.cc&port=443&secret=ee5a9252c2c44ec88a5ad64b048d4585f7666173742d63646e2e6363"
-    },
-    {
-      "type": "tg",
-      "address": "s02.neo-trading.org",
-      "port": "443",
-      "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
-      "ip": "135.106.155.161",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
-    },
-    {
-      "type": "tg",
-      "address": "data.utkanos.life",
-      "port": "2443",
-      "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
-      "name": "",
-      "original": "https://t.me/proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
-      "ip": "111.88.253.202",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
-    },
-    {
-      "type": "tg",
-      "address": "s01.neo-trading.org",
-      "port": "443",
-      "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275",
-      "ip": "161.104.57.184",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275"
     },
     {
       "type": "tg",
@@ -64,15 +40,27 @@
     },
     {
       "type": "tg",
-      "address": "kostyanchekloh.lol",
+      "address": "s01.neo-trading.org",
       "port": "443",
-      "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+      "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275",
       "name": "",
-      "original": "https://t.me/proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-      "ip": "93.77.162.64",
+      "original": "https://t.me/proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275",
+      "ip": "135.106.130.195",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
+      "rebuilt": "https://t.me/proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275"
+    },
+    {
+      "type": "tg",
+      "address": "s02.neo-trading.org",
+      "port": "443",
+      "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+      "ip": "45.157.161.77",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
     }
   ]
 }
