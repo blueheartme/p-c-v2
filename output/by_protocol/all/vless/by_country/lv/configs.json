@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-14T14:38:27.296205",
-  "count": 3,
+  "updated": "2026-09-14T20:07:15.463220",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "195.135.252.28",
+      "port": "443",
+      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
+      "name": "Latvia Sia Veesp",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "ip": "195.135.252.28",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+    },
     {
       "type": "vless",
       "address": "150.241.75.198",
@@ -21,46 +41,6 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@150.241.75.198:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%87%B1%F0%9F%87%BB-2"
-    },
-    {
-      "type": "vless",
-      "address": "195.135.252.28",
-      "port": "443",
-      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
-      "name": "Latvia Sia Veesp",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3",
-      "ip": "195.135.252.28",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3"
-    },
-    {
-      "type": "vless",
-      "address": "46.8.233.9",
-      "port": "27708",
-      "id": "ec880cf0-9cc3-4392-9a4b-a448d4e30ed8",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "play-apps-features.googleusercontent.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://ec880cf0-9cc3-4392-9a4b-a448d4e30ed8@46.8.233.9:27708?encryption=none&fp=firefox&pbk=HRYczMIBQrJhl5NDDV7wECumCgz1qFqfY0Awavc7dyQ&security=reality&sid=9892bd4cd2&sni=play-apps-features.googleusercontent.com&spx=%2Fc3a195bb6c13f15&type=tcp#vless-tcp-reality-firefox-LV%F0%9F%87%B1%F0%9F%87%BB-4",
-      "ip": "46.8.233.9",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://ec880cf0-9cc3-4392-9a4b-a448d4e30ed8@46.8.233.9:27708?encryption=none&fp=firefox&pbk=HRYczMIBQrJhl5NDDV7wECumCgz1qFqfY0Awavc7dyQ&security=reality&sid=9892bd4cd2&sni=play-apps-features.googleusercontent.com&spx=%2Fc3a195bb6c13f15&type=tcp#vless-tcp-reality-firefox-LV%F0%9F%87%B1%F0%9F%87%BB-4"
     }
   ]
 }

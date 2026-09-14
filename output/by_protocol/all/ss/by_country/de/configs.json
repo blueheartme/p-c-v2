@@ -1,19 +1,32 @@
 {
-  "updated": "2026-09-14T14:38:27.328586",
-  "count": 3,
+  "updated": "2026-09-14T20:07:15.490709",
+  "count": 6,
   "configs": [
     {
       "type": "ss",
-      "address": "141.95.29.163",
-      "port": "2083",
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:JTou+JSmZOAyrMLdvNBcXFm0Y9luZ/8u17ie48jQfVc=",
-      "name": "",
-      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#",
-      "ip": "141.95.29.163",
+      "address": "185.203.4.204",
+      "port": "1",
+      "method": "chacha20-ietf-poly1305",
+      "password": "816Efx8yiCSDDpvvpxXL8Q",
+      "name": "@ir_IRANy 🇩🇪",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:1#%40ir_IRANy%20%F0%9F%87%A9%F0%9F%87%AA",
+      "ip": "185.203.4.204",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:1#%40ir_IRANy%20%F0%9F%87%A9%F0%9F%87%AA"
+    },
+    {
+      "type": "ss",
+      "address": "51.195.126.38",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "2YdE4lFOid5a",
+      "name": "@i10VPN🌖",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%40i10VPN%F0%9F%8C%96",
+      "ip": "51.195.126.38",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%40i10VPN%F0%9F%8C%96"
     },
     {
       "type": "ss",
@@ -30,16 +43,48 @@
     },
     {
       "type": "ss",
-      "address": "51.195.126.38",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "2YdE4lFOid5a",
-      "name": "@i10VPN🌖",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%40i10VPN%F0%9F%8C%96",
-      "ip": "51.195.126.38",
+      "address": "141.95.29.163",
+      "port": "2083",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:JTou+JSmZOAyrMLdvNBcXFm0Y9luZ/8u17ie48jQfVc=",
+      "name": "",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#",
+      "ip": "141.95.29.163",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%40i10VPN%F0%9F%8C%96"
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#"
+    },
+    {
+      "type": "ss",
+      "address": "cdn-2d12.giftcardbazarbot.com",
+      "port": "8243",
+      "method": "chacha20-ietf-poly1305",
+      "password": "cXzqTLtMHmVAuueEq2rByw",
+      "name": "Free x174 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWHpxVEx0TUhtVkF1dWVFcTJyQnl3@cdn-2d12.giftcardbazarbot.com:8243#Free%20x174%20%40Outline_Vpn",
+      "ip": "78.47.72.179",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWHpxVEx0TUhtVkF1dWVFcTJyQnl3@cdn-2d12.giftcardbazarbot.com:8243#Free%20x174%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "79.137.207.190",
+      "port": "3",
+      "method": "chacha20-ietf-poly1305",
+      "password": "9ri2bpxWs4FHXRjlhTFlQQ",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5cmkyYnB4V3M0RkhYUmpsaFRGbFFR@79.137.207.190:3#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
+      "ip": "79.137.207.190",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5cmkyYnB4V3M0RkhYUmpsaFRGbFFR@79.137.207.190:3#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
     }
   ]
 }

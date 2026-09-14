@@ -1,23 +1,7 @@
 {
-  "updated": "2026-09-14T14:38:27.339097",
+  "updated": "2026-09-14T20:07:15.509059",
   "count": 4,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "130.185.123.21",
-      "port": "443",
-      "password": "n3c19q10gnv5gxg8",
-      "name": "@",
-      "sni": "",
-      "host": "",
-      "original": "trojan://n3c19q10gnv5gxg8@130.185.123.21:443?security=none&headerType=&type=tcp#trojan-tcp-DE%F0%9F%87%A9%F0%9F%87%AA-5",
-      "ip": "130.185.123.21",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://n3c19q10gnv5gxg8@130.185.123.21:443?security=none&headerType=&type=tcp#trojan-tcp-DE%F0%9F%87%A9%F0%9F%87%AA-5"
-    },
     {
       "type": "trojan",
       "address": "78.47.146.151",
@@ -26,13 +10,29 @@
       "name": "@meliproxyy",
       "sni": "www.pleadcourt.org",
       "host": "www.pleadcourt.org",
-      "original": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-55",
+      "original": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2",
       "ip": "78.47.146.151",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-55"
+      "rebuilt": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2"
+    },
+    {
+      "type": "trojan",
+      "address": "130.185.123.21",
+      "port": "1819",
+      "password": "eowr5vwm32wu3473",
+      "name": "@filembad",
+      "sni": "",
+      "host": "",
+      "original": "trojan://eowr5vwm32wu3473@130.185.123.21:1819?type=tcp&security=none&headerType=none#trojan-tcp-DE%F0%9F%87%A9%F0%9F%87%AA-65",
+      "ip": "130.185.123.21",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://eowr5vwm32wu3473@130.185.123.21:1819?type=tcp&security=none&headerType=none#trojan-tcp-DE%F0%9F%87%A9%F0%9F%87%AA-65"
     },
     {
       "type": "trojan",
@@ -42,13 +42,13 @@
       "name": "@meliproxyy",
       "sni": "maps.google.com",
       "host": "",
-      "original": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@5.75.171.12:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#trojan-tcp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-63",
+      "original": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@5.75.171.12:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#trojan-tcp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-98",
       "ip": "5.75.171.12",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@5.75.171.12:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#trojan-tcp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-63"
+      "rebuilt": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@5.75.171.12:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#trojan-tcp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-98"
     },
     {
       "type": "trojan",
@@ -58,13 +58,13 @@
       "name": "Free x226 @Outline_Vpn",
       "sni": "maps.google.com",
       "host": "",
-      "original": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@jgzt1997.qivfelo.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#trojan-tcp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-90",
+      "original": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@jgzt1997.qivfelo.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#trojan-tcp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-105",
       "ip": "5.75.171.12",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@jgzt1997.qivfelo.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#trojan-tcp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-90"
+      "rebuilt": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@jgzt1997.qivfelo.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#trojan-tcp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-105"
     }
   ]
 }
