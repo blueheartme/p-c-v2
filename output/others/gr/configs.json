@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-14T02:48:57.930963",
-  "count": 2,
+  "updated": "2026-09-14T14:38:27.251369",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "85.90.197.120",
       "port": "443",
       "id": "d6b59299-2f48-4e9b-9130-b9e9cb5d0a51",
-      "name": "@filembad",
+      "name": "@meliproxyy",
       "network": "tcp",
       "sni": "gr1.hat.onl",
       "host": "",
@@ -21,26 +21,6 @@
       "country": "GR",
       "cdn": null,
       "rebuilt": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.197.120:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gr1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-GR%F0%9F%87%AC%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "185.126.238.87",
-      "port": "2083",
-      "id": "7668f678-faee-40cc-9b56-9c39dc773388",
-      "name": "Telegram@ConfingV2RaayNG",
-      "network": "grpc",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?security=none&encryption=none&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%87%AC%F0%9F%87%B7-2",
-      "ip": "185.126.238.87",
-      "country": "GR",
-      "cdn": null,
-      "rebuilt": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?security=none&encryption=none&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%87%AC%F0%9F%87%B7-2"
     }
   ]
 }

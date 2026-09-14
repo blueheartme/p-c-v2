@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-14T02:48:58.020044",
-  "count": 3,
+  "updated": "2026-09-14T14:38:27.328024",
+  "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "82.38.31.205",
+      "port": "8080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "k1dBOmOB4oqi7Ump37a1bQ",
+      "name": "Netherlands Greenhost",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#Netherlands%20Greenhost",
+      "ip": "82.38.31.205",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#Netherlands%20Greenhost"
+    },
     {
       "type": "ss",
       "address": "82.38.31.201",
@@ -40,6 +53,19 @@
       "country": "NL",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%40i10VPN%F0%9F%8C%8B"
+    },
+    {
+      "type": "ss",
+      "address": "46.8.100.213",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "4ioKA_q8jdDh3yLCfLrNASLLencsiJ2T",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aW9LQV9xOGpkRGgzeUxDZkxyTkFTTExlbmNzaUoyVA==@46.8.100.213:1080#@meliproxyy",
+      "ip": "46.8.100.213",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aW9LQV9xOGpkRGgzeUxDZkxyTkFTTExlbmNzaUoyVA==@46.8.100.213:1080#@meliproxyy"
     }
   ]
 }

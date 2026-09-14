@@ -1,18 +1,26 @@
 {
-  "updated": "2026-09-06T02:19:37.712910",
+  "updated": "2026-09-14T14:38:27.253366",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "s5.bangmyshop.ir",
-      "port": "8443",
-      "secret": "dd35298bcca68e0e6c533a6503d30c4895",
-      "name": "",
-      "original": "https://t.me/proxy?server=s5.bangmyshop.ir&port=8443&secret=dd35298bcca68e0e6c533a6503d30c4895",
-      "ip": "61.245.10.233",
+      "type": "vless",
+      "address": "61.245.11.28",
+      "port": "9090",
+      "id": "Channel%3Atelegram%3ATurboConfigs",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "",
+      "host": "play-apps-features.googleusercontent.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://Channel%3Atelegram%3ATurboConfigs@61.245.11.28:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#vless-tcp-http-PH%F0%9F%87%B5%F0%9F%87%AD-1",
+      "ip": "61.245.11.28",
       "country": "PH",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=s5.bangmyshop.ir&port=8443&secret=dd35298bcca68e0e6c533a6503d30c4895"
+      "rebuilt": "vless://Channel%3Atelegram%3ATurboConfigs@61.245.11.28:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#vless-tcp-http-PH%F0%9F%87%B5%F0%9F%87%AD-1"
     }
   ]
 }
