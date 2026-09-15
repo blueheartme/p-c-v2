@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T13:03:16.043883",
-  "count": 1,
+  "updated": "2026-09-15T19:25:31.819371",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,41 @@
       "country": "ES",
       "cdn": null,
       "rebuilt": "trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+    },
+    {
+      "type": "vless",
+      "address": "spa1.plasmoon.ir",
+      "port": "56562",
+      "id": "ce5c37ec-739d-4388-a9a9-9c2cef01e6e2",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "play-apps-features.googleusercontent.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "edge",
+      "original": "vless://ce5c37ec-739d-4388-a9a9-9c2cef01e6e2@spa1.plasmoon.ir:56562?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&sid=8101b9ba16eb77c7#vless-xtls-rprx-vision-tcp-reality-edge-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "65.20.96.254",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://ce5c37ec-739d-4388-a9a9-9c2cef01e6e2@spa1.plasmoon.ir:56562?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&sid=8101b9ba16eb77c7#vless-xtls-rprx-vision-tcp-reality-edge-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
+    {
+      "type": "vmess",
+      "address": "85.90.217.42",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "Free x319 @Outline_Vpn",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtRVPwn4eq8J+HuC0zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "ip": "85.90.217.42",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtRVPwn4eq8J+HuC0zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
     }
   ]
 }

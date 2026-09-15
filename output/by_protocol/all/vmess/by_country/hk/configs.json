@@ -1,21 +1,51 @@
 {
-  "updated": "2026-09-15T13:03:16.119377",
-  "count": 1,
+  "updated": "2026-09-15T19:25:31.903592",
+  "count": 3,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "v6.hdacd.com",
+      "port": "30806",
+      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "name": "🇭🇰 HK 4",
+      "network": null,
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUhL8J+HrfCfh7AtMyIsImFkZCI6InY2LmhkYWNkLmNvbSIsInBvcnQiOjMwODA2LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "1.36.66.65",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUhL8J+HrfCfh7AtMyIsImFkZCI6InY2LmhkYWNkLmNvbSIsInBvcnQiOjMwODA2LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
     {
       "type": "vmess",
       "address": "nycqg19zkwacpm1b.v.3dns.vip",
       "port": "443",
       "id": "f23bb427c1f94373876c2f43e9f790f3",
-      "name": "🇭🇰 HK 2",
+      "name": "🇭🇰 HK 3",
       "network": "ws",
-      "host": "nycqg19zkwacpm1b.v.3dns.vip",
-      "sni": "nycqg19zkwacpm1b.v.3dns.vip",
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1IS/Cfh63wn4ewLTYiLCJhZGQiOiJueWNxZzE5emt3YWNwbTFiLnYuM2Rucy52aXAiLCJwb3J0Ijo0NDMsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJueWNxZzE5emt3YWNwbTFiLnYuM2Rucy52aXAiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoibnljcWcxOXprd2FjcG0xYi52LjNkbnMudmlwIiwiZnAiOm51bGx9",
+      "host": "NYcQg19zkwaCPM1B.v.3dns.vip",
+      "sni": "NYcQg19zkwaCPM1B.v.3dns.vip",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1IS/Cfh63wn4ewLTQiLCJhZGQiOiJueWNxZzE5emt3YWNwbTFiLnYuM2Rucy52aXAiLCJwb3J0Ijo0NDMsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJOWWNRZzE5emt3YUNQTTFCLnYuM2Rucy52aXAiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiTlljUWcxOXprd2FDUE0xQi52LjNkbnMudmlwIiwiZnAiOm51bGx9",
       "ip": "8.218.184.4",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1IS/Cfh63wn4ewLTYiLCJhZGQiOiJueWNxZzE5emt3YWNwbTFiLnYuM2Rucy52aXAiLCJwb3J0Ijo0NDMsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJueWNxZzE5emt3YWNwbTFiLnYuM2Rucy52aXAiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoibnljcWcxOXprd2FjcG0xYi52LjNkbnMudmlwIiwiZnAiOm51bGx9"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1IS/Cfh63wn4ewLTQiLCJhZGQiOiJueWNxZzE5emt3YWNwbTFiLnYuM2Rucy52aXAiLCJwb3J0Ijo0NDMsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJOWWNRZzE5emt3YUNQTTFCLnYuM2Rucy52aXAiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiTlljUWcxOXprd2FDUE0xQi52LjNkbnMudmlwIiwiZnAiOm51bGx9"
+    },
+    {
+      "type": "vmess",
+      "address": "v24.hdacd.com",
+      "port": "30824",
+      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "name": "🇭🇰 HK 5",
+      "network": null,
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUhL8J+HrfCfh7AtOCIsImFkZCI6InYyNC5oZGFjZC5jb20iLCJwb3J0IjozMDgyNCwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOm51bGwsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "1.36.66.65",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUhL8J+HrfCfh7AtOCIsImFkZCI6InYyNC5oZGFjZC5jb20iLCJwb3J0IjozMDgyNCwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOm51bGwsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     }
   ]
 }
