@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-14T20:07:15.410360",
+  "updated": "2026-09-15T02:51:29.683299",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "85.90.196.203",
+      "port": "443",
+      "id": "d6b59299-2f48-4e9b-9130-b9e9cb5d0a51",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "ro1.hat.onl",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "ip": "85.90.196.203",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+    },
     {
       "type": "vless",
       "address": "roma3.moritech.net",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@roma3.moritech.net:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-tls-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "original": "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@roma3.moritech.net:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-tls-RO%F0%9F%87%B7%F0%9F%87%B4-2",
       "ip": "194.5.248.70",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@roma3.moritech.net:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-tls-RO%F0%9F%87%B7%F0%9F%87%B4-1"
-    },
-    {
-      "type": "vless",
-      "address": "85.90.196.203",
-      "port": "443",
-      "id": "d6b59299-2f48-4e9b-9130-b9e9cb5d0a51",
-      "name": "@",
-      "network": "tcp",
-      "sni": "ro1.hat.onl",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-2",
-      "ip": "85.90.196.203",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-2"
+      "rebuilt": "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@roma3.moritech.net:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-tls-RO%F0%9F%87%B7%F0%9F%87%B4-2"
     }
   ]
 }

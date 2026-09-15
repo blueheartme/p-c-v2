@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T20:07:15.467176",
+  "updated": "2026-09-15T02:51:29.705911",
   "count": 2,
   "configs": [
     {
@@ -7,20 +7,20 @@
       "address": "204.216.216.23",
       "port": "10086",
       "id": "9f0285ee-20ca-4953-bcdb-86a920652923",
-      "name": "🇮🇹 IT 2",
+      "name": "🇮🇹 IT 1",
       "network": "",
       "sni": "",
       "host": "",
       "security": "",
       "flow": "",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?path=%2f#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-1",
+      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&path=%2f#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-1",
       "ip": "204.216.216.23",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?path=%2f#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-1"
+      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&path=%2f#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-1"
     },
     {
       "type": "vless",
