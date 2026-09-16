@@ -1,19 +1,26 @@
 {
-  "updated": "2026-09-06T11:52:53.771033",
+  "updated": "2026-09-16T19:17:09.068661",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "85.209.157.209",
-      "port": "29367",
-      "method": "chacha20-ietf-poly1305",
-      "password": "3hSrBrmKmrgNGsD97RSGOS5p+XIFqEVk6Zo4AHbsRhg=",
-      "name": "🇳🇱 NL 10",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozaFNyQnJtS21yZ05Hc0Q5N1JTR09TNXArWElGcUVWazZabzRBSGJzUmhnPQ==@85.209.157.209:29367#%f0%9f%87%b3%f0%9f%87%b1%20NL%2010",
-      "ip": "85.209.157.209",
+      "type": "vless",
+      "address": "85.209.157.184",
+      "port": "443",
+      "id": "21710d7d-5e87-4655-bac2-36e9b655e3ee",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.microsoft.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://21710d7d-5e87-4655-bac2-36e9b655e3ee@85.209.157.184:443?security=reality&encryption=none&pbk=YDYWOKQpoOkOPQ64PosSfJHAaLPuAZJ_jiB6Qj_iYnQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%87%AE%F0%9F%87%B1-1",
+      "ip": "85.209.157.184",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozaFNyQnJtS21yZ05Hc0Q5N1JTR09TNXArWElGcUVWazZabzRBSGJzUmhnPQ==@85.209.157.209:29367#%f0%9f%87%b3%f0%9f%87%b1%20NL%2010"
+      "rebuilt": "vless://21710d7d-5e87-4655-bac2-36e9b655e3ee@85.209.157.184:443?security=reality&encryption=none&pbk=YDYWOKQpoOkOPQ64PosSfJHAaLPuAZJ_jiB6Qj_iYnQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%87%AE%F0%9F%87%B1-1"
     }
   ]
 }
