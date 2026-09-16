@@ -1,19 +1,20 @@
 {
-  "updated": "2026-09-16T02:46:50.559692",
-  "count": 3,
+  "updated": "2026-09-16T13:00:46.298738",
+  "count": 6,
   "configs": [
     {
-      "type": "ss",
-      "address": "167.150.100.115",
-      "port": "27755",
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=",
-      "name": "🇸🇬 SG 1",
-      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0=@167.150.100.115:27755#%f0%9f%87%b8%f0%9f%87%ac%20SG%201",
-      "ip": "167.150.100.115",
+      "type": "trojan",
+      "address": "13.250.28.5",
+      "port": "44370",
+      "password": "e016d072-ed97-40d4-a83f-04c00f8df2a5",
+      "name": "@meliproxyy",
+      "sni": "www.yahoo.com",
+      "host": "",
+      "original": "trojan://e016d072-ed97-40d4-a83f-04c00f8df2a5@13.250.28.5:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#trojan-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "13.250.28.5",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0=@167.150.100.115:27755#%f0%9f%87%b8%f0%9f%87%ac%20SG%201"
+      "rebuilt": "trojan://e016d072-ed97-40d4-a83f-04c00f8df2a5@13.250.28.5:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#trojan-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     },
     {
       "type": "vless",
@@ -49,6 +50,48 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0taTEwVlBOIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+    },
+    {
+      "type": "trojan",
+      "address": "sg-3.gsafevpnapi.com",
+      "port": "44370",
+      "password": "257b0378-01c9-4ded-836d-f94df60bd19c",
+      "name": "@filembad",
+      "sni": "www.yahoo.com",
+      "host": "",
+      "original": "trojan://257b0378-01c9-4ded-836d-f94df60bd19c@sg-3.gsafevpnapi.com:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#trojan-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "13.250.28.5",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://257b0378-01c9-4ded-836d-f94df60bd19c@sg-3.gsafevpnapi.com:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#trojan-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+    },
+    {
+      "type": "ss",
+      "address": "167.150.100.115",
+      "port": "27755",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=",
+      "name": "🇸🇬 SG 1",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0=@167.150.100.115:27755#%f0%9f%87%b8%f0%9f%87%ac%20SG%201",
+      "ip": "167.150.100.115",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0=@167.150.100.115:27755#%f0%9f%87%b8%f0%9f%87%ac%20SG%201"
+    },
+    {
+      "type": "vmess",
+      "address": "149.88.23.207",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "@i10VPN🚐",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "ip": "149.88.23.207",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
     }
   ]
 }

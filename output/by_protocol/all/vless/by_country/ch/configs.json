@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-16T02:46:50.632547",
-  "count": 1,
+  "updated": "2026-09-16T13:00:46.346674",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "82.163.7.27",
+      "port": "9090",
+      "id": "3400a61c-7326-4fa2-b006-7e1ba201eacb",
+      "name": "@proxy_kafee",
+      "network": "tcp",
+      "sni": "",
+      "host": "play-apps-features.googleusercontent.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://3400a61c-7326-4fa2-b006-7e1ba201eacb@82.163.7.27:9090?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "82.163.7.27",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://3400a61c-7326-4fa2-b006-7e1ba201eacb@82.163.7.27:9090?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "vless",
       "address": "131.123.34.42",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.42:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.42:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "131.123.34.42",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.42:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.42:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-16T02:46:50.569190",
-  "count": 4,
+  "updated": "2026-09-16T13:00:46.318793",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "swn.sorcepack.ir",
+      "address": "95.85.241.209",
       "port": "443",
-      "id": "9a06775c-7fcd-48a1-8bb1-c99ab5719576",
-      "name": "@filembad",
+      "id": "14f4be39-cb89-4f2b-8200-704666b6fa4e",
+      "name": "Free x206 @Outline_Vpn",
       "network": "tcp",
-      "sni": "play-apps-features.googleusercontent.com",
+      "sni": "google.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://9a06775c-7fcd-48a1-8bb1-c99ab5719576@swn.sorcepack.ir:443?security=reality&encryption=none&pbk=E75GnSHXuOipzVGRMK9Eokg0uH2Di1FQ2tAqT5PU2mU&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=320e5653e6d02cc1#vless-tcp-reality-edge-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "172.232.151.115",
+      "fingerprint": "chrome",
+      "original": "vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "95.85.241.209",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://9a06775c-7fcd-48a1-8bb1-c99ab5719576@swn.sorcepack.ir:443?security=reality&encryption=none&pbk=E75GnSHXuOipzVGRMK9Eokg0uH2Di1FQ2tAqT5PU2mU&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=320e5653e6d02cc1#vless-tcp-reality-edge-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
@@ -61,26 +61,6 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv14.betust.net:443?security=reality&encryption=none&pbk=4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apiv14.betust.net&sid=ab9d5f3c#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3"
-    },
-    {
-      "type": "vless",
-      "address": "185.189.47.107",
-      "port": "443",
-      "id": "252f7811-d86f-4dc2-97e0-83d3172ef4b8",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "network": "tcp",
-      "sni": "edge-se.mystatic-cdn.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.189.47.107:443?security=reality&encryption=none&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-se.mystatic-cdn.ru&sid=b21f41e79ecbac55#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4",
-      "ip": "185.189.47.107",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.189.47.107:443?security=reality&encryption=none&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-se.mystatic-cdn.ru&sid=b21f41e79ecbac55#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4"
     }
   ]
 }

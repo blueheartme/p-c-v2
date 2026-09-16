@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T02:46:50.555388",
-  "count": 2,
+  "updated": "2026-09-16T13:00:46.320350",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -41,6 +41,26 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-2"
+    },
+    {
+      "type": "vless",
+      "address": "orenburg.gosgenarchive.com",
+      "port": "443",
+      "id": "66533c62-42a2-4507-8c55-2f87d49672f9",
+      "name": "@filembad",
+      "network": "xhttp",
+      "sni": "orenburg.gosgenarchive.com",
+      "host": "orenburg.gosgenarchive.com",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "ios",
+      "original": "vless://66533c62-42a2-4507-8c55-2f87d49672f9@orenburg.gosgenarchive.com:443?mode=auto&security=reality&encryption=none&extra=%7B%0A%20%20%22mode%22%20%3A%20%22auto%22%2C%0A%20%20%22noGRPCHeader%22%20%3A%20false%2C%0A%20%20%22noSSEHeader%22%20%3A%20false%2C%0A%20%20%22scMaxBufferedPosts%22%20%3A%2030%2C%0A%20%20%22scMaxEachPostBytes%22%20%3A%20%2250000-100000%22%2C%0A%20%20%22scMinPostsIntervalMs%22%20%3A%20%2210-50%22%2C%0A%20%20%22scStreamUpServerSecs%22%20%3A%20%2230-90%22%2C%0A%20%20%22xmux%22%20%3A%20%7B%0A%20%20%20%20%22cMaxReuseTimes%22%20%3A%20%2264-128%22%2C%0A%20%20%20%20%22hKeepAlivePeriod%22%20%3A%2030%2C%0A%20%20%20%20%22hMaxRequestTimes%22%20%3A%20%22400-600%22%2C%0A%20%20%20%20%22hMaxReusableSecs%22%20%3A%20%221800-3600%22%2C%0A%20%20%20%20%22maxConcurrency%22%20%3A%20%228-16%22%0A%20%20%7D%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%0A%7D&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&host=orenburg.gosgenarchive.com&fp=ios&type=xhttp&sni=orenburg.gosgenarchive.com#vless-xhttp-reality-ios-IT%F0%9F%87%AE%F0%9F%87%B9-3",
+      "ip": "31.77.154.24",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://66533c62-42a2-4507-8c55-2f87d49672f9@orenburg.gosgenarchive.com:443?mode=auto&security=reality&encryption=none&extra=%7B%0A%20%20%22mode%22%20%3A%20%22auto%22%2C%0A%20%20%22noGRPCHeader%22%20%3A%20false%2C%0A%20%20%22noSSEHeader%22%20%3A%20false%2C%0A%20%20%22scMaxBufferedPosts%22%20%3A%2030%2C%0A%20%20%22scMaxEachPostBytes%22%20%3A%20%2250000-100000%22%2C%0A%20%20%22scMinPostsIntervalMs%22%20%3A%20%2210-50%22%2C%0A%20%20%22scStreamUpServerSecs%22%20%3A%20%2230-90%22%2C%0A%20%20%22xmux%22%20%3A%20%7B%0A%20%20%20%20%22cMaxReuseTimes%22%20%3A%20%2264-128%22%2C%0A%20%20%20%20%22hKeepAlivePeriod%22%20%3A%2030%2C%0A%20%20%20%20%22hMaxRequestTimes%22%20%3A%20%22400-600%22%2C%0A%20%20%20%20%22hMaxReusableSecs%22%20%3A%20%221800-3600%22%2C%0A%20%20%20%20%22maxConcurrency%22%20%3A%20%228-16%22%0A%20%20%7D%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%0A%7D&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&host=orenburg.gosgenarchive.com&fp=ios&type=xhttp&sni=orenburg.gosgenarchive.com#vless-xhttp-reality-ios-IT%F0%9F%87%AE%F0%9F%87%B9-3"
     }
   ]
 }
