@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-15T19:25:31.823327",
-  "count": 1,
+  "updated": "2026-09-16T02:46:50.571254",
+  "count": 6,
   "configs": [
+    {
+      "type": "tg",
+      "address": "s1.assetflux.org",
+      "port": "443",
+      "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=s1.assetflux.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275",
+      "ip": "89.37.192.168",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=s1.assetflux.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
+    },
     {
       "type": "vless",
       "address": "85.90.196.203",
@@ -16,11 +28,59 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "original": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-2",
       "ip": "85.90.196.203",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+      "rebuilt": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-2"
+    },
+    {
+      "type": "tg",
+      "address": "media9.happtg.org",
+      "port": "443",
+      "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=media9.happtg.org&port=443&secret=ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275",
+      "ip": "89.37.192.153",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=media9.happtg.org&port=443&secret=ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
+    },
+    {
+      "type": "tg",
+      "address": "cdn7.cdnwave.org",
+      "port": "443",
+      "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+      "ip": "89.37.192.155",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
+    },
+    {
+      "type": "tg",
+      "address": "s8.assetflux.org",
+      "port": "443",
+      "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=s8.assetflux.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275",
+      "ip": "89.37.192.151",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=s8.assetflux.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
+    },
+    {
+      "type": "tg",
+      "address": "cdn10.cdnwave.org",
+      "port": "443",
+      "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=cdn10.cdnwave.org&port=443&secret=eeecd508d816f611bb329487809f8dac88706574726f766963682e7275",
+      "ip": "89.37.192.36",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=cdn10.cdnwave.org&port=443&secret=eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
     }
   ]
 }

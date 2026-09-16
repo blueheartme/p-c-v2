@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-15T19:25:31.903592",
+  "updated": "2026-09-16T02:46:50.665152",
   "count": 3,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "v24.hdacd.com",
+      "port": "30824",
+      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "name": "🇭🇰 HK 6",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1IS/Cfh63wn4ewLTEiLCJhZGQiOiJ2MjQuaGRhY2QuY29tIiwicG9ydCI6MzA4MjQsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "219.79.206.137",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1IS/Cfh63wn4ewLTEiLCJhZGQiOiJ2MjQuaGRhY2QuY29tIiwicG9ydCI6MzA4MjQsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
+    {
+      "type": "vmess",
+      "address": "i2psm3knof5qjjix.v.3dns.vip",
+      "port": "443",
+      "id": "f23bb427c1f94373876c2f43e9f790f3",
+      "name": "🇭🇰 HK 2",
+      "network": "ws",
+      "host": "I2PSm3Knof5qjjix.v.3dns.vip",
+      "sni": "I2PSm3Knof5qjjix.v.3dns.vip",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1IS/Cfh63wn4ewLTQiLCJhZGQiOiJpMnBzbTNrbm9mNXFqaml4LnYuM2Rucy52aXAiLCJwb3J0Ijo0NDMsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJJMlBTbTNLbm9mNXFqaml4LnYuM2Rucy52aXAiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiSTJQU20zS25vZjVxamppeC52LjNkbnMudmlwIiwiZnAiOm51bGx9",
+      "ip": "47.76.137.85",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1IS/Cfh63wn4ewLTQiLCJhZGQiOiJpMnBzbTNrbm9mNXFqaml4LnYuM2Rucy52aXAiLCJwb3J0Ijo0NDMsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJJMlBTbTNLbm9mNXFqaml4LnYuM2Rucy52aXAiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiSTJQU20zS25vZjVxamppeC52LjNkbnMudmlwIiwiZnAiOm51bGx9"
+    },
     {
       "type": "vmess",
       "address": "v6.hdacd.com",
@@ -11,41 +41,11 @@
       "network": null,
       "host": null,
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUhL8J+HrfCfh7AtMyIsImFkZCI6InY2LmhkYWNkLmNvbSIsInBvcnQiOjMwODA2LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "1.36.66.65",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUhL8J+HrfCfh7AtNyIsImFkZCI6InY2LmhkYWNkLmNvbSIsInBvcnQiOjMwODA2LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "219.79.206.137",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUhL8J+HrfCfh7AtMyIsImFkZCI6InY2LmhkYWNkLmNvbSIsInBvcnQiOjMwODA2LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
-    },
-    {
-      "type": "vmess",
-      "address": "nycqg19zkwacpm1b.v.3dns.vip",
-      "port": "443",
-      "id": "f23bb427c1f94373876c2f43e9f790f3",
-      "name": "🇭🇰 HK 3",
-      "network": "ws",
-      "host": "NYcQg19zkwaCPM1B.v.3dns.vip",
-      "sni": "NYcQg19zkwaCPM1B.v.3dns.vip",
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1IS/Cfh63wn4ewLTQiLCJhZGQiOiJueWNxZzE5emt3YWNwbTFiLnYuM2Rucy52aXAiLCJwb3J0Ijo0NDMsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJOWWNRZzE5emt3YUNQTTFCLnYuM2Rucy52aXAiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiTlljUWcxOXprd2FDUE0xQi52LjNkbnMudmlwIiwiZnAiOm51bGx9",
-      "ip": "8.218.184.4",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1IS/Cfh63wn4ewLTQiLCJhZGQiOiJueWNxZzE5emt3YWNwbTFiLnYuM2Rucy52aXAiLCJwb3J0Ijo0NDMsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJOWWNRZzE5emt3YUNQTTFCLnYuM2Rucy52aXAiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiTlljUWcxOXprd2FDUE0xQi52LjNkbnMudmlwIiwiZnAiOm51bGx9"
-    },
-    {
-      "type": "vmess",
-      "address": "v24.hdacd.com",
-      "port": "30824",
-      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
-      "name": "🇭🇰 HK 5",
-      "network": null,
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUhL8J+HrfCfh7AtOCIsImFkZCI6InYyNC5oZGFjZC5jb20iLCJwb3J0IjozMDgyNCwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOm51bGwsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "1.36.66.65",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUhL8J+HrfCfh7AtOCIsImFkZCI6InYyNC5oZGFjZC5jb20iLCJwb3J0IjozMDgyNCwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOm51bGwsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLUhL8J+HrfCfh7AtNyIsImFkZCI6InY2LmhkYWNkLmNvbSIsInBvcnQiOjMwODA2LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOm51bGwsIm5ldCI6bnVsbCwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     }
   ]
 }

@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-15T19:25:31.818603",
-  "count": 2,
+  "updated": "2026-09-16T02:46:50.573663",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "R3MRCG00129437X.cybervena.com",
+      "port": "50099",
+      "method": "chacha20-ietf-poly1305",
+      "password": "b1ae0fce-9340-4f2e-882d-fdb2218e2e2b",
+      "name": "🇹🇼 TW 2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@R3MRCG00129437X.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%202",
+      "ip": "61.231.15.229",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@R3MRCG00129437X.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%202"
+    },
+    {
+      "type": "ss",
+      "address": "r3mrcg00129437x.cybervena.com",
+      "port": "50099",
+      "method": "chacha20-ietf-poly1305",
+      "password": "b1ae0fce-9340-4f2e-882d-fdb2218e2e2b",
+      "name": "🇹🇼 TW 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201",
+      "ip": "61.231.15.229",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201"
+    },
     {
       "type": "vless",
       "address": "hinet1.2yly.com",
@@ -16,24 +42,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&path=%2f#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "original": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&path=%2f#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-3",
       "ip": "118.167.212.163",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&path=%2f#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1"
-    },
-    {
-      "type": "ss",
-      "address": "r3mrcg00129437x.cybervena.com",
-      "port": "50099",
-      "method": "chacha20-ietf-poly1305",
-      "password": "b1ae0fce-9340-4f2e-882d-fdb2218e2e2b",
-      "name": "🇹🇼 TW 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201",
-      "ip": "61.231.15.229",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%201"
+      "rebuilt": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&path=%2f#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-3"
     }
   ]
 }
