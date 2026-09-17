@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T12:56:52.082087",
-  "count": 2,
+  "updated": "2026-09-17T19:28:51.436900",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -41,6 +41,26 @@
       "country": "NO",
       "cdn": null,
       "rebuilt": "vless://3aaf6f5a-bebe-42c9-a2da-0c5500146451@194.110.207.75:443?security=reality&encryption=none&pbk=wHf1nSF3byWgtI0aprUDgbEBrgtE6Y8bpqnNxl9lhhg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fernandfoxgloveinteriors.co.uk&sid=763a06472e66efff#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-2"
+    },
+    {
+      "type": "vless",
+      "address": "46.29.238.88",
+      "port": "40443",
+      "id": "db320947-adfb-400d-b60b-383b8324bffe",
+      "name": "🇳🇴 NO 2",
+      "network": "tcp",
+      "sni": "deepl.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?security=reality&sni=deepl.com&fp=qq&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&sid=f7b2&type=tcp&path=%2f#vless-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-3",
+      "ip": "46.29.238.88",
+      "country": "NO",
+      "cdn": null,
+      "rebuilt": "vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?security=reality&sni=deepl.com&fp=qq&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&sid=f7b2&type=tcp&path=%2f#vless-tcp-reality-qq-NO%F0%9F%87%B3%F0%9F%87%B4-3"
     }
   ]
 }

@@ -1,18 +1,54 @@
 {
-  "updated": "2026-09-17T12:56:52.099323",
-  "count": 6,
+  "updated": "2026-09-17T19:28:51.409295",
+  "count": 8,
   "configs": [
     {
       "type": "tg",
-      "address": "s01.neo-trading.org",
+      "address": "s03.neo-trading.org",
       "port": "443",
-      "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275",
+      "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275",
       "name": "",
-      "original": "https://t.me/proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275",
-      "ip": "135.106.144.54",
+      "original": "https://t.me/proxy?server=s03.neo-trading.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275",
+      "ip": "135.106.153.90",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275"
+      "rebuilt": "https://t.me/proxy?server=s03.neo-trading.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
+    },
+    {
+      "type": "tg",
+      "address": "data.utkanos.life",
+      "port": "2443",
+      "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
+      "name": "",
+      "original": "https://t.me/proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
+      "ip": "46.21.245.14",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
+    },
+    {
+      "type": "tg",
+      "address": "s02.neo-trading.org",
+      "port": "443",
+      "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+      "ip": "135.106.155.140",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
+    },
+    {
+      "type": "tg",
+      "address": "api2.medhata.org",
+      "port": "2443",
+      "secret": "ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267",
+      "name": "",
+      "original": "https://t.me/proxy?server=api2.medhata.org&port=2443&secret=ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267",
+      "ip": "51.250.90.112",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=api2.medhata.org&port=2443&secret=ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267"
     },
     {
       "type": "tg",
@@ -28,39 +64,15 @@
     },
     {
       "type": "tg",
-      "address": "s02.neo-trading.org",
+      "address": "kostyanchekloh.lol",
       "port": "443",
-      "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+      "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
       "name": "",
-      "original": "https://t.me/proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
-      "ip": "135.106.146.124",
+      "original": "https://t.me/proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+      "ip": "158.160.235.191",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
-    },
-    {
-      "type": "tg",
-      "address": "s03.neo-trading.org",
-      "port": "443",
-      "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=s03.neo-trading.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275",
-      "ip": "135.106.155.38",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=s03.neo-trading.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
-    },
-    {
-      "type": "tg",
-      "address": "data.utkanos.life",
-      "port": "2443",
-      "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
-      "name": "",
-      "original": "https://t.me/proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
-      "ip": "51.250.82.19",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
+      "rebuilt": "https://t.me/proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
     },
     {
       "type": "tg",
@@ -69,10 +81,22 @@
       "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
       "name": "",
       "original": "https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-      "ip": "158.160.231.254",
+      "ip": "89.169.160.216",
       "country": "RU",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
+    },
+    {
+      "type": "tg",
+      "address": "s01.neo-trading.org",
+      "port": "443",
+      "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275",
+      "ip": "135.106.158.191",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275"
     }
   ]
 }

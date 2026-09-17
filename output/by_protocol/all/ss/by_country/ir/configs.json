@@ -1,19 +1,36 @@
 {
-  "updated": "2026-09-17T12:56:52.054843",
-  "count": 1,
+  "updated": "2026-09-17T19:28:51.457366",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "e2.cover20.ir",
-      "port": "30874?type=tcp",
+      "address": "p2tun1.greewebservices.ir",
+      "port": "1010",
       "method": "chacha20-ietf-poly1305",
-      "password": "3I+o7EIWf3pq57tdggmk16opPogx6qK1vWGmV3HuYmc=",
+      "password": "gT36tsiPfnd0np5khJqjyQ",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSStvN0VJV2YzcHE1N3RkZ2dtazE2b3BQb2d4NnFLMXZXR21WM0h1WW1jPQ@e2.cover20.ir:30874?type=tcp#%40filembad",
-      "ip": "213.176.6.187",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVDM2dHNpUGZuZDBucDVraEpxanlR@p2tun1.greewebservices.ir:1010#%40filembad",
+      "ip": "79.175.134.150",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSStvN0VJV2YzcHE1N3RkZ2dtazE2b3BQb2d4NnFLMXZXR21WM0h1WW1jPQ@e2.cover20.ir:30874?type=tcp#%40filembad"
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVDM2dHNpUGZuZDBucDVraEpxanlR@p2tun1.greewebservices.ir:1010#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "p2tun4.greewebservices.ir",
+      "port": "1040",
+      "method": "chacha20-ietf-poly1305",
+      "password": "gT36tsiPfnd0np5khJqjyQ",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVDM2dHNpUGZuZDBucDVraEpxanlR@p2tun4.greewebservices.ir:1040#@meliproxyy",
+      "ip": "95.38.38.18",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVDM2dHNpUGZuZDBucDVraEpxanlR@p2tun4.greewebservices.ir:1040#@meliproxyy"
     }
   ]
 }

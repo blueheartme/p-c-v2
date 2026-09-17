@@ -1,76 +1,17 @@
 {
-  "updated": "2026-09-17T12:56:52.100523",
-  "count": 6,
+  "updated": "2026-09-17T19:28:51.459849",
+  "count": 1,
   "configs": [
     {
       "type": "hysteria2",
       "address": "2.27.249.79",
       "port": "443",
       "name": "@ir_IRANy 🇺🇸",
-      "original": "hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=nl1.sferavpn.pro#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-96",
+      "original": "hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=nl1.sferavpn.pro#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-38",
       "ip": "2.27.249.79",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=nl1.sferavpn.pro#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-96"
-    },
-    {
-      "type": "hysteria2",
-      "address": "64.188.98.171",
-      "port": "443",
-      "name": "@filembad",
-      "original": "hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443?security=tls&insecure=1&sni=germany3.h2corp.local#hysteria2-udp-DE%F0%9F%87%A9%F0%9F%87%AA-11",
-      "ip": "64.188.98.171",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443?security=tls&insecure=1&sni=germany3.h2corp.local#hysteria2-udp-DE%F0%9F%87%A9%F0%9F%87%AA-11"
-    },
-    {
-      "type": "hysteria2",
-      "address": "2.27.59.206",
-      "port": "443",
-      "name": "@filembad",
-      "original": "hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#hysteria2-udp-DE%F0%9F%87%A9%F0%9F%87%AA-26",
-      "ip": "2.27.59.206",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#hysteria2-udp-DE%F0%9F%87%A9%F0%9F%87%AA-26"
-    },
-    {
-      "type": "hysteria2",
-      "address": "assets.gateway-stream.com",
-      "port": "52030",
-      "name": "@filembad",
-      "original": "hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52030?obfs=salamander&obfs-password=x5y77oxwfcl868u3&sni=assets.gateway-stream.com&insecure=0#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-18",
-      "ip": "95.217.96.131",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52030?obfs=salamander&obfs-password=x5y77oxwfcl868u3&sni=assets.gateway-stream.com&insecure=0#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-18"
-    },
-    {
-      "type": "hysteria2",
-      "address": "assets.gateway-stream.com",
-      "port": "52021",
-      "name": "@filembad",
-      "original": "hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-61",
-      "ip": "95.217.96.131",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-61"
-    },
-    {
-      "type": "hysteria2",
-      "address": "144.31.49.138",
-      "port": "443",
-      "name": "@proxy_kafee",
-      "original": "hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#hysteria2-udp-RU%F0%9F%87%B7%F0%9F%87%BA-34",
-      "ip": "144.31.49.138",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#hysteria2-udp-RU%F0%9F%87%B7%F0%9F%87%BA-34"
+      "rebuilt": "hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=nl1.sferavpn.pro#hysteria2-udp-NL%F0%9F%87%B3%F0%9F%87%B1-38"
     }
   ]
 }

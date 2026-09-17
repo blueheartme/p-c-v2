@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T12:56:52.036280",
+  "updated": "2026-09-17T19:28:51.383734",
   "count": 3,
   "configs": [
     {
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "95.85.241.209",
-      "port": "443",
-      "id": "14f4be39-cb89-4f2b-8200-704666b6fa4e",
-      "name": "Free x206 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "95.85.241.209",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2"
-    },
-    {
-      "type": "vless",
       "address": "we.trstcore.pro",
       "port": "443",
       "id": "a8f5e04b-be34-4b84-9359-684ad9c417b0",
@@ -56,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://a8f5e04b-be34-4b84-9359-684ad9c417b0@we.trstcore.pro:443?security=reality&encryption=none&pbk=DFWRrmWINP3TyVKQaBZnWASVM5g-vovy0XFre7nqnEI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=we.trstcore.pro&sid=66408910d9e938bf#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "original": "vless://a8f5e04b-be34-4b84-9359-684ad9c417b0@we.trstcore.pro:443?security=reality&encryption=none&pbk=DFWRrmWINP3TyVKQaBZnWASVM5g-vovy0XFre7nqnEI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=we.trstcore.pro&sid=66408910d9e938bf#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2",
       "ip": "13.140.11.9",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://a8f5e04b-be34-4b84-9359-684ad9c417b0@we.trstcore.pro:443?security=reality&encryption=none&pbk=DFWRrmWINP3TyVKQaBZnWASVM5g-vovy0XFre7nqnEI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=we.trstcore.pro&sid=66408910d9e938bf#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+      "rebuilt": "vless://a8f5e04b-be34-4b84-9359-684ad9c417b0@we.trstcore.pro:443?security=reality&encryption=none&pbk=DFWRrmWINP3TyVKQaBZnWASVM5g-vovy0XFre7nqnEI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=we.trstcore.pro&sid=66408910d9e938bf#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "95.85.241.209",
+      "port": "443",
+      "id": "14f4be39-cb89-4f2b-8200-704666b6fa4e",
+      "name": "Free x206 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "95.85.241.209",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }
