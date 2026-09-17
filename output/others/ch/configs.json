@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-17T02:50:43.905570",
-  "count": 3,
+  "updated": "2026-09-17T12:56:52.034661",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "ch1.h1cloud.net",
+      "address": "94.26.35.139",
       "port": "25720",
       "id": "be83425f-74c5-4b03-9c4b-20aa16322698",
-      "name": "@filembad",
+      "name": "@meliproxyy",
       "network": "tcp",
       "sni": "www.samsung.com",
       "host": "",
@@ -16,51 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://be83425f-74c5-4b03-9c4b-20aa16322698@ch1.h1cloud.net:25720?security=reality&encryption=none&pbk=OueudVX2rTpyeEb2bNW3Jx3WtgSX4zFERs6yt8Szv0E&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=fddf99d4a4f55a48#vless-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "vless://be83425f-74c5-4b03-9c4b-20aa16322698@94.26.35.139:25720?security=reality&encryption=none&pbk=OueudVX2rTpyeEb2bNW3Jx3WtgSX4zFERs6yt8Szv0E&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=fddf99d4a4f55a48#vless-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "94.26.35.139",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://be83425f-74c5-4b03-9c4b-20aa16322698@ch1.h1cloud.net:25720?security=reality&encryption=none&pbk=OueudVX2rTpyeEb2bNW3Jx3WtgSX4zFERs6yt8Szv0E&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=fddf99d4a4f55a48#vless-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "vless",
-      "address": "82.163.7.27",
-      "port": "9090",
-      "id": "3400a61c-7326-4fa2-b006-7e1ba201eacb",
-      "name": "@proxy_kafee",
-      "network": "tcp",
-      "sni": "",
-      "host": "play-apps-features.googleusercontent.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://3400a61c-7326-4fa2-b006-7e1ba201eacb@82.163.7.27:9090?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "82.163.7.27",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://3400a61c-7326-4fa2-b006-7e1ba201eacb@82.163.7.27:9090?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "vless",
-      "address": "131.123.34.42",
-      "port": "443",
-      "id": "54ee5e59-55a3-4599-83ff-0c67b3f411b2",
-      "name": "Free x211 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "sheetpeek.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.42:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "131.123.34.42",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.42:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://be83425f-74c5-4b03-9c4b-20aa16322698@94.26.35.139:25720?security=reality&encryption=none&pbk=OueudVX2rTpyeEb2bNW3Jx3WtgSX4zFERs6yt8Szv0E&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=fddf99d4a4f55a48#vless-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }

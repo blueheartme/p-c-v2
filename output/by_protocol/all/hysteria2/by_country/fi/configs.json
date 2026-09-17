@@ -1,17 +1,28 @@
 {
-  "updated": "2026-09-17T02:50:43.964478",
-  "count": 1,
+  "updated": "2026-09-17T12:56:52.101788",
+  "count": 2,
   "configs": [
     {
       "type": "hysteria2",
-      "address": "31.76.80.69",
-      "port": "443",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "original": "hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-31",
-      "ip": "31.76.80.69",
+      "address": "assets.gateway-stream.com",
+      "port": "52030",
+      "name": "@filembad",
+      "original": "hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52030?obfs=salamander&obfs-password=x5y77oxwfcl868u3&sni=assets.gateway-stream.com&insecure=0#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-18",
+      "ip": "95.217.96.131",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-31"
+      "rebuilt": "hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52030?obfs=salamander&obfs-password=x5y77oxwfcl868u3&sni=assets.gateway-stream.com&insecure=0#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-18"
+    },
+    {
+      "type": "hysteria2",
+      "address": "assets.gateway-stream.com",
+      "port": "52021",
+      "name": "@filembad",
+      "original": "hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-61",
+      "ip": "95.217.96.131",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-61"
     }
   ]
 }
