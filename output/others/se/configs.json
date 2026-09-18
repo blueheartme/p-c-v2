@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-18T02:37:18.484632",
+  "updated": "2026-09-18T12:35:15.870529",
   "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "sez.starzone.ir",
-      "port": "8735",
-      "id": "3e73031b-1bcd-4c27-b4b5-807f3bd556d8",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "play-apps-features.googleusercontent.com",
-      "host": "",
-      "security": "reality",
+      "address": "202.181.177.8",
+      "port": "8443",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "cdn8848.776676.xyz",
+      "host": "cdn8848.776676.xyz",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://3e73031b-1bcd-4c27-b4b5-807f3bd556d8@sez.starzone.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=9e3f5e25c17d2615#vless-tcp-reality-edge-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "172.234.97.127",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=%2Fchannels%2Fact&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "202.181.177.8",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://3e73031b-1bcd-4c27-b4b5-807f3bd556d8@sez.starzone.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=9e3f5e25c17d2615#vless-tcp-reality-edge-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=%2Fchannels%2Fact&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
@@ -44,23 +44,23 @@
     },
     {
       "type": "vless",
-      "address": "185.189.47.107",
+      "address": "95.85.241.209",
       "port": "443",
-      "id": "252f7811-d86f-4dc2-97e0-83d3172ef4b8",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "id": "14f4be39-cb89-4f2b-8200-704666b6fa4e",
+      "name": "Free x206 @Outline_Vpn",
       "network": "tcp",
-      "sni": "edge-se.mystatic-cdn.ru",
+      "sni": "google.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.189.47.107:443?security=reality&encryption=none&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-se.mystatic-cdn.ru&sid=b21f41e79ecbac55#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3",
-      "ip": "185.189.47.107",
+      "fingerprint": "chrome",
+      "original": "vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "95.85.241.209",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.189.47.107:443?security=reality&encryption=none&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-se.mystatic-cdn.ru&sid=b21f41e79ecbac55#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+      "rebuilt": "vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }
