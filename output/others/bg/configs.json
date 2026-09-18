@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T12:35:15.867732",
-  "count": 4,
+  "updated": "2026-09-18T18:47:32.738070",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
@@ -27,40 +27,34 @@
       "address": "bg5.univesalsrv.com",
       "port": "443",
       "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
-      "name": "2|@ConfingV2RaayNG",
+      "name": "برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩",
       "network": "grpc",
-      "sni": "",
+      "sni": "bg5.univesalsrv.com",
       "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sid=1a3102bb8e51399e#vless-grpc-reality-chrome-BG%F0%9F%87%A7%F0%9F%87%AC-2",
+      "fingerprint": "firefox",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=firefox&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#vless-grpc-reality-firefox-BG%F0%9F%87%A7%F0%9F%87%AC-2",
       "ip": "45.9.156.42",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sid=1a3102bb8e51399e#vless-grpc-reality-chrome-BG%F0%9F%87%A7%F0%9F%87%AC-2"
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=firefox&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#vless-grpc-reality-firefox-BG%F0%9F%87%A7%F0%9F%87%AC-2"
     },
     {
-      "type": "vless",
-      "address": "gamitgr.vpxpp.ir",
+      "type": "trojan",
+      "address": "202.133.90.105",
       "port": "1819",
-      "id": "ea36bacb-7d11-4c2c-8998-f3ffd4cafd66",
+      "password": "betcj3iiz4e0he83",
       "name": "@meliproxyy",
-      "network": "tcp",
       "sni": "",
       "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://ea36bacb-7d11-4c2c-8998-f3ffd4cafd66@gamitgr.vpxpp.ir:1819?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-BG%F0%9F%87%A7%F0%9F%87%AC-3",
+      "original": "trojan://betcj3iiz4e0he83@202.133.90.105:1819?security=none&headerType=&type=tcp#trojan-tcp-BG%F0%9F%87%A7%F0%9F%87%AC-3",
       "ip": "202.133.90.105",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "vless://ea36bacb-7d11-4c2c-8998-f3ffd4cafd66@gamitgr.vpxpp.ir:1819?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-BG%F0%9F%87%A7%F0%9F%87%AC-3"
+      "rebuilt": "trojan://betcj3iiz4e0he83@202.133.90.105:1819?security=none&headerType=&type=tcp#trojan-tcp-BG%F0%9F%87%A7%F0%9F%87%AC-3"
     },
     {
       "type": "vless",
@@ -81,6 +75,26 @@
       "country": "BG",
       "cdn": null,
       "rebuilt": "vless://d9ce62fc-851b-49db-b52a-d015357a2f3a@netsecureteam5.ir:4444?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#vless-tcp-http-BG%F0%9F%87%A7%F0%9F%87%AC-4"
+    },
+    {
+      "type": "vless",
+      "address": "45.9.156.42",
+      "port": "443",
+      "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "name": "@meliproxyy",
+      "network": "grpc",
+      "sni": "bg5.univesalsrv.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=firefox&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#vless-grpc-reality-firefox-BG%F0%9F%87%A7%F0%9F%87%AC-5",
+      "ip": "45.9.156.42",
+      "country": "BG",
+      "cdn": null,
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=firefox&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#vless-grpc-reality-firefox-BG%F0%9F%87%A7%F0%9F%87%AC-5"
     }
   ]
 }
