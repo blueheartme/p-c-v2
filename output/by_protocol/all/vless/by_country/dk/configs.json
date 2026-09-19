@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-30T13:28:08.882248",
+  "updated": "2026-09-19T18:20:48.311888",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "46.29.235.9",
-      "port": "443",
-      "id": "d67af820-f54c-48ab-862c-19086357f276",
-      "name": "🇩🇰 DK 1",
-      "network": "",
-      "sni": "telegraf.lv",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?flow=xtls-rprx-vision&security=reality&sni=telegraf.lv&fp=firefox&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=a1b2c3d4&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-DK%F0%9F%87%A9%F0%9F%87%B0-1",
-      "ip": "46.29.235.9",
+      "address": "109.176.202.125",
+      "port": "4325",
+      "id": "109e5b8d-5bdb-45e5-92e9-881ce0127ae2",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.native.0rtt.wzejaademvkwyusewekqad2qz0dxauk9x4i_x_5eacy",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://109e5b8d-5bdb-45e5-92e9-881ce0127ae2@109.176.202.125:4325?encryption=mlkem768x25519plus.native.0rtt.wZEJaAdEMVKwYuSEwEkQAD2Qz0dXaUK9x4i_x_5eaCY&security=none&type=tcp&headerType=none&host=play.google.com#vless-mlkem768x25519plus.native.0rtt.wzejaademvkwyusewekqad2qz0dxauk9x4i_x_5eacy-tcp-DK%F0%9F%87%A9%F0%9F%87%B0-1",
+      "ip": "109.176.202.125",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?flow=xtls-rprx-vision&security=reality&sni=telegraf.lv&fp=firefox&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=a1b2c3d4&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-DK%F0%9F%87%A9%F0%9F%87%B0-1"
+      "rebuilt": "vless://109e5b8d-5bdb-45e5-92e9-881ce0127ae2@109.176.202.125:4325?encryption=mlkem768x25519plus.native.0rtt.wZEJaAdEMVKwYuSEwEkQAD2Qz0dXaUK9x4i_x_5eaCY&security=none&type=tcp&headerType=none&host=play.google.com#vless-mlkem768x25519plus.native.0rtt.wzejaademvkwyusewekqad2qz0dxauk9x4i_x_5eacy-tcp-DK%F0%9F%87%A9%F0%9F%87%B0-1"
     }
   ]
 }

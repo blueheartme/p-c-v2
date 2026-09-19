@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-17T19:28:51.388747",
+  "updated": "2026-09-19T18:20:48.263107",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "85.209.157.184",
+      "address": "94.154.123.222",
       "port": "443",
-      "id": "21710d7d-5e87-4655-bac2-36e9b655e3ee",
+      "id": "19289706-1367-4e48-a2ae-fd533df78270",
       "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "www.microsoft.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://21710d7d-5e87-4655-bac2-36e9b655e3ee@85.209.157.184:443?security=reality&encryption=none&pbk=YDYWOKQpoOkOPQ64PosSfJHAaLPuAZJ_jiB6Qj_iYnQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%87%AE%F0%9F%87%B1-1",
-      "ip": "85.209.157.184",
+      "network": "ws",
+      "sni": "marzban-node-production-5af6.up.railway.app",
+      "host": "marzban-node-production-5af6.up.railway.app",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "random",
+      "original": "vless://19289706-1367-4e48-a2ae-fd533df78270@94.154.123.222:443?security=tls&type=ws&headerType=&path=%2Fvless&host=marzban-node-production-5af6.up.railway.app&sni=marzban-node-production-5af6.up.railway.app&fp=random&alpn=http%2F1.1#vless-ws-tls-random-IL%F0%9F%87%AE%F0%9F%87%B1-1",
+      "ip": "94.154.123.222",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "vless://21710d7d-5e87-4655-bac2-36e9b655e3ee@85.209.157.184:443?security=reality&encryption=none&pbk=YDYWOKQpoOkOPQ64PosSfJHAaLPuAZJ_jiB6Qj_iYnQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%87%AE%F0%9F%87%B1-1"
+      "rebuilt": "vless://19289706-1367-4e48-a2ae-fd533df78270@94.154.123.222:443?security=tls&type=ws&headerType=&path=%2Fvless&host=marzban-node-production-5af6.up.railway.app&sni=marzban-node-production-5af6.up.railway.app&fp=random&alpn=http%2F1.1#vless-ws-tls-random-IL%F0%9F%87%AE%F0%9F%87%B1-1"
     }
   ]
 }
