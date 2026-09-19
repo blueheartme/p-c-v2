@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-18T18:47:32.810703",
-  "count": 1,
+  "updated": "2026-09-19T02:36:35.751178",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "13.212.69.185",
+      "port": "8686",
+      "id": "f0b9ae63-91a7-4673-924e-498e0e0828c0",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f0b9ae63-91a7-4673-924e-498e0e0828c0@13.212.69.185:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#vless-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "13.212.69.185",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://f0b9ae63-91a7-4673-924e-498e0e0828c0@13.212.69.185:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#vless-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+    },
     {
       "type": "vless",
       "address": "206.206.76.75",
@@ -16,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "original": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4",
       "ip": "206.206.76.75",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+    },
+    {
+      "type": "vless",
+      "address": "13.212.18.89",
+      "port": "8686",
+      "id": "f0b9ae63-91a7-4673-924e-498e0e0828c0",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f0b9ae63-91a7-4673-924e-498e0e0828c0@13.212.18.89:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#vless-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-6",
+      "ip": "13.212.18.89",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://f0b9ae63-91a7-4673-924e-498e0e0828c0@13.212.18.89:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#vless-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-6"
     }
   ]
 }
