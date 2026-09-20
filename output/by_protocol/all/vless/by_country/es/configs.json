@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-16T19:17:09.104806",
+  "updated": "2026-09-20T02:48:31.109939",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "apiam2.sorcepack.ir",
-      "port": "29774",
-      "id": "9a06775c-7fcd-48a1-8bb1-c99ab5719576",
-      "name": "Telegram: @proxy_kafee",
-      "network": "tcp",
-      "sni": "",
-      "host": "azki.com",
-      "security": "none",
+      "address": "87.76.179.96",
+      "port": "48072",
+      "id": "6433cc6b-2a88-49c9-ac10-a20f6c34abc0",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "blog.api.www.cloudflare.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
-      "encryption": "mlkem768x25519plus.native.0rtt.zv7nj9kqis5kh06gtsrh3do0zbi9syjukxjxzor210u",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://9a06775c-7fcd-48a1-8bb1-c99ab5719576@apiam2.sorcepack.ir:29774?encryption=mlkem768x25519plus.native.0rtt.zv7nj9KQIs5kh06GTsRh3Do0zBi9SyJukxjxZOr210U&security=none&type=tcp&headerType=http&host=azki.com#vless-mlkem768x25519plus.native.0rtt.zv7nj9kqis5kh06gtsrh3do0zbi9syjukxjxzor210u-tcp-http-ES%F0%9F%87%AA%F0%9F%87%B8-1",
-      "ip": "64.177.32.154",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://6433cc6b-2a88-49c9-ac10-a20f6c34abc0@87.76.179.96:48072?mode=gun&security=reality&encryption=none&pbk=B7tmAX9jcQZkmxfVVW89mAWM6qPTYjgwM4YPknjxa3I&fp=firefox&type=grpc&sni=blog.api.www.cloudflare.com&sid=e50d#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "87.76.179.96",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://9a06775c-7fcd-48a1-8bb1-c99ab5719576@apiam2.sorcepack.ir:29774?encryption=mlkem768x25519plus.native.0rtt.zv7nj9KQIs5kh06GTsRh3Do0zBi9SyJukxjxZOr210U&security=none&type=tcp&headerType=http&host=azki.com#vless-mlkem768x25519plus.native.0rtt.zv7nj9kqis5kh06gtsrh3do0zbi9syjukxjxzor210u-tcp-http-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "vless://6433cc6b-2a88-49c9-ac10-a20f6c34abc0@87.76.179.96:48072?mode=gun&security=reality&encryption=none&pbk=B7tmAX9jcQZkmxfVVW89mAWM6qPTYjgwM4YPknjxa3I&fp=firefox&type=grpc&sni=blog.api.www.cloudflare.com&sid=e50d#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1"
     }
   ]
 }

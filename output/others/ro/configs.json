@@ -1,17 +1,37 @@
 {
-  "updated": "2026-09-19T18:20:48.251772",
-  "count": 1,
+  "updated": "2026-09-20T02:48:31.060569",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "87.58.205.38",
+      "port": "443",
+      "id": "a666b936-8c90-4e05-9fad-4ff2f9e07855",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "k-exit-cdn.api.vvplnte.shop",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "safari",
+      "original": "vless://a666b936-8c90-4e05-9fad-4ff2f9e07855@87.58.205.38:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=k-exit-cdn.api.vvplnte.shop&sid=ac31827454d7f693#vless-xtls-rprx-vision-tcp-reality-safari-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "ip": "87.58.205.38",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "vless://a666b936-8c90-4e05-9fad-4ff2f9e07855@87.58.205.38:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=k-exit-cdn.api.vvplnte.shop&sid=ac31827454d7f693#vless-xtls-rprx-vision-tcp-reality-safari-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+    },
     {
       "type": "hysteria2",
       "address": "162.249.125.133",
       "port": "443",
-      "name": "@proxy_kafee : کانال تلگرام",
-      "original": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "name": "@filembad",
+      "original": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-2",
       "ip": "162.249.125.133",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+      "rebuilt": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-2"
     }
   ]
 }

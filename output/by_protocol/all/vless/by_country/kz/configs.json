@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-16T13:00:46.348250",
+  "updated": "2026-09-20T02:48:31.118641",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "5.35.81.60",
-      "port": "4443",
-      "id": "246b101b-4e4a-451f-8e9c-5e8d3b64b4ef",
-      "name": "🇰🇿 KZ 1",
-      "network": "grpc",
-      "sni": "maps.apple.com",
-      "host": "",
-      "security": "reality",
+      "address": "31.43.179.200",
+      "port": "443",
+      "id": "b2593749-691c-428c-9481-14979cba3446",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "xi.tbv.ccwu.cc",
+      "host": "xi.tbv.ccwu.cc",
+      "security": "tls",
       "flow": "",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://246b101b-4e4a-451f-8e9c-5e8d3b64b4ef@5.35.81.60:4443?security=reality&sni=maps.apple.com&fp=chrome&pbk=nhvyI4KrKDUSgw9Fa63SDeNATaTsAu9bRZ4qaraydRM&sid=e5f6a1b2&type=grpc&serviceName=snob-grpc-de&path=%2f#vless-grpc-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "5.35.81.60",
+      "fingerprint": "",
+      "original": "vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.200:443?path=%2F&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "31.43.179.200",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://246b101b-4e4a-451f-8e9c-5e8d3b64b4ef@5.35.81.60:4443?security=reality&sni=maps.apple.com&fp=chrome&pbk=nhvyI4KrKDUSgw9Fa63SDeNATaTsAu9bRZ4qaraydRM&sid=e5f6a1b2&type=grpc&serviceName=snob-grpc-de&path=%2f#vless-grpc-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.200:443?path=%2F&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }

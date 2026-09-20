@@ -1,58 +1,32 @@
 {
-  "updated": "2026-09-19T18:20:48.315093",
-  "count": 7,
+  "updated": "2026-09-20T02:48:31.140631",
+  "count": 6,
   "configs": [
+    {
+      "type": "ss",
+      "address": "217.60.249.112",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0eC4ZBvStOgQEzTpCYjWN5",
+      "name": "United State CGI",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI",
+      "ip": "217.60.249.112",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
+    },
     {
       "type": "ss",
       "address": "15.204.246.107",
       "port": "8888",
       "method": "aes-256-gcm",
       "password": "Y6R9pAtvxxzmGC",
-      "name": "@i10VPN⁸",
-      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%40i10VPN%E2%81%B8",
+      "name": "@i10VPN🌔",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%40i10VPN%F0%9F%8C%94",
       "ip": "15.204.246.107",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%40i10VPN%E2%81%B8"
-    },
-    {
-      "type": "ss",
-      "address": "216.105.168.18",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "bQZl7HDxSabr1FurTYQHFU",
-      "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#@meliproxyy",
-      "ip": "216.105.168.18",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "156.146.38.167",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#@meliproxyy",
-      "ip": "156.146.38.167",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "15.204.247.244",
-      "port": "4444",
-      "method": "aes-256-gcm",
-      "password": "pKEW8JPByTVTLtM",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#@meliproxyy",
-      "ip": "15.204.247.244",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#@meliproxyy"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%40i10VPN%F0%9F%8C%94"
     },
     {
       "type": "ss",
@@ -69,6 +43,19 @@
     },
     {
       "type": "ss",
+      "address": "216.105.168.18",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "bQZl7HDxSabr1FurTYQHFU",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#@meliproxyy",
+      "ip": "216.105.168.18",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#@meliproxyy"
+    },
+    {
+      "type": "ss",
       "address": "156.146.38.169",
       "port": "443",
       "method": "aes-128-gcm",
@@ -82,16 +69,16 @@
     },
     {
       "type": "ss",
-      "address": "217.60.249.112",
+      "address": "156.146.38.167",
       "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "0eC4ZBvStOgQEzTpCYjWN5",
-      "name": "United State CGI",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI",
-      "ip": "217.60.249.112",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#@meliproxyy",
+      "ip": "156.146.38.167",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#@meliproxyy"
     }
   ]
 }

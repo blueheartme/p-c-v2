@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-19T18:20:48.346694",
-  "count": 1,
+  "updated": "2026-09-20T02:48:31.122810",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "sg-3.gsafevpnapi.com",
+      "port": "44370",
+      "password": "7647b321-4bfe-43f3-b21f-926c5de8f9b6",
+      "name": "Chanel@ConfingV2RaayNG",
+      "sni": "www.yahoo.com",
+      "host": "",
+      "original": "trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@sg-3.gsafevpnapi.com:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#trojan-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "13.250.28.5",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@sg-3.gsafevpnapi.com:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#trojan-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
     {
       "type": "trojan",
       "address": "cloud.lakshan.us",
@@ -10,11 +24,11 @@
       "name": "🇸🇬 SG 1",
       "sni": "cloud.lakshan.us",
       "host": "",
-      "original": "trojan://skynet@cloud.lakshan.us:119?sni=cloud.lakshan.us&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "original": "trojan://skynet@cloud.lakshan.us:119?sni=cloud.lakshan.us&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4",
       "ip": "64.120.95.203",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://skynet@cloud.lakshan.us:119?sni=cloud.lakshan.us&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "trojan://skynet@cloud.lakshan.us:119?sni=cloud.lakshan.us&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }
