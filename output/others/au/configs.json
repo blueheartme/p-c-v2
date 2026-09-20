@@ -1,18 +1,26 @@
 {
-  "updated": "2026-09-02T02:20:01.119124",
+  "updated": "2026-09-20T18:25:57.324020",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "por.sorat.ir.khdakjahdskj.info.",
-      "port": "8443",
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "name": "",
-      "original": "https://t.me/proxy?server=por.sorat.ir.khdakjahdskj.info.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@MPT_Proxy",
-      "ip": "1.1.1.1",
+      "type": "vless",
+      "address": "34.87.244.111",
+      "port": "443",
+      "id": "325bc1be-0cb7-4cf7-bd35-a79ded91bbbd",
+      "name": "🇦🇺 AU 1",
+      "network": "",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://325bc1be-0cb7-4cf7-bd35-a79ded91bbbd@34.87.244.111:443?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=fsdIMU2apN1C_NbkL7mHTsBKEfhwbDhgCRcB8ICf03E&sid=d725f0dd8cce210f&path=%2f#vless-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "34.87.244.111",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=por.sorat.ir.khdakjahdskj.info.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@MPT_Proxy"
+      "rebuilt": "vless://325bc1be-0cb7-4cf7-bd35-a79ded91bbbd@34.87.244.111:443?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=fsdIMU2apN1C_NbkL7mHTsBKEfhwbDhgCRcB8ICf03E&sid=d725f0dd8cce210f&path=%2f#vless-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

@@ -1,21 +1,52 @@
 {
-  "updated": "2026-09-19T12:12:34.745742",
-  "count": 1,
+  "updated": "2026-09-20T18:25:57.312293",
+  "count": 3,
   "configs": [
     {
-      "type": "vmess",
-      "address": "140.238.2.250",
-      "port": "443",
-      "id": "41a7089a-040b-4538-8b8d-010902405bde",
-      "name": "🇰🇷 KR 1",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMSIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "140.238.2.250",
+      "type": "ss",
+      "address": "141.164.45.187",
+      "port": "5001",
+      "method": "aes-256-gcm",
+      "password": "Y6R9pAtvxxzmGC",
+      "name": "🇰🇷 KR 2",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:5001#%f0%9f%87%b0%f0%9f%87%b7%20KR%202",
+      "ip": "141.164.45.187",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMSIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:5001#%f0%9f%87%b0%f0%9f%87%b7%20KR%202"
+    },
+    {
+      "type": "ss",
+      "address": "141.164.45.187",
+      "port": "2376",
+      "method": "aes-256-gcm",
+      "password": "faBAoD54k87UJG7",
+      "name": "🇰🇷 KR 4",
+      "original": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#%f0%9f%87%b0%f0%9f%87%b7%20KR%204",
+      "ip": "141.164.45.187",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#%f0%9f%87%b0%f0%9f%87%b7%20KR%204"
+    },
+    {
+      "type": "vless",
+      "address": "34.64.149.137",
+      "port": "443",
+      "id": "700a7a0e-3f27-406c-81d1-aa1abe411af8",
+      "name": "🇰🇷 KR 1",
+      "network": "",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://700a7a0e-3f27-406c-81d1-aa1abe411af8@34.64.149.137:443?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=kqIDhDhYFrXD-1GeurwjzFwbB0zWipgWmcbADXwmyy8&sid=3fd0a8ddef3ae5c6&path=%2f#vless-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-3",
+      "ip": "34.64.149.137",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vless://700a7a0e-3f27-406c-81d1-aa1abe411af8@34.64.149.137:443?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=kqIDhDhYFrXD-1GeurwjzFwbB0zWipgWmcbADXwmyy8&sid=3fd0a8ddef3ae5c6&path=%2f#vless-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-3"
     }
   ]
 }

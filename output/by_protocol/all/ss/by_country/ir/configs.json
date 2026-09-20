@@ -1,7 +1,76 @@
 {
-  "updated": "2026-09-20T12:48:16.071751",
-  "count": 2,
+  "updated": "2026-09-20T18:25:57.381736",
+  "count": 8,
   "configs": [
+    {
+      "type": "ss",
+      "address": "coco3.mosyx.net",
+      "port": "1013?",
+      "method": "chacha20-ietf-poly1305",
+      "password": "fB95883lTj5iIJGu0qB9iRq2ulza8IhX",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmQjk1ODgzbFRqNWlJSkd1MHFCOWlScTJ1bHphOEloWA@coco3.mosyx.net:1013?#@meliproxyy",
+      "ip": "194.145.119.178",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmQjk1ODgzbFRqNWlJSkd1MHFCOWlScTJ1bHphOEloWA@coco3.mosyx.net:1013?#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "coco2.mosyx.net",
+      "port": "1012?",
+      "method": "chacha20-ietf-poly1305",
+      "password": "fB95883lTj5iIJGu0qB9iRq2ulza8IhX",
+      "name": "Tel: @proxy_kafee",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmQjk1ODgzbFRqNWlJSkd1MHFCOWlScTJ1bHphOEloWA@coco2.mosyx.net:1012?#Tel%3A%20%40proxy_kafee",
+      "ip": "193.151.143.179",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmQjk1ODgzbFRqNWlJSkd1MHFCOWlScTJ1bHphOEloWA@coco2.mosyx.net:1012?#Tel%3A%20%40proxy_kafee"
+    },
+    {
+      "type": "ss",
+      "address": "p1tun4.greewebservices.ir",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "1XBgrwdW4F2sqnM52aAR1Q",
+      "name": "",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxWEJncndkVzRGMnNxbk01MmFBUjFR@p1tun4.greewebservices.ir:1080",
+      "ip": "91.108.151.165",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxWEJncndkVzRGMnNxbk01MmFBUjFR@p1tun4.greewebservices.ir:1080"
+    },
+    {
+      "type": "ss",
+      "address": "188.121.123.28",
+      "port": "9147?prefix=%16%03%01%00%C2%A8%01%01",
+      "method": "aes-256-gcm",
+      "password": "NTMyOGNjMTI5OTFiOGQwMTg2NDI1YTc0YjhmMDUy",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206TlRNeU9HTmpNVEk1T1RGaU9HUXdNVGcyTkRJMVlUYzBZamhtTURVeQ@188.121.123.28:9147?prefix=%16%03%01%00%C2%A8%01%01#%40filembad",
+      "ip": "188.121.123.28",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206TlRNeU9HTmpNVEk1T1RGaU9HUXdNVGcyTkRJMVlUYzBZamhtTURVeQ@188.121.123.28:9147?prefix=%16%03%01%00%C2%A8%01%01#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "p1tun3.greewebservices.ir",
+      "port": "2070",
+      "method": "chacha20-ietf-poly1305",
+      "password": "1XBgrwdW4F2sqnM52aAR1Q",
+      "name": "",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxWEJncndkVzRGMnNxbk01MmFBUjFR@p1tun3.greewebservices.ir:2070",
+      "ip": "37.202.246.212",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxWEJncndkVzRGMnNxbk01MmFBUjFR@p1tun3.greewebservices.ir:2070"
+    },
     {
       "type": "ss",
       "address": "p2tun1.greewebservices.ir",
@@ -19,16 +88,31 @@
     },
     {
       "type": "ss",
-      "address": "coco3.mosyx.net",
-      "port": "1013?",
+      "address": "p1tun1.greewebservices.ir",
+      "port": "2050",
       "method": "chacha20-ietf-poly1305",
-      "password": "fB95883lTj5iIJGu0qB9iRq2ulza8IhX",
-      "name": "@proxy_kafee",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmQjk1ODgzbFRqNWlJSkd1MHFCOWlScTJ1bHphOEloWA@coco3.mosyx.net:1013?#%40proxy_kafee",
-      "ip": "194.145.119.178",
+      "password": "1XBgrwdW4F2sqnM52aAR1Q",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxWEJncndkVzRGMnNxbk01MmFBUjFR@p1tun1.greewebservices.ir:2050#%40filembad",
+      "ip": "79.175.134.188",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmQjk1ODgzbFRqNWlJSkd1MHFCOWlScTJ1bHphOEloWA@coco3.mosyx.net:1013?#%40proxy_kafee"
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxWEJncndkVzRGMnNxbk01MmFBUjFR@p1tun1.greewebservices.ir:2050#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "188.121.123.28",
+      "port": "9112?prefix=%16%03%01%00%C2%A8%01%01",
+      "method": "aes-256-gcm",
+      "password": "ZDUwZjhjMjgyYzc5NTBkZTBjZDVlNDZhM2Y1Nzk3",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206WkRVd1pqaGpNamd5WXpjNU5UQmtaVEJqWkRWbE5EWmhNMlkxTnprMw@188.121.123.28:9112?prefix=%16%03%01%00%C2%A8%01%01#%40filembad",
+      "ip": "188.121.123.28",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WkRVd1pqaGpNamd5WXpjNU5UQmtaVEJqWkRWbE5EWmhNMlkxTnprMw@188.121.123.28:9112?prefix=%16%03%01%00%C2%A8%01%01#%40filembad"
     }
   ]
 }

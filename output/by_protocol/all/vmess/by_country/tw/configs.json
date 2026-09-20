@@ -1,21 +1,36 @@
 {
-  "updated": "2026-09-09T12:38:04.082697",
-  "count": 1,
+  "updated": "2026-09-20T18:25:57.404197",
+  "count": 2,
   "configs": [
     {
       "type": "vmess",
-      "address": "165.154.195.38",
-      "port": "35034",
-      "id": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
-      "name": "🇹🇼 TW 2",
-      "network": "tcp",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UV/Cfh7nwn4e8LTMiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOjM1MDM0LCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "165.154.195.38",
+      "address": "dee2309db4se3g5sds35g4s3dg.oylfmxz.cn",
+      "port": "443",
+      "id": "d90e4077-bc7e-414d-a650-70bf1baae4d6",
+      "name": "🇹🇼 TW 5",
+      "network": "ws",
+      "host": "dee2309db4se3g5sds35g4s3dg.oylfmxz.cn",
+      "sni": "dee2309db4se3g5sds35g4s3dg.oylfmxz.cn",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtdGxzLVRX8J+HufCfh7wtNCIsImFkZCI6ImRlZTIzMDlkYjRzZTNnNXNkczM1ZzRzM2RnLm95bGZteHouY24iLCJwb3J0Ijo0NDMsImlkIjoiZDkwZTQwNzctYmM3ZS00MTRkLWE2NTAtNzBiZjFiYWFlNGQ2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJkZWUyMzA5ZGI0c2UzZzVzZHMzNWc0czNkZy5veWxmbXh6LmNuIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJkZWUyMzA5ZGI0c2UzZzVzZHMzNWc0czNkZy5veWxmbXh6LmNuIiwiZnAiOm51bGx9",
+      "ip": "111.252.177.58",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1UV/Cfh7nwn4e8LTMiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOjM1MDM0LCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtdGxzLVRX8J+HufCfh7wtNCIsImFkZCI6ImRlZTIzMDlkYjRzZTNnNXNkczM1ZzRzM2RnLm95bGZteHouY24iLCJwb3J0Ijo0NDMsImlkIjoiZDkwZTQwNzctYmM3ZS00MTRkLWE2NTAtNzBiZjFiYWFlNGQ2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJkZWUyMzA5ZGI0c2UzZzVzZHMzNWc0czNkZy5veWxmbXh6LmNuIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJkZWUyMzA5ZGI0c2UzZzVzZHMzNWc0czNkZy5veWxmbXh6LmNuIiwiZnAiOm51bGx9"
+    },
+    {
+      "type": "vmess",
+      "address": "dee2309db4944c248b6d4372c6641e25.oylfmxz.cn",
+      "port": "443",
+      "id": "d90e4077-bc7e-414d-a650-70bf1baae4d6",
+      "name": "🇹🇼 TW 3",
+      "network": "ws",
+      "host": "dee2309db4944c248b6d4372c6641e25.oylfmxz.cn",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1UV/Cfh7nwn4e8LTUiLCJhZGQiOiJkZWUyMzA5ZGI0OTQ0YzI0OGI2ZDQzNzJjNjY0MWUyNS5veWxmbXh6LmNuIiwicG9ydCI6NDQzLCJpZCI6ImQ5MGU0MDc3LWJjN2UtNDE0ZC1hNjUwLTcwYmYxYmFhZTRkNiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImRlZTIzMDlkYjQ5NDRjMjQ4YjZkNDM3MmM2NjQxZTI1Lm95bGZteHouY24iLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "125.230.101.152",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1UV/Cfh7nwn4e8LTUiLCJhZGQiOiJkZWUyMzA5ZGI0OTQ0YzI0OGI2ZDQzNzJjNjY0MWUyNS5veWxmbXh6LmNuIiwicG9ydCI6NDQzLCJpZCI6ImQ5MGU0MDc3LWJjN2UtNDE0ZC1hNjUwLTcwYmYxYmFhZTRkNiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImRlZTIzMDlkYjQ5NDRjMjQ4YjZkNDM3MmM2NjQxZTI1Lm95bGZteHouY24iLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     }
   ]
 }
