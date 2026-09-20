@@ -1,26 +1,46 @@
 {
-  "updated": "2026-09-20T02:48:31.109939",
-  "count": 1,
+  "updated": "2026-09-20T12:48:16.053923",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "87.76.179.96",
-      "port": "48072",
-      "id": "6433cc6b-2a88-49c9-ac10-a20f6c34abc0",
+      "address": "spz2.plasmoon.ir",
+      "port": "56562",
+      "id": "485b37ba-110f-4062-8b6c-2e4bf9a31fb3",
       "name": "@filembad",
-      "network": "grpc",
-      "sni": "blog.api.www.cloudflare.com",
+      "network": "tcp",
+      "sni": "play-apps-features.googleusercontent.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "edge",
+      "original": "vless://485b37ba-110f-4062-8b6c-2e4bf9a31fb3@spz2.plasmoon.ir:56562?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&sid=8101b9ba16eb77c7#vless-xtls-rprx-vision-tcp-reality-edge-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "208.85.20.120",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://485b37ba-110f-4062-8b6c-2e4bf9a31fb3@spz2.plasmoon.ir:56562?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&sid=8101b9ba16eb77c7#vless-xtls-rprx-vision-tcp-reality-edge-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+    },
+    {
+      "type": "vless",
+      "address": "upes2.plasmoon.ir",
+      "port": "443",
+      "id": "485b37ba-110f-4062-8b6c-2e4bf9a31fb3",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "amp-api-edge.apps.apple.com",
       "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://6433cc6b-2a88-49c9-ac10-a20f6c34abc0@87.76.179.96:48072?mode=gun&security=reality&encryption=none&pbk=B7tmAX9jcQZkmxfVVW89mAWM6qPTYjgwM4YPknjxa3I&fp=firefox&type=grpc&sni=blog.api.www.cloudflare.com&sid=e50d#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1",
-      "ip": "87.76.179.96",
+      "headerType": "none",
+      "fingerprint": "edge",
+      "original": "vless://485b37ba-110f-4062-8b6c-2e4bf9a31fb3@upes2.plasmoon.ir:443?security=reality&encryption=none&pbk=ASmPIMB25D2LpasCAfuMuNDN3Kv-Dj3bX8THE7YpknE&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=0f8938e71c53a6cd#vless-tcp-reality-edge-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "5.22.217.133",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://6433cc6b-2a88-49c9-ac10-a20f6c34abc0@87.76.179.96:48072?mode=gun&security=reality&encryption=none&pbk=B7tmAX9jcQZkmxfVVW89mAWM6qPTYjgwM4YPknjxa3I&fp=firefox&type=grpc&sni=blog.api.www.cloudflare.com&sid=e50d#vless-grpc-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "vless://485b37ba-110f-4062-8b6c-2e4bf9a31fb3@upes2.plasmoon.ir:443?security=reality&encryption=none&pbk=ASmPIMB25D2LpasCAfuMuNDN3Kv-Dj3bX8THE7YpknE&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=0f8938e71c53a6cd#vless-tcp-reality-edge-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     }
   ]
 }
