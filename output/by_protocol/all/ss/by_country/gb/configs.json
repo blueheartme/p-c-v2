@@ -1,32 +1,58 @@
 {
-  "updated": "2026-09-20T18:25:57.382193",
-  "count": 9,
+  "updated": "2026-09-21T02:45:47.658438",
+  "count": 11,
   "configs": [
-    {
-      "type": "ss",
-      "address": "51.77.225.200",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "zRZNBszYyWo5",
-      "name": "🇬🇧 GB 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#%f0%9f%87%ac%f0%9f%87%a7%20GB%201",
-      "ip": "51.77.225.200",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#%f0%9f%87%ac%f0%9f%87%a7%20GB%201"
-    },
     {
       "type": "ss",
       "address": "158.173.221.214",
       "port": "11001",
       "method": "chacha20-ietf-poly1305",
       "password": "c58d16e593d44f42",
-      "name": "🇧🇪 BE 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#%f0%9f%87%a7%f0%9f%87%aa%20BE%201",
+      "name": "Joinbede@ConfingV2RaayNG",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#Joinbede@ConfingV2RaayNG",
       "ip": "158.173.221.214",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#%f0%9f%87%a7%f0%9f%87%aa%20BE%201"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#Joinbede@ConfingV2RaayNG"
+    },
+    {
+      "type": "ss",
+      "address": "141.98.101.182",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "United Kingdom M247",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
+      "ip": "141.98.101.182",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
+    },
+    {
+      "type": "ss",
+      "address": "51.38.71.51",
+      "port": "2083",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:2tFqykGqZ101XW11f6iRiERnPycFAjjYq0y2zUYhKho=",
+      "name": "Telegram@ConfingV2RaayNG",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#Telegram@ConfingV2RaayNG",
+      "ip": "51.38.71.51",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#Telegram@ConfingV2RaayNG"
+    },
+    {
+      "type": "ss",
+      "address": "149.102.149.207",
+      "port": "443",
+      "method": "aes-256-gcm",
+      "password": "LXchLsIwtCeUAUgu",
+      "name": "🇬🇧 GB 2",
+      "original": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%202",
+      "ip": "149.102.149.207",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%202"
     },
     {
       "type": "ss",
@@ -43,32 +69,6 @@
     },
     {
       "type": "ss",
-      "address": "149.102.149.207",
-      "port": "80",
-      "method": "aes-256-gcm",
-      "password": "LXchLsIwtCeUAUgu",
-      "name": "🇬🇧 GB 3",
-      "original": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:80#%f0%9f%87%ac%f0%9f%87%a7%20GB%203",
-      "ip": "149.102.149.207",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:80#%f0%9f%87%ac%f0%9f%87%a7%20GB%203"
-    },
-    {
-      "type": "ss",
-      "address": "57.129.140.88",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "k1v5g9FefdoO",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1",
-      "ip": "57.129.140.88",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1"
-    },
-    {
-      "type": "ss",
       "address": "141.98.101.181",
       "port": "443",
       "method": "aes-128-gcm",
@@ -79,19 +79,6 @@
       "country": "GB",
       "cdn": null,
       "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%206"
-    },
-    {
-      "type": "ss",
-      "address": "129.151.77.36",
-      "port": "61312",
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "JAIIG6N6KLuM33ZbMh0jk1fVcDM3qTVfUoXhQr6tiYM=",
-      "name": "🇬🇧 GB 4",
-      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SkFJSUc2TjZLTHVNMzNaYk1oMGprMWZWY0RNM3FUVmZVb1hoUXI2dGlZTT0=@129.151.77.36:61312#%f0%9f%87%ac%f0%9f%87%a7%20GB%204",
-      "ip": "129.151.77.36",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SkFJSUc2TjZLTHVNMzNaYk1oMGprMWZWY0RNM3FUVmZVb1hoUXI2dGlZTT0=@129.151.77.36:61312#%f0%9f%87%ac%f0%9f%87%a7%20GB%204"
     },
     {
       "type": "ss",
@@ -108,16 +95,55 @@
     },
     {
       "type": "ss",
+      "address": "129.151.77.36",
+      "port": "61312",
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "JAIIG6N6KLuM33ZbMh0jk1fVcDM3qTVfUoXhQr6tiYM=",
+      "name": "🇬🇧 GB 4",
+      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SkFJSUc2TjZLTHVNMzNaYk1oMGprMWZWY0RNM3FUVmZVb1hoUXI2dGlZTT0=@129.151.77.36:61312#%f0%9f%87%ac%f0%9f%87%a7%20GB%204",
+      "ip": "129.151.77.36",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SkFJSUc2TjZLTHVNMzNaYk1oMGprMWZWY0RNM3FUVmZVb1hoUXI2dGlZTT0=@129.151.77.36:61312#%f0%9f%87%ac%f0%9f%87%a7%20GB%204"
+    },
+    {
+      "type": "ss",
       "address": "149.102.149.207",
-      "port": "443",
+      "port": "80",
       "method": "aes-256-gcm",
       "password": "LXchLsIwtCeUAUgu",
-      "name": "🇬🇧 GB 2",
-      "original": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%202",
+      "name": "🇬🇧 GB 3",
+      "original": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:80#%f0%9f%87%ac%f0%9f%87%a7%20GB%203",
       "ip": "149.102.149.207",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%202"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:80#%f0%9f%87%ac%f0%9f%87%a7%20GB%203"
+    },
+    {
+      "type": "ss",
+      "address": "51.77.225.200",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "zRZNBszYyWo5",
+      "name": "🇬🇧 GB 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#%f0%9f%87%ac%f0%9f%87%a7%20GB%201",
+      "ip": "51.77.225.200",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#%f0%9f%87%ac%f0%9f%87%a7%20GB%201"
+    },
+    {
+      "type": "ss",
+      "address": "57.129.140.88",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "k1v5g9FefdoO",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1",
+      "ip": "57.129.140.88",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1"
     }
   ]
 }

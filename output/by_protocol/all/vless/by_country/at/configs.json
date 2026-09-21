@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-20T18:25:57.366923",
-  "count": 1,
+  "updated": "2026-09-21T02:45:47.649698",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "132.243.203.243",
+      "port": "8443",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "Free x407 @Outline_Vpn",
+      "network": "ws",
+      "sni": "cdn8848.776676.xyz",
+      "host": "cdn8848.776676.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "132.243.203.243",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
     {
       "type": "vless",
       "address": "152.53.1.40",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=at.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "original": "vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=at.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2",
       "ip": "152.53.1.40",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=at.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=at.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     }
   ]
 }

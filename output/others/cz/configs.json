@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-20T18:25:57.325249",
+  "updated": "2026-09-21T02:45:47.586723",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "188.130.208.210",
-      "port": "443",
-      "id": "08b6dd4b-08df-4aa2-9580-92a3360cf07c",
-      "name": "Free x282 @Outline_Vpnx269",
-      "network": "tcp",
-      "sni": "edge-cz1.lovely.ceo",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "188.130.208.210",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
-    },
     {
       "type": "vless",
       "address": "153.76.185.84",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://995b4d19-8c0d-4f81-a199-35a4f1d7744e@153.76.185.84:3090?type=grpc&serviceName=vless&mode=multi&fp=chrome&encryption=none#vless-grpc-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "original": "vless://995b4d19-8c0d-4f81-a199-35a4f1d7744e@153.76.185.84:3090?type=grpc&serviceName=vless&mode=multi&fp=chrome&encryption=none#vless-grpc-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
       "ip": "153.76.185.84",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://995b4d19-8c0d-4f81-a199-35a4f1d7744e@153.76.185.84:3090?type=grpc&serviceName=vless&mode=multi&fp=chrome&encryption=none#vless-grpc-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+      "rebuilt": "vless://995b4d19-8c0d-4f81-a199-35a4f1d7744e@153.76.185.84:3090?type=grpc&serviceName=vless&mode=multi&fp=chrome&encryption=none#vless-grpc-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+    },
+    {
+      "type": "vless",
+      "address": "188.130.208.210",
+      "port": "443",
+      "id": "08b6dd4b-08df-4aa2-9580-92a3360cf07c",
+      "name": "Free x282 @Outline_Vpnx269",
+      "network": "tcp",
+      "sni": "edge-cz1.lovely.ceo",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "ip": "188.130.208.210",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
     }
   ]
 }

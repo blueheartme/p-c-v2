@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T18:25:57.311668",
-  "count": 6,
+  "updated": "2026-09-21T02:45:47.565035",
+  "count": 8,
   "configs": [
     {
       "type": "ss",
@@ -20,42 +20,27 @@
       "address": "cloud.lakshan.us",
       "port": "119",
       "password": "skynet",
-      "name": "🇸🇬 SG 7",
+      "name": "🇸🇬 SG 4",
       "sni": "cloud.lakshan.us",
       "host": "",
-      "original": "trojan://skynet@cloud.lakshan.us:119?security=tls&sni=cloud.lakshan.us&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "trojan://skynet@cloud.lakshan.us:119?security=tls&sni=cloud.lakshan.us&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
       "ip": "64.120.95.203",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://skynet@cloud.lakshan.us:119?security=tls&sni=cloud.lakshan.us&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "trojan://skynet@cloud.lakshan.us:119?security=tls&sni=cloud.lakshan.us&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     },
     {
-      "type": "trojan",
-      "address": "sg-3.gsafevpnapi.com",
-      "port": "44370",
-      "password": "7647b321-4bfe-43f3-b21f-926c5de8f9b6",
-      "name": "Chanel@ConfingV2RaayNG",
-      "sni": "www.yahoo.com",
-      "host": "",
-      "original": "trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@sg-3.gsafevpnapi.com:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#trojan-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "13.250.28.5",
+      "type": "ss",
+      "address": "168.107.68.192",
+      "port": "56927",
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "3wYtGhROca1p818RFgftCeodooVes1HaskrJVHZoF3c=",
+      "name": "🇸🇬 SG 1",
+      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M3dZdEdoUk9jYTFwODE4UkZnZnRDZW9kb29WZXMxSGFza3JKVkhab0YzYz0=@168.107.68.192:56927#%f0%9f%87%b8%f0%9f%87%ac%20SG%201",
+      "ip": "168.107.68.192",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@sg-3.gsafevpnapi.com:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#trojan-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-3"
-    },
-    {
-      "type": "trojan",
-      "address": "64.120.95.203",
-      "port": "119",
-      "password": "skynet",
-      "name": "🇸🇬 SG 5",
-      "sni": "cloud.lakshan.us",
-      "host": "",
-      "original": "trojan://skynet@64.120.95.203:119?sni=cloud.lakshan.us&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4",
-      "ip": "64.120.95.203",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "trojan://skynet@64.120.95.203:119?sni=cloud.lakshan.us&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M3dZdEdoUk9jYTFwODE4UkZnZnRDZW9kb29WZXMxSGFza3JKVkhab0YzYz0=@168.107.68.192:56927#%f0%9f%87%b8%f0%9f%87%ac%20SG%201"
     },
     {
       "type": "vmess",
@@ -66,11 +51,11 @@
       "network": "tcp",
       "host": "Telegram-i10VPN",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0taTEwVlBOIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "original": "vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0taTEwVlBOIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
       "ip": "149.88.23.207",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0taTEwVlBOIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+      "rebuilt": "vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0taTEwVlBOIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
     },
     {
       "type": "vmess",
@@ -81,11 +66,59 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "original": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
       "ip": "149.88.23.207",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+      "rebuilt": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+    },
+    {
+      "type": "trojan",
+      "address": "sg-3.gsafevpnapi.com",
+      "port": "44370",
+      "password": "7647b321-4bfe-43f3-b21f-926c5de8f9b6",
+      "name": "Chanel@ConfingV2RaayNG",
+      "sni": "www.yahoo.com",
+      "host": "",
+      "original": "trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@sg-3.gsafevpnapi.com:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#trojan-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-6",
+      "ip": "13.250.28.5",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@sg-3.gsafevpnapi.com:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#trojan-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-6"
+    },
+    {
+      "type": "trojan",
+      "address": "64.120.95.203",
+      "port": "119",
+      "password": "skynet",
+      "name": "🇸🇬 SG 5",
+      "sni": "cloud.lakshan.us",
+      "host": "",
+      "original": "trojan://skynet@64.120.95.203:119?sni=cloud.lakshan.us&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-7",
+      "ip": "64.120.95.203",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://skynet@64.120.95.203:119?sni=cloud.lakshan.us&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-7"
+    },
+    {
+      "type": "vless",
+      "address": "www.hxino.com",
+      "port": "443",
+      "id": "00f8cbcc-bf10-418b-a842-35519f460c7f",
+      "name": "Free x217 @Outline_Vpn",
+      "network": "httpupgrade",
+      "sni": "",
+      "host": "deh.irandoc.info",
+      "security": "tls",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.random.0rtt.bt6vamtdf4jpeunn2b5ehc7vwnj4kklered_aiakft0",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://00f8cbcc-bf10-418b-a842-35519f460c7f@www.hxino.com:443?path=%2F38284%2Fapi4&security=tls&encryption=mlkem768x25519plus.random.0rtt.bt6vamtdf4jPeuNn2b5eHC7VwnJ4KklEReD_AIAkfT0&insecure=0&host=deh.irandoc.info&fp=firefox&type=httpupgrade&allowInsecure=0#vless-mlkem768x25519plus.random.0rtt.bt6vamtdf4jpeunn2b5ehc7vwnj4kklered_aiakft0-httpupgrade-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-8",
+      "ip": "43.174.246.103",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://00f8cbcc-bf10-418b-a842-35519f460c7f@www.hxino.com:443?path=%2F38284%2Fapi4&security=tls&encryption=mlkem768x25519plus.random.0rtt.bt6vamtdf4jPeuNn2b5eHC7VwnJ4KklEReD_AIAkfT0&insecure=0&host=deh.irandoc.info&fp=firefox&type=httpupgrade&allowInsecure=0#vless-mlkem768x25519plus.random.0rtt.bt6vamtdf4jpeunn2b5ehc7vwnj4kklered_aiakft0-httpupgrade-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-8"
     }
   ]
 }
