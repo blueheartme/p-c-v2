@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-21T20:13:59.139589",
-  "count": 4,
+  "updated": "2026-09-22T02:46:29.782932",
+  "count": 5,
   "configs": [
-    {
-      "type": "vless",
-      "address": "162.128.157.164",
-      "port": "443",
-      "id": "5e8e81ac-a1c4-4543-b81e-651bf9872b54",
-      "name": "@i10VPN🚙",
-      "network": "tcp",
-      "sni": "www.bing.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://5e8e81ac-a1c4-4543-b81e-651bf9872b54@162.128.157.164:443?security=reality&encryption=none&pbk=TP_bpIPUtjdxxGA9j7mpsHtSDfM2HMSZFNWW9MtDPT0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=14156e3ac23212cc#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "162.128.157.164",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://5e8e81ac-a1c4-4543-b81e-651bf9872b54@162.128.157.164:443?security=reality&encryption=none&pbk=TP_bpIPUtjdxxGA9j7mpsHtSDfM2HMSZFNWW9MtDPT0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=14156e3ac23212cc#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
     {
       "type": "vless",
       "address": "45.144.137.129",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://b28936a7-c11a-4147-8806-b66efd1658a8@45.144.137.129:41923?security=reality&encryption=none&pbk=7YfjX8TsT3HL0ZzvovjEDOLCM142j3bFcorv-Gs-m2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "vless://b28936a7-c11a-4147-8806-b66efd1658a8@45.144.137.129:41923?security=reality&encryption=none&pbk=7YfjX8TsT3HL0ZzvovjEDOLCM142j3bFcorv-Gs-m2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "45.144.137.129",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://b28936a7-c11a-4147-8806-b66efd1658a8@45.144.137.129:41923?security=reality&encryption=none&pbk=7YfjX8TsT3HL0ZzvovjEDOLCM142j3bFcorv-Gs-m2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "vless://b28936a7-c11a-4147-8806-b66efd1658a8@45.144.137.129:41923?security=reality&encryption=none&pbk=7YfjX8TsT3HL0ZzvovjEDOLCM142j3bFcorv-Gs-m2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vless",
+      "address": "162.128.157.164",
+      "port": "443",
+      "id": "5e8e81ac-a1c4-4543-b81e-651bf9872b54",
+      "name": "@i10VPN🚙",
+      "network": "tcp",
+      "sni": "www.bing.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://5e8e81ac-a1c4-4543-b81e-651bf9872b54@162.128.157.164:443?security=reality&encryption=none&pbk=TP_bpIPUtjdxxGA9j7mpsHtSDfM2HMSZFNWW9MtDPT0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=14156e3ac23212cc#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "162.128.157.164",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://5e8e81ac-a1c4-4543-b81e-651bf9872b54@162.128.157.164:443?security=reality&encryption=none&pbk=TP_bpIPUtjdxxGA9j7mpsHtSDfM2HMSZFNWW9MtDPT0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=14156e3ac23212cc#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     },
     {
       "type": "vless",
@@ -64,6 +64,26 @@
     },
     {
       "type": "vless",
+      "address": "vj37-1936vtw.fincore.top",
+      "port": "443",
+      "id": "5e8e81ac-a1c4-4543-b81e-651bf9872b54",
+      "name": "@i10VPN🫚",
+      "network": "tcp",
+      "sni": "www.bing.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://5e8e81ac-a1c4-4543-b81e-651bf9872b54@vj37-1936vtw.fincore.top:443?security=reality&encryption=none&pbk=TP_bpIPUtjdxxGA9j7mpsHtSDfM2HMSZFNWW9MtDPT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=14156e3ac23212cc#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6",
+      "ip": "162.128.157.164",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://5e8e81ac-a1c4-4543-b81e-651bf9872b54@vj37-1936vtw.fincore.top:443?security=reality&encryption=none&pbk=TP_bpIPUtjdxxGA9j7mpsHtSDfM2HMSZFNWW9MtDPT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=14156e3ac23212cc#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6"
+    },
+    {
+      "type": "vless",
       "address": "141.98.234.74",
       "port": "443",
       "id": "BtUFp1yvkwRV9L",
@@ -76,11 +96,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://BtUFp1yvkwRV9L@141.98.234.74:443?security=reality&encryption=none&pbk=DcwnG9zUCzThSMiFmkTGBM5J2nOIRev6xK7Vz77LlCo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=onlycats.photos&sid=7dfff93d#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6",
+      "original": "vless://BtUFp1yvkwRV9L@141.98.234.74:443?security=reality&encryption=none&pbk=DcwnG9zUCzThSMiFmkTGBM5J2nOIRev6xK7Vz77LlCo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=onlycats.photos&sid=7dfff93d#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-7",
       "ip": "141.98.234.74",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://BtUFp1yvkwRV9L@141.98.234.74:443?security=reality&encryption=none&pbk=DcwnG9zUCzThSMiFmkTGBM5J2nOIRev6xK7Vz77LlCo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=onlycats.photos&sid=7dfff93d#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6"
+      "rebuilt": "vless://BtUFp1yvkwRV9L@141.98.234.74:443?security=reality&encryption=none&pbk=DcwnG9zUCzThSMiFmkTGBM5J2nOIRev6xK7Vz77LlCo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=onlycats.photos&sid=7dfff93d#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-7"
     }
   ]
 }
