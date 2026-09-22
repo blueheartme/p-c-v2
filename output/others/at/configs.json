@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-22T13:00:27.249073",
-  "count": 1,
+  "updated": "2026-09-22T19:28:43.591868",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
       "address": "212.183.88.136",
       "port": "443",
       "password": "humanity",
-      "name": "@i10VPN6️⃣",
+      "name": "@i10VPN⁸",
       "sni": "www.calmlunch.com",
       "host": "www.calmlunch.com",
       "original": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
@@ -15,6 +15,26 @@
       "country": "AT",
       "cdn": null,
       "rebuilt": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "132.243.203.243",
+      "port": "8443",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "Free x407 @Outline_Vpn",
+      "network": "ws",
+      "sni": "cdn8848.776676.xyz",
+      "host": "cdn8848.776676.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "132.243.203.243",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     }
   ]
 }
