@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T02:46:29.782590",
-  "count": 1,
+  "updated": "2026-09-22T13:00:27.337135",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "BG",
       "cdn": null,
       "rebuilt": "vless://4bab9727-7075-4260-a30b-369b3e54ee14@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-BG%F0%9F%87%A7%F0%9F%87%AC-1"
+    },
+    {
+      "type": "vless",
+      "address": "148.253.214.208",
+      "port": "443",
+      "id": "496a2c7a-c963-4275-b317-4d4a68901456",
+      "name": "@meliproxyy",
+      "network": "xhttp",
+      "sni": "objects.githubusercontent.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "safari",
+      "original": "vless://496a2c7a-c963-4275-b317-4d4a68901456@148.253.214.208:443?mode=packet-up&path=%2Falterra-t2&security=reality&encryption=none&pbk=-3HubutDXIYmhtFn_dn-kQwJcp2cb5u7E4WQV1PfaQA&fp=safari&type=xhttp&sni=objects.githubusercontent.com&sid=21b8a62e70e7a996#vless-xhttp-reality-safari-BG%F0%9F%87%A7%F0%9F%87%AC-2",
+      "ip": "148.253.214.208",
+      "country": "BG",
+      "cdn": null,
+      "rebuilt": "vless://496a2c7a-c963-4275-b317-4d4a68901456@148.253.214.208:443?mode=packet-up&path=%2Falterra-t2&security=reality&encryption=none&pbk=-3HubutDXIYmhtFn_dn-kQwJcp2cb5u7E4WQV1PfaQA&fp=safari&type=xhttp&sni=objects.githubusercontent.com&sid=21b8a62e70e7a996#vless-xhttp-reality-safari-BG%F0%9F%87%A7%F0%9F%87%AC-2"
     }
   ]
 }

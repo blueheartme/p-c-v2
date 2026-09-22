@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-22T02:46:29.784785",
-  "count": 4,
+  "updated": "2026-09-22T13:00:27.336368",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "195.85.23.217",
-      "port": "443",
-      "id": "b09dfed1-90fa-4353-8bdf-de1edb2e2d79",
-      "name": "Free x427 @Outline_Vpn",
-      "network": "ws",
-      "sni": "nb.lovecf.ggff.net",
-      "host": "nb.lovecf.ggff.net",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.217:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#vless-ws-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "195.85.23.217",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.217:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#vless-ws-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
-    },
     {
       "type": "vless",
       "address": "195.85.23.252",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.252:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#vless-ws-tls-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "original": "vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.252:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#vless-ws-tls-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
       "ip": "195.85.23.252",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.252:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#vless-ws-tls-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+      "rebuilt": "vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.252:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#vless-ws-tls-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
     },
     {
       "type": "vless",
@@ -56,18 +36,18 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://995b4d19-8c0d-4f81-a199-35a4f1d7744e@153.76.185.84:3090?type=grpc&serviceName=vless&mode=multi&fp=chrome&encryption=none#vless-grpc-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
+      "original": "vless://995b4d19-8c0d-4f81-a199-35a4f1d7744e@153.76.185.84:3090?type=grpc&serviceName=vless&mode=multi&fp=chrome&encryption=none#vless-grpc-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
       "ip": "153.76.185.84",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://995b4d19-8c0d-4f81-a199-35a4f1d7744e@153.76.185.84:3090?type=grpc&serviceName=vless&mode=multi&fp=chrome&encryption=none#vless-grpc-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
+      "rebuilt": "vless://995b4d19-8c0d-4f81-a199-35a4f1d7744e@153.76.185.84:3090?type=grpc&serviceName=vless&mode=multi&fp=chrome&encryption=none#vless-grpc-chrome-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
     },
     {
       "type": "vless",
       "address": "188.130.208.210",
       "port": "443",
       "id": "08b6dd4b-08df-4aa2-9580-92a3360cf07c",
-      "name": "Free x282 @Outline_Vpnx269",
+      "name": "Free x285 @Outline_Vpnx269",
       "network": "tcp",
       "sni": "edge-cz1.lovely.ceo",
       "host": "",
@@ -75,12 +55,12 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-4",
+      "fingerprint": "firefox",
+      "original": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
       "ip": "188.130.208.210",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-4"
+      "rebuilt": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
     }
   ]
 }
