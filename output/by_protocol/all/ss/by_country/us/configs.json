@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T02:47:02.105024",
-  "count": 4,
+  "updated": "2026-09-23T13:13:11.932682",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,12 @@
       "port": "443",
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#@meliproxyy",
+      "name": "🇺🇸 US 2",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%f0%9f%87%ba%f0%9f%87%b8%20US%202",
       "ip": "156.146.38.169",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#@meliproxyy"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%f0%9f%87%ba%f0%9f%87%b8%20US%202"
     },
     {
       "type": "ss",
@@ -30,16 +30,16 @@
     },
     {
       "type": "ss",
-      "address": "217.60.249.112",
-      "port": "443",
+      "address": "213.111.142.59",
+      "port": "8443",
       "method": "chacha20-ietf-poly1305",
-      "password": "0eC4ZBvStOgQEzTpCYjWN5",
-      "name": "United State CGI",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI",
-      "ip": "217.60.249.112",
+      "password": "K5H7ATShusHhlh7Tbs6ANK",
+      "name": "3|@ConfingV2RaayNG",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNUg3QVRTaHVzSGhsaDdUYnM2QU5L@213.111.142.59:8443#3|@ConfingV2RaayNG",
+      "ip": "213.111.142.59",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNUg3QVRTaHVzSGhsaDdUYnM2QU5L@213.111.142.59:8443#3|@ConfingV2RaayNG"
     },
     {
       "type": "ss",
@@ -53,6 +53,19 @@
       "country": "US",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%f0%9f%87%ba%f0%9f%87%b8%20US%207"
+    },
+    {
+      "type": "ss",
+      "address": "217.60.249.112",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0eC4ZBvStOgQEzTpCYjWN5",
+      "name": "United State CGI",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI",
+      "ip": "217.60.249.112",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
     }
   ]
 }

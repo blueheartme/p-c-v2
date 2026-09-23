@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-23T02:47:02.060415",
-  "count": 1,
+  "updated": "2026-09-23T13:13:11.858175",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "188.130.208.210",
       "port": "443",
       "id": "08b6dd4b-08df-4aa2-9580-92a3360cf07c",
-      "name": "Free x285 @Outline_Vpnx269",
+      "name": "Free x282 @Outline_Vpnx269",
       "network": "tcp",
       "sni": "edge-cz1.lovely.ceo",
       "host": "",
@@ -15,12 +15,32 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
+      "fingerprint": "",
+      "original": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
       "ip": "188.130.208.210",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+      "rebuilt": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+    },
+    {
+      "type": "vless",
+      "address": "195.85.23.217",
+      "port": "443",
+      "id": "b09dfed1-90fa-4353-8bdf-de1edb2e2d79",
+      "name": "Free x427 @Outline_Vpn",
+      "network": "ws",
+      "sni": "nb.lovecf.ggff.net",
+      "host": "nb.lovecf.ggff.net",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.217:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#vless-ws-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "ip": "195.85.23.217",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.217:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#vless-ws-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
     }
   ]
 }
