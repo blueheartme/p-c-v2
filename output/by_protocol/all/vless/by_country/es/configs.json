@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-23T13:13:11.906751",
+  "updated": "2026-09-23T19:23:47.319181",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "152.114.195.163",
+      "port": "8443",
+      "id": "c18b978e-1c4e-415c-8bea-07942b563a64",
+      "name": "@v2raybaaz",
+      "network": "ws",
+      "sni": "shuma.ccwu.cc",
+      "host": "shuma.ccwu.cc",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%252F&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "152.114.195.163",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%252F&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
     {
       "type": "vless",
       "address": "196.245.52.147",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.147:25535?security=reality&encryption=none&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&headerType=none&fp=qq&type=tcp&sni=www.microsoft.com&sid=7642ce57308852e7#vless-tcp-reality-qq-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "original": "vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.147:25535?security=reality&encryption=none&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&headerType=none&fp=qq&type=tcp&sni=www.microsoft.com&sid=7642ce57308852e7#vless-tcp-reality-qq-ES%F0%9F%87%AA%F0%9F%87%B8-3",
       "ip": "196.245.52.147",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.147:25535?security=reality&encryption=none&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&headerType=none&fp=qq&type=tcp&sni=www.microsoft.com&sid=7642ce57308852e7#vless-tcp-reality-qq-ES%F0%9F%87%AA%F0%9F%87%B8-1"
-    },
-    {
-      "type": "vless",
-      "address": "152.114.195.163",
-      "port": "8443",
-      "id": "c18b978e-1c4e-415c-8bea-07942b563a64",
-      "name": "",
-      "network": "ws",
-      "sni": "shuma.ccwu.cc",
-      "host": "shuma.ccwu.cc",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-5",
-      "ip": "152.114.195.163",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-5"
+      "rebuilt": "vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.147:25535?security=reality&encryption=none&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&headerType=none&fp=qq&type=tcp&sni=www.microsoft.com&sid=7642ce57308852e7#vless-tcp-reality-qq-ES%F0%9F%87%AA%F0%9F%87%B8-3"
     }
   ]
 }

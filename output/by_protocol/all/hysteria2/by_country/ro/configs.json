@@ -1,17 +1,39 @@
 {
-  "updated": "2026-09-23T13:13:11.878971",
-  "count": 1,
+  "updated": "2026-09-23T19:23:47.353618",
+  "count": 3,
   "configs": [
+    {
+      "type": "hysteria2",
+      "address": "85.204.107.184",
+      "port": "8443",
+      "name": "",
+      "original": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "ip": "85.204.107.184",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+    },
+    {
+      "type": "hysteria2",
+      "address": "85.204.107.172",
+      "port": "8443",
+      "name": "",
+      "original": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-2",
+      "ip": "85.204.107.172",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-2"
+    },
     {
       "type": "hysteria2",
       "address": "85.204.107.185",
       "port": "8443",
       "name": "",
-      "original": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "original": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-3",
       "ip": "85.204.107.185",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+      "rebuilt": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-3"
     }
   ]
 }

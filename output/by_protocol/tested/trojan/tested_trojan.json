@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T13:13:11.969090",
-  "count": 5,
+  "updated": "2026-09-23T19:23:47.360629",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
@@ -10,29 +10,29 @@
       "name": "9|@ConfingV2RaayNG",
       "sni": "www.ignitelimit.com",
       "host": "",
-      "original": "trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6",
+      "original": "trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
       "ip": "188.114.97.7",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6"
+      "rebuilt": "trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     },
     {
       "type": "trojan",
       "address": "188.114.97.6",
       "port": "443",
       "password": "humanity",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "sni": "www.ignitelimit.com",
-      "host": "www.ignitelimit.com",
-      "original": "trojan://humanity@188.114.97.6:443?path=%2F%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-12",
+      "name": "@meliproxyy",
+      "sni": "www.pleadcourt.org",
+      "host": "www.pleadcourt.org",
+      "original": "trojan://humanity@188.114.97.6:443?security=tls&sni=www.pleadcourt.org&alpn=http%2F1.1&type=ws&host=www.pleadcourt.org&path=%2Fassignment#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-20",
       "ip": "188.114.97.6",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@188.114.97.6:443?path=%2F%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-12"
+      "rebuilt": "trojan://humanity@188.114.97.6:443?security=tls&sni=www.pleadcourt.org&alpn=http%2F1.1&type=ws&host=www.pleadcourt.org&path=%2Fassignment#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-20"
     },
     {
       "type": "trojan",
@@ -42,29 +42,13 @@
       "name": "@i10VPN⁹",
       "sni": "www.calmlunch.com",
       "host": "www.calmlunch.com",
-      "original": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-23",
+      "original": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-27",
       "ip": "188.114.98.0",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-23"
-    },
-    {
-      "type": "trojan",
-      "address": "185.220.100.168",
-      "port": "443",
-      "password": "humanity",
-      "name": "@i10VPN⁵",
-      "sni": "www.calmlunch.com",
-      "host": "www.calmlunch.com",
-      "original": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-128",
-      "ip": "185.220.100.168",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-128"
+      "rebuilt": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-27"
     },
     {
       "type": "trojan",
@@ -74,13 +58,13 @@
       "name": "@i10VPN¹⁰",
       "sni": "www.pleadcourt.org",
       "host": "www.pleadcourt.org",
-      "original": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-152",
+      "original": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-18",
       "ip": "78.47.146.151",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-152"
+      "rebuilt": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-18"
     }
   ]
 }

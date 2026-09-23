@@ -1,19 +1,32 @@
 {
-  "updated": "2026-09-23T13:13:11.934868",
-  "count": 4,
+  "updated": "2026-09-23T19:23:47.348475",
+  "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "149.22.95.183",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇨🇦 CA 1",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201",
+      "ip": "149.22.95.183",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
+    },
     {
       "type": "ss",
       "address": "15.235.75.71",
       "port": "8388",
       "method": "chacha20-ietf-poly1305",
       "password": "FD3rCuOsxOay",
-      "name": "@i10VPN🌒",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%8C%92",
+      "name": "@i10VPN🧅",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%A7%85",
       "ip": "15.235.75.71",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%8C%92"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%A7%85"
     },
     {
       "type": "ss",
@@ -30,19 +43,6 @@
     },
     {
       "type": "ss",
-      "address": "51.222.141.125",
-      "port": "445",
-      "method": "aes-256-gcm",
-      "password": "zDNVedRFPQexG9v",
-      "name": "🇨🇦 CA 1",
-      "original": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%f0%9f%87%a8%f0%9f%87%a6%20CA%201",
-      "ip": "51.222.141.125",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
-    },
-    {
-      "type": "ss",
       "address": "51.222.12.127",
       "port": "445",
       "method": "aes-256-gcm",
@@ -53,6 +53,19 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%F0%9F%8F%8D%EF%B8%8F"
+    },
+    {
+      "type": "ss",
+      "address": "51.222.155.32",
+      "port": "5003",
+      "method": "aes-256-gcm",
+      "password": "g5MeD6Ft3CWlJId",
+      "name": "🇨🇦 CA 2",
+      "original": "ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%f0%9f%87%a8%f0%9f%87%a6%20CA%202",
+      "ip": "51.222.155.32",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%f0%9f%87%a8%f0%9f%87%a6%20CA%202"
     }
   ]
 }

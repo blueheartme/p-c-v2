@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T13:13:11.864534",
-  "count": 2,
+  "updated": "2026-09-23T19:23:47.266776",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -23,19 +23,44 @@
       "rebuilt": "vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.200:443?path=%2F&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     },
     {
-      "type": "vmess",
-      "address": "38.107.234.57",
-      "port": "80",
-      "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
-      "name": "🇰🇿 KZ 1",
+      "type": "vless",
+      "address": "31.43.179.8",
+      "port": "443",
+      "id": "b2593749-691c-428c-9481-14979cba3446",
+      "name": "@",
       "network": "ws",
-      "host": "viber.com",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1rwn4ew8J+Hvy0yIiwiYWRkIjoiMzguMTA3LjIzNC41NyIsInBvcnQiOjgwLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoidmliZXIuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "38.107.234.57",
+      "sni": "xi.tbv.ccwu.cc",
+      "host": "xi.tbv.ccwu.cc",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.8:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-2",
+      "ip": "31.43.179.8",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1rwn4ew8J+Hvy0yIiwiYWRkIjoiMzguMTA3LjIzNC41NyIsInBvcnQiOjgwLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoidmliZXIuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.8:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-2"
+    },
+    {
+      "type": "vless",
+      "address": "kz.iramkemaxyu.ir",
+      "port": "443",
+      "id": "91d51cf2-fa3e-4dd0-9a9d-0c8e2732624e",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "upwork.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://91d51cf2-fa3e-4dd0-9a9d-0c8e2732624e@kz.iramkemaxyu.ir:443?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=upwork.com&fp=chrome&pbk=BClyGfxb2c_ioqA-fYzx2DzwVc-Ps9xWGudNPBWh8A0&sid=2a32bb9c68bb9cdb#vless-grpc-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-3",
+      "ip": "45.82.31.39",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vless://91d51cf2-fa3e-4dd0-9a9d-0c8e2732624e@kz.iramkemaxyu.ir:443?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=upwork.com&fp=chrome&pbk=BClyGfxb2c_ioqA-fYzx2DzwVc-Ps9xWGudNPBWh8A0&sid=2a32bb9c68bb9cdb#vless-grpc-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-3"
     }
   ]
 }

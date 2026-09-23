@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-23T13:13:11.844058",
-  "count": 3,
+  "updated": "2026-09-23T19:23:47.261347",
+  "count": 4,
   "configs": [
-    {
-      "type": "vless",
-      "address": "202.181.177.8",
-      "port": "8443",
-      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "name": "Free x352 @Outline_Vpn",
-      "network": "ws",
-      "sni": "cdn8848.776676.xyz",
-      "host": "cdn8848.776676.xyz",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=%2Fchannels%2Fact&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "202.181.177.8",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=%2Fchannels%2Fact&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
     {
       "type": "vless",
       "address": "app16.betust.net",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://026f58a9-b36e-4204-8f8d-54c5374163da@app16.betust.net:443?security=reality&encryption=none&pbk=KLLLqRfvP1K9ul0JfmHAaLS4EtUfj0gbngRgjsOWMB0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app16.betust.net&sid=ff9ec6f5#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "original": "vless://026f58a9-b36e-4204-8f8d-54c5374163da@app16.betust.net:443?security=reality&encryption=none&pbk=KLLLqRfvP1K9ul0JfmHAaLS4EtUfj0gbngRgjsOWMB0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app16.betust.net&sid=ff9ec6f5#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "88.216.130.205",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://026f58a9-b36e-4204-8f8d-54c5374163da@app16.betust.net:443?security=reality&encryption=none&pbk=KLLLqRfvP1K9ul0JfmHAaLS4EtUfj0gbngRgjsOWMB0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app16.betust.net&sid=ff9ec6f5#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://026f58a9-b36e-4204-8f8d-54c5374163da@app16.betust.net:443?security=reality&encryption=none&pbk=KLLLqRfvP1K9ul0JfmHAaLS4EtUfj0gbngRgjsOWMB0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app16.betust.net&sid=ff9ec6f5#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "202.181.177.8",
+      "port": "8443",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "Free x352 @Outline_Vpn",
+      "network": "ws",
+      "sni": "cdn8848.776676.xyz",
+      "host": "cdn8848.776676.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=%2Fchannels%2Fact&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "202.181.177.8",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=%2Fchannels%2Fact&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     },
     {
       "type": "vless",
@@ -61,6 +61,26 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.157.10.250:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&sid=6aa2d2e950441a9a#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+    },
+    {
+      "type": "vless",
+      "address": "143.246.196.122",
+      "port": "443",
+      "id": "ac0c2945-b758-11f1-8181-54db13ea7d40",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.blocket.se",
+      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "safari",
+      "original": "vless://ac0c2945-b758-11f1-8181-54db13ea7d40@143.246.196.122:443?security=reality&encryption=none&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.blocket.se#vless-xtls-rprx-vision-tcp-reality-safari-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "ip": "143.246.196.122",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://ac0c2945-b758-11f1-8181-54db13ea7d40@143.246.196.122:443?security=reality&encryption=none&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.blocket.se#vless-xtls-rprx-vision-tcp-reality-safari-SE%F0%9F%87%B8%F0%9F%87%AA-4"
     }
   ]
 }
