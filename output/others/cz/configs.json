@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-24T02:36:37.807146",
+  "updated": "2026-09-24T13:05:27.970520",
   "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "195.85.23.217",
+      "port": "443",
+      "id": "b09dfed1-90fa-4353-8bdf-de1edb2e2d79",
+      "name": "Free x427 @Outline_Vpn",
+      "network": "ws",
+      "sni": "nb.lovecf.ggff.net",
+      "host": "nb.lovecf.ggff.net",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.217:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#vless-ws-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
+      "ip": "195.85.23.217",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.217:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#vless-ws-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+    },
     {
       "type": "ss",
       "address": "141.227.134.63",
@@ -29,24 +49,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "original": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
       "ip": "188.130.208.210",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
-    },
-    {
-      "type": "ss",
-      "address": "141.227.134.63",
-      "port": "17000?",
-      "method": "aes-256-gcm",
-      "password": "pX0uhU3ZjUcLWYs0Vez55BO3JoQrRlL",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@141.227.134.63:17000?#@meliproxyy",
-      "ip": "141.227.134.63",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@141.227.134.63:17000?#@meliproxyy"
+      "rebuilt": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
     }
   ]
 }
