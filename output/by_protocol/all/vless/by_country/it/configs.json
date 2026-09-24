@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T19:23:47.316470",
-  "count": 2,
+  "updated": "2026-09-24T02:36:37.860331",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -24,6 +24,26 @@
     },
     {
       "type": "vless",
+      "address": "151.101.240.148",
+      "port": "80",
+      "id": "7a62d083-36c8-4ce3-8d5a-67a65f9cc2da",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "jabaat.global.ssl.fastly.net",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://7a62d083-36c8-4ce3-8d5a-67a65f9cc2da@151.101.240.148:80?path=%2F&security=none&encryption=none&host=jabaat.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%87%AE%F0%9F%87%B9-2",
+      "ip": "151.101.240.148",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://7a62d083-36c8-4ce3-8d5a-67a65f9cc2da@151.101.240.148:80?path=%2F&security=none&encryption=none&host=jabaat.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%87%AE%F0%9F%87%B9-2"
+    },
+    {
+      "type": "vless",
       "address": "204.216.216.23",
       "port": "10086",
       "id": "9f0285ee-20ca-4953-bcdb-86a920652923",
@@ -36,11 +56,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-3",
+      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-4",
       "ip": "204.216.216.23",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-3"
+      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-4"
+    },
+    {
+      "type": "vless",
+      "address": "31.76.113.202",
+      "port": "8443",
+      "id": "70e46815-9cae-46e5-8224-d35f6bd7897d",
+      "name": "@i10VPN5️⃣",
+      "network": "tcp",
+      "sni": "www.sciencedirect.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.113.202:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#vless-xtls-rprx-vision-tcp-reality-qq-IT%F0%9F%87%AE%F0%9F%87%B9-5",
+      "ip": "31.76.113.202",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.113.202:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#vless-xtls-rprx-vision-tcp-reality-qq-IT%F0%9F%87%AE%F0%9F%87%B9-5"
     }
   ]
 }
