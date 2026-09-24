@@ -1,18 +1,20 @@
 {
-  "updated": "2026-09-24T13:05:28.025882",
-  "count": 3,
+  "updated": "2026-09-24T19:42:35.723232",
+  "count": 4,
   "configs": [
     {
       "type": "tg",
-      "address": "79.175.149.108",
-      "port": "443",
-      "secret": "38a6dbaadc4df74bd3f977d6ade0bbc5",
+      "address": "love.roseprox.xyz",
+      "port": "2096",
+      "secret": "ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=79.175.149.108&port=443&secret=38a6dbaadc4df74bd3f977d6ade0bbc5",
-      "ip": "79.175.149.108",
+      "original": "https://t.me/proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d",
+      "ip": "93.113.230.252",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=79.175.149.108&port=443&secret=38a6dbaadc4df74bd3f977d6ade0bbc5"
+      "tested": true,
+      "working": true,
+      "rebuilt": "https://t.me/proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d"
     },
     {
       "type": "tg",
@@ -28,17 +30,27 @@
     },
     {
       "type": "tg",
-      "address": "love.roseprox.xyz",
+      "address": "example.miosen.cyou",
       "port": "2096",
-      "secret": "ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "",
-      "original": "https://t.me/proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d",
-      "ip": "93.113.230.252",
+      "original": "https://t.me/proxy?server=example.miosen.cyou&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "ip": "85.133.236.3",
       "country": "IR",
       "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "https://t.me/proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d"
+      "rebuilt": "https://t.me/proxy?server=example.miosen.cyou&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "tg",
+      "address": "79.175.149.108",
+      "port": "443",
+      "secret": "38a6dbaadc4df74bd3f977d6ade0bbc5",
+      "name": "",
+      "original": "https://t.me/proxy?server=79.175.149.108&port=443&secret=38a6dbaadc4df74bd3f977d6ade0bbc5",
+      "ip": "79.175.149.108",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=79.175.149.108&port=443&secret=38a6dbaadc4df74bd3f977d6ade0bbc5"
     }
   ]
 }
