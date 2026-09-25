@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-25T13:09:56.131864",
-  "count": 2,
+  "updated": "2026-09-25T19:45:46.051805",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "54.251.9.130",
       "port": "24146",
       "id": "9d9a048b-3aea-4b3e-b106-1106bf301feb",
-      "name": "2|@ConfingV2RaayNG",
+      "name": "1|@ConfingV2RaayNG",
       "network": "tcp",
       "sni": "www.intel.com",
       "host": "",
@@ -21,26 +21,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
-    {
-      "type": "vless",
-      "address": "sg-1.gsafevpnapi.com",
-      "port": "20270",
-      "id": "3da32b09-10e5-4ef9-b422-2e476dd72d87",
-      "name": "Free x440 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "www.yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://3da32b09-10e5-4ef9-b422-2e476dd72d87@sg-1.gsafevpnapi.com:20270?security=reality&encryption=none&pbk=q78tZmuaXQTsrrjZtjjRDtoni6tzN-HhXcAY-iT5zF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=fc13d6208ebbae16#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-5",
-      "ip": "13.250.28.5",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://3da32b09-10e5-4ef9-b422-2e476dd72d87@sg-1.gsafevpnapi.com:20270?security=reality&encryption=none&pbk=q78tZmuaXQTsrrjZtjjRDtoni6tzN-HhXcAY-iT5zF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=fc13d6208ebbae16#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-5"
     }
   ]
 }

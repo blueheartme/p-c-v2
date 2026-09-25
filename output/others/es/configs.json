@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-25T13:09:56.085296",
-  "count": 3,
+  "updated": "2026-09-25T19:45:45.916168",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "152.114.195.163",
       "port": "8443",
       "id": "c18b978e-1c4e-415c-8bea-07942b563a64",
-      "name": "@v2raybaaz",
+      "name": "",
       "network": "ws",
       "sni": "shuma.ccwu.cc",
       "host": "shuma.ccwu.cc",
@@ -15,40 +15,27 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%252F&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "fingerprint": "",
+      "original": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1",
       "ip": "152.114.195.163",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%252F&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1"
     },
     {
       "type": "vmess",
-      "address": "85.90.217.42",
+      "address": "66.163.118.73",
       "port": "22324",
       "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "Free x319 @Outline_Vpn",
+      "name": "@i10VPN²",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtRVPwn4eq8J+HuC0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "ip": "85.90.217.42",
+      "original": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+HqvCfh7gtMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "66.163.118.73",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtRVPwn4eq8J+HuC0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
-    },
-    {
-      "type": "ss",
-      "address": "108.181.121.226",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "WSyL4XTwNsdv",
-      "name": "🇪🇸 ES 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%201",
-      "ip": "108.181.121.226",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%201"
+      "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+HqvCfh7gtMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
     }
   ]
 }
