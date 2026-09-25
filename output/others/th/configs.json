@@ -1,7 +1,22 @@
 {
-  "updated": "2026-09-24T19:42:35.641895",
+  "updated": "2026-09-25T02:54:09.461882",
   "count": 2,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "118.193.57.167",
+      "port": "49667",
+      "id": "d46bf492-45f4-4c33-82d1-ea2a1cb54eb6",
+      "name": "@i10VPN🎄",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwY3MiOiIiLCJwb3J0IjoiNDk2NjciLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVRI8J+HufCfh60tMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "ip": "118.193.57.167",
+      "country": "TH",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwY3MiOiIiLCJwb3J0IjoiNDk2NjciLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVRI8J+HufCfh60tMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+    },
     {
       "type": "vless",
       "address": "103.86.49.57",
@@ -16,26 +31,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#vless-ws-TH%F0%9F%87%B9%F0%9F%87%AD-1",
+      "original": "vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#vless-ws-TH%F0%9F%87%B9%F0%9F%87%AD-2",
       "ip": "103.86.49.57",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#vless-ws-TH%F0%9F%87%B9%F0%9F%87%AD-1"
-    },
-    {
-      "type": "vmess",
-      "address": "118.193.57.167",
-      "port": "49667",
-      "id": "d46bf492-45f4-4c33-82d1-ea2a1cb54eb6",
-      "name": "@i10VPN🧨",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwY3MiOiIiLCJwb3J0IjoiNDk2NjciLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVRI8J+HufCfh60tMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==",
-      "ip": "118.193.57.167",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwY3MiOiIiLCJwb3J0IjoiNDk2NjciLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVRI8J+HufCfh60tMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+      "rebuilt": "vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#vless-ws-TH%F0%9F%87%B9%F0%9F%87%AD-2"
     }
   ]
 }

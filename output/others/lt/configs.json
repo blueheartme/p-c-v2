@@ -1,26 +1,19 @@
 {
-  "updated": "2026-09-24T19:42:35.640066",
+  "updated": "2026-09-25T02:54:09.482643",
   "count": 4,
   "configs": [
     {
-      "type": "vless",
-      "address": "181.214.147.216",
-      "port": "443",
-      "id": "8e403675-d020-4801-9520-9cba4bbfda0e",
-      "name": "@i10VPN🎎",
-      "network": "tcp",
-      "sni": "lith.2clash.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1",
-      "ip": "181.214.147.216",
+      "type": "ss",
+      "address": "195.238.126.20",
+      "port": "9086",
+      "method": "aes-256-cfb",
+      "password": "37Z4TFCYhfxcpc9Q",
+      "name": "🇱🇹 LT 1",
+      "original": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201",
+      "ip": "195.238.126.20",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201"
     },
     {
       "type": "ss",
@@ -38,19 +31,6 @@
     {
       "type": "ss",
       "address": "195.238.126.20",
-      "port": "9086",
-      "method": "aes-256-cfb",
-      "password": "37Z4TFCYhfxcpc9Q",
-      "name": "🇱🇹 LT 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201"
-    },
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
       "port": "9045",
       "method": "aes-256-cfb",
       "password": "Lp27rqyJq72bZsqX",
@@ -60,6 +40,26 @@
       "country": "LT",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%202"
+    },
+    {
+      "type": "vless",
+      "address": "181.214.147.216",
+      "port": "443",
+      "id": "8e403675-d020-4801-9520-9cba4bbfda0e",
+      "name": "@i10VPN🎎",
+      "network": "tcp",
+      "sni": "lith.2clash.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-4",
+      "ip": "181.214.147.216",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-4"
     }
   ]
 }

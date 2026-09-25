@@ -1,22 +1,7 @@
 {
-  "updated": "2026-09-24T19:42:35.644657",
-  "count": 4,
+  "updated": "2026-09-25T02:54:09.475863",
+  "count": 3,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "66.163.118.73",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "@i10VPN²",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+HqvCfh7gtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
-      "ip": "66.163.118.73",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+HqvCfh7gtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
-    },
     {
       "type": "ss",
       "address": "108.181.121.226",
@@ -35,7 +20,7 @@
       "address": "152.114.195.163",
       "port": "8443",
       "id": "c18b978e-1c4e-415c-8bea-07942b563a64",
-      "name": "",
+      "name": "@v2raybaaz",
       "network": "ws",
       "sni": "shuma.ccwu.cc",
       "host": "shuma.ccwu.cc",
@@ -43,32 +28,27 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "fingerprint": "chrome",
+      "original": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%252F&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2",
       "ip": "152.114.195.163",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+      "rebuilt": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%252F&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     },
     {
-      "type": "vless",
-      "address": "196.245.52.147",
-      "port": "25535",
-      "id": "c379d8e4-c67d-42ec-a3ed-ca99d1ad0546",
-      "name": "@filembad",
+      "type": "vmess",
+      "address": "66.163.118.73",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "@i10VPN²",
       "network": "tcp",
-      "sni": "www.microsoft.com",
-      "host": "/?TELEGRAM--MARAMBASHI--MARAMBASHI",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.147:25535?security=reality&encryption=none&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=qq&type=tcp&sni=www.microsoft.com&sid=7642ce57308852e7#vless-tcp-reality-qq-ES%F0%9F%87%AA%F0%9F%87%B8-4",
-      "ip": "196.245.52.147",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+HqvCfh7gtMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "66.163.118.73",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.147:25535?security=reality&encryption=none&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=qq&type=tcp&sni=www.microsoft.com&sid=7642ce57308852e7#vless-tcp-reality-qq-ES%F0%9F%87%AA%F0%9F%87%B8-4"
+      "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+HqvCfh7gtMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
     }
   ]
 }

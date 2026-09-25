@@ -1,21 +1,36 @@
 {
-  "updated": "2026-09-24T19:42:35.744562",
-  "count": 1,
+  "updated": "2026-09-25T02:54:09.574034",
+  "count": 2,
   "configs": [
     {
       "type": "vmess",
       "address": "oc.imfun.fun",
       "port": "18112",
       "id": "ad45f8f6-0f0a-4cc4-b907-c4582407dc94",
-      "name": "🇯🇵 JP 1",
+      "name": "🇯🇵 JP 2",
       "network": "tcp",
-      "host": "oc.imfun.fun",
+      "host": null,
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1KUPCfh6/wn4e1LTEiLCJhZGQiOiJvYy5pbWZ1bi5mdW4iLCJwb3J0IjoxODExMiwiaWQiOiJhZDQ1ZjhmNi0wZjBhLTRjYzQtYjkwNy1jNDU4MjQwN2RjOTQiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0Ijoib2MuaW1mdW4uZnVuIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUpQ8J+Hr/Cfh7UtMyIsImFkZCI6Im9jLmltZnVuLmZ1biIsInBvcnQiOjE4MTEyLCJpZCI6ImFkNDVmOGY2LTBmMGEtNGNjNC1iOTA3LWM0NTgyNDA3ZGM5NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
       "ip": "168.110.60.104",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1KUPCfh6/wn4e1LTEiLCJhZGQiOiJvYy5pbWZ1bi5mdW4iLCJwb3J0IjoxODExMiwiaWQiOiJhZDQ1ZjhmNi0wZjBhLTRjYzQtYjkwNy1jNDU4MjQwN2RjOTQiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0Ijoib2MuaW1mdW4uZnVuIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUpQ8J+Hr/Cfh7UtMyIsImFkZCI6Im9jLmltZnVuLmZ1biIsInBvcnQiOjE4MTEyLCJpZCI6ImFkNDVmOGY2LTBmMGEtNGNjNC1iOTA3LWM0NTgyNDA3ZGM5NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+    },
+    {
+      "type": "vmess",
+      "address": "64.176.51.214",
+      "port": "23462",
+      "id": "95c5abc1-018d-4628-89a7-25ab9c62ab74",
+      "name": "@filembad",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1KUPCfh6/wn4e1LTQiLCJhZGQiOiI2NC4xNzYuNTEuMjE0IiwicG9ydCI6MjM0NjIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiOTVjNWFiYzEtMDE4ZC00NjI4LTg5YTctMjVhYjljNjJhYjc0IiwicGF0aCI6Ii9hMTUyMDYiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "ip": "64.176.51.214",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1KUPCfh6/wn4e1LTQiLCJhZGQiOiI2NC4xNzYuNTEuMjE0IiwicG9ydCI6MjM0NjIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiOTVjNWFiYzEtMDE4ZC00NjI4LTg5YTctMjVhYjljNjJhYjc0IiwicGF0aCI6Ii9hMTUyMDYiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ=="
     }
   ]
 }
