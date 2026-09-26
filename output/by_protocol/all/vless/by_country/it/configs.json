@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-26T02:57:20.682040",
-  "count": 3,
+  "updated": "2026-09-26T12:37:09.846471",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "31.76.113.202",
-      "port": "8443",
-      "id": "70e46815-9cae-46e5-8224-d35f6bd7897d",
-      "name": "@i10VPN5️⃣",
+      "address": "204.216.216.23",
+      "port": "10086",
+      "id": "9f0285ee-20ca-4953-bcdb-86a920652923",
+      "name": "Free x312 @Outline_Vpn",
       "network": "tcp",
-      "sni": "www.sciencedirect.com",
+      "sni": "",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "security": "none",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.113.202:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#vless-xtls-rprx-vision-tcp-reality-qq-IT%F0%9F%87%AE%F0%9F%87%B9-2",
-      "ip": "31.76.113.202",
+      "fingerprint": "",
+      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-1",
+      "ip": "204.216.216.23",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.113.202:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#vless-xtls-rprx-vision-tcp-reality-qq-IT%F0%9F%87%AE%F0%9F%87%B9-2"
+      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-1"
     },
     {
       "type": "vless",
@@ -36,31 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-7",
+      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-3",
       "ip": "57.131.21.102",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-7"
-    },
-    {
-      "type": "vless",
-      "address": "204.216.216.23",
-      "port": "10086",
-      "id": "9f0285ee-20ca-4953-bcdb-86a920652923",
-      "name": "🇮🇹 IT 8",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&path=%2f#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-9",
-      "ip": "204.216.216.23",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&path=%2f#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-9"
+      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-3"
     }
   ]
 }

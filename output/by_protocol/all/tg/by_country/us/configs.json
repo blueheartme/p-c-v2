@@ -1,66 +1,30 @@
 {
-  "updated": "2026-09-26T02:57:20.689778",
-  "count": 7,
+  "updated": "2026-09-26T12:37:09.909767",
+  "count": 10,
   "configs": [
     {
       "type": "tg",
-      "address": "208.87.242.223",
-      "port": "8443",
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
+      "address": "172.65.113.134",
+      "port": "22",
+      "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
       "name": "",
-      "original": "https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ&@MPT_Proxy",
-      "ip": "208.87.242.223",
+      "original": "https://t.me/proxy?server=172.65.113.134&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "ip": "172.65.113.134",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ&@MPT_Proxy"
+      "rebuilt": "https://t.me/proxy?server=172.65.113.134&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D"
     },
     {
       "type": "tg",
-      "address": "172.65.117.172",
+      "address": "ssh.meow0.co.uk",
       "port": "22",
       "secret": "dd79e344818749bd7ac519130220c25d09",
       "name": "",
-      "original": "https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09",
-      "ip": "172.65.117.172",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09"
-    },
-    {
-      "type": "tg",
-      "address": "172.65.102.115",
-      "port": "22",
-      "secret": "dd79e344818749bd7ac519130220c25d09",
-      "name": "",
-      "original": "https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09",
-      "ip": "172.65.102.115",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09"
-    },
-    {
-      "type": "tg",
-      "address": "akenai.tg",
-      "port": "853",
-      "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-      "name": "",
-      "original": "https://t.me/proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-      "ip": "69.33.168.169",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
-    },
-    {
-      "type": "tg",
-      "address": "ssh2.best-moz.info",
-      "port": "22",
-      "secret": "dd79e344818749bd7ac519130220c25d09",
-      "name": "",
-      "original": "https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09",
+      "original": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09",
       "ip": "172.65.103.171",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+      "rebuilt": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
     },
     {
       "type": "tg",
@@ -76,15 +40,87 @@
     },
     {
       "type": "tg",
-      "address": "ssh.meow0.co.uk",
+      "address": "ssh2.best-moz.info",
       "port": "22",
       "secret": "dd79e344818749bd7ac519130220c25d09",
       "name": "",
-      "original": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09",
+      "original": "https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09",
       "ip": "172.65.103.171",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+      "rebuilt": "https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+    },
+    {
+      "type": "tg",
+      "address": "208.87.242.223",
+      "port": "8443",
+      "secret": "EERighJJvXrFGRMCIMjdCQ",
+      "name": "",
+      "original": "https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "ip": "208.87.242.223",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    },
+    {
+      "type": "tg",
+      "address": "172.65.122.51",
+      "port": "25565",
+      "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+      "ip": "172.65.122.51",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "172.65.103.117",
+      "port": "22",
+      "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
+      "name": "",
+      "original": "https://t.me/proxy?server=172.65.103.117&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "ip": "172.65.103.117",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=172.65.103.117&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D"
+    },
+    {
+      "type": "tg",
+      "address": "172.65.102.115",
+      "port": "22",
+      "secret": "dd79e344818749bd7ac519130220c25d09",
+      "name": "",
+      "original": "https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09",
+      "ip": "172.65.102.115",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+    },
+    {
+      "type": "tg",
+      "address": "172.65.105.80",
+      "port": "25565",
+      "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+      "ip": "172.65.105.80",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "akenai.tg",
+      "port": "853",
+      "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+      "name": "",
+      "original": "https://t.me/proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+      "ip": "68.164.58.124",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
     }
   ]
 }
