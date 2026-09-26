@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-26T12:37:09.783659",
-  "count": 5,
+  "updated": "2026-09-26T18:54:54.816994",
+  "count": 3,
   "configs": [
     {
       "type": "hysteria2",
-      "address": "85.204.107.184",
+      "address": "85.204.107.185",
       "port": "8443",
       "name": "",
-      "original": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1",
-      "ip": "85.204.107.184",
+      "original": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "ip": "85.204.107.185",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+      "rebuilt": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-1"
     },
     {
       "type": "vless",
@@ -27,46 +27,22 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://721bacfe-ff09-4e63-a735-686015bc1351@ro-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&type=xhttp&sni=s3.netavex.com&sid=e0#vless-xhttp-reality-RO%F0%9F%87%B7%F0%9F%87%B4-2",
+      "original": "vless://721bacfe-ff09-4e63-a735-686015bc1351@ro-xh02.tcp-reset-club.net:8443?encryption=none&security=reality&sni=s3.netavex.com&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sid=e0&type=xhttp&mode=stream-one&path=%2Fassets%2Fv2%2Fpkg#vless-xhttp-reality-RO%F0%9F%87%B7%F0%9F%87%B4-2",
       "ip": "37.46.196.85",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://721bacfe-ff09-4e63-a735-686015bc1351@ro-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&type=xhttp&sni=s3.netavex.com&sid=e0#vless-xhttp-reality-RO%F0%9F%87%B7%F0%9F%87%B4-2"
-    },
-    {
-      "type": "ss",
-      "address": "154.46.31.106",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "QFWzCw2uX9B9i6qAYeFBIE",
-      "name": "🇷🇴 RO 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%201",
-      "ip": "154.46.31.106",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%201"
+      "rebuilt": "vless://721bacfe-ff09-4e63-a735-686015bc1351@ro-xh02.tcp-reset-club.net:8443?encryption=none&security=reality&sni=s3.netavex.com&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sid=e0&type=xhttp&mode=stream-one&path=%2Fassets%2Fv2%2Fpkg#vless-xhttp-reality-RO%F0%9F%87%B7%F0%9F%87%B4-2"
     },
     {
       "type": "hysteria2",
-      "address": "85.204.107.185",
+      "address": "85.204.107.184",
       "port": "8443",
       "name": "",
-      "original": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-4",
-      "ip": "85.204.107.185",
+      "original": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-3",
+      "ip": "85.204.107.184",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-4"
-    },
-    {
-      "type": "hysteria2",
-      "address": "85.204.107.172",
-      "port": "8443",
-      "name": "",
-      "original": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-5",
-      "ip": "85.204.107.172",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-5"
+      "rebuilt": "hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?security=tls&insecure=0&sni=hopp-romania-new.roxa.org#hysteria2-udp-RO%F0%9F%87%B7%F0%9F%87%B4-3"
     }
   ]
 }

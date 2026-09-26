@@ -1,58 +1,19 @@
 {
-  "updated": "2026-09-26T12:37:09.891303",
-  "count": 6,
+  "updated": "2026-09-26T18:54:54.896811",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
-      "address": "149.22.95.183",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "🇨🇦 CA 3",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%203",
-      "ip": "149.22.95.183",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%203"
-    },
-    {
-      "type": "ss",
-      "address": "15.235.75.71",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "FD3rCuOsxOay",
-      "name": "@i10VPN³",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%C2%B3",
-      "ip": "15.235.75.71",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%C2%B3"
-    },
-    {
-      "type": "ss",
-      "address": "51.222.12.127",
-      "port": "445",
+      "address": "51.222.155.113",
+      "port": "5601",
       "method": "aes-256-gcm",
-      "password": "zDNVedRFPQexG9v",
-      "name": "@i10VPN🏍️",
-      "original": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%F0%9F%8F%8D%EF%B8%8F",
-      "ip": "51.222.12.127",
+      "password": "Y6R9pAtvxxzmGC",
+      "name": "🇨🇦 CA 9",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%f0%9f%87%a8%f0%9f%87%a6%20CA%209",
+      "ip": "51.222.155.113",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%F0%9F%8F%8D%EF%B8%8F"
-    },
-    {
-      "type": "ss",
-      "address": "142.4.216.225",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "mrs2e9a",
-      "name": "🇨🇦 CA 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcnMyZTlh@142.4.216.225:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201",
-      "ip": "142.4.216.225",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcnMyZTlh@142.4.216.225:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%f0%9f%87%a8%f0%9f%87%a6%20CA%209"
     },
     {
       "type": "ss",
@@ -60,25 +21,51 @@
       "port": "9443",
       "method": "aes-256-gcm",
       "password": "eveaaTOb8ji8yntw2Z9yWUG0d6Ir8Ld8m3ymH8THdC5egiTH1mXCiBc0Skr7FibH",
-      "name": "برای اتصال دائمی جوین شو🥨 TelegramID ⌲Express_freevpn 🪩",
-      "original": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A5%A8%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+      "name": "🇨🇦 CA 3",
+      "original": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA==@185.156.47.97:9443#%f0%9f%87%a8%f0%9f%87%a6%20CA%203",
       "ip": "185.156.47.97",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A5%A8%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA==@185.156.47.97:9443#%f0%9f%87%a8%f0%9f%87%a6%20CA%203"
     },
     {
       "type": "ss",
-      "address": "51.222.141.125",
-      "port": "445",
-      "method": "aes-256-gcm",
-      "password": "zDNVedRFPQexG9v",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#@meliproxyy",
-      "ip": "51.222.141.125",
+      "address": "15.235.75.71",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "FD3rCuOsxOay",
+      "name": "🇨🇦 CA 8",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#%f0%9f%87%a8%f0%9f%87%a6%20CA%208",
+      "ip": "15.235.75.71",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#@meliproxyy"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#%f0%9f%87%a8%f0%9f%87%a6%20CA%208"
+    },
+    {
+      "type": "ss",
+      "address": "142.4.216.225",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "mrs2e9a",
+      "name": "🇨🇦 CA 4",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcnMyZTlh@142.4.216.225:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%204",
+      "ip": "142.4.216.225",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcnMyZTlh@142.4.216.225:443#%f0%9f%87%a8%f0%9f%87%a6%20CA%204"
+    },
+    {
+      "type": "ss",
+      "address": "51.222.200.165",
+      "port": "5000",
+      "method": "aes-256-gcm",
+      "password": "Y6R9pAtvxxzmGC",
+      "name": "🇨🇦 CA 6",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#%f0%9f%87%a8%f0%9f%87%a6%20CA%206",
+      "ip": "51.222.200.165",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#%f0%9f%87%a8%f0%9f%87%a6%20CA%206"
     }
   ]
 }
