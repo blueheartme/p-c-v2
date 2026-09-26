@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T19:45:46.101383",
-  "count": 1,
+  "updated": "2026-09-26T02:57:20.707911",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "2.27.109.179",
+      "port": "45464",
+      "password": "XuMweB2PWs",
+      "name": "🇭🇰 HK 3",
+      "sni": "2.27.109.179.sslip.io",
+      "host": "",
+      "original": "trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179.sslip.io&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "2.27.109.179",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179.sslip.io&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
     {
       "type": "trojan",
       "address": "219.79.214.159",
@@ -10,11 +24,11 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-8",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-8"
     }
   ]
 }

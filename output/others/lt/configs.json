@@ -1,33 +1,7 @@
 {
-  "updated": "2026-09-25T19:45:45.935330",
-  "count": 7,
+  "updated": "2026-09-26T02:57:20.596415",
+  "count": 4,
   "configs": [
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9002",
-      "method": "aes-256-cfb",
-      "password": "b8KkNDjEd5QqFyRm",
-      "name": "🇱🇹 LT 2",
-      "original": "ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@195.238.126.20:9002#%f0%9f%87%b1%f0%9f%87%b9%20LT%202",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@195.238.126.20:9002#%f0%9f%87%b1%f0%9f%87%b9%20LT%202"
-    },
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9086",
-      "method": "aes-256-cfb",
-      "password": "37Z4TFCYhfxcpc9Q",
-      "name": "🇱🇹 LT 4",
-      "original": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%204",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%204"
-    },
     {
       "type": "ss",
       "address": "195.238.126.20",
@@ -42,17 +16,24 @@
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%203"
     },
     {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9008",
-      "method": "aes-256-cfb",
-      "password": "y9VURyNzJWNRYEGQ",
-      "name": "🇱🇹 LT 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#%f0%9f%87%b1%f0%9f%87%b9%20LT%201",
-      "ip": "195.238.126.20",
+      "type": "vless",
+      "address": "181.214.147.216",
+      "port": "443",
+      "id": "8e403675-d020-4801-9520-9cba4bbfda0e",
+      "name": "@i10VPN🎎",
+      "network": "tcp",
+      "sni": "lith.2clash.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-2",
+      "ip": "181.214.147.216",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#%f0%9f%87%b1%f0%9f%87%b9%20LT%201"
+      "rebuilt": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     },
     {
       "type": "ss",
@@ -70,35 +51,15 @@
     {
       "type": "ss",
       "address": "195.238.126.20",
-      "port": "9068",
+      "port": "9002",
       "method": "aes-256-cfb",
-      "password": "mwgRg9hRq3b4Qnwb",
-      "name": "🇱🇹 LT 6",
-      "original": "ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%f0%9f%87%b1%f0%9f%87%b9%20LT%206",
+      "password": "b8KkNDjEd5QqFyRm",
+      "name": "🇱🇹 LT 2",
+      "original": "ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@195.238.126.20:9002#%f0%9f%87%b1%f0%9f%87%b9%20LT%202",
       "ip": "195.238.126.20",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%f0%9f%87%b1%f0%9f%87%b9%20LT%206"
-    },
-    {
-      "type": "vless",
-      "address": "181.214.147.216",
-      "port": "443",
-      "id": "8e403675-d020-4801-9520-9cba4bbfda0e",
-      "name": "@i10VPN🎎",
-      "network": "tcp",
-      "sni": "lith.2clash.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-7",
-      "ip": "181.214.147.216",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-7"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@195.238.126.20:9002#%f0%9f%87%b1%f0%9f%87%b9%20LT%202"
     }
   ]
 }

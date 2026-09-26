@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T19:45:46.044129",
-  "count": 3,
+  "updated": "2026-09-26T02:57:20.679734",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -24,6 +24,26 @@
     },
     {
       "type": "vless",
+      "address": "5.157.10.250",
+      "port": "443",
+      "id": "f495298f-2bdb-4fd8-9ac9-5dd33d1b482a",
+      "name": "برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "swebz.loozerp.wiki",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.157.10.250:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&sid=6aa2d2e950441a9a#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "ip": "5.157.10.250",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.157.10.250:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&sid=6aa2d2e950441a9a#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+    },
+    {
+      "type": "vless",
       "address": "5.157.10.148",
       "port": "443",
       "id": "4bdeee92-97e8-414d-bef6-ec1d5e2ab73b",
@@ -44,23 +64,23 @@
     },
     {
       "type": "vless",
-      "address": "app16.betust.net",
-      "port": "443",
-      "id": "026f58a9-b36e-4204-8f8d-54c5374163da",
-      "name": "@i10VPN⁴",
-      "network": "tcp",
-      "sni": "app16.betust.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "address": "202.181.177.8",
+      "port": "8443",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "Free x352 @Outline_Vpn",
+      "network": "ws",
+      "sni": "cdn8848.776676.xyz",
+      "host": "cdn8848.776676.xyz",
+      "security": "tls",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://026f58a9-b36e-4204-8f8d-54c5374163da@app16.betust.net:443?security=reality&encryption=none&pbk=KLLLqRfvP1K9ul0JfmHAaLS4EtUfj0gbngRgjsOWMB0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app16.betust.net&sid=ff9ec6f5#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-8",
-      "ip": "88.216.130.205",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=%2Fchannels%2Fact&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-9",
+      "ip": "202.181.177.8",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://026f58a9-b36e-4204-8f8d-54c5374163da@app16.betust.net:443?security=reality&encryption=none&pbk=KLLLqRfvP1K9ul0JfmHAaLS4EtUfj0gbngRgjsOWMB0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app16.betust.net&sid=ff9ec6f5#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-8"
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=%2Fchannels%2Fact&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-9"
     }
   ]
 }

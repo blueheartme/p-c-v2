@@ -1,40 +1,26 @@
 {
-  "updated": "2026-09-25T19:45:45.994796",
-  "count": 2,
+  "updated": "2026-09-26T02:57:20.610755",
+  "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "212.183.88.136",
-      "port": "443",
-      "password": "humanity",
-      "name": "@i10VPN⁸",
-      "sni": "www.calmlunch.com",
-      "host": "www.calmlunch.com",
-      "original": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "212.183.88.136",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
-    },
-    {
       "type": "vless",
-      "address": "45.86.245.107",
-      "port": "5865",
-      "id": "ce230b9c-0531-40da-bc3f-f27a8e059db1",
-      "name": "برای اتصال دائمی جوین شو🦠 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "ru.vkroom-it-service.xyz",
-      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "address": "132.243.203.243",
+      "port": "8443",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "Free x407 @Outline_Vpn",
+      "network": "ws",
+      "sni": "cdn8848.776676.xyz",
+      "host": "cdn8848.776676.xyz",
+      "security": "tls",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "safari",
-      "original": "vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@45.86.245.107:5865?security=reality&encryption=none&pbk=1UlHWXQ11dMmBYHq7XYsyKnfPVGTh9UssmiJE_zRnjI&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=ru.vkroom-it-service.xyz&sid=a4f7c2e91b6d8035#vless-xtls-rprx-vision-tcp-reality-safari-AT%F0%9F%87%A6%F0%9F%87%B9-2",
-      "ip": "45.86.245.107",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "132.243.203.243",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@45.86.245.107:5865?security=reality&encryption=none&pbk=1UlHWXQ11dMmBYHq7XYsyKnfPVGTh9UssmiJE_zRnjI&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=ru.vkroom-it-service.xyz&sid=a4f7c2e91b6d8035#vless-xtls-rprx-vision-tcp-reality-safari-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }
