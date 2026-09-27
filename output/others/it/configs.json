@@ -1,19 +1,45 @@
 {
-  "updated": "2026-09-26T18:54:54.813611",
-  "count": 5,
+  "updated": "2026-09-27T03:00:25.332258",
+  "count": 6,
   "configs": [
     {
       "type": "ss",
       "address": "91.201.65.122",
-      "port": "9070",
+      "port": "9059",
       "method": "aes-256-cfb",
-      "password": "bf7v334KKDV3YDhH",
-      "name": "🇮🇹 IT 2",
-      "original": "ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@91.201.65.122:9070#%f0%9f%87%ae%f0%9f%87%b9%20IT%202",
+      "password": "9XwYyZsK8SNzQDtY",
+      "name": "🇮🇹 IT 6",
+      "original": "ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@91.201.65.122:9059#%f0%9f%87%ae%f0%9f%87%b9%20IT%206",
       "ip": "91.201.65.122",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@91.201.65.122:9070#%f0%9f%87%ae%f0%9f%87%b9%20IT%202"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@91.201.65.122:9059#%f0%9f%87%ae%f0%9f%87%b9%20IT%206"
+    },
+    {
+      "type": "ss",
+      "address": "91.201.65.122",
+      "port": "9002",
+      "method": "aes-256-cfb",
+      "password": "b8KkNDjEd5QqFyRm",
+      "name": "🇮🇹 IT 7",
+      "original": "ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@91.201.65.122:9002#%f0%9f%87%ae%f0%9f%87%b9%20IT%207",
+      "ip": "91.201.65.122",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@91.201.65.122:9002#%f0%9f%87%ae%f0%9f%87%b9%20IT%207"
+    },
+    {
+      "type": "ss",
+      "address": "91.201.65.122",
+      "port": "9039",
+      "method": "aes-256-cfb",
+      "password": "qYEN5HX4JKeVCdEC",
+      "name": "🇮🇹 IT 5",
+      "original": "ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@91.201.65.122:9039#%f0%9f%87%ae%f0%9f%87%b9%20IT%205",
+      "ip": "91.201.65.122",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@91.201.65.122:9039#%f0%9f%87%ae%f0%9f%87%b9%20IT%205"
     },
     {
       "type": "ss",
@@ -29,26 +55,6 @@
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@91.201.65.122:9053#%f0%9f%87%ae%f0%9f%87%b9%20IT%208"
     },
     {
-      "type": "vless",
-      "address": "204.216.216.23",
-      "port": "10086",
-      "id": "9f0285ee-20ca-4953-bcdb-86a920652923",
-      "name": "Free x312 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-3",
-      "ip": "204.216.216.23",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-3"
-    },
-    {
       "type": "ss",
       "address": "91.201.65.122",
       "port": "9065",
@@ -62,17 +68,19 @@
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6UGVIU0htNVNxRWpCdUVYRQ==@91.201.65.122:9065#%f0%9f%87%ae%f0%9f%87%b9%20IT%203"
     },
     {
-      "type": "ss",
-      "address": "91.201.65.122",
-      "port": "9059",
-      "method": "aes-256-cfb",
-      "password": "9XwYyZsK8SNzQDtY",
-      "name": "🇮🇹 IT 6",
-      "original": "ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@91.201.65.122:9059#%f0%9f%87%ae%f0%9f%87%b9%20IT%206",
-      "ip": "91.201.65.122",
+      "type": "vmess",
+      "address": "89.41.172.85",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "@i10VPN⁵",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI4OS40MS4xNzIuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVTwn4eu8J+HuS02Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "ip": "89.41.172.85",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@91.201.65.122:9059#%f0%9f%87%ae%f0%9f%87%b9%20IT%206"
+      "rebuilt": "vmess://eyJhZGQiOiI4OS40MS4xNzIuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVTwn4eu8J+HuS02Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }

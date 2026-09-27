@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-26T18:54:54.837435",
-  "count": 1,
+  "updated": "2026-09-27T03:00:25.413806",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "131.123.42.16",
+      "port": "443",
+      "id": "f495298f-2bdb-4fd8-9ac9-5dd33d1b482a",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "bolgarka.drop0chka.work",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@131.123.42.16:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bolgarka.drop0chka.work&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-BG%F0%9F%87%A7%F0%9F%87%AC-1",
+      "ip": "131.123.42.16",
+      "country": "BG",
+      "cdn": null,
+      "rebuilt": "vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@131.123.42.16:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bolgarka.drop0chka.work&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-BG%F0%9F%87%A7%F0%9F%87%AC-1"
+    },
     {
       "type": "ss",
       "address": "213.183.63.60",
@@ -14,6 +34,39 @@
       "country": "BG",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@213.183.63.60:9061#%f0%9f%87%a7%f0%9f%87%ac%20BG%201"
+    },
+    {
+      "type": "ss",
+      "address": "213.183.63.60",
+      "port": "9085",
+      "method": "aes-256-cfb",
+      "password": "9ej82EKe2gq7gLAM",
+      "name": "🇧🇬 BG 3",
+      "original": "ss://YWVzLTI1Ni1jZmI6OWVqODJFS2UyZ3E3Z0xBTQ==@213.183.63.60:9085#%f0%9f%87%a7%f0%9f%87%ac%20BG%203",
+      "ip": "213.183.63.60",
+      "country": "BG",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6OWVqODJFS2UyZ3E3Z0xBTQ==@213.183.63.60:9085#%f0%9f%87%a7%f0%9f%87%ac%20BG%203"
+    },
+    {
+      "type": "vless",
+      "address": "helixgaming.ir",
+      "port": "80",
+      "id": "4bab9727-7075-4260-a30b-369b3e54ee14",
+      "name": "🇹🇷 • 𝗙𝗿𝗲𝗲 | @ConfigTen",
+      "network": "ws",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://4bab9727-7075-4260-a30b-369b3e54ee14@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-BG%F0%9F%87%A7%F0%9F%87%AC-4",
+      "ip": "89.251.8.205",
+      "country": "BG",
+      "cdn": null,
+      "rebuilt": "vless://4bab9727-7075-4260-a30b-369b3e54ee14@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-BG%F0%9F%87%A7%F0%9F%87%AC-4"
     }
   ]
 }
