@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T03:00:25.545720",
-  "count": 3,
+  "updated": "2026-09-27T13:28:06.746430",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
@@ -8,31 +8,15 @@
       "port": "443",
       "password": "humanity",
       "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "sni": "www.pleadcourt.org",
-      "host": "www.pleadcourt.org",
-      "original": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "sni": "www.ignitelimit.com",
+      "host": "www.ignitelimit.com",
+      "original": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.ignitelimit.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
       "ip": "188.114.97.6",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
-    },
-    {
-      "type": "trojan",
-      "address": "188.114.97.7",
-      "port": "443",
-      "password": "humanity",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "sni": "www.ignitelimit.com",
-      "host": "",
-      "original": "trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6",
-      "ip": "188.114.97.7",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6"
+      "rebuilt": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.ignitelimit.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     },
     {
       "type": "trojan",
@@ -42,13 +26,45 @@
       "name": "@i10VPN⁹",
       "sni": "www.calmlunch.com",
       "host": "www.calmlunch.com",
-      "original": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-29",
+      "original": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
       "ip": "188.114.98.0",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-29"
+      "rebuilt": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+    },
+    {
+      "type": "trojan",
+      "address": "188.114.97.7",
+      "port": "443",
+      "password": "humanity",
+      "name": "Channel : @proxy_kafee",
+      "sni": "www.ignitelimit.com",
+      "host": "",
+      "original": "trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-18",
+      "ip": "188.114.97.7",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-18"
+    },
+    {
+      "type": "trojan",
+      "address": "188.114.96.8",
+      "port": "443",
+      "password": "%54%65%6c%65%67%72%61%6d%5f%68%65%61%6c%65%72%5f%63%6f%6e%66%69%67",
+      "name": "@meliproxyy",
+      "sni": "y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev",
+      "host": "y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev",
+      "original": "trojan://%54%65%6c%65%67%72%61%6d%5f%68%65%61%6c%65%72%5f%63%6f%6e%66%69%67@188.114.96.8:443?security=tls&sni=y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev&path=%2Ftr%2F1nWXnOaq1ajP7PKxbRS7Sdck48oy%3Fed%3D2560#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-26",
+      "ip": "188.114.96.8",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://%54%65%6c%65%67%72%61%6d%5f%68%65%61%6c%65%72%5f%63%6f%6e%66%69%67@188.114.96.8:443?security=tls&sni=y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev&path=%2Ftr%2F1nWXnOaq1ajP7PKxbRS7Sdck48oy%3Fed%3D2560#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-26"
     }
   ]
 }
