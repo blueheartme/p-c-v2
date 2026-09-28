@@ -1,19 +1,52 @@
 {
-  "updated": "2026-09-28T02:59:02.495882",
-  "count": 1,
+  "updated": "2026-09-28T16:21:01.602209",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "admin.betust.net",
+      "port": "443",
+      "id": "94877739-3af6-4fbb-85b6-ca6fe86c7696",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "admin.betust.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "random",
+      "original": "vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@admin.betust.net:443?security=reality&encryption=none&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=admin.betust.net&sid=3e137406#vless-xtls-rprx-vision-tcp-reality-random-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "88.216.127.171",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@admin.betust.net:443?security=reality&encryption=none&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=admin.betust.net&sid=3e137406#vless-xtls-rprx-vision-tcp-reality-random-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+    },
     {
       "type": "ss",
       "address": "195.238.126.20",
-      "port": "9008",
+      "port": "9011",
       "method": "aes-256-cfb",
-      "password": "y9VURyNzJWNRYEGQ",
-      "name": "🇱🇹 LT 4",
-      "original": "ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#%f0%9f%87%b1%f0%9f%87%b9%20LT%204",
+      "password": "M3t2ZEQcMGRWBjRa",
+      "name": "🇱🇹 LT 6",
+      "original": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#%f0%9f%87%b1%f0%9f%87%b9%20LT%206",
       "ip": "195.238.126.20",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#%f0%9f%87%b1%f0%9f%87%b9%20LT%204"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#%f0%9f%87%b1%f0%9f%87%b9%20LT%206"
+    },
+    {
+      "type": "ss",
+      "address": "195.238.126.20",
+      "port": "9045",
+      "method": "aes-256-cfb",
+      "password": "Lp27rqyJq72bZsqX",
+      "name": "🇱🇹 LT 5",
+      "original": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%205",
+      "ip": "195.238.126.20",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%205"
     }
   ]
 }

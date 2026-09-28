@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-28T02:59:02.538825",
-  "count": 7,
+  "updated": "2026-09-28T16:21:01.692020",
+  "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "158.173.221.214",
+      "port": "11001",
+      "method": "chacha20-ietf-poly1305",
+      "password": "c58d16e593d44f42",
+      "name": "🇧🇪 BE 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#%f0%9f%87%a7%f0%9f%87%aa%20BE%201",
+      "ip": "158.173.221.214",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#%f0%9f%87%a7%f0%9f%87%aa%20BE%201"
+    },
     {
       "type": "ss",
       "address": "57.129.140.88",
@@ -17,29 +30,16 @@
     },
     {
       "type": "ss",
-      "address": "141.98.101.182",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "United Kingdom M247",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
-      "ip": "141.98.101.182",
+      "address": "94.156.250.148",
+      "port": "7001",
+      "method": "aes-256-gcm",
+      "password": "RexnBgU7EV5ADxG",
+      "name": "🇬🇧 GB 6",
+      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%f0%9f%87%ac%f0%9f%87%a7%20GB%206",
+      "ip": "94.156.250.148",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
-    },
-    {
-      "type": "ss",
-      "address": "51.77.225.200",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "zRZNBszYyWo5",
-      "name": "🇬🇧 GB 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#%f0%9f%87%ac%f0%9f%87%a7%20GB%201",
-      "ip": "51.77.225.200",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#%f0%9f%87%ac%f0%9f%87%a7%20GB%201"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%f0%9f%87%ac%f0%9f%87%a7%20GB%206"
     },
     {
       "type": "ss",
@@ -56,42 +56,16 @@
     },
     {
       "type": "ss",
-      "address": "82.110.60.9",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "🇬🇧 GB 5",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%f0%9f%87%ac%f0%9f%87%a7%20GB%205",
-      "ip": "82.110.60.9",
+      "address": "51.38.71.51",
+      "port": "2083",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:2tFqykGqZ101XW11f6iRiERnPycFAjjYq0y2zUYhKho=",
+      "name": "2|@ConfingV2RaayNG",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#2|@ConfingV2RaayNG",
+      "ip": "51.38.71.51",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%f0%9f%87%ac%f0%9f%87%a7%20GB%205"
-    },
-    {
-      "type": "ss",
-      "address": "158.173.221.214",
-      "port": "11001",
-      "method": "chacha20-ietf-poly1305",
-      "password": "c58d16e593d44f42",
-      "name": "🇧🇪 BE 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#%f0%9f%87%a7%f0%9f%87%aa%20BE%201",
-      "ip": "158.173.221.214",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#%f0%9f%87%a7%f0%9f%87%aa%20BE%201"
-    },
-    {
-      "type": "ss",
-      "address": "149.102.149.207",
-      "port": "80",
-      "method": "aes-256-gcm",
-      "password": "LXchLsIwtCeUAUgu",
-      "name": "🇬🇧 GB 2",
-      "original": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:80#%f0%9f%87%ac%f0%9f%87%a7%20GB%202",
-      "ip": "149.102.149.207",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:80#%f0%9f%87%ac%f0%9f%87%a7%20GB%202"
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#2|@ConfingV2RaayNG"
     }
   ]
 }

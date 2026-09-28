@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-28T02:59:02.528667",
-  "count": 4,
+  "updated": "2026-09-28T16:21:01.641151",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "201.7.25.126",
-      "port": "24446",
-      "id": "b229d38c-35ec-4a0b-9c86-8fceba243d6c",
-      "name": "Free x559 @Outline_Vpn",
-      "network": "grpc",
-      "sni": "spry-jolt.cdn.cachefleet.com",
-      "host": "/?TELEGRAM--MARAMBASHI--MARAMBASHI",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "random",
-      "original": "vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@201.7.25.126:24446?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=esOi15BFVX7pHyci7GQp8_FVlY2EmjSF2-0pPu4lIlk&fp=random&type=grpc&serviceName=telegram-bridge&sni=spry-jolt.cdn.cachefleet.com&sid=defeaa98406c7bdf#vless-grpc-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-1",
-      "ip": "201.7.25.126",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@201.7.25.126:24446?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=esOi15BFVX7pHyci7GQp8_FVlY2EmjSF2-0pPu4lIlk&fp=random&type=grpc&serviceName=telegram-bridge&sni=spry-jolt.cdn.cachefleet.com&sid=defeaa98406c7bdf#vless-grpc-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-1"
-    },
     {
       "type": "vless",
       "address": "150.241.101.80",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "original": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1",
       "ip": "150.241.101.80",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-2"
+      "rebuilt": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "201.7.25.208",
+      "port": "443",
+      "id": "7b571245-ec1e-44b1-bb5a-f7c61157d2c4",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "network": "tcp",
+      "sni": "ee.api-yandex.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://7b571245-ec1e-44b1-bb5a-f7c61157d2c4@201.7.25.208:443?security=reality&encryption=none&pbk=VfyS9hoKlYU2l3oZ-T6RN2JzjWgtrIC7-VjseHCeBGE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ee.api-yandex.net&sid=0f4dacf33211e04f#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "ip": "201.7.25.208",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://7b571245-ec1e-44b1-bb5a-f7c61157d2c4@201.7.25.208:443?security=reality&encryption=none&pbk=VfyS9hoKlYU2l3oZ-T6RN2JzjWgtrIC7-VjseHCeBGE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ee.api-yandex.net&sid=0f4dacf33211e04f#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%87%AA%F0%9F%87%AA-2"
     },
     {
       "type": "vless",
@@ -61,26 +61,6 @@
       "country": "EE",
       "cdn": null,
       "rebuilt": "vless://e60bc99b-6630-4799-af84-f90ebdc643b6@94.183.170.65:8081?security=none&encryption=none&type=ws&host=hys2.arkonsoft.top&path=%2fws%2fgenerate#vless-ws-EE%F0%9F%87%AA%F0%9F%87%AA-3"
-    },
-    {
-      "type": "vless",
-      "address": "188.255.236.213",
-      "port": "443",
-      "id": "2a12bb81-f3a3-41bb-99ab-36febf676b4a",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "network": "tcp",
-      "sni": "cosmic-aurora.cdn.cachefleet.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-4",
-      "ip": "188.255.236.213",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%87%AA%F0%9F%87%AA-4"
     }
   ]
 }
