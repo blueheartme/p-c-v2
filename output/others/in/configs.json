@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T19:27:17.877983",
-  "count": 2,
+  "updated": "2026-09-28T02:59:02.484149",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,6 +24,26 @@
     },
     {
       "type": "vless",
+      "address": "5.253.30.99",
+      "port": "40443",
+      "id": "511c1563-2cb6-4064-abc6-a59ee49818a8",
+      "name": "@i10VPN⁹",
+      "network": "tcp",
+      "sni": "deepl.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "5.253.30.99",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+    },
+    {
+      "type": "vless",
       "address": "5.253.29.16",
       "port": "40443",
       "id": "af5eac96-e478-488a-bc8c-45269d7e8847",
@@ -36,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.29.16:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "original": "vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.29.16:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-3",
       "ip": "5.253.29.16",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.29.16:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+      "rebuilt": "vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.29.16:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     }
   ]
 }
