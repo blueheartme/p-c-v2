@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-29T14:31:19.939301",
-  "count": 3,
+  "updated": "2026-09-29T20:23:27.572747",
+  "count": 6,
   "configs": [
-    {
-      "type": "vless",
-      "address": "151.101.240.148",
-      "port": "80",
-      "id": "4ca49915-aee9-41c4-bfa5-1555c7447faa",
-      "name": "چنل کانفیگ های رایگان @JOFAVPN",
-      "network": "ws",
-      "sni": "",
-      "host": "jabaat.global.ssl.fastly.net",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://4ca49915-aee9-41c4-bfa5-1555c7447faa@151.101.240.148:80?path=%2F&security=none&encryption=none&host=jabaat.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%87%AE%F0%9F%87%B9-1",
-      "ip": "151.101.240.148",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://4ca49915-aee9-41c4-bfa5-1555c7447faa@151.101.240.148:80?path=%2F&security=none&encryption=none&host=jabaat.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%87%AE%F0%9F%87%B9-1"
-    },
     {
       "type": "vless",
       "address": "milan.adaspoloandco.com",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-2",
+      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-1",
       "ip": "57.131.21.102",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-2"
+      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "151.101.240.148",
+      "port": "80",
+      "id": "4ca49915-aee9-41c4-bfa5-1555c7447faa",
+      "name": "چنل کانفیگ های رایگان @JOFAVPN",
+      "network": "ws",
+      "sni": "",
+      "host": "jabaat.global.ssl.fastly.net",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://4ca49915-aee9-41c4-bfa5-1555c7447faa@151.101.240.148:80?path=%2F&security=none&encryption=none&host=jabaat.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%87%AE%F0%9F%87%B9-2",
+      "ip": "151.101.240.148",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://4ca49915-aee9-41c4-bfa5-1555c7447faa@151.101.240.148:80?path=%2F&security=none&encryption=none&host=jabaat.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%87%AE%F0%9F%87%B9-2"
     },
     {
       "type": "ss",
@@ -54,6 +54,47 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%f0%9f%87%ba%f0%9f%87%a6%20UA%201"
+    },
+    {
+      "type": "ss",
+      "address": "91.201.65.122",
+      "port": "9039",
+      "method": "aes-256-cfb",
+      "password": "qYEN5HX4JKeVCdEC",
+      "name": "🇮🇹 IT 2",
+      "original": "ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@91.201.65.122:9039#%f0%9f%87%ae%f0%9f%87%b9%20IT%202",
+      "ip": "91.201.65.122",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@91.201.65.122:9039#%f0%9f%87%ae%f0%9f%87%b9%20IT%202"
+    },
+    {
+      "type": "ss",
+      "address": "132.243.255.3",
+      "port": "40440",
+      "method": "aes-256-gcm",
+      "password": "78235e7dc55e9ad1",
+      "name": "🇮🇹 IT 1",
+      "original": "ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMQ==@132.243.255.3:40440#%f0%9f%87%ae%f0%9f%87%b9%20IT%201",
+      "ip": "132.243.255.3",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMQ==@132.243.255.3:40440#%f0%9f%87%ae%f0%9f%87%b9%20IT%201"
+    },
+    {
+      "type": "vmess",
+      "address": "89.41.172.85",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "@i10VPN⁵",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI4OS40MS4xNzIuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVTwn4eu8J+HuS02Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "ip": "89.41.172.85",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI4OS40MS4xNzIuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVTwn4eu8J+HuS02Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }
