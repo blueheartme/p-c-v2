@@ -1,19 +1,21 @@
 {
-  "updated": "2026-09-28T16:21:01.689191",
-  "count": 2,
+  "updated": "2026-09-29T03:39:18.377135",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "p1tun2.greewebservices.ir",
-      "port": "2060?",
+      "address": "p1tun1.greewebservices.ir",
+      "port": "2050",
       "method": "chacha20-ietf-poly1305",
-      "password": "4LMam2o8Ah_OZkqDdRg-ew",
+      "password": "3Q1UUZhdMJ1Xi4V_348v2g",
       "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0TE1hbTJvOEFoX09aa3FEZFJnLWV3@p1tun2.greewebservices.ir:2060?#@meliproxyy",
-      "ip": "91.108.151.165",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUTFVVVpoZE1KMVhpNFZfMzQ4djJn@p1tun1.greewebservices.ir:2050#@meliproxyy",
+      "ip": "79.175.134.188",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0TE1hbTJvOEFoX09aa3FEZFJnLWV3@p1tun2.greewebservices.ir:2060?#@meliproxyy"
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUTFVVVpoZE1KMVhpNFZfMzQ4djJn@p1tun1.greewebservices.ir:2050#@meliproxyy"
     },
     {
       "type": "ss",
@@ -29,6 +31,21 @@
       "tested": true,
       "working": true,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVDM2dHNpUGZuZDBucDVraEpxanlR@p2tun1.greewebservices.ir:1010#Free%20x344%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "england1.parsiweb.sbs",
+      "port": "15002",
+      "method": "chacha20-ietf-poly1305",
+      "password": "qBFCg5INNXSIjvFzx5Gt8g",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQkZDZzVJTk5YU0lqdkZ6eDVHdDhn@england1.parsiweb.sbs:15002#@meliproxyy",
+      "ip": "62.60.219.20",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQkZDZzVJTk5YU0lqdkZ6eDVHdDhn@england1.parsiweb.sbs:15002#@meliproxyy"
     }
   ]
 }

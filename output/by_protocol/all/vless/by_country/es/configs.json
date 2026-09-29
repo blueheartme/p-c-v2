@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-27T19:27:17.946720",
+  "updated": "2026-09-29T03:39:18.343017",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "152.114.195.163",
-      "port": "8443",
-      "id": "c18b978e-1c4e-415c-8bea-07942b563a64",
-      "name": "@v2raybaaz",
-      "network": "ws",
-      "sni": "shuma.ccwu.cc",
-      "host": "shuma.ccwu.cc",
-      "security": "tls",
-      "flow": "",
+      "address": "185.232.205.66",
+      "port": "443",
+      "id": "5dff1842-c02f-4dd4-b1ad-2e597b99dc31",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "sp66.mech-pro.online",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%252F&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1",
-      "ip": "152.114.195.163",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@185.232.205.66:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sp66.mech-pro.online&sid=16e0f049#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "ip": "185.232.205.66",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?path=%252F&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@185.232.205.66:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sp66.mech-pro.online&sid=16e0f049#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-3"
     }
   ]
 }

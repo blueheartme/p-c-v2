@@ -1,19 +1,26 @@
 {
-  "updated": "2026-09-21T14:45:45.670267",
+  "updated": "2026-09-29T03:39:18.281150",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "130.49.189.158",
-      "port": "43558",
-      "method": "chacha20-ietf-poly1305",
-      "password": "5dLyPJpSV+QyXFRj+S0dt6xFKHxtcXEkRO/TzJGzryU=",
-      "name": "🇦🇱 AL 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZEx5UEpwU1YrUXlYRlJqK1MwZHQ2eEZLSHh0Y1hFa1JPL1R6Skd6cnlVPQ==@130.49.189.158:43558#%f0%9f%87%a6%f0%9f%87%b1%20AL%201",
-      "ip": "130.49.189.158",
+      "type": "vless",
+      "address": "31.41.33.28",
+      "port": "443",
+      "id": "5dff1842-c02f-4dd4-b1ad-2e597b99dc31",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "cdn.oculon.online",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@31.41.33.28:443?security=reality&encryption=none&pbk=LoNdOt7VfAYaPYIIZVqRb8ZkZf1PwKZOiJ93kn5SlTM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.oculon.online&sid=503f1935#vless-xtls-rprx-vision-tcp-reality-firefox-AL%F0%9F%87%A6%F0%9F%87%B1-1",
+      "ip": "31.41.33.28",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZEx5UEpwU1YrUXlYRlJqK1MwZHQ2eEZLSHh0Y1hFa1JPL1R6Skd6cnlVPQ==@130.49.189.158:43558#%f0%9f%87%a6%f0%9f%87%b1%20AL%201"
+      "rebuilt": "vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@31.41.33.28:443?security=reality&encryption=none&pbk=LoNdOt7VfAYaPYIIZVqRb8ZkZf1PwKZOiJ93kn5SlTM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.oculon.online&sid=503f1935#vless-xtls-rprx-vision-tcp-reality-firefox-AL%F0%9F%87%A6%F0%9F%87%B1-1"
     }
   ]
 }
