@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-14T02:48:58.016781",
+  "updated": "2026-09-29T14:31:20.011378",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "157.137.209.135",
+      "address": "157.137.224.224",
       "port": "62145",
       "id": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
-      "name": "@meliproxyy",
+      "name": "🇨🇴 CO 1",
       "network": "tcp",
       "sni": "",
       "host": "",
-      "security": "",
+      "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.209.135:62145?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1",
-      "ip": "157.137.209.135",
+      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.224.224:62145?security=none&encryption=none&type=tcp&headerType=none&path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1",
+      "ip": "157.137.224.224",
       "country": "CO",
       "cdn": null,
-      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.209.135:62145?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1"
+      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.224.224:62145?security=none&encryption=none&type=tcp&headerType=none&path=%2f#vless-tcp-CO%F0%9F%87%A8%F0%9F%87%B4-1"
     }
   ]
 }

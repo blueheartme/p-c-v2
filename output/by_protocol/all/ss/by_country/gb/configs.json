@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-29T03:39:18.374548",
-  "count": 3,
+  "updated": "2026-09-29T14:31:20.023126",
+  "count": 6,
   "configs": [
+    {
+      "type": "ss",
+      "address": "149.102.149.207",
+      "port": "443",
+      "method": "aes-256-gcm",
+      "password": "LXchLsIwtCeUAUgu",
+      "name": "🇬🇧 GB 4",
+      "original": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%204",
+      "ip": "149.102.149.207",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%204"
+    },
     {
       "type": "ss",
       "address": "51.38.71.51",
@@ -14,6 +27,32 @@
       "country": "GB",
       "cdn": null,
       "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#2|@ConfingV2RaayNG"
+    },
+    {
+      "type": "ss",
+      "address": "129.151.66.142",
+      "port": "61312",
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "+Nt5IdazH1gH7Cg7OvFoDX8Rx3koZi3YnHbunnlAuUM=",
+      "name": "@filembad",
+      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K050NUlkYXpIMWdIN0NnN092Rm9EWDhSeDNrb1ppM1luSGJ1bm5sQXVVTT0@129.151.66.142:61312#%40filembad",
+      "ip": "129.151.66.142",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K050NUlkYXpIMWdIN0NnN092Rm9EWDhSeDNrb1ppM1luSGJ1bm5sQXVVTT0@129.151.66.142:61312#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "82.145.63.24",
+      "port": "18669",
+      "method": "aes-128-gcm",
+      "password": "8b073504328da6a5db0a4472ec02168b",
+      "name": "@filembad",
+      "original": "ss://YWVzLTEyOC1nY206OGIwNzM1MDQzMjhkYTZhNWRiMGE0NDcyZWMwMjE2OGI@82.145.63.24:18669#%40filembad",
+      "ip": "82.145.63.24",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206OGIwNzM1MDQzMjhkYTZhNWRiMGE0NDcyZWMwMjE2OGI@82.145.63.24:18669#%40filembad"
     },
     {
       "type": "ss",
@@ -30,16 +69,16 @@
     },
     {
       "type": "ss",
-      "address": "149.102.149.207",
+      "address": "141.98.101.182",
       "port": "443",
-      "method": "aes-256-gcm",
-      "password": "LXchLsIwtCeUAUgu",
-      "name": "🇬🇧 GB 4",
-      "original": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%204",
-      "ip": "149.102.149.207",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "United Kingdom M247",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
+      "ip": "141.98.101.182",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%204"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
     }
   ]
 }
