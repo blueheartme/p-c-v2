@@ -1,26 +1,30 @@
 {
-  "updated": "2026-09-13T13:02:48.836761",
-  "count": 1,
+  "updated": "2026-09-30T03:25:58.091484",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "ukraine-sgood.wopd.butnorwa.butter.silicore.ir",
-      "port": "9000",
-      "id": "b33e4571-de3f-4249-b246-b2acf3db2f36",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "sheets.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://b33e4571-de3f-4249-b246-b2acf3db2f36@ukraine-sgood.wopd.butnorwa.butter.silicore.ir:9000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=sheets.google.com&sid=cd0a1986719e44c8#vless-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1",
-      "ip": "185.235.219.138",
+      "type": "tg",
+      "address": "p.lite64.top",
+      "port": "443",
+      "secret": "eef50c455f4d9d60ff50889cc08a9044596c69746536342e73697465",
+      "name": "",
+      "original": "https://t.me/proxy?server=p.lite64.top&port=443&secret=eef50c455f4d9d60ff50889cc08a9044596c69746536342e73697465",
+      "ip": "13.141.64.78",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://b33e4571-de3f-4249-b246-b2acf3db2f36@ukraine-sgood.wopd.butnorwa.butter.silicore.ir:9000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=sheets.google.com&sid=cd0a1986719e44c8#vless-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "https://t.me/proxy?server=p.lite64.top&port=443&secret=eef50c455f4d9d60ff50889cc08a9044596c69746536342e73697465"
+    },
+    {
+      "type": "tg",
+      "address": "p.lite64.click",
+      "port": "443",
+      "secret": "ee359f8b7f0b48e4c44ede066b1953f1a36c69746536342e73697465",
+      "name": "",
+      "original": "https://t.me/proxy?server=p.lite64.click&port=443&secret=ee359f8b7f0b48e4c44ede066b1953f1a36c69746536342e73697465",
+      "ip": "13.141.64.78",
+      "country": "UA",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=p.lite64.click&port=443&secret=ee359f8b7f0b48e4c44ede066b1953f1a36c69746536342e73697465"
     }
   ]
 }

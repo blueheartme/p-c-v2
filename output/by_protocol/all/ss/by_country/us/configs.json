@@ -1,45 +1,32 @@
 {
-  "updated": "2026-09-29T20:23:27.701923",
-  "count": 9,
+  "updated": "2026-09-30T03:25:58.190747",
+  "count": 6,
   "configs": [
-    {
-      "type": "ss",
-      "address": "192.3.247.109",
-      "port": "43579",
-      "method": "aes-256-gcm",
-      "password": "8c009bb6-08b3-4526-a86b-5af7ddfc567a-4c757b72-6eec-4faf-8c2e-09fd1c7fa936",
-      "name": "🇺🇸 US 1",
-      "original": "ss://YWVzLTI1Ni1nY206OGMwMDliYjYtMDhiMy00NTI2LWE4NmItNWFmN2RkZmM1NjdhLTRjNzU3YjcyLTZlZWMtNGZhZi04YzJlLTA5ZmQxYzdmYTkzNg==@192.3.247.109:43579#%f0%9f%87%ba%f0%9f%87%b8%20US%201",
-      "ip": "192.3.247.109",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206OGMwMDliYjYtMDhiMy00NTI2LWE4NmItNWFmN2RkZmM1NjdhLTRjNzU3YjcyLTZlZWMtNGZhZi04YzJlLTA5ZmQxYzdmYTkzNg==@192.3.247.109:43579#%f0%9f%87%ba%f0%9f%87%b8%20US%201"
-    },
     {
       "type": "ss",
       "address": "15.204.246.107",
       "port": "8888",
       "method": "aes-256-gcm",
       "password": "Y6R9pAtvxxzmGC",
-      "name": "@i10VPN🧄",
-      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%40i10VPN%F0%9F%A7%84",
+      "name": "@i10VPN⁸",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%40i10VPN%E2%81%B8",
       "ip": "15.204.246.107",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%40i10VPN%F0%9F%A7%84"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%40i10VPN%E2%81%B8"
     },
     {
       "type": "ss",
-      "address": "74.201.177.28",
-      "port": "19959",
-      "method": "aes-128-gcm",
-      "password": "b15623d65d8c209650bf6d6de6580697",
-      "name": "@filembad",
-      "original": "ss://YWVzLTEyOC1nY206YjE1NjIzZDY1ZDhjMjA5NjUwYmY2ZDZkZTY1ODA2OTc@74.201.177.28:19959#%40filembad",
-      "ip": "74.201.177.28",
+      "address": "217.60.249.112",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0eC4ZBvStOgQEzTpCYjWN5",
+      "name": "United State CGI",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI",
+      "ip": "217.60.249.112",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206YjE1NjIzZDY1ZDhjMjA5NjUwYmY2ZDZkZTY1ODA2OTc@74.201.177.28:19959#%40filembad"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
     },
     {
       "type": "ss",
@@ -47,25 +34,12 @@
       "port": "443",
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "name": "@i10VPN¹⁰",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%40i10VPN%C2%B9%E2%81%B0",
+      "name": "@i10VPN⁸",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%40i10VPN%E2%81%B8",
       "ip": "156.146.38.169",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%40i10VPN%C2%B9%E2%81%B0"
-    },
-    {
-      "type": "ss",
-      "address": "156.146.38.167",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "@i10VPN⁷",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#%40i10VPN%E2%81%B7",
-      "ip": "156.146.38.167",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#%40i10VPN%E2%81%B7"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%40i10VPN%E2%81%B8"
     },
     {
       "type": "ss",
@@ -73,25 +47,12 @@
       "port": "8008",
       "method": "aes-256-gcm",
       "password": "XKFKl2rULjIp74",
-      "name": "🇺🇸 US 3",
-      "original": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#%f0%9f%87%ba%f0%9f%87%b8%20US%203",
+      "name": "برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn",
+      "original": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%9F%20TelegramID%20%E2%8C%B2Express_freevpn",
       "ip": "15.204.247.175",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#%f0%9f%87%ba%f0%9f%87%b8%20US%203"
-    },
-    {
-      "type": "ss",
-      "address": "173.234.25.90",
-      "port": "15240",
-      "method": "aes-128-gcm",
-      "password": "62dd75ba944947d4ca983cf1679b3797",
-      "name": "@filembad",
-      "original": "ss://YWVzLTEyOC1nY206NjJkZDc1YmE5NDQ5NDdkNGNhOTgzY2YxNjc5YjM3OTc@173.234.25.90:15240#%40filembad",
-      "ip": "173.234.25.90",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206NjJkZDc1YmE5NDQ5NDdkNGNhOTgzY2YxNjc5YjM3OTc@173.234.25.90:15240#%40filembad"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%9F%20TelegramID%20%E2%8C%B2Express_freevpn"
     },
     {
       "type": "ss",
@@ -108,16 +69,16 @@
     },
     {
       "type": "ss",
-      "address": "217.60.249.112",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "0eC4ZBvStOgQEzTpCYjWN5",
-      "name": "United State CGI",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI",
-      "ip": "217.60.249.112",
+      "address": "192.3.247.109",
+      "port": "43579",
+      "method": "aes-256-gcm",
+      "password": "8c009bb6-08b3-4526-a86b-5af7ddfc567a-4c757b72-6eec-4faf-8c2e-09fd1c7fa936",
+      "name": "🇺🇸 US 1",
+      "original": "ss://YWVzLTI1Ni1nY206OGMwMDliYjYtMDhiMy00NTI2LWE4NmItNWFmN2RkZmM1NjdhLTRjNzU3YjcyLTZlZWMtNGZhZi04YzJlLTA5ZmQxYzdmYTkzNg==@192.3.247.109:43579#%f0%9f%87%ba%f0%9f%87%b8%20US%201",
+      "ip": "192.3.247.109",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206OGMwMDliYjYtMDhiMy00NTI2LWE4NmItNWFmN2RkZmM1NjdhLTRjNzU3YjcyLTZlZWMtNGZhZi04YzJlLTA5ZmQxYzdmYTkzNg==@192.3.247.109:43579#%f0%9f%87%ba%f0%9f%87%b8%20US%201"
     }
   ]
 }

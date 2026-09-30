@@ -1,40 +1,7 @@
 {
-  "updated": "2026-09-29T14:31:19.944568",
+  "updated": "2026-09-30T03:25:58.077205",
   "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "seses.pexmoro.ir",
-      "port": "443",
-      "id": "7c59a119-d02e-4944-8344-b7b138446cc4",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "stripe.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://7c59a119-d02e-4944-8344-b7b138446cc4@seses.pexmoro.ir:443?security=reality&encryption=none&pbk=RIdGdVW-OSclLoLfjqsqtUg08TQUcdVcw2OeiYXgLDU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stripe.com&sid=7813dbc2acd967a5#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "37.156.47.53",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://7c59a119-d02e-4944-8344-b7b138446cc4@seses.pexmoro.ir:443?security=reality&encryption=none&pbk=RIdGdVW-OSclLoLfjqsqtUg08TQUcdVcw2OeiYXgLDU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stripe.com&sid=7813dbc2acd967a5#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "ss",
-      "address": "seses.pexmoro.ir",
-      "port": "27017",
-      "method": "chacha20-ietf-poly1305",
-      "password": "8rMr6Vx2fehmtxHaBqkRLOwi2r9FfgZe",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ck1yNlZ4MmZlaG10eEhhQnFrUkxPd2kycjlGZmdaZQ@seses.pexmoro.ir:27017#%40filembad",
-      "ip": "37.156.47.53",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ck1yNlZ4MmZlaG10eEhhQnFrUkxPd2kycjlGZmdaZQ@seses.pexmoro.ir:27017#%40filembad"
-    },
     {
       "type": "ss",
       "address": "132.243.175.144",
@@ -47,6 +14,46 @@
       "country": "CH",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A5%8E%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
+    },
+    {
+      "type": "vless",
+      "address": "208.69.78.217",
+      "port": "2053",
+      "id": "c0dd6d59-1573-43af-8b70-1470b2632a6d",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "random",
+      "original": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=tcp&security=reality&fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#vless-tcp-reality-random-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "208.69.78.217",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=tcp&security=reality&fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#vless-tcp-reality-random-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "vless",
+      "address": "194.154.29.139",
+      "port": "8443",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "Free x406 @Outline_Vpn",
+      "network": "ws",
+      "sni": "cdn8848.776676.xyz",
+      "host": "cdn8848.776676.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "194.154.29.139",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }

@@ -1,26 +1,46 @@
 {
-  "updated": "2026-09-29T14:31:20.017581",
-  "count": 1,
+  "updated": "2026-09-30T03:25:58.151543",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "seses.pexmoro.ir",
-      "port": "443",
-      "id": "7c59a119-d02e-4944-8344-b7b138446cc4",
+      "address": "208.69.78.217",
+      "port": "2053",
+      "id": "c0dd6d59-1573-43af-8b70-1470b2632a6d",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "stripe.com",
+      "sni": "www.apple.com",
       "host": "",
       "security": "reality",
       "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://7c59a119-d02e-4944-8344-b7b138446cc4@seses.pexmoro.ir:443?security=reality&encryption=none&pbk=RIdGdVW-OSclLoLfjqsqtUg08TQUcdVcw2OeiYXgLDU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stripe.com&sid=7813dbc2acd967a5#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "37.156.47.53",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "random",
+      "original": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=tcp&security=reality&fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#vless-tcp-reality-random-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "208.69.78.217",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://7c59a119-d02e-4944-8344-b7b138446cc4@seses.pexmoro.ir:443?security=reality&encryption=none&pbk=RIdGdVW-OSclLoLfjqsqtUg08TQUcdVcw2OeiYXgLDU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stripe.com&sid=7813dbc2acd967a5#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=tcp&security=reality&fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#vless-tcp-reality-random-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "vless",
+      "address": "194.154.29.139",
+      "port": "8443",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "Free x406 @Outline_Vpn",
+      "network": "ws",
+      "sni": "cdn8848.776676.xyz",
+      "host": "cdn8848.776676.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "194.154.29.139",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }
