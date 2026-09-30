@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-30T03:25:58.151543",
-  "count": 2,
+  "updated": "2026-09-30T14:30:09.402655",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "208.69.78.217",
-      "port": "2053",
-      "id": "c0dd6d59-1573-43af-8b70-1470b2632a6d",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "random",
-      "original": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=tcp&security=reality&fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#vless-tcp-reality-random-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "208.69.78.217",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=tcp&security=reality&fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#vless-tcp-reality-random-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
     {
       "type": "vless",
       "address": "194.154.29.139",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "194.154.29.139",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }

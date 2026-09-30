@@ -1,40 +1,7 @@
 {
-  "updated": "2026-09-30T03:25:58.077205",
-  "count": 3,
+  "updated": "2026-09-30T14:30:09.345288",
+  "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "132.243.175.144",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3",
-      "name": "برای اتصال دائمی جوین شو🥎 TelegramID ⌲Express_freevpn 🪩",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A5%8E%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
-      "ip": "132.243.175.144",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A5%8E%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
-    },
-    {
-      "type": "vless",
-      "address": "208.69.78.217",
-      "port": "2053",
-      "id": "c0dd6d59-1573-43af-8b70-1470b2632a6d",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "random",
-      "original": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=tcp&security=reality&fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#vless-tcp-reality-random-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "208.69.78.217",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=tcp&security=reality&fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#vless-tcp-reality-random-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
     {
       "type": "vless",
       "address": "194.154.29.139",
@@ -49,11 +16,26 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "194.154.29.139",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vmess",
+      "address": "37.143.131.229",
+      "port": "8080",
+      "id": "f8aac2be-4d3c-4fa3-9afb-89b6c7e14596",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIzNy4xNDMuMTMxLjIyOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGFhYzJiZS00ZDNjLTRmYTMtOWFmYi04OWI2YzdlMTQ1OTYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNI8J+HqPCfh60tMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "37.143.131.229",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIzNy4xNDMuMTMxLjIyOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGFhYzJiZS00ZDNjLTRmYTMtOWFmYi04OWI2YzdlMTQ1OTYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNI8J+HqPCfh60tMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
     }
   ]
 }

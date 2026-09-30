@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-27T19:27:17.948875",
+  "updated": "2026-09-30T14:30:09.398856",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "198.55.102.68",
-      "port": "2083",
-      "id": "c18b978e-1c4e-415c-8bea-07942b563a64",
-      "name": "",
-      "network": "ws",
-      "sni": "shuma.ccwu.cc",
-      "host": "shuma.ccwu.cc",
-      "security": "tls",
-      "flow": "",
+      "address": "193.24.234.125",
+      "port": "443",
+      "id": "06d44c57-8e1a-41f4-b9c4-65d35869e078",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "web.code-sandbox.blog",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@198.55.102.68:2083?path=%2F&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-chrome-IE%F0%9F%87%AE%F0%9F%87%AA-7",
-      "ip": "198.55.102.68",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@193.24.234.125:443?security=reality&encryption=none&pbk=Y0OENG_faNE37KNgR5p6fnuIXmoES6sVuCFnWsbUzUw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.code-sandbox.blog&sid=d1d479faa1c1d92f#vless-xtls-rprx-vision-tcp-reality-firefox-IE%F0%9F%87%AE%F0%9F%87%AA-1",
+      "ip": "193.24.234.125",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@198.55.102.68:2083?path=%2F&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#vless-ws-tls-chrome-IE%F0%9F%87%AE%F0%9F%87%AA-7"
+      "rebuilt": "vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@193.24.234.125:443?security=reality&encryption=none&pbk=Y0OENG_faNE37KNgR5p6fnuIXmoES6sVuCFnWsbUzUw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.code-sandbox.blog&sid=d1d479faa1c1d92f#vless-xtls-rprx-vision-tcp-reality-firefox-IE%F0%9F%87%AE%F0%9F%87%AA-1"
     }
   ]
 }
