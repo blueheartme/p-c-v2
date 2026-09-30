@@ -1,26 +1,19 @@
 {
-  "updated": "2026-09-30T14:30:09.347077",
-  "count": 4,
+  "updated": "2026-09-30T20:27:33.279911",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "153.76.185.100",
-      "port": "3090",
-      "id": "e8b3f952-cd1b-4881-872e-b8d03399a6df",
-      "name": "@meliproxyy",
-      "network": "grpc",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://e8b3f952-cd1b-4881-872e-b8d03399a6df@153.76.185.100:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#vless-grpc-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "153.76.185.100",
+      "type": "ss",
+      "address": "141.227.134.63",
+      "port": "17000",
+      "method": "aes-256-gcm",
+      "password": "pX0uhU3ZjUcLWYs0Vez55BO3JoQrRlL",
+      "name": "برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn",
+      "original": "ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@141.227.134.63:17000#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%9F%20TelegramID%20%E2%8C%B2Express_freevpn",
+      "ip": "141.227.134.63",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://e8b3f952-cd1b-4881-872e-b8d03399a6df@153.76.185.100:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#vless-grpc-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@141.227.134.63:17000#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%9F%20TelegramID%20%E2%8C%B2Express_freevpn"
     },
     {
       "type": "vless",
@@ -41,39 +34,6 @@
       "country": "CZ",
       "cdn": null,
       "rebuilt": "vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.217:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#vless-ws-tls-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
-    },
-    {
-      "type": "vless",
-      "address": "153.76.185.160",
-      "port": "3090",
-      "id": "b24348cd-38f3-483c-aff4-f5355f254f0a",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://b24348cd-38f3-483c-aff4-f5355f254f0a@153.76.185.160:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#vless-grpc-CZ%F0%9F%87%A8%F0%9F%87%BF-3",
-      "ip": "153.76.185.160",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "vless://b24348cd-38f3-483c-aff4-f5355f254f0a@153.76.185.160:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#vless-grpc-CZ%F0%9F%87%A8%F0%9F%87%BF-3"
-    },
-    {
-      "type": "ss",
-      "address": "141.227.134.63",
-      "port": "17000",
-      "method": "aes-256-gcm",
-      "password": "pX0uhU3ZjUcLWYs0Vez55BO3JoQrRlL",
-      "name": "برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn",
-      "original": "ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@141.227.134.63:17000#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%9F%20TelegramID%20%E2%8C%B2Express_freevpn",
-      "ip": "141.227.134.63",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@141.227.134.63:17000#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%9F%20TelegramID%20%E2%8C%B2Express_freevpn"
     }
   ]
 }
