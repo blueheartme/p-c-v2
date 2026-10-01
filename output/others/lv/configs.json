@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T20:27:33.276084",
-  "count": 6,
+  "updated": "2026-10-01T03:31:33.224107",
+  "count": 7,
   "configs": [
     {
       "type": "vless",
@@ -23,26 +23,6 @@
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
     },
     {
-      "type": "vless",
-      "address": "87.192.47.10",
-      "port": "52006",
-      "id": "bc659d88-a1e0-4c65-a49a-7b51b26a7a7f",
-      "name": "",
-      "network": "tcp",
-      "sni": "grok.setlisting.ru",
-      "host": "/?TELEGRAM--MARAMBASHI--MARAMBASHI",
-      "security": "tls",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#vless-xtls-rprx-vision-tcp-tls-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2",
-      "ip": "87.192.47.10",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#vless-xtls-rprx-vision-tcp-tls-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2"
-    },
-    {
       "type": "tg",
       "address": "31.56.197.214",
       "port": "8080",
@@ -56,36 +36,43 @@
     },
     {
       "type": "vless",
+      "address": "87.192.47.10",
+      "port": "52006",
+      "id": "bc659d88-a1e0-4c65-a49a-7b51b26a7a7f",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "grok.setlisting.ru",
+      "host": "/?TELEGRAM--MARAMBASHI--MARAMBASHI",
+      "security": "tls",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#vless-xtls-rprx-vision-tcp-tls-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3",
+      "ip": "87.192.47.10",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#vless-xtls-rprx-vision-tcp-tls-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3"
+    },
+    {
+      "type": "vless",
       "address": "104.252.19.114",
       "port": "8443",
       "id": "40cba749-bca9-4089-9c02-84a357244ce0",
-      "name": "Free x584 @Outline_Vpn",
+      "name": "@meliproxyy",
       "network": "tcp",
       "sni": "omvpn.info",
-      "host": "",
+      "host": "/?TELEGRAM--MARAMBASHI--MARAMBASHI",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://40cba749-bca9-4089-9c02-84a357244ce0@104.252.19.114:8443?security=reality&encryption=none&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=omvpn.info#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-4",
+      "original": "vless://40cba749-bca9-4089-9c02-84a357244ce0@104.252.19.114:8443?security=reality&encryption=none&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=omvpn.info#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-4",
       "ip": "104.252.19.114",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://40cba749-bca9-4089-9c02-84a357244ce0@104.252.19.114:8443?security=reality&encryption=none&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=omvpn.info#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-4"
-    },
-    {
-      "type": "ss",
-      "address": "185.135.86.173",
-      "port": "9025",
-      "method": "aes-256-gcm",
-      "password": "XPtzA9sCug3SPR4c",
-      "name": "6|@ConfingV2RaayNG",
-      "original": "ss://YWVzLTI1Ni1nY206WFB0ekE5c0N1ZzNTUFI0Yw@185.135.86.173:9025#6|@ConfingV2RaayNG",
-      "ip": "185.135.86.173",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WFB0ekE5c0N1ZzNTUFI0Yw@185.135.86.173:9025#6|@ConfingV2RaayNG"
+      "rebuilt": "vless://40cba749-bca9-4089-9c02-84a357244ce0@104.252.19.114:8443?security=reality&encryption=none&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=omvpn.info#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-4"
     },
     {
       "type": "vless",
@@ -101,11 +88,37 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?security=reality&encryption=none&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=64c147592a2f84d9#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%87%B1%F0%9F%87%BB-6",
+      "original": "vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?security=reality&encryption=none&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=64c147592a2f84d9#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%87%B1%F0%9F%87%BB-5",
       "ip": "46.28.64.242",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?security=reality&encryption=none&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=64c147592a2f84d9#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%87%B1%F0%9F%87%BB-6"
+      "rebuilt": "vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?security=reality&encryption=none&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=64c147592a2f84d9#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%87%B1%F0%9F%87%BB-5"
+    },
+    {
+      "type": "ss",
+      "address": "185.135.86.173",
+      "port": "9025",
+      "method": "aes-256-gcm",
+      "password": "XPtzA9sCug3SPR4c",
+      "name": "6|@ConfingV2RaayNG",
+      "original": "ss://YWVzLTI1Ni1nY206WFB0ekE5c0N1ZzNTUFI0Yw@185.135.86.173:9025#6|@ConfingV2RaayNG",
+      "ip": "185.135.86.173",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WFB0ekE5c0N1ZzNTUFI0Yw@185.135.86.173:9025#6|@ConfingV2RaayNG"
+    },
+    {
+      "type": "ss",
+      "address": "31.56.196.18",
+      "port": "44925",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "4E7elQ/GMfiXO3P+BGEe/t5H2qFT68TVcoYha+Wa8sM=:tMB/uCYCcIA6gdJn/Tn95FyCnk8HD68Y2uYDB3HjJXo=",
+      "name": "@meliproxyy",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NEU3ZWxRL0dNZmlYTzNQK0JHRWUvdDVIMnFGVDY4VFZjb1loYStXYThzTT06dE1CL3VDWUNjSUE2Z2RKbi9Ubjk1RnlDbms4SEQ2OFkydVlEQjNIakpYbz0@31.56.196.18:44925#@meliproxyy",
+      "ip": "31.56.196.18",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NEU3ZWxRL0dNZmlYTzNQK0JHRWUvdDVIMnFGVDY4VFZjb1loYStXYThzTT06dE1CL3VDWUNjSUE2Z2RKbi9Ubjk1RnlDbms4SEQ2OFkydVlEQjNIakpYbz0@31.56.196.18:44925#@meliproxyy"
     }
   ]
 }
