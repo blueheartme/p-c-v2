@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-01T03:31:33.384349",
-  "count": 1,
+  "updated": "2026-10-01T14:59:51.507320",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "auto.claudpath.com",
+      "port": "8443",
+      "id": "b7bd69ff-4bc6-565c-89aa-f0fe7fcd8110",
+      "name": "@meliproxyy",
+      "network": "xhttp",
+      "sni": "cdn9-15.cachemesh.top",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://b7bd69ff-4bc6-565c-89aa-f0fe7fcd8110@auto.claudpath.com:8443?mode=stream-one&path=%2Fxhttp&security=reality&encryption=none&pbk=ZbhM6UKoxyC9hztiqwBSi9f6wcALENfoNADKENSbIUM&fp=chrome&type=xhttp&sni=cdn9-15.cachemesh.top&sid=de3eb7d4#vless-xhttp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "104.249.18.218",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://b7bd69ff-4bc6-565c-89aa-f0fe7fcd8110@auto.claudpath.com:8443?mode=stream-one&path=%2Fxhttp&security=reality&encryption=none&pbk=ZbhM6UKoxyC9hztiqwBSi9f6wcALENfoNADKENSbIUM&fp=chrome&type=xhttp&sni=cdn9-15.cachemesh.top&sid=de3eb7d4#vless-xhttp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+    },
     {
       "type": "vless",
       "address": "181.214.147.216",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "original": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-2",
       "ip": "181.214.147.216",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+      "rebuilt": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     }
   ]
 }
