@@ -1,38 +1,38 @@
 {
-  "updated": "2026-10-01T14:59:51.576442",
+  "updated": "2026-10-01T20:44:17.693001",
   "count": 4,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "185.220.100.168",
-      "port": "443",
-      "password": "humanity",
-      "name": "@i10VPN⁵",
-      "sni": "www.calmlunch.com",
-      "host": "www.calmlunch.com",
-      "original": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-34",
-      "ip": "185.220.100.168",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-34"
-    },
     {
       "type": "trojan",
       "address": "actual-squid.rooster465.autos",
       "port": "443",
       "password": "UX82473651",
-      "name": "🇩🇪 DE 2",
+      "name": "🇩🇪 DE 6",
       "sni": "actual-squid.rooster465.autos",
       "host": "",
-      "original": "trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-63",
+      "original": "trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-30",
       "ip": "3.120.109.26",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-63"
+      "rebuilt": "trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-30"
+    },
+    {
+      "type": "trojan",
+      "address": "3.120.109.26",
+      "port": "443",
+      "password": "UX82473651",
+      "name": "🇩🇪 DE 4",
+      "sni": "actual-squid.rooster465.autos",
+      "host": "",
+      "original": "trojan://UX82473651@3.120.109.26:443?sni=actual-squid.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-55",
+      "ip": "3.120.109.26",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://UX82473651@3.120.109.26:443?sni=actual-squid.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-55"
     },
     {
       "type": "trojan",
@@ -42,29 +42,29 @@
       "name": "@i10VPN¹⁰",
       "sni": "www.pleadcourt.org",
       "host": "www.pleadcourt.org",
-      "original": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-64",
+      "original": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-94",
       "ip": "78.47.146.151",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-64"
+      "rebuilt": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-94"
     },
     {
       "type": "trojan",
-      "address": "alive-flea.rooster465.autos",
+      "address": "185.220.100.168",
       "port": "443",
-      "password": "UX82473651",
-      "name": "🇩🇪 DE 1",
-      "sni": "alive-flea.rooster465.autos",
-      "host": "",
-      "original": "trojan://UX82473651@alive-flea.rooster465.autos:443?sni=alive-flea.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-124",
-      "ip": "63.186.227.164",
+      "password": "humanity",
+      "name": "@i10VPN⁵",
+      "sni": "www.calmlunch.com",
+      "host": "www.calmlunch.com",
+      "original": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-122",
+      "ip": "185.220.100.168",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://UX82473651@alive-flea.rooster465.autos:443?sni=alive-flea.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-124"
+      "rebuilt": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-122"
     }
   ]
 }

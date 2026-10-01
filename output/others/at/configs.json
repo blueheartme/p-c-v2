@@ -1,26 +1,19 @@
 {
-  "updated": "2026-10-01T14:59:51.425072",
-  "count": 2,
+  "updated": "2026-10-01T20:44:17.569370",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "132.243.203.243",
-      "port": "8443",
-      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "name": "Free x407 @Outline_Vpn",
-      "network": "ws",
-      "sni": "cdn8848.776676.xyz",
-      "host": "cdn8848.776676.xyz",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "132.243.203.243",
+      "type": "ss",
+      "address": "82.110.60.9",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "🇬🇧 GB 5",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%f0%9f%87%ac%f0%9f%87%a7%20GB%205",
+      "ip": "82.110.60.9",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%f0%9f%87%ac%f0%9f%87%a7%20GB%205"
     },
     {
       "type": "trojan",
@@ -35,6 +28,26 @@
       "country": "AT",
       "cdn": null,
       "rebuilt": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+    },
+    {
+      "type": "vless",
+      "address": "132.243.203.243",
+      "port": "8443",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "Free x407 @Outline_Vpn",
+      "network": "ws",
+      "sni": "cdn8848.776676.xyz",
+      "host": "cdn8848.776676.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-3",
+      "ip": "132.243.203.243",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-3"
     }
   ]
 }

@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-01T14:59:51.529411",
-  "count": 7,
+  "updated": "2026-10-01T20:44:17.645180",
+  "count": 8,
   "configs": [
+    {
+      "type": "ss",
+      "address": "82.47.186.18",
+      "port": "55597",
+      "method": "aes-128-gcm",
+      "password": "o2rw2hICwu1blrr_gZAl2Q",
+      "name": "Free x354 @Outline_Vpn",
+      "original": "ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:55597#Free%20x354%20%40Outline_Vpn",
+      "ip": "82.47.186.18",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:55597#Free%20x354%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "130.61.232.1",
+      "port": "59924",
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "UoUzY5YlcUBJpgXi/Z3PEaf58E+++FJ+3AKry5V7J9Y=",
+      "name": "1|@ConfingV2RaayNG",
+      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VW9Velk1WWxjVUJKcGdYaS9aM1BFYWY1OEUrKytGSiszQUtyeTVWN0o5WT0@130.61.232.1:59924#1|@ConfingV2RaayNG",
+      "ip": "130.61.232.1",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VW9Velk1WWxjVUJKcGdYaS9aM1BFYWY1OEUrKytGSiszQUtyeTVWN0o5WT0@130.61.232.1:59924#1|@ConfingV2RaayNG"
+    },
+    {
+      "type": "ss",
+      "address": "5.183.179.146",
+      "port": "9025",
+      "method": "aes-256-gcm",
+      "password": "XPtzA9sCug3SPR4c",
+      "name": "7|@ConfingV2RaayNG",
+      "original": "ss://YWVzLTI1Ni1nY206WFB0ekE5c0N1ZzNTUFI0Yw@5.183.179.146:9025#7|@ConfingV2RaayNG",
+      "ip": "5.183.179.146",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WFB0ekE5c0N1ZzNTUFI0Yw@5.183.179.146:9025#7|@ConfingV2RaayNG"
+    },
     {
       "type": "ss",
       "address": "82.47.186.18",
@@ -30,42 +69,33 @@
     },
     {
       "type": "ss",
-      "address": "130.61.232.1",
-      "port": "59924",
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "UoUzY5YlcUBJpgXi/Z3PEaf58E+++FJ+3AKry5V7J9Y=",
-      "name": "1|@ConfingV2RaayNG",
-      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VW9Velk1WWxjVUJKcGdYaS9aM1BFYWY1OEUrKytGSiszQUtyeTVWN0o5WT0@130.61.232.1:59924#1|@ConfingV2RaayNG",
-      "ip": "130.61.232.1",
+      "address": "51.195.126.38",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "2YdE4lFOid5a",
+      "name": "@i10VPN🌖",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%40i10VPN%F0%9F%8C%96",
+      "ip": "51.195.126.38",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VW9Velk1WWxjVUJKcGdYaS9aM1BFYWY1OEUrKytGSiszQUtyeTVWN0o5WT0@130.61.232.1:59924#1|@ConfingV2RaayNG"
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%40i10VPN%F0%9F%8C%96"
     },
     {
       "type": "ss",
-      "address": "82.47.186.18",
-      "port": "55597",
-      "method": "aes-128-gcm",
-      "password": "o2rw2hICwu1blrr_gZAl2Q",
-      "name": "Free x354 @Outline_Vpn",
-      "original": "ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:55597#Free%20x354%20%40Outline_Vpn",
-      "ip": "82.47.186.18",
-      "country": "DE",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:55597#Free%20x354%20%40Outline_Vpn"
-    },
-    {
-      "type": "ss",
-      "address": "5.183.179.146",
-      "port": "9025",
+      "address": "213.202.208.199",
+      "port": "7001",
       "method": "aes-256-gcm",
-      "password": "XPtzA9sCug3SPR4c",
-      "name": "7|@ConfingV2RaayNG",
-      "original": "ss://YWVzLTI1Ni1nY206WFB0ekE5c0N1ZzNTUFI0Yw@5.183.179.146:9025#7|@ConfingV2RaayNG",
-      "ip": "5.183.179.146",
+      "password": "RexnBgU7EV5ADxG",
+      "name": "🇩🇪 DE 3",
+      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%f0%9f%87%a9%f0%9f%87%aa%20DE%203",
+      "ip": "213.202.208.199",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WFB0ekE5c0N1ZzNTUFI0Yw@5.183.179.146:9025#7|@ConfingV2RaayNG"
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%f0%9f%87%a9%f0%9f%87%aa%20DE%203"
     },
     {
       "type": "ss",
@@ -79,21 +109,6 @@
       "country": "DE",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@206.189.52.4:17000#Free%20x502%20%40Outline_Vpn"
-    },
-    {
-      "type": "ss",
-      "address": "51.195.126.38",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "2YdE4lFOid5a",
-      "name": "@i10VPN🌖",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%40i10VPN%F0%9F%8C%96",
-      "ip": "51.195.126.38",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%40i10VPN%F0%9F%8C%96"
     }
   ]
 }

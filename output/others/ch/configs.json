@@ -1,46 +1,26 @@
 {
-  "updated": "2026-10-01T14:59:51.417878",
-  "count": 4,
+  "updated": "2026-10-01T20:44:17.562063",
+  "count": 5,
   "configs": [
-    {
-      "type": "vless",
-      "address": "194.154.29.139",
-      "port": "8443",
-      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "name": "Free x406 @Outline_Vpn",
-      "network": "ws",
-      "sni": "cdn8848.776676.xyz",
-      "host": "cdn8848.776676.xyz",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "194.154.29.139",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
     {
       "type": "vless",
       "address": "176.65.144.84",
       "port": "443",
       "id": "0f4081e7-612b-425f-8def-eebf144aedba",
-      "name": "@filembad",
+      "name": "@meliproxyy",
       "network": "tcp",
       "sni": "indigo.clouderiux.com",
-      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+      "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "safari",
-      "original": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "176.65.144.84",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "vless",
@@ -56,11 +36,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "qq",
-      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "83.228.246.83",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "vless",
+      "address": "areal5.greewebservices.ir",
+      "port": "5455",
+      "id": "1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "amp-api-edge.apps.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "none",
+      "fingerprint": "edge",
+      "original": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@areal5.greewebservices.ir:5455?type=tcp&headerType=none&security=reality&fp=edge&sni=amp-api-edge.apps.apple.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "131.123.34.193",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@areal5.greewebservices.ir:5455?type=tcp&headerType=none&security=reality&fp=edge&sni=amp-api-edge.apps.apple.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     },
     {
       "type": "ss",
@@ -74,6 +74,26 @@
       "country": "CH",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A5%8E%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
+    },
+    {
+      "type": "vless",
+      "address": "194.154.29.139",
+      "port": "8443",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "Free x406 @Outline_Vpn",
+      "network": "ws",
+      "sni": "cdn8848.776676.xyz",
+      "host": "cdn8848.776676.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-5",
+      "ip": "194.154.29.139",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-5"
     }
   ]
 }
