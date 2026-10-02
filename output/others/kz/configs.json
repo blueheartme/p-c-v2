@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-01T20:44:17.563905",
+  "updated": "2026-10-02T03:31:21.150178",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "31.43.179.200",
-      "port": "443",
-      "id": "b2593749-691c-428c-9481-14979cba3446",
-      "name": "Free x361 @Outline_Vpn",
-      "network": "ws",
-      "sni": "xi.tbv.ccwu.cc",
-      "host": "xi.tbv.ccwu.cc",
-      "security": "tls",
-      "flow": "",
+      "address": "45.136.57.28",
+      "port": "43000",
+      "id": "dd1fa083-8b36-41f6-ae09-e7fe33a3be4e",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.200:443?path=%2F&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "31.43.179.200",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://dd1fa083-8b36-41f6-ae09-e7fe33a3be4e@45.136.57.28:43000?security=reality&encryption=none&pbk=Jsz8nO5H9QEL7w7bXaXhS0sel3EAThuWOCh-jVDuYxE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=57057263#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "45.136.57.28",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.200:443?path=%2F&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vless://dd1fa083-8b36-41f6-ae09-e7fe33a3be4e@45.136.57.28:43000?security=reality&encryption=none&pbk=Jsz8nO5H9QEL7w7bXaXhS0sel3EAThuWOCh-jVDuYxE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=57057263#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }
