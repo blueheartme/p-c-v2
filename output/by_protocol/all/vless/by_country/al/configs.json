@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-30T03:25:58.161522",
+  "updated": "2026-10-02T14:22:46.139306",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "aelix-al.safire-soleiman.ir",
-      "port": "6311",
-      "id": "3df643c6-9f15-4400-a55d-5828998bfd40",
+      "address": "87.121.162.154",
+      "port": "49001",
+      "id": "e35296cf-ba7d-4fac-a67e-313d98a4f648",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "play.google.com",
+      "network": "grpc",
+      "sni": "al.allmoon.fun",
       "host": "",
       "security": "reality",
       "flow": "",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "",
       "fingerprint": "qq",
-      "original": "vless://3df643c6-9f15-4400-a55d-5828998bfd40@aelix-al.safire-soleiman.ir:6311?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#vless-tcp-reality-qq-AL%F0%9F%87%A6%F0%9F%87%B1-1",
-      "ip": "130.49.189.146",
+      "original": "vless://e35296cf-ba7d-4fac-a67e-313d98a4f648@87.121.162.154:49001?mode=gun&security=reality&encryption=none&pbk=dG4t9_JHKdqd-mAMZMUreWFRpHTR2bGyuZBW29HKe3U&fp=qq&type=grpc&serviceName=grpc&sni=al.allmoon.fun#vless-grpc-reality-qq-AL%F0%9F%87%A6%F0%9F%87%B1-1",
+      "ip": "87.121.162.154",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "vless://3df643c6-9f15-4400-a55d-5828998bfd40@aelix-al.safire-soleiman.ir:6311?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#vless-tcp-reality-qq-AL%F0%9F%87%A6%F0%9F%87%B1-1"
+      "rebuilt": "vless://e35296cf-ba7d-4fac-a67e-313d98a4f648@87.121.162.154:49001?mode=gun&security=reality&encryption=none&pbk=dG4t9_JHKdqd-mAMZMUreWFRpHTR2bGyuZBW29HKe3U&fp=qq&type=grpc&serviceName=grpc&sni=al.allmoon.fun#vless-grpc-reality-qq-AL%F0%9F%87%A6%F0%9F%87%B1-1"
     }
   ]
 }

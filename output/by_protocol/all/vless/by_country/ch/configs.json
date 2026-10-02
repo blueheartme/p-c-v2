@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-02T03:31:21.234409",
+  "updated": "2026-10-02T14:22:46.140058",
   "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "ch.zango.tech",
+      "port": "443",
+      "id": "0b21158e-00f5-4a2f-b242-e3e5574f68a0",
+      "name": "@i10VPN²",
+      "network": "grpc",
+      "sni": "bunny.net",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "83.228.246.83",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "vless",
       "address": "176.65.144.84",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "safari",
-      "original": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "176.65.144.84",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "vless",
-      "address": "areal5.greewebservices.ir",
-      "port": "5455",
-      "id": "1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@areal5.greewebservices.ir:5455?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&type=tcp&headerType=none#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "131.123.34.193",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@areal5.greewebservices.ir:5455?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&type=tcp&headerType=none#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
       "type": "vless",

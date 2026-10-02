@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-02T03:31:21.244589",
-  "count": 8,
+  "updated": "2026-10-02T14:22:46.146215",
+  "count": 7,
   "configs": [
+    {
+      "type": "ss",
+      "address": "156.146.38.167",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "Biatoo@ConfingV2RaayNG",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#Biatoo@ConfingV2RaayNG",
+      "ip": "156.146.38.167",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#Biatoo@ConfingV2RaayNG"
+    },
+    {
+      "type": "ss",
+      "address": "156.146.38.169",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "@i10VPN¹⁰",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%40i10VPN%C2%B9%E2%81%B0",
+      "ip": "156.146.38.169",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%40i10VPN%C2%B9%E2%81%B0"
+    },
     {
       "type": "ss",
       "address": "15.204.247.175",
@@ -17,16 +43,16 @@
     },
     {
       "type": "ss",
-      "address": "156.146.38.169",
+      "address": "217.60.249.112",
       "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "@i10VPN¹⁰",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%40i10VPN%C2%B9%E2%81%B0",
-      "ip": "156.146.38.169",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0eC4ZBvStOgQEzTpCYjWN5",
+      "name": "United State CGI",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI",
+      "ip": "217.60.249.112",
       "country": "US",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%40i10VPN%C2%B9%E2%81%B0"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
     },
     {
       "type": "ss",
@@ -53,45 +79,6 @@
       "country": "US",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%40i10VPN%E2%81%B8"
-    },
-    {
-      "type": "ss",
-      "address": "66.23.201.174",
-      "port": "10274",
-      "method": "aes-128-gcm",
-      "password": "6c4993acd1ca7f12f0a18bdcb3c37c6c",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTEyOC1nY206NmM0OTkzYWNkMWNhN2YxMmYwYTE4YmRjYjNjMzdjNmM@66.23.201.174:10274#@meliproxyy",
-      "ip": "66.23.201.174",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206NmM0OTkzYWNkMWNhN2YxMmYwYTE4YmRjYjNjMzdjNmM@66.23.201.174:10274#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "156.146.38.167",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "@i10VPN⁷",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#%40i10VPN%E2%81%B7",
-      "ip": "156.146.38.167",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#%40i10VPN%E2%81%B7"
-    },
-    {
-      "type": "ss",
-      "address": "217.60.249.112",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "0eC4ZBvStOgQEzTpCYjWN5",
-      "name": "United State CGI",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI",
-      "ip": "217.60.249.112",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI"
     },
     {
       "type": "ss",

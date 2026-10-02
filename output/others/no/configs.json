@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T03:31:21.161679",
-  "count": 1,
+  "updated": "2026-10-02T14:22:46.051473",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,26 @@
       "country": "NO",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#2|@ConfingV2RaayNG"
+    },
+    {
+      "type": "vless",
+      "address": "89.185.81.95",
+      "port": "8765",
+      "id": "df9f5aca-eda0-428f-a752-e53866153d12",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "r-b8a34c.vless.monster",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://df9f5aca-eda0-428f-a752-e53866153d12@89.185.81.95:8765?security=reality&encryption=none&pbk=Da_s-Cgqm5kqaIbCgXVJdrq_KF7fCQveRByRhKUzonc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=r-b8a34c.vless.monster&sid=7bf47eabf939728b#vless-xtls-rprx-vision-tcp-reality-NO%F0%9F%87%B3%F0%9F%87%B4-2",
+      "ip": "89.185.81.95",
+      "country": "NO",
+      "cdn": null,
+      "rebuilt": "vless://df9f5aca-eda0-428f-a752-e53866153d12@89.185.81.95:8765?security=reality&encryption=none&pbk=Da_s-Cgqm5kqaIbCgXVJdrq_KF7fCQveRByRhKUzonc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=r-b8a34c.vless.monster&sid=7bf47eabf939728b#vless-xtls-rprx-vision-tcp-reality-NO%F0%9F%87%B3%F0%9F%87%B4-2"
     }
   ]
 }
