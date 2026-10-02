@@ -1,19 +1,20 @@
 {
-  "updated": "2026-10-02T14:22:46.036938",
-  "count": 4,
+  "updated": "2026-10-02T20:17:09.694860",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "82.110.60.9",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "🇬🇧 GB 5",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%f0%9f%87%ac%f0%9f%87%a7%20GB%205",
-      "ip": "82.110.60.9",
+      "type": "trojan",
+      "address": "212.183.88.136",
+      "port": "443",
+      "password": "humanity",
+      "name": "@i10VPN⁸",
+      "sni": "www.calmlunch.com",
+      "host": "www.calmlunch.com",
+      "original": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "212.183.88.136",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%f0%9f%87%ac%f0%9f%87%a7%20GB%205"
+      "rebuilt": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     },
     {
       "type": "vless",
@@ -34,40 +35,6 @@
       "country": "AT",
       "cdn": null,
       "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2"
-    },
-    {
-      "type": "trojan",
-      "address": "212.183.88.136",
-      "port": "443",
-      "password": "humanity",
-      "name": "@i10VPN⁸",
-      "sni": "www.calmlunch.com",
-      "host": "www.calmlunch.com",
-      "original": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-3",
-      "ip": "212.183.88.136",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-3"
-    },
-    {
-      "type": "vless",
-      "address": "austria.avara.fit",
-      "port": "443",
-      "id": "1645c6a8-0f63-45cb-8911-b9e5cf4e811c",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "austria.avara.fit",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://1645c6a8-0f63-45cb-8911-b9e5cf4e811c@austria.avara.fit:443?mode=gun&security=reality&encryption=none&pbk=P5VH1PS4k75H88JhEqT64TUPCuxf2NcDQCqbhK4K5E0&fp=firefox&type=grpc&serviceName=health.v1.Health&sni=austria.avara.fit#vless-grpc-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-4",
-      "ip": "62.83.42.169",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "vless://1645c6a8-0f63-45cb-8911-b9e5cf4e811c@austria.avara.fit:443?mode=gun&security=reality&encryption=none&pbk=P5VH1PS4k75H88JhEqT64TUPCuxf2NcDQCqbhK4K5E0&fp=firefox&type=grpc&serviceName=health.v1.Health&sni=austria.avara.fit#vless-grpc-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-4"
     }
   ]
 }

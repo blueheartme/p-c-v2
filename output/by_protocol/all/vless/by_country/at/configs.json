@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T14:22:46.131195",
-  "count": 2,
+  "updated": "2026-10-02T20:17:09.744127",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "AT",
       "cdn": null,
       "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2"
-    },
-    {
-      "type": "vless",
-      "address": "austria.avara.fit",
-      "port": "443",
-      "id": "1645c6a8-0f63-45cb-8911-b9e5cf4e811c",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "austria.avara.fit",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://1645c6a8-0f63-45cb-8911-b9e5cf4e811c@austria.avara.fit:443?mode=gun&security=reality&encryption=none&pbk=P5VH1PS4k75H88JhEqT64TUPCuxf2NcDQCqbhK4K5E0&fp=firefox&type=grpc&serviceName=health.v1.Health&sni=austria.avara.fit#vless-grpc-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-4",
-      "ip": "62.83.42.169",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "vless://1645c6a8-0f63-45cb-8911-b9e5cf4e811c@austria.avara.fit:443?mode=gun&security=reality&encryption=none&pbk=P5VH1PS4k75H88JhEqT64TUPCuxf2NcDQCqbhK4K5E0&fp=firefox&type=grpc&serviceName=health.v1.Health&sni=austria.avara.fit#vless-grpc-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-4"
     }
   ]
 }
