@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T20:17:09.741878",
-  "count": 1,
+  "updated": "2026-10-03T03:15:52.219500",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#vless-grpc-reality-chrome-BG%F0%9F%87%A7%F0%9F%87%AC-3",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#vless-grpc-reality-chrome-BG%F0%9F%87%A7%F0%9F%87%AC-2",
       "ip": "45.9.156.24",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#vless-grpc-reality-chrome-BG%F0%9F%87%A7%F0%9F%87%AC-3"
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#vless-grpc-reality-chrome-BG%F0%9F%87%A7%F0%9F%87%AC-2"
+    },
+    {
+      "type": "vless",
+      "address": "p2real22.greewebservices.ir",
+      "port": "1320",
+      "id": "a4ce8be3-7f19-488d-8930-10f050c2c673",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "play.googleapis.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://a4ce8be3-7f19-488d-8930-10f050c2c673@p2real22.greewebservices.ir:1320?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-BG%F0%9F%87%A7%F0%9F%87%AC-4",
+      "ip": "131.123.40.30",
+      "country": "BG",
+      "cdn": null,
+      "rebuilt": "vless://a4ce8be3-7f19-488d-8930-10f050c2c673@p2real22.greewebservices.ir:1320?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-BG%F0%9F%87%A7%F0%9F%87%AC-4"
     }
   ]
 }
