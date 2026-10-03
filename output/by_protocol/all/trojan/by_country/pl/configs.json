@@ -1,20 +1,34 @@
 {
-  "updated": "2026-10-03T03:15:52.229027",
-  "count": 1,
+  "updated": "2026-10-03T12:56:06.473011",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "cheerful-swan.rooster465.autos",
+      "port": "443",
+      "password": "UX82473651",
+      "name": "🇵🇱 PL 3",
+      "sni": "cheerful-swan.rooster465.autos",
+      "host": "",
+      "original": "trojan://UX82473651@cheerful-swan.rooster465.autos:443?sni=cheerful-swan.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-15",
+      "ip": "202.78.163.237",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://UX82473651@cheerful-swan.rooster465.autos:443?sni=cheerful-swan.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-15"
+    },
     {
       "type": "trojan",
       "address": "202.78.163.237",
       "port": "443",
       "password": "UX82473651",
-      "name": "🏳️ Jafar | 🛡️🔥 190ms",
+      "name": "🇵🇱 PL 4",
       "sni": "cheerful-swan.rooster465.autos",
       "host": "",
-      "original": "trojan://UX82473651@202.78.163.237:443?security=tls&sni=cheerful-swan.rooster465.autos&path=/#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-8",
+      "original": "trojan://UX82473651@202.78.163.237:443?sni=cheerful-swan.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-17",
       "ip": "202.78.163.237",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://UX82473651@202.78.163.237:443?security=tls&sni=cheerful-swan.rooster465.autos&path=/#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-8"
+      "rebuilt": "trojan://UX82473651@202.78.163.237:443?sni=cheerful-swan.rooster465.autos&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-17"
     }
   ]
 }
