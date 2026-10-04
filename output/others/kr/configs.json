@@ -1,20 +1,21 @@
 {
-  "updated": "2026-10-03T18:56:53.474002",
+  "updated": "2026-10-04T03:44:04.577150",
   "count": 5,
   "configs": [
     {
-      "type": "trojan",
-      "address": "main-fawn.rooster465.autos",
-      "port": "443",
-      "password": "UX82473651",
-      "name": "🇰🇷 KR 2",
-      "sni": "main-fawn.rooster465.autos",
-      "host": "",
-      "original": "trojan://UX82473651@main-fawn.rooster465.autos:443?sni=main-fawn.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "3.35.207.188",
+      "type": "vmess",
+      "address": "132.145.80.230",
+      "port": "80",
+      "id": "5155860e-d07d-46c3-9128-3afbd84626c7",
+      "name": "🇰🇷 KR 6",
+      "network": "ws",
+      "host": "kr02.a0a.xyz",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0xIiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0Ijo4MCwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImtyMDIuYTBhLnh5eiIsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "132.145.80.230",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "trojan://UX82473651@main-fawn.rooster465.autos:443?sni=main-fawn.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0xIiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0Ijo4MCwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImtyMDIuYTBhLnh5eiIsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     },
     {
       "type": "trojan",
@@ -32,46 +33,45 @@
     },
     {
       "type": "trojan",
-      "address": "engaging-toucan.rooster465.autos",
-      "port": "443",
-      "password": "UX82473651",
-      "name": "🇰🇷 KR 4",
-      "sni": "engaging-toucan.rooster465.autos",
-      "host": "",
-      "original": "trojan://UX82473651@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-3",
-      "ip": "13.125.69.162",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "trojan://UX82473651@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-3"
-    },
-    {
-      "type": "trojan",
       "address": "balanced-stag.rooster465.autos",
       "port": "443",
       "password": "UX82473651",
       "name": "🇰🇷 KR 1",
       "sni": "balanced-stag.rooster465.autos",
       "host": "",
-      "original": "trojan://UX82473651@balanced-stag.rooster465.autos:443?sni=balanced-stag.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-4",
+      "original": "trojan://UX82473651@balanced-stag.rooster465.autos:443?sni=balanced-stag.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-3",
       "ip": "43.201.252.164",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "trojan://UX82473651@balanced-stag.rooster465.autos:443?sni=balanced-stag.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-4"
+      "rebuilt": "trojan://UX82473651@balanced-stag.rooster465.autos:443?sni=balanced-stag.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-3"
     },
     {
-      "type": "vmess",
-      "address": "132.145.80.230",
-      "port": "80",
-      "id": "5155860e-d07d-46c3-9128-3afbd84626c7",
-      "name": "🇰🇷 KR 5",
-      "network": "ws",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty01IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0Ijo4MCwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "132.145.80.230",
+      "type": "trojan",
+      "address": "main-fawn.rooster465.autos",
+      "port": "443",
+      "password": "UX82473651",
+      "name": "🇰🇷 KR 2",
+      "sni": "main-fawn.rooster465.autos",
+      "host": "",
+      "original": "trojan://UX82473651@main-fawn.rooster465.autos:443?sni=main-fawn.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-4",
+      "ip": "3.35.207.188",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty01IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0Ijo4MCwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "trojan://UX82473651@main-fawn.rooster465.autos:443?sni=main-fawn.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-4"
+    },
+    {
+      "type": "trojan",
+      "address": "engaging-toucan.rooster465.autos",
+      "port": "443",
+      "password": "UX82473651",
+      "name": "🇰🇷 KR 4",
+      "sni": "engaging-toucan.rooster465.autos",
+      "host": "",
+      "original": "trojan://UX82473651@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-5",
+      "ip": "13.125.69.162",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "trojan://UX82473651@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-5"
     }
   ]
 }

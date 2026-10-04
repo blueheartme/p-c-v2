@@ -1,38 +1,38 @@
 {
-  "updated": "2026-10-03T18:56:53.607010",
+  "updated": "2026-10-04T03:44:04.736786",
   "count": 6,
   "configs": [
     {
       "type": "trojan",
-      "address": "pleased-albacore.rooster465.autos",
+      "address": "185.220.100.168",
       "port": "443",
-      "password": "UX82473651",
-      "name": "🇩🇪 DE 2",
-      "sni": "pleased-albacore.rooster465.autos",
-      "host": "",
-      "original": "trojan://UX82473651@pleased-albacore.rooster465.autos:443?sni=pleased-albacore.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1",
-      "ip": "63.178.198.94",
+      "password": "humanity",
+      "name": "@i10VPN⁵",
+      "sni": "www.calmlunch.com",
+      "host": "www.calmlunch.com",
+      "original": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-8",
+      "ip": "185.220.100.168",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://UX82473651@pleased-albacore.rooster465.autos:443?sni=pleased-albacore.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1"
+      "rebuilt": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-8"
     },
     {
       "type": "trojan",
       "address": "actual-squid.rooster465.autos",
       "port": "443",
       "password": "UX82473651",
-      "name": "🇩🇪 DE 16",
+      "name": "🇩🇪 DE 17",
       "sni": "actual-squid.rooster465.autos",
       "host": "",
-      "original": "trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-15",
+      "original": "trojan://UX82473651@actual-squid.rooster465.autos:443?security=tls&sni=actual-squid.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-16",
       "ip": "3.120.109.26",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-15"
+      "rebuilt": "trojan://UX82473651@actual-squid.rooster465.autos:443?security=tls&sni=actual-squid.rooster465.autos&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-16"
     },
     {
       "type": "trojan",
@@ -42,13 +42,29 @@
       "name": "🇩🇪 DE 12",
       "sni": "d3-de2.cloud-cdn.xyz",
       "host": "",
-      "original": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-52",
+      "original": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-26",
       "ip": "31.77.168.35",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-52"
+      "rebuilt": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-26"
+    },
+    {
+      "type": "trojan",
+      "address": "pleased-albacore.rooster465.autos",
+      "port": "443",
+      "password": "UX82473651",
+      "name": "🇩🇪 DE 3",
+      "sni": "",
+      "host": "",
+      "original": "trojan://UX82473651@pleased-albacore.rooster465.autos:443?path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-53",
+      "ip": "63.178.198.94",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://UX82473651@pleased-albacore.rooster465.autos:443?path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-53"
     },
     {
       "type": "trojan",
@@ -58,29 +74,13 @@
       "name": "🇩🇪 DE 11",
       "sni": "d3-de2.cloud-cdn.xyz",
       "host": "",
-      "original": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-103",
+      "original": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-88",
       "ip": "31.77.168.33",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-103"
-    },
-    {
-      "type": "trojan",
-      "address": "78.47.146.151",
-      "port": "443",
-      "password": "humanity",
-      "name": "@i10VPN¹⁰",
-      "sni": "www.pleadcourt.org",
-      "host": "www.pleadcourt.org",
-      "original": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-115",
-      "ip": "78.47.146.151",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-115"
+      "rebuilt": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-88"
     },
     {
       "type": "trojan",
@@ -90,13 +90,13 @@
       "name": "🇩🇪 DE 10",
       "sni": "d3-de2.cloud-cdn.xyz",
       "host": "",
-      "original": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-145",
+      "original": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-149",
       "ip": "31.77.168.21",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-145"
+      "rebuilt": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-149"
     }
   ]
 }

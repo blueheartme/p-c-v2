@@ -1,18 +1,26 @@
 {
-  "updated": "2026-10-03T18:56:53.502813",
+  "updated": "2026-10-04T03:44:04.579964",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "matrixxx.top",
-      "port": "853",
-      "secret": "eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70",
-      "name": "",
-      "original": "https://t.me/proxy?server=matrixxx.top&port=853&secret=eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70",
-      "ip": "96.9.124.217",
+      "type": "vless",
+      "address": "109.104.106.15",
+      "port": "443",
+      "id": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "d3-ro.cloud-cdn.xyz",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "edge",
+      "original": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.15:443?security=reality&encryption=none&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=d3-ro.cloud-cdn.xyz&sid=87709fed663228e5#vless-xtls-rprx-vision-tcp-reality-edge-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "ip": "109.104.106.15",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=matrixxx.top&port=853&secret=eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70"
+      "rebuilt": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.15:443?security=reality&encryption=none&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=d3-ro.cloud-cdn.xyz&sid=87709fed663228e5#vless-xtls-rprx-vision-tcp-reality-edge-RO%F0%9F%87%B7%F0%9F%87%B4-1"
     }
   ]
 }
