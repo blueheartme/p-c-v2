@@ -1,22 +1,7 @@
 {
-  "updated": "2026-10-04T03:44:04.583390",
-  "count": 6,
+  "updated": "2026-10-04T13:36:55.353907",
+  "count": 5,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "89.41.172.85",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "برای اتصال دائمی جوین شو🕸 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiI4OS40MS4xNzIuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVTwn4eu8J+HuS0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
-      "ip": "89.41.172.85",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI4OS40MS4xNzIuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVTwn4eu8J+HuS0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
-    },
     {
       "type": "vless",
       "address": "82.118.16.245",
@@ -31,11 +16,24 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "safari",
-      "original": "vless://d6bd3ec0-84f5-4df3-bd5a-ef69469ce642@82.118.16.245:443?security=reality&encryption=none&pbk=aHFq0S4UJBSUr5it5_mw4JN4sPG6lnHjdYXsWJVVdXk&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=mxc.mtmajestic.space#vless-xtls-rprx-vision-tcp-reality-safari-IT%F0%9F%87%AE%F0%9F%87%B9-2",
+      "original": "vless://d6bd3ec0-84f5-4df3-bd5a-ef69469ce642@82.118.16.245:443?security=reality&encryption=none&pbk=aHFq0S4UJBSUr5it5_mw4JN4sPG6lnHjdYXsWJVVdXk&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=mxc.mtmajestic.space#vless-xtls-rprx-vision-tcp-reality-safari-IT%F0%9F%87%AE%F0%9F%87%B9-1",
       "ip": "82.118.16.245",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://d6bd3ec0-84f5-4df3-bd5a-ef69469ce642@82.118.16.245:443?security=reality&encryption=none&pbk=aHFq0S4UJBSUr5it5_mw4JN4sPG6lnHjdYXsWJVVdXk&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=mxc.mtmajestic.space#vless-xtls-rprx-vision-tcp-reality-safari-IT%F0%9F%87%AE%F0%9F%87%B9-2"
+      "rebuilt": "vless://d6bd3ec0-84f5-4df3-bd5a-ef69469ce642@82.118.16.245:443?security=reality&encryption=none&pbk=aHFq0S4UJBSUr5it5_mw4JN4sPG6lnHjdYXsWJVVdXk&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=mxc.mtmajestic.space#vless-xtls-rprx-vision-tcp-reality-safari-IT%F0%9F%87%AE%F0%9F%87%B9-1"
+    },
+    {
+      "type": "ss",
+      "address": "91.201.65.122",
+      "port": "9070",
+      "method": "aes-256-cfb",
+      "password": "bf7v334KKDV3YDhH",
+      "name": "🇮🇹 IT 2",
+      "original": "ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@91.201.65.122:9070#%f0%9f%87%ae%f0%9f%87%b9%20IT%202",
+      "ip": "91.201.65.122",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@91.201.65.122:9070#%f0%9f%87%ae%f0%9f%87%b9%20IT%202"
     },
     {
       "type": "vless",
@@ -58,6 +56,21 @@
       "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-3"
     },
     {
+      "type": "vmess",
+      "address": "89.41.172.85",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "برای اتصال دائمی جوین شو🕸 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI4OS40MS4xNzIuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVTwn4eu8J+HuS00Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "ip": "89.41.172.85",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI4OS40MS4xNzIuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVTwn4eu8J+HuS00Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+    },
+    {
       "type": "ss",
       "address": "91.201.65.122",
       "port": "9002",
@@ -69,46 +82,6 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@91.201.65.122:9002#%f0%9f%87%ae%f0%9f%87%b9%20IT%201"
-    },
-    {
-      "type": "vless",
-      "address": "204.216.216.23",
-      "port": "10086",
-      "id": "9f0285ee-20ca-4953-bcdb-86a920652923",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-5",
-      "ip": "204.216.216.23",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%87%AE%F0%9F%87%B9-5"
-    },
-    {
-      "type": "vless",
-      "address": "57.131.21.102",
-      "port": "8443",
-      "id": "69ac162b-1643-4acb-9f49-09d8b0fad609",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "milan.adaspoloandco.com",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-6",
-      "ip": "57.131.21.102",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%87%AE%F0%9F%87%B9-6"
     }
   ]
 }
