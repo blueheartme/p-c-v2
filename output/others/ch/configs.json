@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T13:36:55.402008",
-  "count": 6,
+  "updated": "2026-10-04T18:56:14.074364",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -47,7 +47,7 @@
       "address": "176.65.144.84",
       "port": "443",
       "id": "0f4081e7-612b-425f-8def-eebf144aedba",
-      "name": "@meliproxyy",
+      "name": "برای اتصال دائمی جوین شو🕸 TelegramID ⌲Express_freevpn 🪩",
       "network": "tcp",
       "sni": "indigo.clouderiux.com",
       "host": "",
@@ -61,55 +61,6 @@
       "country": "CH",
       "cdn": null,
       "rebuilt": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-3"
-    },
-    {
-      "type": "vless",
-      "address": "208.69.78.217",
-      "port": "2053",
-      "id": "c0dd6d59-1573-43af-8b70-1470b2632a6d",
-      "name": "🇨🇭 CH 1",
-      "network": "tcp",
-      "sni": "www.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?security=reality&sni=www.apple.com&fp=chrome&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&type=tcp&path=%2f#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4",
-      "ip": "208.69.78.217",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?security=reality&sni=www.apple.com&fp=chrome&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&type=tcp&path=%2f#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4"
-    },
-    {
-      "type": "trojan",
-      "address": "195.15.202.111",
-      "port": "80",
-      "password": "uCzwXi06tusoiP5kAUKrsg",
-      "name": "🇨🇭 CH 2",
-      "sni": "",
-      "host": "",
-      "original": "trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?headerType=http&path=%2f#trojan-tcp-http-tls-CH%F0%9F%87%A8%F0%9F%87%AD-5",
-      "ip": "195.15.202.111",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?headerType=http&path=%2f#trojan-tcp-http-tls-CH%F0%9F%87%A8%F0%9F%87%AD-5"
-    },
-    {
-      "type": "vmess",
-      "address": "mygptagent.org",
-      "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "🇨🇦 CA 1",
-      "network": "ws",
-      "host": "mygptagent.org",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1DSPCfh6jwn4etLTYiLCJhZGQiOiJteWdwdGFnZW50Lm9yZyIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJteWdwdGFnZW50Lm9yZyIsImFscG4iOm51bGwsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "66.163.116.120",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLXRscy1DSPCfh6jwn4etLTYiLCJhZGQiOiJteWdwdGFnZW50Lm9yZyIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJteWdwdGFnZW50Lm9yZyIsImFscG4iOm51bGwsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     }
   ]
 }
