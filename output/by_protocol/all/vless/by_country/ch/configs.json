@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-04T18:56:14.146903",
-  "count": 3,
+  "updated": "2026-10-05T03:27:26.727589",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "ch.zango.tech",
-      "port": "443",
-      "id": "0b21158e-00f5-4a2f-b242-e3e5574f68a0",
-      "name": "@i10VPN²",
-      "network": "grpc",
-      "sni": "bunny.net",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "qq",
-      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "83.228.246.83",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
     {
       "type": "vless",
       "address": "194.154.29.139",
@@ -44,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "176.65.144.84",
+      "address": "ch.zango.tech",
       "port": "443",
-      "id": "0f4081e7-612b-425f-8def-eebf144aedba",
-      "name": "برای اتصال دائمی جوین شو🕸 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "indigo.clouderiux.com",
+      "id": "0b21158e-00f5-4a2f-b242-e3e5574f68a0",
+      "name": "@i10VPN²",
+      "network": "grpc",
+      "sni": "bunny.net",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "safari",
-      "original": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "176.65.144.84",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "ip": "83.228.246.83",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-4"
     }
   ]
 }
