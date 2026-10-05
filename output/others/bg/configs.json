@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T03:27:26.627867",
-  "count": 5,
+  "updated": "2026-10-05T16:41:25.528303",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -29,19 +29,6 @@
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@213.183.63.60:9054#%f0%9f%87%a7%f0%9f%87%ac%20BG%203"
     },
     {
-      "type": "ss",
-      "address": "213.183.63.60",
-      "port": "9085",
-      "method": "aes-256-cfb",
-      "password": "9ej82EKe2gq7gLAM",
-      "name": "🇧🇬 BG 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6OWVqODJFS2UyZ3E3Z0xBTQ==@213.183.63.60:9085#%f0%9f%87%a7%f0%9f%87%ac%20BG%201",
-      "ip": "213.183.63.60",
-      "country": "BG",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6OWVqODJFS2UyZ3E3Z0xBTQ==@213.183.63.60:9085#%f0%9f%87%a7%f0%9f%87%ac%20BG%201"
-    },
-    {
       "type": "vless",
       "address": "45.9.156.24",
       "port": "443",
@@ -55,31 +42,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#vless-grpc-reality-chrome-BG%F0%9F%87%A7%F0%9F%87%AC-4",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#vless-grpc-reality-chrome-BG%F0%9F%87%A7%F0%9F%87%AC-3",
       "ip": "45.9.156.24",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#vless-grpc-reality-chrome-BG%F0%9F%87%A7%F0%9F%87%AC-4"
-    },
-    {
-      "type": "vless",
-      "address": "tr.koomeh.net",
-      "port": "80",
-      "id": "5f6dd489-e29a-4238-a731-b82a440ec780",
-      "name": "@meliproxyy",
-      "network": "xhttp",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://5f6dd489-e29a-4238-a731-b82a440ec780@tr.koomeh.net:80?mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&type=xhttp#vless-xhttp-BG%F0%9F%87%A7%F0%9F%87%AC-5",
-      "ip": "77.87.122.6",
-      "country": "BG",
-      "cdn": null,
-      "rebuilt": "vless://5f6dd489-e29a-4238-a731-b82a440ec780@tr.koomeh.net:80?mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&type=xhttp#vless-xhttp-BG%F0%9F%87%A7%F0%9F%87%AC-5"
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#vless-grpc-reality-chrome-BG%F0%9F%87%A7%F0%9F%87%AC-3"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T03:27:26.669033",
+  "updated": "2026-10-05T16:41:25.549559",
   "count": 4,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "195.15.202.111",
       "port": "4455",
       "password": "g44i2hzwivmm7r29",
-      "name": "@filembad",
+      "name": "@meliproxyy",
       "sni": "play-apps-features.googleusercontent.com",
       "host": "",
       "original": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&fp=firefox&spx=%2F824fc1bd087b613&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
@@ -18,36 +18,23 @@
     },
     {
       "type": "vless",
-      "address": "194.154.29.139",
-      "port": "8443",
-      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "name": "Free x406 @Outline_Vpn",
-      "network": "ws",
-      "sni": "cdn8848.776676.xyz",
-      "host": "cdn8848.776676.xyz",
-      "security": "tls",
-      "flow": "",
+      "address": "176.65.144.84",
+      "port": "443",
+      "id": "0f4081e7-612b-425f-8def-eebf144aedba",
+      "name": "برای اتصال دائمی جوین شو🕸 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "indigo.clouderiux.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "194.154.29.139",
+      "headerType": "none",
+      "fingerprint": "safari",
+      "original": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "176.65.144.84",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "ss",
-      "address": "132.243.175.144",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3",
-      "name": "🇨🇭 CH 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%f0%9f%87%a8%f0%9f%87%ad%20CH%201",
-      "ip": "132.243.175.144",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%f0%9f%87%a8%f0%9f%87%ad%20CH%201"
+      "rebuilt": "vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#vless-xtls-rprx-vision-tcp-reality-safari-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
       "type": "vless",
@@ -63,11 +50,24 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "qq",
-      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3",
       "ip": "83.228.246.83",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+    },
+    {
+      "type": "ss",
+      "address": "132.243.175.144",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3",
+      "name": "🇨🇭 CH 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%f0%9f%87%a8%f0%9f%87%ad%20CH%201",
+      "ip": "132.243.175.144",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%f0%9f%87%a8%f0%9f%87%ad%20CH%201"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-05T03:27:26.721610",
+  "updated": "2026-10-05T16:41:25.600057",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "159.195.111.4",
-      "port": "443",
-      "id": "a45dbb94-2b77-4193-86d5-ddd173764c79",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "cabinet.appstop.link",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "address": "132.243.203.243",
+      "port": "8443",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "Free x407 @Outline_Vpn",
+      "network": "ws",
+      "sni": "cdn8848.776676.xyz",
+      "host": "cdn8848.776676.xyz",
+      "security": "tls",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://a45dbb94-2b77-4193-86d5-ddd173764c79@159.195.111.4:443?security=reality&encryption=none&pbk=Hi65KlEMOINShU8Mj32PcwE1SHDGps9ef_pAkNbFwGc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cabinet.appstop.link&sid=8515c24c400f8fb5#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-2",
-      "ip": "159.195.111.4",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "132.243.203.243",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://a45dbb94-2b77-4193-86d5-ddd173764c79@159.195.111.4:443?security=reality&encryption=none&pbk=Hi65KlEMOINShU8Mj32PcwE1SHDGps9ef_pAkNbFwGc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cabinet.appstop.link&sid=8515c24c400f8fb5#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }
