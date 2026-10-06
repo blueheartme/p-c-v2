@@ -1,36 +1,51 @@
 {
-  "updated": "2026-10-06T14:39:03.587038",
-  "count": 2,
+  "updated": "2026-10-06T20:43:33.165766",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "51.195.126.38",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "2YdE4lFOid5a",
-      "name": "🇩🇪 DE 7",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%207",
-      "ip": "51.195.126.38",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%207"
-    },
-    {
-      "type": "ss",
       "address": "2.58.81.221",
-      "port": "80",
+      "port": "443",
       "method": "aes-256-gcm",
       "password": "kKEd0rBrd56Furjz",
-      "name": "🇩🇪 DE 6",
-      "original": "ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:80#%f0%9f%87%a9%f0%9f%87%aa%20DE%206",
+      "name": "🇩🇪 DE 14",
+      "original": "ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:443#%f0%9f%87%a9%f0%9f%87%aa%20DE%2014",
       "ip": "2.58.81.221",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:80#%f0%9f%87%a9%f0%9f%87%aa%20DE%206"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:443#%f0%9f%87%a9%f0%9f%87%aa%20DE%2014"
+    },
+    {
+      "type": "ss",
+      "address": "169.150.210.233",
+      "port": "8080",
+      "method": "rc4-md5",
+      "password": "14fFPrbezE3HDZzsMOr6",
+      "name": "🇩🇪 DE 11",
+      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#%f0%9f%87%a9%f0%9f%87%aa%20DE%2011",
+      "ip": "169.150.210.233",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#%f0%9f%87%a9%f0%9f%87%aa%20DE%2011"
+    },
+    {
+      "type": "ss",
+      "address": "asiab.asan-ps.ir",
+      "port": "9443",
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "Xm3v5BuIiFFXE6vjacf52w==:LnXZj25pZVvsRF0kiIXD7Q==",
+      "name": "@filembad",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WG0zdjVCdUlpRkZYRTZ2amFjZjUydz09OkxuWFpqMjVwWlZ2c1JGMGtpSVhEN1E9PQ@asiab.asan-ps.ir:9443#%40filembad",
+      "ip": "138.201.158.219",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WG0zdjVCdUlpRkZYRTZ2amFjZjUydz09OkxuWFpqMjVwWlZ2c1JGMGtpSVhEN1E9PQ@asiab.asan-ps.ir:9443#%40filembad"
     }
   ]
 }

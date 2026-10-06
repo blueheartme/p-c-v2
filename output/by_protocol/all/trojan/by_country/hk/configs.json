@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-06T14:39:03.509956",
-  "count": 1,
+  "updated": "2026-10-06T20:43:33.132567",
+  "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "185.244.208.69",
+      "port": "443",
+      "password": "UX82473651",
+      "name": "🇭🇰 HK 9",
+      "sni": "strong-haddock.rooster465.autos",
+      "host": "",
+      "original": "trojan://UX82473651@185.244.208.69:443?sni=strong-haddock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "185.244.208.69",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://UX82473651@185.244.208.69:443?sni=strong-haddock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
     {
       "type": "trojan",
       "address": "219.79.214.159",
@@ -15,6 +29,20 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-6"
+    },
+    {
+      "type": "trojan",
+      "address": "strong-haddock.rooster465.autos",
+      "port": "443",
+      "password": "UX82473651",
+      "name": "🇭🇰 HK 8",
+      "sni": "strong-haddock.rooster465.autos",
+      "host": "",
+      "original": "trojan://UX82473651@strong-haddock.rooster465.autos:443?sni=strong-haddock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-9",
+      "ip": "185.244.208.69",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://UX82473651@strong-haddock.rooster465.autos:443?sni=strong-haddock.rooster465.autos&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-9"
     }
   ]
 }
