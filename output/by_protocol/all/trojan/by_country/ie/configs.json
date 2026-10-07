@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T03:42:03.142496",
+  "updated": "2026-10-07T14:58:57.191909",
   "count": 3,
   "configs": [
     {
@@ -10,11 +10,25 @@
       "name": "🇮🇪 IE 4",
       "sni": "loved-shark.rooster465.autos",
       "host": "",
-      "original": "trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2",
+      "original": "trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1",
       "ip": "3.253.106.233",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-2"
+      "rebuilt": "trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-1"
+    },
+    {
+      "type": "trojan",
+      "address": "sacred-anemone.rooster465.autos",
+      "port": "443",
+      "password": "UX82473651",
+      "name": "🇮🇪 IE 1",
+      "sni": "sacred-anemone.rooster465.autos",
+      "host": "",
+      "original": "trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-5",
+      "ip": "34.242.77.118",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-5"
     },
     {
       "type": "trojan",
@@ -29,20 +43,6 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "trojan://UX82473651@3.253.106.233:443?sni=loved-shark.rooster465.autos&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-9"
-    },
-    {
-      "type": "trojan",
-      "address": "sacred-anemone.rooster465.autos",
-      "port": "443",
-      "password": "UX82473651",
-      "name": "🇮🇪 IE 2",
-      "sni": "",
-      "host": "",
-      "original": "trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-10",
-      "ip": "34.242.77.118",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-IE%F0%9F%87%AE%F0%9F%87%AA-10"
     }
   ]
 }
