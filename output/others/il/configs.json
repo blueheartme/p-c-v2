@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-06T20:43:33.009397",
-  "count": 2,
+  "updated": "2026-10-07T03:42:03.020285",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "85.209.158.187",
+      "port": "443",
+      "id": "ab9929fd-ab22-48e3-8723-480733c0eca9",
+      "name": "🇮🇱 @ir_IRANy",
+      "network": "tcp",
+      "sni": "isr.vpnskyline.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "safari",
+      "original": "vless://ab9929fd-ab22-48e3-8723-480733c0eca9@85.209.158.187:443?security=reality&encryption=none&pbk=4aN0Mr6AENm6-K7mokUioB8xe99zKP4UDHnzHtWEvBU&headerType=none&fp=safari&spx=%2FiZpmebIafVRqIdY&type=tcp&flow=xtls-rprx-vision&sni=isr.vpnskyline.com&sid=eb1a94ed#vless-xtls-rprx-vision-tcp-reality-safari-IL%F0%9F%87%AE%F0%9F%87%B1-1",
+      "ip": "85.209.158.187",
+      "country": "IL",
+      "cdn": null,
+      "rebuilt": "vless://ab9929fd-ab22-48e3-8723-480733c0eca9@85.209.158.187:443?security=reality&encryption=none&pbk=4aN0Mr6AENm6-K7mokUioB8xe99zKP4UDHnzHtWEvBU&headerType=none&fp=safari&spx=%2FiZpmebIafVRqIdY&type=tcp&flow=xtls-rprx-vision&sni=isr.vpnskyline.com&sid=eb1a94ed#vless-xtls-rprx-vision-tcp-reality-safari-IL%F0%9F%87%AE%F0%9F%87%B1-1"
+    },
+    {
+      "type": "tg",
+      "address": "top.mishutkin.click",
+      "port": "443",
+      "secret": "ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=top.mishutkin.click&port=443&secret=ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d",
+      "ip": "79.182.27.53",
+      "country": "IL",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=top.mishutkin.click&port=443&secret=ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d"
+    },
     {
       "type": "tg",
       "address": "dns.vdl.lat",
@@ -9,7 +41,7 @@
       "secret": "eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174",
       "name": "",
       "original": "https://t.me/proxy?server=dns.vdl.lat&port=443&secret=eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174",
-      "ip": "79.182.12.18",
+      "ip": "79.182.12.20",
       "country": "IL",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=dns.vdl.lat&port=443&secret=eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174"
@@ -21,7 +53,7 @@
       "secret": "eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465",
       "name": "",
       "original": "https://t.me/proxy?server=vertex.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465&@MPT_Proxy",
-      "ip": "79.182.27.130",
+      "ip": "79.182.27.53",
       "country": "IL",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=vertex.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465&@MPT_Proxy"

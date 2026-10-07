@@ -1,35 +1,7 @@
 {
-  "updated": "2026-10-06T20:43:33.133607",
+  "updated": "2026-10-07T03:42:03.145942",
   "count": 7,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "13.212.81.3",
-      "port": "443",
-      "password": "UX82473651",
-      "name": "🇸🇬 SG 13",
-      "sni": "holy-lamb.rooster465.autos",
-      "host": "",
-      "original": "trojan://UX82473651@13.212.81.3:443?security=tls&sni=holy-lamb.rooster465.autos&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "13.212.81.3",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "trojan://UX82473651@13.212.81.3:443?security=tls&sni=holy-lamb.rooster465.autos&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "trojan",
-      "address": "desired-boxer.rooster465.autos",
-      "port": "443",
-      "password": "UX82473651",
-      "name": "🇸🇬 SG 8",
-      "sni": "desired-boxer.rooster465.autos",
-      "host": "",
-      "original": "trojan://UX82473651@desired-boxer.rooster465.autos:443?sni=desired-boxer.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4",
-      "ip": "54.254.59.149",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "trojan://UX82473651@desired-boxer.rooster465.autos:443?sni=desired-boxer.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4"
-    },
     {
       "type": "trojan",
       "address": "inviting-ferret.rooster465.autos",
@@ -38,25 +10,25 @@
       "name": "🇸🇬 SG 7",
       "sni": "",
       "host": "",
-      "original": "trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-8",
+      "original": "trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
       "ip": "56.10.9.77",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-8"
+      "rebuilt": "trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     },
     {
       "type": "trojan",
-      "address": "holy-lamb.rooster465.autos",
+      "address": "13.212.81.3",
       "port": "443",
       "password": "UX82473651",
-      "name": "🇸🇬 SG 10",
+      "name": "🇸🇬 SG 13",
       "sni": "holy-lamb.rooster465.autos",
       "host": "",
-      "original": "trojan://UX82473651@holy-lamb.rooster465.autos:443?sni=holy-lamb.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-9",
+      "original": "trojan://UX82473651@13.212.81.3:443?security=tls&sni=holy-lamb.rooster465.autos&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-6",
       "ip": "13.212.81.3",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://UX82473651@holy-lamb.rooster465.autos:443?sni=holy-lamb.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-9"
+      "rebuilt": "trojan://UX82473651@13.212.81.3:443?security=tls&sni=holy-lamb.rooster465.autos&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-6"
     },
     {
       "type": "trojan",
@@ -66,25 +38,39 @@
       "name": "🇸🇬 SG 5",
       "sni": "real-cardinal.rooster465.autos",
       "host": "",
-      "original": "trojan://UX82473651@real-cardinal.rooster465.autos:443?sni=real-cardinal.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-10",
+      "original": "trojan://UX82473651@real-cardinal.rooster465.autos:443?sni=real-cardinal.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-7",
       "ip": "52.221.218.179",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://UX82473651@real-cardinal.rooster465.autos:443?sni=real-cardinal.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-10"
+      "rebuilt": "trojan://UX82473651@real-cardinal.rooster465.autos:443?sni=real-cardinal.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-7"
     },
     {
       "type": "trojan",
-      "address": "52.221.220.227",
+      "address": "glowing-marmoset.rooster465.autos",
       "port": "443",
       "password": "UX82473651",
-      "name": "🇸🇬 SG 3",
+      "name": "🇸🇬 SG 12",
+      "sni": "glowing-marmoset.rooster465.autos",
+      "host": "",
+      "original": "trojan://UX82473651@glowing-marmoset.rooster465.autos:443?sni=glowing-marmoset.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-8",
+      "ip": "18.143.92.167",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://UX82473651@glowing-marmoset.rooster465.autos:443?sni=glowing-marmoset.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-8"
+    },
+    {
+      "type": "trojan",
+      "address": "pet-antelope.rooster465.autos",
+      "port": "443",
+      "password": "UX82473651",
+      "name": "🇸🇬 SG 6",
       "sni": "pet-antelope.rooster465.autos",
       "host": "",
-      "original": "trojan://UX82473651@52.221.220.227:443?sni=pet-antelope.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-11",
+      "original": "trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-9",
       "ip": "52.221.220.227",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://UX82473651@52.221.220.227:443?sni=pet-antelope.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-11"
+      "rebuilt": "trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-9"
     },
     {
       "type": "trojan",
@@ -94,11 +80,25 @@
       "name": "🇸🇬 SG 9",
       "sni": "desired-boxer.rooster465.autos",
       "host": "",
-      "original": "trojan://UX82473651@54.254.59.149:443?sni=desired-boxer.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-12",
+      "original": "trojan://UX82473651@54.254.59.149:443?sni=desired-boxer.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-10",
       "ip": "54.254.59.149",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://UX82473651@54.254.59.149:443?sni=desired-boxer.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-12"
+      "rebuilt": "trojan://UX82473651@54.254.59.149:443?sni=desired-boxer.rooster465.autos&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-10"
+    },
+    {
+      "type": "trojan",
+      "address": "holy-lamb.rooster465.autos",
+      "port": "443",
+      "password": "UX82473651",
+      "name": "🇸🇬 SG 10",
+      "sni": "holy-lamb.rooster465.autos",
+      "host": "",
+      "original": "trojan://UX82473651@holy-lamb.rooster465.autos:443?sni=holy-lamb.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-11",
+      "ip": "13.212.81.3",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://UX82473651@holy-lamb.rooster465.autos:443?sni=holy-lamb.rooster465.autos&fp=chrome&type=tcp&path=%2f#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-11"
     }
   ]
 }
