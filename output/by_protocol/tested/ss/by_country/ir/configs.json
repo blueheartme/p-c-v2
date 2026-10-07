@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T14:58:57.263758",
+  "updated": "2026-10-07T20:56:53.020347",
   "count": 3,
   "configs": [
     {
@@ -19,6 +19,21 @@
     },
     {
       "type": "ss",
+      "address": "p2tun2.greewebservices.ir",
+      "port": "1020",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ueWtfPaGavAj6Pc-suQgBg",
+      "name": "@ir_IRANy 📞",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZVd0ZlBhR2F2QWo2UGMtc3VRZ0Jn@p2tun2.greewebservices.ir:1020#%40ir_IRANy%20%F0%9F%93%9E",
+      "ip": "62.60.146.47",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZVd0ZlBhR2F2QWo2UGMtc3VRZ0Jn@p2tun2.greewebservices.ir:1020#%40ir_IRANy%20%F0%9F%93%9E"
+    },
+    {
+      "type": "ss",
       "address": "185.188.105.11",
       "port": "443",
       "method": "none",
@@ -31,21 +46,6 @@
       "tested": true,
       "working": true,
       "rebuilt": "ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.105.11:443#10|@ConfingV2RaayNG"
-    },
-    {
-      "type": "ss",
-      "address": "185.188.104.12",
-      "port": "443",
-      "method": "none",
-      "password": "RSzEIkk2EsHEAVj15N5E/A==",
-      "name": "9|@ConfingV2RaayNG",
-      "original": "ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.104.12:443#9|@ConfingV2RaayNG",
-      "ip": "185.188.104.12",
-      "country": "IR",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.104.12:443#9|@ConfingV2RaayNG"
     }
   ]
 }

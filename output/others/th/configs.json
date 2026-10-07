@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-07T14:58:57.110515",
+  "updated": "2026-10-07T20:56:52.862915",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "103.86.49.57",
-      "port": "80",
-      "id": "3c52e091-6714-4915-949f-2149fe69951b",
-      "name": "🇬🇧@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "ws",
-      "sni": "",
-      "host": "aIs.SpEeDtEsT.nEt",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#vless-ws-TH%F0%9F%87%B9%F0%9F%87%AD-1",
-      "ip": "103.86.49.57",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#vless-ws-TH%F0%9F%87%B9%F0%9F%87%AD-1"
-    },
     {
       "type": "vmess",
       "address": "118.193.57.167",
@@ -31,11 +11,31 @@
       "network": "ws",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwY3MiOiIiLCJwb3J0IjoiNDk2NjciLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVRI8J+HufCfh60tMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "original": "vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwY3MiOiIiLCJwb3J0IjoiNDk2NjciLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVRI8J+HufCfh60tMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==",
       "ip": "118.193.57.167",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwY3MiOiIiLCJwb3J0IjoiNDk2NjciLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVRI8J+HufCfh60tMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwY3MiOiIiLCJwb3J0IjoiNDk2NjciLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVRI8J+HufCfh60tMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+    },
+    {
+      "type": "vless",
+      "address": "103.86.49.57",
+      "port": "80",
+      "id": "3c52e091-6714-4915-949f-2149fe69951b",
+      "name": "🇦🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "ws",
+      "sni": "",
+      "host": "aIs.SpEeDtEsT.nEt",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#vless-ws-TH%F0%9F%87%B9%F0%9F%87%AD-2",
+      "ip": "103.86.49.57",
+      "country": "TH",
+      "cdn": null,
+      "rebuilt": "vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#vless-ws-TH%F0%9F%87%B9%F0%9F%87%AD-2"
     }
   ]
 }
