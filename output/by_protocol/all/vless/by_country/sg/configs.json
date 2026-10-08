@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-08T03:55:52.621702",
-  "count": 2,
+  "updated": "2026-10-08T15:07:38.540015",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "43.174.193.1",
+      "port": "443",
+      "id": "d342d11e-d224-4463-b982-532309285094",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "ccc.010304.xyz",
+      "host": "ccc.010304.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "43.174.193.1",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+    },
     {
       "type": "vless",
       "address": "sg-1.gsafevpnapi.com",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://3da32b09-10e5-4ef9-b422-2e476dd72d87@sg-1.gsafevpnapi.com:20270?security=reality&encryption=none&pbk=q78tZmuaXQTsrrjZtjjRDtoni6tzN-HhXcAY-iT5zF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=fc13d6208ebbae16#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "original": "vless://3da32b09-10e5-4ef9-b422-2e476dd72d87@sg-1.gsafevpnapi.com:20270?security=reality&encryption=none&pbk=q78tZmuaXQTsrrjZtjjRDtoni6tzN-HhXcAY-iT5zF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=fc13d6208ebbae16#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-6",
       "ip": "13.250.28.5",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://3da32b09-10e5-4ef9-b422-2e476dd72d87@sg-1.gsafevpnapi.com:20270?security=reality&encryption=none&pbk=q78tZmuaXQTsrrjZtjjRDtoni6tzN-HhXcAY-iT5zF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=fc13d6208ebbae16#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://3da32b09-10e5-4ef9-b422-2e476dd72d87@sg-1.gsafevpnapi.com:20270?security=reality&encryption=none&pbk=q78tZmuaXQTsrrjZtjjRDtoni6tzN-HhXcAY-iT5zF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=fc13d6208ebbae16#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-6"
     },
     {
       "type": "vless",
@@ -36,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "original": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-7",
       "ip": "54.251.9.130",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-7"
     }
   ]
 }

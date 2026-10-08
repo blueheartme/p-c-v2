@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-08T03:55:52.560696",
-  "count": 12,
+  "updated": "2026-10-08T15:07:38.445329",
+  "count": 7,
   "configs": [
+    {
+      "type": "tg",
+      "address": "87.229.56.8",
+      "port": "443",
+      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=87.229.56.8&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "87.229.56.8",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=87.229.56.8&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    },
     {
       "type": "tg",
       "address": "87.229.56.10",
@@ -16,70 +28,6 @@
     },
     {
       "type": "tg",
-      "address": "87.229.56.8",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.8&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.8",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.8&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "ss",
-      "address": "telegram.khp25.com",
-      "port": "1080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "pno0e2keji2gsfea",
-      "name": "🇭🇰 HK 3",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbm8wZTJrZWppMmdzZmVh@telegram.khp25.com:1080#%f0%9f%87%ad%f0%9f%87%b0%20HK%203",
-      "ip": "181.215.18.196",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbm8wZTJrZWppMmdzZmVh@telegram.khp25.com:1080#%f0%9f%87%ad%f0%9f%87%b0%20HK%203"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.15",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.15&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.15",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.15&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "vmess",
-      "address": "194.99.79.26",
-      "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "@i10VPN⁹",
-      "network": "ws",
-      "host": "aksai.org",
-      "sni": "aksai.org",
-      "original": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTUiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "194.99.79.26",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTUiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.20",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.20&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.20",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.20&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "tg",
       "address": "87.229.56.6",
       "port": "443",
       "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
@@ -89,31 +37,6 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=87.229.56.6&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "ss",
-      "address": "telegramx.khp25.com",
-      "port": "1080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "m5nsedvdczx6x06e",
-      "name": "🇭🇰 HK 4",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNW5zZWR2ZGN6eDZ4MDZl@telegramx.khp25.com:1080#%f0%9f%87%ad%f0%9f%87%b0%20HK%204",
-      "ip": "181.215.18.110",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNW5zZWR2ZGN6eDZ4MDZl@telegramx.khp25.com:1080#%f0%9f%87%ad%f0%9f%87%b0%20HK%204"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.7",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.7",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     },
     {
       "type": "tg",
@@ -135,26 +58,37 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-11",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-11"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5"
     },
     {
-      "type": "vmess",
-      "address": "89.223.95.77",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "@i10VPN⁴",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiI4OS4yMjMuOTUuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0xMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
-      "ip": "89.223.95.77",
+      "type": "ss",
+      "address": "telegram.khp25.com",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "pno0e2keji2gsfea",
+      "name": "🇭🇰 HK 3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbm8wZTJrZWppMmdzZmVh@telegram.khp25.com:1080#%f0%9f%87%ad%f0%9f%87%b0%20HK%203",
+      "ip": "181.215.18.196",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI4OS4yMjMuOTUuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0xMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbm8wZTJrZWppMmdzZmVh@telegram.khp25.com:1080#%f0%9f%87%ad%f0%9f%87%b0%20HK%203"
+    },
+    {
+      "type": "ss",
+      "address": "telegramx.khp25.com",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "m5nsedvdczx6x06e",
+      "name": "🇭🇰 HK 4",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNW5zZWR2ZGN6eDZ4MDZl@telegramx.khp25.com:1080#%f0%9f%87%ad%f0%9f%87%b0%20HK%204",
+      "ip": "181.215.18.110",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNW5zZWR2ZGN6eDZ4MDZl@telegramx.khp25.com:1080#%f0%9f%87%ad%f0%9f%87%b0%20HK%204"
     }
   ]
 }

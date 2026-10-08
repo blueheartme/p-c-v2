@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-08T03:55:52.629222",
-  "count": 3,
+  "updated": "2026-10-08T15:07:38.550792",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "85.90.196.11",
-      "port": "443",
-      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "fzo5i.ir46.90k.hh.ov0.kdns.fr",
-      "host": "fzo5i.ir46.90k.hh.ov0.kdns.fr",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@85.90.196.11:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#vless-ws-tls-RO%F0%9F%87%B7%F0%9F%87%B4-1",
-      "ip": "85.90.196.11",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@85.90.196.11:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#vless-ws-tls-RO%F0%9F%87%B7%F0%9F%87%B4-1"
-    },
     {
       "type": "vless",
       "address": "46.28.67.118",
@@ -36,31 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "safari",
-      "original": "vless://0a1497e6-0570-40a2-84ce-e522eda1c6a4@46.28.67.118:443?encryption=none&security=reality&sni=www.olx.ro&fp=safari&pbk=9xwvSAOWL36GC2_oNuy0APzirpqSYzd8vKPmGINnzjA&type=xhttp&mode=auto&path=%2Fassets#vless-xhttp-reality-safari-RO%F0%9F%87%B7%F0%9F%87%B4-2",
+      "original": "vless://0a1497e6-0570-40a2-84ce-e522eda1c6a4@46.28.67.118:443?encryption=none&security=reality&sni=www.olx.ro&fp=safari&pbk=9xwvSAOWL36GC2_oNuy0APzirpqSYzd8vKPmGINnzjA&type=xhttp&mode=auto&path=%2Fassets#vless-xhttp-reality-safari-RO%F0%9F%87%B7%F0%9F%87%B4-1",
       "ip": "46.28.67.118",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://0a1497e6-0570-40a2-84ce-e522eda1c6a4@46.28.67.118:443?encryption=none&security=reality&sni=www.olx.ro&fp=safari&pbk=9xwvSAOWL36GC2_oNuy0APzirpqSYzd8vKPmGINnzjA&type=xhttp&mode=auto&path=%2Fassets#vless-xhttp-reality-safari-RO%F0%9F%87%B7%F0%9F%87%B4-2"
-    },
-    {
-      "type": "vless",
-      "address": "109.104.106.149",
-      "port": "443",
-      "id": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "d3-ro.cloud-cdn.xyz",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.149:443?security=reality&encryption=none&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=d3-ro.cloud-cdn.xyz&sid=87709fed663228e5#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-3",
-      "ip": "109.104.106.149",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.149:443?security=reality&encryption=none&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=d3-ro.cloud-cdn.xyz&sid=87709fed663228e5#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-3"
+      "rebuilt": "vless://0a1497e6-0570-40a2-84ce-e522eda1c6a4@46.28.67.118:443?encryption=none&security=reality&sni=www.olx.ro&fp=safari&pbk=9xwvSAOWL36GC2_oNuy0APzirpqSYzd8vKPmGINnzjA&type=xhttp&mode=auto&path=%2Fassets#vless-xhttp-reality-safari-RO%F0%9F%87%B7%F0%9F%87%B4-1"
     }
   ]
 }

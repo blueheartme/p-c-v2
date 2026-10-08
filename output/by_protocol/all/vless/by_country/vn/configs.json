@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-29T13:32:03.773834",
+  "updated": "2026-10-08T15:07:38.545069",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "171.244.142.193",
-      "port": "8080",
-      "id": "e2c6905e-46ec-434b-8400-0bc5bf0363e6",
-      "name": "🇻🇳 VN 1",
-      "network": "ws",
+      "address": "157.10.201.93",
+      "port": "14789",
+      "id": "45ea5597-150e-4e3b-b1f1-bba1d82dac86",
+      "name": "@filembad",
+      "network": "tcp",
       "sni": "",
-      "host": "",
+      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
       "security": "",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@171.244.142.193:8080?encryption=none&type=ws&path=%2fv-ws#vless-ws-VN%F0%9F%87%BB%F0%9F%87%B3-1",
-      "ip": "171.244.142.193",
+      "original": "vless://45ea5597-150e-4e3b-b1f1-bba1d82dac86@157.10.201.93:14789?security=&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#vless-tcp-VN%F0%9F%87%BB%F0%9F%87%B3-1",
+      "ip": "157.10.201.93",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@171.244.142.193:8080?encryption=none&type=ws&path=%2fv-ws#vless-ws-VN%F0%9F%87%BB%F0%9F%87%B3-1"
+      "rebuilt": "vless://45ea5597-150e-4e3b-b1f1-bba1d82dac86@157.10.201.93:14789?security=&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#vless-tcp-VN%F0%9F%87%BB%F0%9F%87%B3-1"
     }
   ]
 }
