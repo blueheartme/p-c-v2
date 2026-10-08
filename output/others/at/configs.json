@@ -1,19 +1,20 @@
 {
-  "updated": "2026-10-08T15:07:38.467419",
+  "updated": "2026-10-08T20:58:09.713894",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "82.110.60.9",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "🇬🇧 GB 7",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%f0%9f%87%ac%f0%9f%87%a7%20GB%207",
-      "ip": "82.110.60.9",
+      "type": "trojan",
+      "address": "212.183.88.136",
+      "port": "443",
+      "password": "humanity",
+      "name": "@i10VPN⁸",
+      "sni": "www.calmlunch.com",
+      "host": "www.calmlunch.com",
+      "original": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "212.183.88.136",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%f0%9f%87%ac%f0%9f%87%a7%20GB%207"
+      "rebuilt": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }

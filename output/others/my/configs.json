@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-08T15:07:38.470399",
-  "count": 2,
+  "updated": "2026-10-08T20:58:09.694036",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "216.173.67.59",
+      "port": "443",
+      "id": "d342d11e-d224-4463-b982-532309285094",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "ccc.010304.xyz",
+      "host": "ccc.010304.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-chrome-MY%F0%9F%87%B2%F0%9F%87%BE-1",
+      "ip": "216.173.67.59",
+      "country": "MY",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-chrome-MY%F0%9F%87%B2%F0%9F%87%BE-1"
+    },
     {
       "type": "ss",
       "address": "47.250.212.59",
@@ -29,11 +49,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@45.195.69.230:80?path=%2Fplatform103&security=none&encryption=none&host=platform103.halalkhor.info&type=ws#vless-ws-MY%F0%9F%87%B2%F0%9F%87%BE-2",
+      "original": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@45.195.69.230:80?path=%2Fplatform103&security=none&encryption=none&host=platform103.halalkhor.info&type=ws#vless-ws-MY%F0%9F%87%B2%F0%9F%87%BE-3",
       "ip": "45.195.69.230",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@45.195.69.230:80?path=%2Fplatform103&security=none&encryption=none&host=platform103.halalkhor.info&type=ws#vless-ws-MY%F0%9F%87%B2%F0%9F%87%BE-2"
+      "rebuilt": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@45.195.69.230:80?path=%2Fplatform103&security=none&encryption=none&host=platform103.halalkhor.info&type=ws#vless-ws-MY%F0%9F%87%B2%F0%9F%87%BE-3"
     }
   ]
 }

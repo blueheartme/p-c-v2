@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-08T15:07:38.542335",
-  "count": 1,
+  "updated": "2026-10-08T20:58:09.769035",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "205.237.110.254",
+      "port": "443",
+      "id": "e75ad2eb-6c1f-45ce-8023-f5f10875df66",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "zsit.eu-cdn294.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#vless-xtls-rprx-vision-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-3",
+      "ip": "205.237.110.254",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#vless-xtls-rprx-vision-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-3"
+    },
     {
       "type": "vless",
       "address": "204.216.216.23",
