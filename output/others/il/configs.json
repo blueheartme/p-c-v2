@@ -1,18 +1,26 @@
 {
-  "updated": "2026-10-07T14:58:57.101262",
+  "updated": "2026-10-09T14:52:37.444472",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "dns.vdl.lat",
+      "type": "vless",
+      "address": "85.209.158.187",
       "port": "443",
-      "secret": "eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174",
-      "name": "",
-      "original": "https://t.me/proxy?server=dns.vdl.lat&port=443&secret=eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174",
-      "ip": "79.182.12.25",
+      "id": "ab9929fd-ab22-48e3-8723-480733c0eca9",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "isr.vpnskyline.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "random",
+      "original": "vless://ab9929fd-ab22-48e3-8723-480733c0eca9@85.209.158.187:443?security=reality&encryption=none&pbk=4aN0Mr6AENm6-K7mokUioB8xe99zKP4UDHnzHtWEvBU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=isr.vpnskyline.com&sid=eb1a94ed#vless-xtls-rprx-vision-tcp-reality-random-IL%F0%9F%87%AE%F0%9F%87%B1-1",
+      "ip": "85.209.158.187",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=dns.vdl.lat&port=443&secret=eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174"
+      "rebuilt": "vless://ab9929fd-ab22-48e3-8723-480733c0eca9@85.209.158.187:443?security=reality&encryption=none&pbk=4aN0Mr6AENm6-K7mokUioB8xe99zKP4UDHnzHtWEvBU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=isr.vpnskyline.com&sid=eb1a94ed#vless-xtls-rprx-vision-tcp-reality-random-IL%F0%9F%87%AE%F0%9F%87%B1-1"
     }
   ]
 }
