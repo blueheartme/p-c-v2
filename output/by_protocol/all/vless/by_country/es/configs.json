@@ -1,46 +1,26 @@
 {
-  "updated": "2026-10-08T03:55:52.617760",
-  "count": 2,
+  "updated": "2026-10-09T04:01:08.983038",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "6492.noirex.ir",
-      "port": "34602",
-      "id": "2879a248-579e-46e4-a210-8fda76958bec",
+      "address": "es.srv.dvzh.net",
+      "port": "443",
+      "id": "91344c03-b37f-42c5-90f1-cbb95c5cf256",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "www3.donyumvps.tr",
-      "host": "www3.donyumvps.tr",
+      "sni": "es.srv.dvzh.net",
+      "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://2879a248-579e-46e4-a210-8fda76958bec@6492.noirex.ir:34602?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=VG9zxAcbckuoYLxjAIWz6rYU1xMlZTYj2v3mFopMUkg&sid=a448f3ef#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2",
-      "ip": "5.180.173.210",
+      "fingerprint": "firefox",
+      "original": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@es.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es.srv.dvzh.net&sid=e4e77e76e6e49da7#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "103.240.146.87",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://2879a248-579e-46e4-a210-8fda76958bec@6492.noirex.ir:34602?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=VG9zxAcbckuoYLxjAIWz6rYU1xMlZTYj2v3mFopMUkg&sid=a448f3ef#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2"
-    },
-    {
-      "type": "vless",
-      "address": "0ccb.noirex.ir",
-      "port": "31604",
-      "id": "2879a248-579e-46e4-a210-8fda76958bec",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www3.donyumvps.tr",
-      "host": "www3.donyumvps.tr",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://2879a248-579e-46e4-a210-8fda76958bec@0ccb.noirex.ir:31604?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=y9O2HH8-nVsNZmifTGVNZOuc3gknAl9Mngwmt_x6NhA&sid=37e47e4f#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-4",
-      "ip": "5.180.173.210",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://2879a248-579e-46e4-a210-8fda76958bec@0ccb.noirex.ir:31604?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=y9O2HH8-nVsNZmifTGVNZOuc3gknAl9Mngwmt_x6NhA&sid=37e47e4f#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-4"
+      "rebuilt": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@es.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es.srv.dvzh.net&sid=e4e77e76e6e49da7#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     }
   ]
 }
