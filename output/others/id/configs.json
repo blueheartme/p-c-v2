@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-10T03:46:22.118598",
+  "updated": "2026-10-10T14:09:11.745280",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "103.172.197.3",
-      "port": "16006",
-      "id": "f8c9d2a1-da40-4f90-b671-11772a0b13d6",
-      "name": "برای اتصال دائمی جوین شو🕸 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?security=reality&encryption=none&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#vless-xtls-rprx-vision-tcp-reality-firefox-ID%F0%9F%87%AE%F0%9F%87%A9-1",
-      "ip": "103.172.197.3",
-      "country": "ID",
-      "cdn": null,
-      "rebuilt": "vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?security=reality&encryption=none&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#vless-xtls-rprx-vision-tcp-reality-firefox-ID%F0%9F%87%AE%F0%9F%87%A9-1"
-    },
     {
       "type": "vless",
       "address": "45.198.96.210",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://19b64e79-73b4-4478-bbfc-fb57737b94f8@45.198.96.210:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#vless-xtls-rprx-vision-tcp-reality-chrome-ID%F0%9F%87%AE%F0%9F%87%A9-2",
+      "original": "vless://19b64e79-73b4-4478-bbfc-fb57737b94f8@45.198.96.210:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#vless-xtls-rprx-vision-tcp-reality-chrome-ID%F0%9F%87%AE%F0%9F%87%A9-1",
       "ip": "45.198.96.210",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "vless://19b64e79-73b4-4478-bbfc-fb57737b94f8@45.198.96.210:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#vless-xtls-rprx-vision-tcp-reality-chrome-ID%F0%9F%87%AE%F0%9F%87%A9-2"
+      "rebuilt": "vless://19b64e79-73b4-4478-bbfc-fb57737b94f8@45.198.96.210:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#vless-xtls-rprx-vision-tcp-reality-chrome-ID%F0%9F%87%AE%F0%9F%87%A9-1"
+    },
+    {
+      "type": "vless",
+      "address": "103.172.197.3",
+      "port": "16006",
+      "id": "f8c9d2a1-da40-4f90-b671-11772a0b13d6",
+      "name": "برای اتصال دائمی جوین شو🕸 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?security=reality&encryption=none&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#vless-xtls-rprx-vision-tcp-reality-firefox-ID%F0%9F%87%AE%F0%9F%87%A9-2",
+      "ip": "103.172.197.3",
+      "country": "ID",
+      "cdn": null,
+      "rebuilt": "vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?security=reality&encryption=none&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#vless-xtls-rprx-vision-tcp-reality-firefox-ID%F0%9F%87%AE%F0%9F%87%A9-2"
     }
   ]
 }

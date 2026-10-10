@@ -1,18 +1,26 @@
 {
-  "updated": "2026-10-07T14:58:57.117326",
+  "updated": "2026-10-10T14:09:11.758180",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "reborn.rebirthconnect.com",
+      "type": "vless",
+      "address": "87.58.158.82",
       "port": "443",
-      "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d",
-      "ip": "80.47.237.218",
+      "id": "267b3a79-81f2-42ac-a409-c23b05b6329d",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "dk7.bbobr.win",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "random",
+      "original": "vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?security=reality&encryption=none&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=dk7.bbobr.win&sid=f6985908fcb5612f#vless-xtls-rprx-vision-tcp-reality-random-DK%F0%9F%87%A9%F0%9F%87%B0-1",
+      "ip": "87.58.158.82",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
+      "rebuilt": "vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?security=reality&encryption=none&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=dk7.bbobr.win&sid=f6985908fcb5612f#vless-xtls-rprx-vision-tcp-reality-random-DK%F0%9F%87%A9%F0%9F%87%B0-1"
     }
   ]
 }
