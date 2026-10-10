@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-10T14:09:11.810808",
-  "count": 6,
+  "updated": "2026-10-10T19:40:49.998730",
+  "count": 5,
   "configs": [
     {
       "type": "trojan",
-      "address": "cz-musicc.moritech.net",
+      "address": "31.77.168.21",
       "port": "443",
-      "password": "f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km",
-      "name": "🇨🇿 CZ 1",
-      "sni": "",
+      "password": "MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo",
+      "name": "7|@ConfingV2RaayNG",
+      "sni": "d3-de2.cloud-cdn.xyz",
       "host": "",
-      "original": "trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443?security=tls&type=grpc&serviceName=grpcbeast&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-17",
-      "ip": "31.76.7.45",
+      "original": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=1&type=grpc&serviceName=ajv&allowInsecure=1&sni=d3-de2.cloud-cdn.xyz#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1",
+      "ip": "31.77.168.21",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443?security=tls&type=grpc&serviceName=grpcbeast&path=%2f#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-17"
+      "rebuilt": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=1&type=grpc&serviceName=ajv&allowInsecure=1&sni=d3-de2.cloud-cdn.xyz#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1"
     },
     {
       "type": "trojan",
@@ -26,11 +26,11 @@
       "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
       "sni": "updates.cdn-apple.com",
       "host": "",
-      "original": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@xn--memeshupshop-vl56koa410enom.rekmiva.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=0d12eb289946de9b#trojan-tcp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-37",
+      "original": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@xn--memeshupshop-vl56koa410enom.rekmiva.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=0d12eb289946de9b#trojan-tcp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-42",
       "ip": "78.47.48.44",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@xn--memeshupshop-vl56koa410enom.rekmiva.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=0d12eb289946de9b#trojan-tcp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-37"
+      "rebuilt": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@xn--memeshupshop-vl56koa410enom.rekmiva.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=0d12eb289946de9b#trojan-tcp-reality-DE%F0%9F%87%A9%F0%9F%87%AA-42"
     },
     {
       "type": "trojan",
@@ -40,45 +40,29 @@
       "name": "@i10VPN⁵",
       "sni": "www.calmlunch.com",
       "host": "www.calmlunch.com",
-      "original": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-79",
+      "original": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-68",
       "ip": "185.220.100.168",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-79"
+      "rebuilt": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-68"
     },
     {
       "type": "trojan",
       "address": "93.152.223.201",
       "port": "443",
       "password": "gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU",
-      "name": "@meliproxyy",
+      "name": "Channel : @proxy_kafee",
       "sni": "ger2.fytpn.com",
       "host": "",
-      "original": "trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ger2.fytpn.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-95",
+      "original": "trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&sni=ger2.fytpn.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-90",
       "ip": "93.152.223.201",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ger2.fytpn.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-95"
-    },
-    {
-      "type": "trojan",
-      "address": "31.77.168.21",
-      "port": "443",
-      "password": "MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo",
-      "name": "7|@ConfingV2RaayNG",
-      "sni": "d3-de2.cloud-cdn.xyz",
-      "host": "",
-      "original": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=1&type=grpc&serviceName=ajv&allowInsecure=1&sni=d3-de2.cloud-cdn.xyz#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-104",
-      "ip": "31.77.168.21",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=1&type=grpc&serviceName=ajv&allowInsecure=1&sni=d3-de2.cloud-cdn.xyz#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-104"
+      "rebuilt": "trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&sni=ger2.fytpn.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-90"
     },
     {
       "type": "trojan",
@@ -88,13 +72,11 @@
       "name": "@i10VPN¹⁰",
       "sni": "www.pleadcourt.org",
       "host": "www.pleadcourt.org",
-      "original": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-107",
+      "original": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-204",
       "ip": "78.47.146.151",
       "country": "DE",
       "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-107"
+      "rebuilt": "trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-204"
     }
   ]
 }

@@ -1,11 +1,24 @@
 {
-  "updated": "2026-10-09T14:52:37.432341",
-  "count": 1,
+  "updated": "2026-10-10T19:40:49.932177",
+  "count": 2,
   "configs": [
     {
+      "type": "ss",
+      "address": "2380.n9ne.com.tr",
+      "port": "34319",
+      "method": "chacha20-ietf-poly1305",
+      "password": "SqJYP4gDS1I6XGkioX3RCE3BimKj8dtj",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcUpZUDRnRFMxSTZYR2tpb1gzUkNFM0JpbUtqOGR0ag%3D%3D@2380.n9ne.com.tr:34319#@meliproxyy",
+      "ip": "167.148.156.197",
+      "country": "IS",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcUpZUDRnRFMxSTZYR2tpb1gzUkNFM0JpbUtqOGR0ag%3D%3D@2380.n9ne.com.tr:34319#@meliproxyy"
+    },
+    {
       "type": "vless",
-      "address": "6ed2.n9ne.com.tr",
-      "port": "33304",
+      "address": "bb9c.n9ne.com.tr",
+      "port": "31315",
       "id": "e81e1114-99b5-4fea-aafc-84426e845a14",
       "name": "@meliproxyy",
       "network": "tcp",
@@ -16,11 +29,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://e81e1114-99b5-4fea-aafc-84426e845a14@6ed2.n9ne.com.tr:33304?security=reality&encryption=none&pbk=idRd6zY-_ZNr48i8dC_rHn-UsjDxD3KWxWSKwkbl11A&host=n9ne.com.tr&headerType=none&fp=qq&type=tcp&sni=n9ne.com.tr&sid=b71da54a38c13fbd#vless-tcp-reality-qq-IS%F0%9F%87%AE%F0%9F%87%B8-1",
-      "ip": "167.148.156.59",
+      "original": "vless://e81e1114-99b5-4fea-aafc-84426e845a14@bb9c.n9ne.com.tr:31315?security=reality&encryption=none&pbk=G_fcBwJ4uL_Vvh99Xjxto1Cq70t2QlTjhIgz4jty6hk&host=n9ne.com.tr&headerType=none&fp=qq&type=tcp&sni=n9ne.com.tr&sid=59ecc680e8ea79d1#vless-tcp-reality-qq-IS%F0%9F%87%AE%F0%9F%87%B8-2",
+      "ip": "167.148.156.197",
       "country": "IS",
       "cdn": null,
-      "rebuilt": "vless://e81e1114-99b5-4fea-aafc-84426e845a14@6ed2.n9ne.com.tr:33304?security=reality&encryption=none&pbk=idRd6zY-_ZNr48i8dC_rHn-UsjDxD3KWxWSKwkbl11A&host=n9ne.com.tr&headerType=none&fp=qq&type=tcp&sni=n9ne.com.tr&sid=b71da54a38c13fbd#vless-tcp-reality-qq-IS%F0%9F%87%AE%F0%9F%87%B8-1"
+      "rebuilt": "vless://e81e1114-99b5-4fea-aafc-84426e845a14@bb9c.n9ne.com.tr:31315?security=reality&encryption=none&pbk=G_fcBwJ4uL_Vvh99Xjxto1Cq70t2QlTjhIgz4jty6hk&host=n9ne.com.tr&headerType=none&fp=qq&type=tcp&sni=n9ne.com.tr&sid=59ecc680e8ea79d1#vless-tcp-reality-qq-IS%F0%9F%87%AE%F0%9F%87%B8-2"
     }
   ]
 }
