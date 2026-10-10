@@ -1,19 +1,20 @@
 {
-  "updated": "2026-10-09T20:27:04.496621",
-  "count": 3,
+  "updated": "2026-10-10T03:46:22.104259",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "132.243.175.144",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3",
-      "name": "برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%AD%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
-      "ip": "132.243.175.144",
+      "type": "trojan",
+      "address": "195.15.202.111",
+      "port": "4455",
+      "password": "ea4y8s7qdshp547j",
+      "name": "@meliproxyy",
+      "sni": "play-apps-features.googleusercontent.com",
+      "host": "",
+      "original": "trojan://ea4y8s7qdshp547j@195.15.202.111:4455?security=reality&sni=play-apps-features.googleusercontent.com&fp=firefox&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&sid=9b6b4ff59dce3d&spx=%2F3b2238cdad49967&type=tcp&headerType=none#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "195.15.202.111",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%AD%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
+      "rebuilt": "trojan://ea4y8s7qdshp547j@195.15.202.111:4455?security=reality&sni=play-apps-features.googleusercontent.com&fp=firefox&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&sid=9b6b4ff59dce3d&spx=%2F3b2238cdad49967&type=tcp&headerType=none#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "trojan",
@@ -28,26 +29,6 @@
       "country": "CH",
       "cdn": null,
       "rebuilt": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "vless",
-      "address": "ch.zango.tech",
-      "port": "443",
-      "id": "0b21158e-00f5-4a2f-b242-e3e5574f68a0",
-      "name": "@i10VPN²",
-      "network": "grpc",
-      "sni": "bunny.net",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "qq",
-      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "83.228.246.83",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }
