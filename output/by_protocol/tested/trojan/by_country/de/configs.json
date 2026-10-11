@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T14:33:03.207173",
-  "count": 1,
+  "updated": "2026-10-11T19:50:41.334493",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
@@ -10,13 +10,45 @@
       "name": "7|@ConfingV2RaayNG",
       "sni": "d3-de2.cloud-cdn.xyz",
       "host": "",
-      "original": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=1&type=grpc&serviceName=ajv&allowInsecure=1&sni=d3-de2.cloud-cdn.xyz#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-8",
+      "original": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=1&type=grpc&serviceName=ajv&allowInsecure=1&sni=d3-de2.cloud-cdn.xyz#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1",
       "ip": "31.77.168.21",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=1&type=grpc&serviceName=ajv&allowInsecure=1&sni=d3-de2.cloud-cdn.xyz#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-8"
+      "rebuilt": "trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=1&type=grpc&serviceName=ajv&allowInsecure=1&sni=d3-de2.cloud-cdn.xyz#trojan-grpc-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1"
+    },
+    {
+      "type": "trojan",
+      "address": "185.220.100.168",
+      "port": "443",
+      "password": "humanity",
+      "name": "@i10VPN⁵",
+      "sni": "www.calmlunch.com",
+      "host": "www.calmlunch.com",
+      "original": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-6",
+      "ip": "185.220.100.168",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-6"
+    },
+    {
+      "type": "trojan",
+      "address": "93.152.223.201",
+      "port": "443",
+      "password": "gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU",
+      "name": "@meliproxyy",
+      "sni": "ger2.fytpn.com",
+      "host": "",
+      "original": "trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ger2.fytpn.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-161",
+      "ip": "93.152.223.201",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ger2.fytpn.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-161"
     }
   ]
 }
