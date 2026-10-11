@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T03:19:30.668905",
+  "updated": "2026-10-11T14:33:03.188657",
   "count": 4,
   "configs": [
     {
@@ -30,6 +30,19 @@
     },
     {
       "type": "ss",
+      "address": "51.222.155.32",
+      "port": "5003",
+      "method": "aes-256-gcm",
+      "password": "g5MeD6Ft3CWlJId",
+      "name": "🇨🇦 CA 1",
+      "original": "ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%f0%9f%87%a8%f0%9f%87%a6%20CA%201",
+      "ip": "51.222.155.32",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%f0%9f%87%a8%f0%9f%87%a6%20CA%201"
+    },
+    {
+      "type": "ss",
       "address": "51.222.12.127",
       "port": "445",
       "method": "aes-256-gcm",
@@ -40,19 +53,6 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#Free%20x656%20%40Outline_Vpn"
-    },
-    {
-      "type": "ss",
-      "address": "15.235.75.71",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "FD3rCuOsxOay",
-      "name": "@i10VPN³",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%C2%B3",
-      "ip": "15.235.75.71",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%C2%B3"
     }
   ]
 }

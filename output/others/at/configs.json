@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-11T03:19:30.598489",
-  "count": 1,
+  "updated": "2026-10-11T14:33:03.062667",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "at-3.wizard.select",
       "port": "443",
       "id": "074b00de-c4d0-11f1-9902-a337233c6cda",
-      "name": "@filembad",
+      "name": "@meliproxyy",
       "network": "tcp",
       "sni": "at-3.wizard.select",
       "host": "",
@@ -16,11 +16,25 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://074b00de-c4d0-11f1-9902-a337233c6cda@at-3.wizard.select:443?security=reality&encryption=none&pbk=S9OR9-SQHGl717N9AV_LoouRgSd-M4Yz7os10Mj8XxI&headerType=none&fp=firefox&spx=%2FxK9FUOc178i0I31&type=tcp&flow=xtls-rprx-vision&sni=at-3.wizard.select&sid=cee953f6#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "original": "vless://074b00de-c4d0-11f1-9902-a337233c6cda@at-3.wizard.select:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at-3.wizard.select&fp=firefox&pbk=S9OR9-SQHGl717N9AV_LoouRgSd-M4Yz7os10Mj8XxI&sid=cee953f6&spx=%2FxK9FUOc178i0I31&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1",
       "ip": "157.173.25.108",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://074b00de-c4d0-11f1-9902-a337233c6cda@at-3.wizard.select:443?security=reality&encryption=none&pbk=S9OR9-SQHGl717N9AV_LoouRgSd-M4Yz7os10Mj8XxI&headerType=none&fp=firefox&spx=%2FxK9FUOc178i0I31&type=tcp&flow=xtls-rprx-vision&sni=at-3.wizard.select&sid=cee953f6#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://074b00de-c4d0-11f1-9902-a337233c6cda@at-3.wizard.select:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at-3.wizard.select&fp=firefox&pbk=S9OR9-SQHGl717N9AV_LoouRgSd-M4Yz7os10Mj8XxI&sid=cee953f6&spx=%2FxK9FUOc178i0I31&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "trojan",
+      "address": "212.183.88.136",
+      "port": "443",
+      "password": "humanity",
+      "name": "@i10VPN⁸",
+      "sni": "www.calmlunch.com",
+      "host": "www.calmlunch.com",
+      "original": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "212.183.88.136",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     }
   ]
 }
