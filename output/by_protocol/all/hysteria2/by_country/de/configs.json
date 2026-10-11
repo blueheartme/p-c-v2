@@ -1,17 +1,19 @@
 {
-  "updated": "2026-10-10T19:40:50.047533",
+  "updated": "2026-10-11T03:19:30.698991",
   "count": 1,
   "configs": [
     {
       "type": "hysteria2",
-      "address": "177.1.195.242",
-      "port": "24000",
-      "name": "@meliproxyy",
-      "original": "hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@177.1.195.242:24000?security=tls&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&insecure=0&mport=24000-24999&sni=hy.kirian.su#hysteria2-udp-DE%F0%9F%87%A9%F0%9F%87%AA-49",
-      "ip": "177.1.195.242",
+      "address": "188.241.241.33",
+      "port": "443",
+      "name": "@filembad",
+      "original": "hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443/?insecure=1&sni=dehy.bbobr.win#hysteria2-udp-DE%F0%9F%87%A9%F0%9F%87%AA-37",
+      "ip": "188.241.241.33",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@177.1.195.242:24000?security=tls&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&insecure=0&mport=24000-24999&sni=hy.kirian.su#hysteria2-udp-DE%F0%9F%87%A9%F0%9F%87%AA-49"
+      "tested": true,
+      "working": true,
+      "rebuilt": "hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443/?insecure=1&sni=dehy.bbobr.win#hysteria2-udp-DE%F0%9F%87%A9%F0%9F%87%AA-37"
     }
   ]
 }
