@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-11T19:50:41.261575",
+  "updated": "2026-10-12T03:42:25.633228",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "platform117.golnamakcert.top",
+      "port": "80",
+      "id": "e13cf851-b4fd-413b-8d49-146e6eb8e5d4",
+      "name": "🇲🇾 MY 2",
+      "network": "ws",
+      "sni": "",
+      "host": "platform117.halalkhor.info",
+      "security": "",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?type=ws&host=platform117.halalkhor.info&path=%2fplatform117#vless-ws-MY%F0%9F%87%B2%F0%9F%87%BE-1",
+      "ip": "166.88.35.245",
+      "country": "MY",
+      "cdn": null,
+      "rebuilt": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?type=ws&host=platform117.halalkhor.info&path=%2fplatform117#vless-ws-MY%F0%9F%87%B2%F0%9F%87%BE-1"
+    },
     {
       "type": "vless",
       "address": "platform101.golnamakcert.top",
@@ -16,31 +36,11 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&host=platform101.halalkhor.info&path=%2fplatform101#vless-ws-MY%F0%9F%87%B2%F0%9F%87%BE-1",
+      "original": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&host=platform101.halalkhor.info&path=%2fplatform101#vless-ws-MY%F0%9F%87%B2%F0%9F%87%BE-2",
       "ip": "45.194.27.124",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&host=platform101.halalkhor.info&path=%2fplatform101#vless-ws-MY%F0%9F%87%B2%F0%9F%87%BE-1"
-    },
-    {
-      "type": "vless",
-      "address": "45.195.69.230",
-      "port": "80",
-      "id": "e13cf851-b4fd-413b-8d49-146e6eb8e5d4",
-      "name": "🇲🇾 MY 4",
-      "network": "ws",
-      "sni": "",
-      "host": "platform103.halalkhor.info",
-      "security": "",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@45.195.69.230:80?type=ws&host=platform103.halalkhor.info&path=%2fplatform103#vless-ws-MY%F0%9F%87%B2%F0%9F%87%BE-2",
-      "ip": "45.195.69.230",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@45.195.69.230:80?type=ws&host=platform103.halalkhor.info&path=%2fplatform103#vless-ws-MY%F0%9F%87%B2%F0%9F%87%BE-2"
+      "rebuilt": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&host=platform101.halalkhor.info&path=%2fplatform101#vless-ws-MY%F0%9F%87%B2%F0%9F%87%BE-2"
     }
   ]
 }

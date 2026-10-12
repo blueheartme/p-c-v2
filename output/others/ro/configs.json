@@ -1,19 +1,46 @@
 {
-  "updated": "2026-10-11T14:33:03.060789",
-  "count": 1,
+  "updated": "2026-10-12T03:42:25.557816",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "bogging-eyeteeth-fly.freesocks.work",
+      "type": "vless",
+      "address": "autostream.top",
       "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "QFWzCw2uX9B9i6qAYeFBIE",
-      "name": "🇷🇴 RO 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%201",
-      "ip": "154.46.31.106",
+      "id": "87939c49-07d0-4bfb-8612-5a0380eddebe",
+      "name": "@meliproxyy",
+      "network": "grpc",
+      "sni": "cdnjs.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://87939c49-07d0-4bfb-8612-5a0380eddebe@autostream.top:443?security=reality&encryption=none&pbk=qs57RRflA_LrI4H5rFIgF0aoWM1P1dLrtd5Yi5NiRQ0&fp=firefox&type=grpc&sni=cdnjs.com&sid=2dcb233be829ed90#vless-grpc-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "ip": "82.152.132.14",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%201"
+      "rebuilt": "vless://87939c49-07d0-4bfb-8612-5a0380eddebe@autostream.top:443?security=reality&encryption=none&pbk=qs57RRflA_LrI4H5rFIgF0aoWM1P1dLrtd5Yi5NiRQ0&fp=firefox&type=grpc&sni=cdnjs.com&sid=2dcb233be829ed90#vless-grpc-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+    },
+    {
+      "type": "vless",
+      "address": "herbalromania.top",
+      "port": "443",
+      "id": "62610fc6-8333-41f9-9258-08915e4343ab",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "herbalromania.top",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://62610fc6-8333-41f9-9258-08915e4343ab@herbalromania.top:443?security=reality&encryption=none&pbk=EMM388R9SzURuXjJiD8vzI8pzGaaTdJM5UvRUAuxEg4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=herbalromania.top&sid=e27ba09622ff673a#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-2",
+      "ip": "194.5.248.215",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "vless://62610fc6-8333-41f9-9258-08915e4343ab@herbalromania.top:443?security=reality&encryption=none&pbk=EMM388R9SzURuXjJiD8vzI8pzGaaTdJM5UvRUAuxEg4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=herbalromania.top&sid=e27ba09622ff673a#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-2"
     }
   ]
 }
