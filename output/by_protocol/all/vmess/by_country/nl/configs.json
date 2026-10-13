@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-13T15:29:09.200542",
-  "count": 1,
+  "updated": "2026-10-13T20:56:40.842725",
+  "count": 2,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "pahobac.org",
+      "port": "443",
+      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "name": "@i10VPN¹",
+      "network": "ws",
+      "host": "pahobac.org",
+      "sni": "pahobac.org",
+      "original": "vmess://eyJhZGQiOiJwYWhvYmFjLm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicGFob2JhYy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3MtYXV0by13cy10bHMtTkzwn4ez8J+HsS01Iiwic2N5IjoiYXV0byIsInNuaSI6InBhaG9iYWMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "ip": "139.64.166.25",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiJwYWhvYmFjLm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicGFob2JhYy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3MtYXV0by13cy10bHMtTkzwn4ez8J+HsS01Iiwic2N5IjoiYXV0byIsInNuaSI6InBhaG9iYWMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+    },
     {
       "type": "vmess",
       "address": "cd2.videobazi.com",
@@ -11,11 +26,11 @@
       "network": "httpupgrade",
       "host": "warp.app9.ir",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiJjZDIudmlkZW9iYXppLmNvbSIsImFpZCI6IjAiLCJob3N0Ijoid2FycC5hcHA5LmlyIiwiaWQiOiI2MGI4OGJjZi00YzkwLTRjNDEtOWJkNy05ZjhmZDU3OTU4NDgiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicG9ydCI6MjA1MiwicHMiOiJ2bWVzcy1hdXRvLWh0dHB1cGdyYWRlLU5M8J+Hs/Cfh7EtNTEiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "original": "vmess://eyJhZGQiOiJjZDIudmlkZW9iYXppLmNvbSIsImFpZCI6IjAiLCJob3N0Ijoid2FycC5hcHA5LmlyIiwiaWQiOiI2MGI4OGJjZi00YzkwLTRjNDEtOWJkNy05ZjhmZDU3OTU4NDgiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicG9ydCI6MjA1MiwicHMiOiJ2bWVzcy1hdXRvLWh0dHB1cGdyYWRlLU5M8J+Hs/Cfh7EtMTkiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
       "ip": "188.42.89.89",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJjZDIudmlkZW9iYXppLmNvbSIsImFpZCI6IjAiLCJob3N0Ijoid2FycC5hcHA5LmlyIiwiaWQiOiI2MGI4OGJjZi00YzkwLTRjNDEtOWJkNy05ZjhmZDU3OTU4NDgiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicG9ydCI6MjA1MiwicHMiOiJ2bWVzcy1hdXRvLWh0dHB1cGdyYWRlLU5M8J+Hs/Cfh7EtNTEiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+      "rebuilt": "vmess://eyJhZGQiOiJjZDIudmlkZW9iYXppLmNvbSIsImFpZCI6IjAiLCJob3N0Ijoid2FycC5hcHA5LmlyIiwiaWQiOiI2MGI4OGJjZi00YzkwLTRjNDEtOWJkNy05ZjhmZDU3OTU4NDgiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicG9ydCI6MjA1MiwicHMiOiJ2bWVzcy1hdXRvLWh0dHB1cGdyYWRlLU5M8J+Hs/Cfh7EtMTkiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
     }
   ]
 }
