@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-30T20:27:33.334507",
+  "updated": "2026-10-13T15:29:09.169460",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "13.124.217.252",
-      "port": "8686",
-      "id": "1a17b19d-4896-4531-af79-6e91d8ef8228",
-      "name": "@meliproxyy",
+      "address": "13.125.180.150",
+      "port": "443",
+      "id": "7e68e32f-8015-4f37-9082-70e8b0b58043",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "www.apple.com",
+      "sni": "az2.rtps.cell-1.prod.ap-northeast-2.prod.connect.aws.a2z.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.124.217.252:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#vless-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "13.124.217.252",
+      "original": "vless://7e68e32f-8015-4f37-9082-70e8b0b58043@13.125.180.150:443?security=reality&encryption=none&pbk=DHOrfoin7TeRpnIoU3d6qT5Yrq3QPVFp49kApATA4iE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=az2.rtps.cell-1.prod.ap-northeast-2.prod.connect.aws.a2z.com&sid=e04a526b0b09c765#vless-xtls-rprx-vision-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "13.125.180.150",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.124.217.252:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#vless-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+      "rebuilt": "vless://7e68e32f-8015-4f37-9082-70e8b0b58043@13.125.180.150:443?security=reality&encryption=none&pbk=DHOrfoin7TeRpnIoU3d6qT5Yrq3QPVFp49kApATA4iE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=az2.rtps.cell-1.prod.ap-northeast-2.prod.connect.aws.a2z.com&sid=e04a526b0b09c765#vless-xtls-rprx-vision-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-1"
     }
   ]
 }
