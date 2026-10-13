@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-12T17:13:38.742204",
+  "updated": "2026-10-13T04:55:32.138623",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "54.251.9.130",
-      "port": "24146",
-      "id": "9d9a048b-3aea-4b3e-b106-1106bf301feb",
-      "name": "Biatoo@ConfingV2RaayNG",
+      "address": "34.87.113.18",
+      "port": "443",
+      "id": "5567cac6-2a32-4318-83cd-7df3a9eebbd7",
+      "name": "🇸🇬 SG 1",
       "network": "tcp",
-      "sni": "www.intel.com",
+      "sni": "www.cloudflare.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4",
-      "ip": "54.251.9.130",
+      "original": "vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "34.87.113.18",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+      "rebuilt": "vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-11T19:50:41.271681",
+  "updated": "2026-10-13T04:55:32.148074",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "206.223.249.90",
-      "port": "33891",
-      "id": "9977ba41-b6aa-4033-9492-2f6abfcade31",
+      "address": "199.189.254.242",
+      "port": "443",
+      "id": "f804a3c6-1776-4d81-8563-3a5e78e9f074",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "browser.yandex.com",
+      "sni": "www.kz.forge-relay.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://9977ba41-b6aa-4033-9492-2f6abfcade31@206.223.249.90:33891?security=reality&encryption=none&pbk=fj5f0rWTOAgd2gqCCWgag3oAGwb6MCef3OFNdnQLWW8&headerType=none&fp=chrome&spx=%2Fapi&type=tcp&flow=xtls-rprx-vision&sni=browser.yandex.com&sid=f5bc6788#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "206.223.249.90",
+      "fingerprint": "",
+      "original": "vless://f804a3c6-1776-4d81-8563-3a5e78e9f074@199.189.254.242:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kz.forge-relay.com&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&sid=a1b2c3d4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "199.189.254.242",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://9977ba41-b6aa-4033-9492-2f6abfcade31@206.223.249.90:33891?security=reality&encryption=none&pbk=fj5f0rWTOAgd2gqCCWgag3oAGwb6MCef3OFNdnQLWW8&headerType=none&fp=chrome&spx=%2Fapi&type=tcp&flow=xtls-rprx-vision&sni=browser.yandex.com&sid=f5bc6788#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vless://f804a3c6-1776-4d81-8563-3a5e78e9f074@199.189.254.242:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kz.forge-relay.com&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&sid=a1b2c3d4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }
