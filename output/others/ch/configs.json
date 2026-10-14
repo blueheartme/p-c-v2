@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-14T13:14:28.783233",
-  "count": 3,
+  "updated": "2026-10-14T19:55:17.580629",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "195.15.202.111",
+      "port": "4455",
+      "password": "g44i2hzwivmm7r29",
+      "name": "Free x727 @Outline_Vpn",
+      "sni": "play-apps-features.googleusercontent.com",
+      "host": "",
+      "original": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "195.15.202.111",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "vless",
       "address": "176.65.144.122",
@@ -16,38 +30,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@176.65.144.122:443?security=reality&encryption=none&pbk=iiwc2PXAuQwqUbbFhUxoVFMrLe0UgIWQR3OyPgs1pg0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0dc148af051b6895#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@176.65.144.122:443?security=reality&encryption=none&pbk=iiwc2PXAuQwqUbbFhUxoVFMrLe0UgIWQR3OyPgs1pg0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0dc148af051b6895#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "176.65.144.122",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@176.65.144.122:443?security=reality&encryption=none&pbk=iiwc2PXAuQwqUbbFhUxoVFMrLe0UgIWQR3OyPgs1pg0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0dc148af051b6895#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "ss",
-      "address": "132.243.175.144",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3",
-      "name": "🇨🇭 CH 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%f0%9f%87%a8%f0%9f%87%ad%20CH%201",
-      "ip": "132.243.175.144",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%f0%9f%87%a8%f0%9f%87%ad%20CH%201"
-    },
-    {
-      "type": "trojan",
-      "address": "195.15.202.111",
-      "port": "4455",
-      "password": "g44i2hzwivmm7r29",
-      "name": "Free x727 @Outline_Vpn",
-      "sni": "play-apps-features.googleusercontent.com",
-      "host": "",
-      "original": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "195.15.202.111",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@176.65.144.122:443?security=reality&encryption=none&pbk=iiwc2PXAuQwqUbbFhUxoVFMrLe0UgIWQR3OyPgs1pg0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0dc148af051b6895#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }
