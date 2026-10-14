@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-13T20:56:40.748009",
-  "count": 1,
+  "updated": "2026-10-14T03:02:14.730490",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "103.126.51.58",
+      "port": "995",
+      "id": "1fc575d3-81bb-44d5-9efa-4131c7cc677a",
+      "name": "@meliproxyy",
+      "network": "httpupgrade",
+      "sni": "ocober-romania-new.yyuyy.com",
+      "host": "ocober-romania-new.yyuyy.com",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "random",
+      "original": "vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?encryption=none&security=tls&sni=ocober-romania-new.yyuyy.com&fp=random&type=httpupgrade&host=ocober-romania-new.yyuyy.com&path=%2Fapi%2Fv1#vless-httpupgrade-tls-random-RO%F0%9F%87%B7%F0%9F%87%B4-1",
+      "ip": "103.126.51.58",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?encryption=none&security=tls&sni=ocober-romania-new.yyuyy.com&fp=random&type=httpupgrade&host=ocober-romania-new.yyuyy.com&path=%2Fapi%2Fv1#vless-httpupgrade-tls-random-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+    },
+    {
+      "type": "ss",
+      "address": "154.46.31.106",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "QFWzCw2uX9B9i6qAYeFBIE",
+      "name": "🇷🇴 RO 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%201",
+      "ip": "154.46.31.106",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%201"
+    },
     {
       "type": "ss",
       "address": "bogging-eyeteeth-fly.freesocks.work",

@@ -1,19 +1,51 @@
 {
-  "updated": "2026-10-13T20:56:40.824250",
-  "count": 5,
+  "updated": "2026-10-14T03:02:14.829222",
+  "count": 6,
   "configs": [
     {
       "type": "ss",
-      "address": "194.59.183.134",
-      "port": "46114",
+      "address": "51.195.126.38",
+      "port": "8388",
       "method": "chacha20-ietf-poly1305",
-      "password": "lejSRyqa033OEPmEQsvRsl",
-      "name": "Germany 0VH",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH",
-      "ip": "194.59.183.134",
+      "password": "2YdE4lFOid5a",
+      "name": "🇩🇪 DE 4",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%204",
+      "ip": "51.195.126.38",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH"
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%204"
+    },
+    {
+      "type": "ss",
+      "address": "57.129.113.16",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "NcAXc0UZI6yQJE1p8QmOv8",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#@meliproxyy",
+      "ip": "57.129.113.16",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "156.253.5.197",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "528UsTVttBZoGDagD5OdXw",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjhVc1RWdHRCWm9HRGFnRDVPZFh3@156.253.5.197:1080#%40filembad",
+      "ip": "156.253.5.197",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjhVc1RWdHRCWm9HRGFnRDVPZFh3@156.253.5.197:1080#%40filembad"
     },
     {
       "type": "ss",
@@ -32,36 +64,6 @@
     },
     {
       "type": "ss",
-      "address": "tcp.laseweb.ir",
-      "port": "2087",
-      "method": "chacha20-ietf-poly1305",
-      "password": "0a486b422acdb0fd4638fd4b2ce71cf8",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYTQ4NmI0MjJhY2RiMGZkNDYzOGZkNGIyY2U3MWNmOA@tcp.laseweb.ir:2087#%40filembad",
-      "ip": "46.225.253.152",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYTQ4NmI0MjJhY2RiMGZkNDYzOGZkNGIyY2U3MWNmOA@tcp.laseweb.ir:2087#%40filembad"
-    },
-    {
-      "type": "ss",
-      "address": "51.195.126.38",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "2YdE4lFOid5a",
-      "name": "🇩🇪 DE 4",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%204",
-      "ip": "51.195.126.38",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%204"
-    },
-    {
-      "type": "ss",
       "address": "8.209.74.72",
       "port": "20001",
       "method": "chacha20-ietf-poly1305",
@@ -74,6 +76,19 @@
       "tested": true,
       "working": true,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%f0%9f%87%a9%f0%9f%87%aa%20DE%203"
+    },
+    {
+      "type": "ss",
+      "address": "194.59.183.134",
+      "port": "46114",
+      "method": "chacha20-ietf-poly1305",
+      "password": "lejSRyqa033OEPmEQsvRsl",
+      "name": "Germany 0VH",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH",
+      "ip": "194.59.183.134",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH"
     }
   ]
 }

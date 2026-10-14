@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-01T20:44:17.607883",
+  "updated": "2026-10-14T03:02:14.805614",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "193.24.234.125",
+      "address": "185.18.221.188",
       "port": "443",
-      "id": "06d44c57-8e1a-41f4-b9c4-65d35869e078",
+      "id": "b0a100ee-c397-43f2-bdae-2adfb7a0d4e5",
       "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "web.code-sandbox.blog",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "network": "ws",
+      "sni": "rnxq-1lpi3m.linmeisoft.com",
+      "host": "rnxq-1lpi3m.linmeisoft.com",
+      "security": "tls",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@193.24.234.125:443?security=reality&encryption=none&pbk=Y0OENG_faNE37KNgR5p6fnuIXmoES6sVuCFnWsbUzUw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.code-sandbox.blog&sid=d1d479faa1c1d92f#vless-xtls-rprx-vision-tcp-reality-firefox-IE%F0%9F%87%AE%F0%9F%87%AA-8",
-      "ip": "193.24.234.125",
+      "original": "vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@185.18.221.188:443?path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&security=tls&encryption=none&insecure=0&host=rnxq-1lpi3m.linmeisoft.com&fp=firefox&type=ws&allowInsecure=0&sni=rnxq-1lpi3m.linmeisoft.com#vless-ws-tls-firefox-IE%F0%9F%87%AE%F0%9F%87%AA-13",
+      "ip": "185.18.221.188",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@193.24.234.125:443?security=reality&encryption=none&pbk=Y0OENG_faNE37KNgR5p6fnuIXmoES6sVuCFnWsbUzUw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.code-sandbox.blog&sid=d1d479faa1c1d92f#vless-xtls-rprx-vision-tcp-reality-firefox-IE%F0%9F%87%AE%F0%9F%87%AA-8"
+      "rebuilt": "vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@185.18.221.188:443?path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&security=tls&encryption=none&insecure=0&host=rnxq-1lpi3m.linmeisoft.com&fp=firefox&type=ws&allowInsecure=0&sni=rnxq-1lpi3m.linmeisoft.com#vless-ws-tls-firefox-IE%F0%9F%87%AE%F0%9F%87%AA-13"
     }
   ]
 }

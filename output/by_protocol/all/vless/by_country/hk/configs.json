@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-13T20:56:40.787657",
+  "updated": "2026-10-14T03:02:14.802687",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "42.200.173.5",
-      "port": "443",
-      "id": "b98d4c6e-6770-4a31-8256-a4750cdea0e7",
-      "name": "برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "s3.ap-east-1.amazonaws.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@42.200.173.5:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=s3.ap-east-1.amazonaws.com&sid=1a#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-14",
-      "ip": "42.200.173.5",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@42.200.173.5:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=s3.ap-east-1.amazonaws.com&sid=1a#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-14"
-    },
     {
       "type": "vless",
       "address": "103.193.173.51",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://25b3faeb-89b0-4dff-b0a3-0e70997dc962@103.193.173.51:39485?security=reality&encryption=none&pbk=pzmFiyOtVaKJpJlXYC_hJcDw0hiPvPZ661uZn4NO0Xs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b9#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-23",
+      "original": "vless://25b3faeb-89b0-4dff-b0a3-0e70997dc962@103.193.173.51:39485?security=reality&encryption=none&pbk=pzmFiyOtVaKJpJlXYC_hJcDw0hiPvPZ661uZn4NO0Xs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b9#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
       "ip": "103.193.173.51",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://25b3faeb-89b0-4dff-b0a3-0e70997dc962@103.193.173.51:39485?security=reality&encryption=none&pbk=pzmFiyOtVaKJpJlXYC_hJcDw0hiPvPZ661uZn4NO0Xs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b9#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-23"
+      "rebuilt": "vless://25b3faeb-89b0-4dff-b0a3-0e70997dc962@103.193.173.51:39485?security=reality&encryption=none&pbk=pzmFiyOtVaKJpJlXYC_hJcDw0hiPvPZ661uZn4NO0Xs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b9#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+    },
+    {
+      "type": "vless",
+      "address": "42.200.173.5",
+      "port": "443",
+      "id": "b98d4c6e-6770-4a31-8256-a4750cdea0e7",
+      "name": "برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "s3.ap-east-1.amazonaws.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@42.200.173.5:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=s3.ap-east-1.amazonaws.com&sid=1a#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "42.200.173.5",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@42.200.173.5:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=s3.ap-east-1.amazonaws.com&sid=1a#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }
