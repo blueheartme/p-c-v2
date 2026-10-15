@@ -1,26 +1,46 @@
 {
-  "updated": "2026-10-14T19:55:17.655617",
-  "count": 1,
+  "updated": "2026-10-15T02:42:03.940210",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "176.65.144.122",
+      "address": "ch1.hap-plus.ru",
       "port": "443",
-      "id": "accfae78-b31c-47cb-86a1-bb9a07973e4a",
-      "name": "برای اتصال دائمی جوین شو🕸 TelegramID ⌲Express_freevpn 🪩",
+      "id": "05d7a479-a099-40cf-aecf-41aa934767b0",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "google.com",
+      "sni": "ch1.hap-plus.ru",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@176.65.144.122:443?security=reality&encryption=none&pbk=iiwc2PXAuQwqUbbFhUxoVFMrLe0UgIWQR3OyPgs1pg0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0dc148af051b6895#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "176.65.144.122",
+      "original": "vless://05d7a479-a099-40cf-aecf-41aa934767b0@ch1.hap-plus.ru:443?security=reality&encryption=none&pbk=NItAy5Fi072QpLZ_fscMRjXSIDpR7M3IUUlW6LvXYwE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch1.hap-plus.ru&sid=23ef2df191b16ed6#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "109.66.233.139",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@176.65.144.122:443?security=reality&encryption=none&pbk=iiwc2PXAuQwqUbbFhUxoVFMrLe0UgIWQR3OyPgs1pg0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0dc148af051b6895#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://05d7a479-a099-40cf-aecf-41aa934767b0@ch1.hap-plus.ru:443?security=reality&encryption=none&pbk=NItAy5Fi072QpLZ_fscMRjXSIDpR7M3IUUlW6LvXYwE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch1.hap-plus.ru&sid=23ef2df191b16ed6#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "ch.zango.tech",
+      "port": "443",
+      "id": "0b21158e-00f5-4a2f-b242-e3e5574f68a0",
+      "name": "@i10VPN²",
+      "network": "grpc",
+      "sni": "bunny.net",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "83.228.246.83",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }

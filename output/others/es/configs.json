@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T19:55:17.594023",
-  "count": 1,
+  "updated": "2026-10-15T02:42:03.816682",
+  "count": 4,
   "configs": [
     {
       "type": "vmess",
@@ -16,6 +16,58 @@
       "country": "ES",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+HqvCfh7gtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+    },
+    {
+      "type": "tg",
+      "address": "x.shmelproxy.top",
+      "port": "443",
+      "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275&@MPT_Proxy",
+      "ip": "5.22.219.30",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275&@MPT_Proxy"
+    },
+    {
+      "type": "vless",
+      "address": "79.143.92.57",
+      "port": "443",
+      "id": "breakthebarriers",
+      "name": "@meliproxyy",
+      "network": "xhttp",
+      "sni": "gitlab.io",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://breakthebarriers@79.143.92.57:443?mode=auto&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=8IZiiBEPszvgBeDmpdO2hpSi4K9_dm_fzNCrNxOprRY&fp=chrome&spx=%2F657ebc343549c79&type=xhttp&sni=gitlab.io&sid=c86d3b1b#vless-xhttp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "ip": "79.143.92.57",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://breakthebarriers@79.143.92.57:443?mode=auto&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=8IZiiBEPszvgBeDmpdO2hpSi4K9_dm_fzNCrNxOprRY&fp=chrome&spx=%2F657ebc343549c79&type=xhttp&sni=gitlab.io&sid=c86d3b1b#vless-xhttp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+    },
+    {
+      "type": "vless",
+      "address": "213.182.201.130",
+      "port": "3090",
+      "id": "a256aa26-c6ae-4abe-8594-6ed98b18bf27",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://a256aa26-c6ae-4abe-8594-6ed98b18bf27@213.182.201.130:3090?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#vless-grpc-ES%F0%9F%87%AA%F0%9F%87%B8-4",
+      "ip": "213.182.201.130",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://a256aa26-c6ae-4abe-8594-6ed98b18bf27@213.182.201.130:3090?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#vless-grpc-ES%F0%9F%87%AA%F0%9F%87%B8-4"
     }
   ]
 }

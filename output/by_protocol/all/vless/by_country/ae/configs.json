@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T19:55:17.668282",
+  "updated": "2026-10-15T02:42:03.976068",
   "count": 2,
   "configs": [
     {
@@ -17,7 +17,7 @@
       "headerType": "none",
       "fingerprint": "chrome",
       "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "176.97.78.3",
+      "ip": "38.180.11.103",
       "country": "AE",
       "cdn": null,
       "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
@@ -31,16 +31,16 @@
       "network": "ws",
       "sni": "95.174.68.188",
       "host": "95.174.68.188",
-      "security": "",
+      "security": "none",
       "flow": "",
-      "encryption": "",
-      "headerType": "none",
+      "encryption": "none",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&headerType=none&host=95.174.68.188&path=%2Fvless#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "original": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=none&encryption=none&host=95.174.68.188&type=ws&sni=95.174.68.188#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-2",
       "ip": "95.174.68.188",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&headerType=none&host=95.174.68.188&path=%2Fvless#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=none&encryption=none&host=95.174.68.188&type=ws&sni=95.174.68.188#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }
