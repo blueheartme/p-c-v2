@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T02:42:03.938288",
-  "count": 1,
+  "updated": "2026-10-15T13:00:39.819385",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81#vless-xtls-rprx-vision-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-3",
+      "original": "vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81#vless-xtls-rprx-vision-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-2",
       "ip": "141.164.43.178",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81#vless-xtls-rprx-vision-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-3"
+      "rebuilt": "vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81#vless-xtls-rprx-vision-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vless",
+      "address": "kr2.oh-node.com",
+      "port": "443",
+      "id": "7cfd34ae-edad-4cc5-9d6f-066f7add7829",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.coway.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@kr2.oh-node.com:443?security=reality&encryption=none&pbk=6pZxjabeHoyJlsc2cP3Q5YK7G0bIOQwzWFyiarbUQXc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.coway.com&sid=c8af1462debbc1#vless-xtls-rprx-vision-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-4",
+      "ip": "43.201.70.165",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@kr2.oh-node.com:443?security=reality&encryption=none&pbk=6pZxjabeHoyJlsc2cP3Q5YK7G0bIOQwzWFyiarbUQXc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.coway.com&sid=c8af1462debbc1#vless-xtls-rprx-vision-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-4"
     }
   ]
 }
