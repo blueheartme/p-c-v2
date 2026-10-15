@@ -1,13 +1,33 @@
 {
-  "updated": "2026-10-15T13:00:39.810553",
-  "count": 5,
+  "updated": "2026-10-15T19:37:05.161836",
+  "count": 6,
   "configs": [
+    {
+      "type": "vless",
+      "address": "39.109.110.80",
+      "port": "27916",
+      "id": "57beeeb0-03fc-4fc9-94da-7604488a7134",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "cdn-dynmedia-1.microsoft.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "39.109.110.80",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
     {
       "type": "vless",
       "address": "hk3.oh-node.com",
       "port": "443",
       "id": "7cfd34ae-edad-4cc5-9d6f-066f7add7829",
-      "name": "@filembad",
+      "name": "@proxy_kafee : کانال تلگرام",
       "network": "tcp",
       "sni": "hk4e-launcher-static.hoyoverse.com",
       "host": "",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?security=reality&encryption=none&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hk4e-launcher-static.hoyoverse.com&sid=b81edf7fdee4#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk4e-launcher-static.hoyoverse.com&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&sid=b81edf7fdee4&spx=%2FHesarWeb&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-2",
       "ip": "18.163.208.57",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?security=reality&encryption=none&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hk4e-launcher-static.hoyoverse.com&sid=b81edf7fdee4#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk4e-launcher-static.hoyoverse.com&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&sid=b81edf7fdee4&spx=%2FHesarWeb&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     },
     {
       "type": "vless",
@@ -36,31 +56,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk6.oh-node.com:443?security=reality&encryption=none&pbk=2kl8isq7ajNv3BR6Z1EPag_LqJHmsfo2pn0dA7yetko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.hsbc.com.hk&sid=a2d13d677624197e#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk6.oh-node.com:443?security=reality&encryption=none&pbk=2kl8isq7ajNv3BR6Z1EPag_LqJHmsfo2pn0dA7yetko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.hsbc.com.hk&sid=a2d13d677624197e#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-11",
       "ip": "18.167.20.111",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk6.oh-node.com:443?security=reality&encryption=none&pbk=2kl8isq7ajNv3BR6Z1EPag_LqJHmsfo2pn0dA7yetko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.hsbc.com.hk&sid=a2d13d677624197e#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk6.oh-node.com:443?security=reality&encryption=none&pbk=2kl8isq7ajNv3BR6Z1EPag_LqJHmsfo2pn0dA7yetko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.hsbc.com.hk&sid=a2d13d677624197e#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-11"
     },
     {
       "type": "vless",
-      "address": "39.109.110.80",
-      "port": "27916",
-      "id": "57beeeb0-03fc-4fc9-94da-7604488a7134",
+      "address": "530.150333.xyz",
+      "port": "21001",
+      "id": "a7f30d09-59d6-4aee-8145-a9c58f8ae170",
       "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "cdn-dynmedia-1.microsoft.com",
+      "sni": "www.cloudflare.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6",
-      "ip": "39.109.110.80",
+      "fingerprint": "",
+      "original": "vless://a7f30d09-59d6-4aee-8145-a9c58f8ae170@530.150333.xyz:21001?security=reality&encryption=none&pbk=AgpdDitYHUIsl0-hVB6HV9vlTyfP25grps1E8G2BLDA&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2344dfc9d062ae22#vless-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-12",
+      "ip": "149.104.3.113",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6"
+      "rebuilt": "vless://a7f30d09-59d6-4aee-8145-a9c58f8ae170@530.150333.xyz:21001?security=reality&encryption=none&pbk=AgpdDitYHUIsl0-hVB6HV9vlTyfP25grps1E8G2BLDA&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2344dfc9d062ae22#vless-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-12"
     },
     {
       "type": "vless",
@@ -76,18 +96,18 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-10",
+      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-13",
       "ip": "154.21.203.106",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-10"
+      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-13"
     },
     {
       "type": "vless",
       "address": "hk4.oh-node.com",
       "port": "443",
       "id": "7cfd34ae-edad-4cc5-9d6f-066f7add7829",
-      "name": "@filembad",
+      "name": "@meliproxyy",
       "network": "tcp",
       "sni": "hk4e-launcher-static.hoyoverse.com",
       "host": "",
@@ -96,11 +116,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk4.oh-node.com:443?security=reality&encryption=none&pbk=KhRbgahSFqlPKB6QNp9QYb4oXMy2SIgi440tm6iFZHA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hk4e-launcher-static.hoyoverse.com&sid=ea6b43#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-12",
+      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk4.oh-node.com:443?security=reality&encryption=none&pbk=KhRbgahSFqlPKB6QNp9QYb4oXMy2SIgi440tm6iFZHA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hk4e-launcher-static.hoyoverse.com&sid=ea6b43#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-15",
       "ip": "16.163.102.9",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk4.oh-node.com:443?security=reality&encryption=none&pbk=KhRbgahSFqlPKB6QNp9QYb4oXMy2SIgi440tm6iFZHA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hk4e-launcher-static.hoyoverse.com&sid=ea6b43#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-12"
+      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk4.oh-node.com:443?security=reality&encryption=none&pbk=KhRbgahSFqlPKB6QNp9QYb4oXMy2SIgi440tm6iFZHA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hk4e-launcher-static.hoyoverse.com&sid=ea6b43#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-15"
     }
   ]
 }
