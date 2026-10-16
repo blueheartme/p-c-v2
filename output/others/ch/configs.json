@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T02:37:49.502317",
-  "count": 4,
+  "updated": "2026-10-16T12:56:24.011486",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,32 @@
       "port": "8388",
       "method": "chacha20-ietf-poly1305",
       "password": "e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3",
-      "name": "🇨🇭 CH 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%f0%9f%87%a8%f0%9f%87%ad%20CH%201",
+      "name": "1|@ConfingV2RaayNG",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#1|@ConfingV2RaayNG",
       "ip": "132.243.175.144",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%f0%9f%87%a8%f0%9f%87%ad%20CH%201"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#1|@ConfingV2RaayNG"
+    },
+    {
+      "type": "vless",
+      "address": "79.132.141.248",
+      "port": "23202",
+      "id": "a04c750d-3b71-493b-b2c1-6473ff1209dd",
+      "name": "@filembad",
+      "network": "xhttp",
+      "sni": "www.sony.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@79.132.141.248:23202?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=6oC15TpJ0YxlXVvax9G4Zw-FcP3kKoqgs4iSwOHlvwc&fp=firefox&spx=%2F0f6ac3bda1db9c4&type=xhttp&sni=www.sony.com&sid=8c6e#vless-xhttp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "79.132.141.248",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@79.132.141.248:23202?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=6oC15TpJ0YxlXVvax9G4Zw-FcP3kKoqgs4iSwOHlvwc&fp=firefox&spx=%2F0f6ac3bda1db9c4&type=xhttp&sni=www.sony.com&sid=8c6e#vless-xhttp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
       "type": "trojan",
@@ -23,11 +43,31 @@
       "name": "Free x727 @Outline_Vpn",
       "sni": "play-apps-features.googleusercontent.com",
       "host": "",
-      "original": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
       "ip": "195.15.202.111",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+    },
+    {
+      "type": "vless",
+      "address": "ch.zango.tech",
+      "port": "443",
+      "id": "0b21158e-00f5-4a2f-b242-e3e5574f68a0",
+      "name": "@i10VPN²",
+      "network": "grpc",
+      "sni": "bunny.net",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "ip": "83.228.246.83",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-4"
     },
     {
       "type": "vless",
@@ -43,24 +83,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://05d7a479-a099-40cf-aecf-41aa934767b0@ch1.hap-plus.ru:443?security=reality&encryption=none&pbk=NItAy5Fi072QpLZ_fscMRjXSIDpR7M3IUUlW6LvXYwE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch1.hap-plus.ru&sid=23ef2df191b16ed6#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "vless://05d7a479-a099-40cf-aecf-41aa934767b0@ch1.hap-plus.ru:443?security=reality&encryption=none&pbk=NItAy5Fi072QpLZ_fscMRjXSIDpR7M3IUUlW6LvXYwE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch1.hap-plus.ru&sid=23ef2df191b16ed6#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-5",
       "ip": "109.66.233.139",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://05d7a479-a099-40cf-aecf-41aa934767b0@ch1.hap-plus.ru:443?security=reality&encryption=none&pbk=NItAy5Fi072QpLZ_fscMRjXSIDpR7M3IUUlW6LvXYwE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch1.hap-plus.ru&sid=23ef2df191b16ed6#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-3"
-    },
-    {
-      "type": "ss",
-      "address": "86.106.84.194",
-      "port": "13261",
-      "method": "aes-128-gcm",
-      "password": "2bf536a4bd6008511734a505d248de2c",
-      "name": "@filembad",
-      "original": "ss://YWVzLTEyOC1nY206MmJmNTM2YTRiZDYwMDg1MTE3MzRhNTA1ZDI0OGRlMmNAODYuMTA2Ljg0LjE5NDoxMzI2MQ==#%40filembad",
-      "ip": "86.106.84.194",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206MmJmNTM2YTRiZDYwMDg1MTE3MzRhNTA1ZDI0OGRlMmNAODYuMTA2Ljg0LjE5NDoxMzI2MQ==#%40filembad"
+      "rebuilt": "vless://05d7a479-a099-40cf-aecf-41aa934767b0@ch1.hap-plus.ru:443?security=reality&encryption=none&pbk=NItAy5Fi072QpLZ_fscMRjXSIDpR7M3IUUlW6LvXYwE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch1.hap-plus.ru&sid=23ef2df191b16ed6#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-5"
     }
   ]
 }
