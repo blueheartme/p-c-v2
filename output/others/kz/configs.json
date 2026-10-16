@@ -1,26 +1,21 @@
 {
-  "updated": "2026-10-14T03:02:14.753094",
+  "updated": "2026-10-16T19:11:20.508229",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "199.189.254.242",
-      "port": "443",
-      "id": "f804a3c6-1776-4d81-8563-3a5e78e9f074",
-      "name": "Channel : @proxy_kafee",
-      "network": "tcp",
-      "sni": "www.kz.forge-relay.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://f804a3c6-1776-4d81-8563-3a5e78e9f074@199.189.254.242:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kz.forge-relay.com&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&sid=a1b2c3d4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "199.189.254.242",
+      "type": "vmess",
+      "address": "38.107.234.57",
+      "port": "80",
+      "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+      "name": "🇰🇿 KZ 1",
+      "network": "ws",
+      "host": "viber.com",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1rwn4ew8J+Hvy0xIiwiYWRkIjoiMzguMTA3LjIzNC41NyIsInBvcnQiOjgwLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoidmliZXIuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "38.107.234.57",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://f804a3c6-1776-4d81-8563-3a5e78e9f074@199.189.254.242:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kz.forge-relay.com&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&sid=a1b2c3d4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1rwn4ew8J+Hvy0xIiwiYWRkIjoiMzguMTA3LjIzNC41NyIsInBvcnQiOjgwLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoidmliZXIuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     }
   ]
 }

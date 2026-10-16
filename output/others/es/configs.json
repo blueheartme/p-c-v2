@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T12:56:24.007620",
+  "updated": "2026-10-16T19:11:20.500972",
   "count": 3,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "66.163.118.73",
       "port": "22324",
       "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "@i10VPN⁶",
+      "name": "@i10VPN²",
       "network": "tcp",
       "host": "",
       "sni": "",
@@ -16,20 +16,6 @@
       "country": "ES",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+HqvCfh7gtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
-    },
-    {
-      "type": "trojan",
-      "address": "31.57.190.34",
-      "port": "443",
-      "password": "humanity",
-      "name": "@meliproxyy",
-      "sni": "www.pleadcourt.org",
-      "host": "www.pleadcourt.org",
-      "original": "trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
-      "ip": "31.57.190.34",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     },
     {
       "type": "vless",
@@ -45,11 +31,25 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://breakthebarriers@79.143.92.57:443?mode=auto&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=8IZiiBEPszvgBeDmpdO2hpSi4K9_dm_fzNCrNxOprRY&fp=chrome&spx=%2F657ebc343549c79&type=xhttp&sni=gitlab.io&sid=c86d3b1b#vless-xhttp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "original": "vless://breakthebarriers@79.143.92.57:443?mode=auto&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=8IZiiBEPszvgBeDmpdO2hpSi4K9_dm_fzNCrNxOprRY&fp=chrome&spx=%2F657ebc343549c79&type=xhttp&sni=gitlab.io&sid=c86d3b1b#vless-xhttp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2",
       "ip": "79.143.92.57",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://breakthebarriers@79.143.92.57:443?mode=auto&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=8IZiiBEPszvgBeDmpdO2hpSi4K9_dm_fzNCrNxOprRY&fp=chrome&spx=%2F657ebc343549c79&type=xhttp&sni=gitlab.io&sid=c86d3b1b#vless-xhttp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+      "rebuilt": "vless://breakthebarriers@79.143.92.57:443?mode=auto&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=8IZiiBEPszvgBeDmpdO2hpSi4K9_dm_fzNCrNxOprRY&fp=chrome&spx=%2F657ebc343549c79&type=xhttp&sni=gitlab.io&sid=c86d3b1b#vless-xhttp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
+    {
+      "type": "trojan",
+      "address": "31.57.190.34",
+      "port": "443",
+      "password": "humanity",
+      "name": "@meliproxyy",
+      "sni": "www.pleadcourt.org",
+      "host": "www.pleadcourt.org",
+      "original": "trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "ip": "31.57.190.34",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3"
     }
   ]
 }
