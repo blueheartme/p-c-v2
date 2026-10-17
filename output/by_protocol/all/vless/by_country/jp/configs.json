@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-16T19:11:20.573417",
+  "updated": "2026-10-17T02:30:16.827273",
   "count": 4,
   "configs": [
     {
       "type": "vless",
-      "address": "jp3.oh-node.com",
+      "address": "jp4.oh-node.com",
       "port": "443",
       "id": "7cfd34ae-edad-4cc5-9d6f-066f7add7829",
       "name": "@meliproxyy",
@@ -16,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@jp3.oh-node.com:443?security=reality&encryption=none&pbk=HtrHyKJvjeh9xNVlNXidqFra8n_DhlL8EGu4ERst8QI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bandainamcoent.co.jp&sid=912d2b581f59fb#vless-xtls-rprx-vision-tcp-reality-JP%F0%9F%87%AF%F0%9F%87%B5-1",
-      "ip": "54.178.179.101",
+      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@jp4.oh-node.com:443?security=reality&encryption=none&pbk=qkSw1mYeebLzLGFAxnSu0CuNaSQXdhR-doksZoqEniA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bandainamcoent.co.jp&sid=f75fbd5b#vless-xtls-rprx-vision-tcp-reality-JP%F0%9F%87%AF%F0%9F%87%B5-2",
+      "ip": "18.179.199.157",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@jp3.oh-node.com:443?security=reality&encryption=none&pbk=HtrHyKJvjeh9xNVlNXidqFra8n_DhlL8EGu4ERst8QI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bandainamcoent.co.jp&sid=912d2b581f59fb#vless-xtls-rprx-vision-tcp-reality-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@jp4.oh-node.com:443?security=reality&encryption=none&pbk=qkSw1mYeebLzLGFAxnSu0CuNaSQXdhR-doksZoqEniA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bandainamcoent.co.jp&sid=f75fbd5b#vless-xtls-rprx-vision-tcp-reality-JP%F0%9F%87%AF%F0%9F%87%B5-2"
     },
     {
       "type": "vless",
@@ -36,31 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-2",
+      "original": "vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-5",
       "ip": "142.91.106.31",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+      "rebuilt": "vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-5"
     },
     {
       "type": "vless",
-      "address": "jp4.oh-node.com",
+      "address": "15.168.173.144",
       "port": "443",
-      "id": "7cfd34ae-edad-4cc5-9d6f-066f7add7829",
-      "name": "@meliproxyy",
+      "id": "e0306a33-9971-4b75-a5e0-a176a5a48a2e",
+      "name": "Japan+AWS",
       "network": "tcp",
-      "sni": "www.bandainamcoent.co.jp",
+      "sni": "swdist.apple.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@jp4.oh-node.com:443?security=reality&encryption=none&pbk=qkSw1mYeebLzLGFAxnSu0CuNaSQXdhR-doksZoqEniA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bandainamcoent.co.jp&sid=f75fbd5b#vless-xtls-rprx-vision-tcp-reality-JP%F0%9F%87%AF%F0%9F%87%B5-5",
-      "ip": "18.179.199.157",
+      "fingerprint": "ios",
+      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-6",
+      "ip": "15.168.173.144",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@jp4.oh-node.com:443?security=reality&encryption=none&pbk=qkSw1mYeebLzLGFAxnSu0CuNaSQXdhR-doksZoqEniA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bandainamcoent.co.jp&sid=f75fbd5b#vless-xtls-rprx-vision-tcp-reality-JP%F0%9F%87%AF%F0%9F%87%B5-5"
+      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-6"
     },
     {
       "type": "vless",
@@ -76,11 +76,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?security=reality&encryption=none&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=091e1c5db8451757#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-6",
+      "original": "vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?security=reality&encryption=none&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=091e1c5db8451757#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-8",
       "ip": "154.31.114.248",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?security=reality&encryption=none&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=091e1c5db8451757#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-6"
+      "rebuilt": "vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?security=reality&encryption=none&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=091e1c5db8451757#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-8"
     }
   ]
 }
