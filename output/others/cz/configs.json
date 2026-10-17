@@ -1,46 +1,19 @@
 {
-  "updated": "2026-10-15T19:37:05.079540",
-  "count": 2,
+  "updated": "2026-10-17T11:55:10.416802",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "www.pixellow.online",
-      "port": "443",
-      "id": "31cd24da-8f54-4c0d-bc4a-11c975b7a7a1",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "www.pixellow.online",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://31cd24da-8f54-4c0d-bc4a-11c975b7a7a1@www.pixellow.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.pixellow.online&fp=random&pbk=1Wuq1aa8cy2f9HhFVnqUHj8LL-vJtp-QtNR6u5yh8Bg&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "5.39.202.72",
+      "type": "ss",
+      "address": "67.159.18.34",
+      "port": "17001",
+      "method": "aes-256-gcm",
+      "password": "I6o9NnialYLMEjVt28RF4dpjmr9wMvNL",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%40filembad",
+      "ip": "67.159.18.34",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://31cd24da-8f54-4c0d-bc4a-11c975b7a7a1@www.pixellow.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.pixellow.online&fp=random&pbk=1Wuq1aa8cy2f9HhFVnqUHj8LL-vJtp-QtNR6u5yh8Bg&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
-    },
-    {
-      "type": "vless",
-      "address": "assets.pixellow.online",
-      "port": "443",
-      "id": "31cd24da-8f54-4c0d-bc4a-11c975b7a7a1",
-      "name": "@meliproxyy",
-      "network": "xhttp",
-      "sni": "assets.pixellow.online",
-      "host": "assets.pixellow.online",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "random",
-      "original": "vless://31cd24da-8f54-4c0d-bc4a-11c975b7a7a1@assets.pixellow.online:443?encryption=none&security=reality&sni=assets.pixellow.online&fp=random&pbk=1Wuq1aa8cy2f9HhFVnqUHj8LL-vJtp-QtNR6u5yh8Bg&type=xhttp&host=assets.pixellow.online&path=%2Fmedia-cdn%2Fsegments&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A3%2C%22hKeepAlivePeaiod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#vless-xhttp-reality-random-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
-      "ip": "5.39.202.72",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "vless://31cd24da-8f54-4c0d-bc4a-11c975b7a7a1@assets.pixellow.online:443?encryption=none&security=reality&sni=assets.pixellow.online&fp=random&pbk=1Wuq1aa8cy2f9HhFVnqUHj8LL-vJtp-QtNR6u5yh8Bg&type=xhttp&host=assets.pixellow.online&path=%2Fmedia-cdn%2Fsegments&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A3%2C%22hKeepAlivePeaiod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#vless-xhttp-reality-random-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%40filembad"
     }
   ]
 }
