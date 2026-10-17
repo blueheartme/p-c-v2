@@ -1,21 +1,26 @@
 {
-  "updated": "2026-10-17T11:55:10.389270",
+  "updated": "2026-10-17T18:05:39.511052",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "38.107.234.57",
-      "port": "80",
-      "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+      "type": "vless",
+      "address": "83.222.23.81",
+      "port": "38065",
+      "id": "4b9063e0-3288-44e9-9aac-80fbfce323a0",
       "name": "🇰🇿 KZ 1",
-      "network": "ws",
-      "host": "viber.com",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1rwn4ew8J+Hvy0xIiwiYWRkIjoiMzguMTA3LjIzNC41NyIsInBvcnQiOjgwLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoidmliZXIuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "38.107.234.57",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "83.222.23.81",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1rwn4ew8J+Hvy0xIiwiYWRkIjoiMzguMTA3LjIzNC41NyIsInBvcnQiOjgwLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoidmliZXIuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }
