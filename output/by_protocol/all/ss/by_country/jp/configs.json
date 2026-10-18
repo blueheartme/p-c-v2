@@ -1,19 +1,32 @@
 {
-  "updated": "2026-10-18T12:22:29.853327",
-  "count": 1,
+  "updated": "2026-10-18T18:24:19.785415",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "84.247.155.196",
+      "address": "149.22.87.241",
       "port": "443",
-      "method": "aes-256-gcm",
-      "password": "3eOFeNssde7PYYMv",
-      "name": "1|@ConfingV2RaayNG",
-      "original": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#1|@ConfingV2RaayNG",
-      "ip": "84.247.155.196",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇯🇵 JP 2",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%202",
+      "ip": "149.22.87.241",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#1|@ConfingV2RaayNG"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%202"
+    },
+    {
+      "type": "ss",
+      "address": "149.22.87.240",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "🇯🇵 JP 1",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201",
+      "ip": "149.22.87.240",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201"
     }
   ]
 }

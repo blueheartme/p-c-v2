@@ -1,26 +1,21 @@
 {
-  "updated": "2026-10-18T12:22:29.755182",
+  "updated": "2026-10-18T18:24:19.680063",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "83.222.23.81",
-      "port": "38065",
-      "id": "4b9063e0-3288-44e9-9aac-80fbfce323a0",
+      "type": "vmess",
+      "address": "3h-kazakhstan1.09vpn.com",
+      "port": "80",
+      "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
       "name": "🇰🇿 KZ 1",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "83.222.23.81",
+      "network": "ws",
+      "host": "3h-kazakhstan1.09vpn.com",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1rwn4ew8J+Hvy0xIiwiYWRkIjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhbHBuIjpudWxsLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "38.107.234.57",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&type=tcp&headerType=none&path=%2f#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1rwn4ew8J+Hvy0xIiwiYWRkIjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhbHBuIjpudWxsLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     }
   ]
 }
