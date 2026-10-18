@@ -1,18 +1,26 @@
 {
-  "updated": "2026-10-13T15:29:09.113596",
+  "updated": "2026-10-18T12:22:29.742522",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "ultra.proxynet.tech",
-      "port": "443",
-      "secret": "eec5b6dfd5a5f78d29e7eee7aa64aae742756c7472612e70726f78796e65742e74656368",
-      "name": "",
-      "original": "https://t.me/proxy?server=ultra.proxynet.tech&port=443&secret=eec5b6dfd5a5f78d29e7eee7aa64aae742756c7472612e70726f78796e65742e74656368",
-      "ip": "13.141.64.33",
+      "type": "vless",
+      "address": "185.243.99.100",
+      "port": "1222",
+      "id": "36c3dcc2-17b6-4478-b8a7-3978e6d5afe9",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "play.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#vless-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "ip": "185.243.99.100",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=ultra.proxynet.tech&port=443&secret=eec5b6dfd5a5f78d29e7eee7aa64aae742756c7472612e70726f78796e65742e74656368"
+      "rebuilt": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#vless-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1"
     }
   ]
 }

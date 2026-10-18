@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T02:30:46.693726",
-  "count": 1,
+  "updated": "2026-10-18T12:22:29.803284",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,51 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@195.231.37.150:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpit3.figurapn.ru&sid=868419504747f6de#vless-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-2",
+      "original": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@195.231.37.150:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpit3.figurapn.ru&sid=868419504747f6de#vless-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-1",
       "ip": "195.231.37.150",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@195.231.37.150:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpit3.figurapn.ru&sid=868419504747f6de#vless-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-2"
+      "rebuilt": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@195.231.37.150:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpit3.figurapn.ru&sid=868419504747f6de#vless-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "43.249.72.254",
+      "port": "443",
+      "id": "932b2343-2a3b-45c2-9699-7642a85abdc1",
+      "name": "@prrofile_purple | ViP ⚡",
+      "network": "ws",
+      "sni": "default.ssl.fastly.net",
+      "host": "henzoo.global.ssl.fastly.net",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://932b2343-2a3b-45c2-9699-7642a85abdc1@43.249.72.254:443?vcn=default.ssl.fastly.net&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=henzoo.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-3",
+      "ip": "43.249.72.254",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://932b2343-2a3b-45c2-9699-7642a85abdc1@43.249.72.254:443?vcn=default.ssl.fastly.net&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=henzoo.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-3"
+    },
+    {
+      "type": "vless",
+      "address": "31.59.180.155",
+      "port": "443",
+      "id": "ee18d188-14cc-417e-beb1-70e4add6d023",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "italynew.nztvpn.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@31.59.180.155:443?security=reality&encryption=none&pbk=_0bRaAOYHd4ccDCmnlIq9I13WLRuT4LzlXfV_GGHKE0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=italynew.nztvpn.com&sid=5aab0b0401044801#vless-xtls-rprx-vision-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-4",
+      "ip": "31.59.180.155",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@31.59.180.155:443?security=reality&encryption=none&pbk=_0bRaAOYHd4ccDCmnlIq9I13WLRuT4LzlXfV_GGHKE0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=italynew.nztvpn.com&sid=5aab0b0401044801#vless-xtls-rprx-vision-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-4"
     }
   ]
 }

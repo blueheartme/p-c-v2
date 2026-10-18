@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-18T02:30:46.728761",
-  "count": 1,
+  "updated": "2026-10-18T12:22:29.817172",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "46.62.204.134",
+      "port": "443",
+      "password": "humanity",
+      "name": "@meliproxyy",
+      "sni": "www.pleadcourt.org",
+      "host": "www.pleadcourt.org",
+      "original": "trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-FI%F0%9F%87%AB%F0%9F%87%AE-26",
+      "ip": "46.62.204.134",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-FI%F0%9F%87%AB%F0%9F%87%AE-26"
+    },
     {
       "type": "trojan",
       "address": "fi.zhabulik.ru",
@@ -10,11 +24,11 @@
       "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
       "sni": "fi.zhabulik.ru",
       "host": "",
-      "original": "trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#trojan-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-38",
+      "original": "trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#trojan-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-65",
       "ip": "31.76.103.140",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#trojan-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-38"
+      "rebuilt": "trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#trojan-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-65"
     }
   ]
 }
