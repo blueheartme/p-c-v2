@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T15:11:36.292973",
-  "count": 1,
+  "updated": "2026-10-19T20:49:59.090423",
+  "count": 5,
   "configs": [
     {
       "type": "vmess",
@@ -11,13 +11,81 @@
       "network": "ws",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxODUuMTgxLjE4My4xMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTY0NDA3MjktMTA0Ni00YTljLWJjMTktN2MwZWRlNGJmNGQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODA5NCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSVLwn4eu8J+Hty0yNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
+      "original": "vmess://eyJhZGQiOiIxODUuMTgxLjE4My4xMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTY0NDA3MjktMTA0Ni00YTljLWJjMTktN2MwZWRlNGJmNGQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODA5NCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSVLwn4eu8J+Hty0yMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
       "ip": "185.181.183.124",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiIxODUuMTgxLjE4My4xMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTY0NDA3MjktMTA0Ni00YTljLWJjMTktN2MwZWRlNGJmNGQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODA5NCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSVLwn4eu8J+Hty0yNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiIxODUuMTgxLjE4My4xMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTY0NDA3MjktMTA0Ni00YTljLWJjMTktN2MwZWRlNGJmNGQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODA5NCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSVLwn4eu8J+Hty0yMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
+    },
+    {
+      "type": "vmess",
+      "address": "dashboard.ojestore.top",
+      "port": "5381",
+      "id": "63ad66f6-b7a6-4df0-bf15-0c82a047b7e3",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc3RvcmUudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYzYWQ2NmY2LWI3YTYtNGRmMC1iZjE1LTBjODJhMDQ3YjdlMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTM4MSIsInBzIjoidm1lc3MtYXV0by10Y3AtSVLwn4eu8J+Hty0yNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "94.182.151.218",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc3RvcmUudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYzYWQ2NmY2LWI3YTYtNGRmMC1iZjE1LTBjODJhMDQ3YjdlMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTM4MSIsInBzIjoidm1lc3MtYXV0by10Y3AtSVLwn4eu8J+Hty0yNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+    },
+    {
+      "type": "vmess",
+      "address": "dashboard.ojestore.top",
+      "port": "5381",
+      "id": "8c8960f8-1e29-48a0-bb61-956c9e5a91af",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc3RvcmUudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhjODk2MGY4LTFlMjktNDhhMC1iYjYxLTk1NmM5ZTVhOTFhZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJjb3B5X19zaG9kZV9fYXpfX0NoYW5lbDAxMTFOZXQiLCJwY3MiOiIiLCJwb3J0IjoiNTM4MSIsInBzIjoidm1lc3MtYXV0by10Y3AtSVLwn4eu8J+Hty0zOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "94.182.151.218",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc3RvcmUudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhjODk2MGY4LTFlMjktNDhhMC1iYjYxLTk1NmM5ZTVhOTFhZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJjb3B5X19zaG9kZV9fYXpfX0NoYW5lbDAxMTFOZXQiLCJwY3MiOiIiLCJwb3J0IjoiNTM4MSIsInBzIjoidm1lc3MtYXV0by10Y3AtSVLwn4eu8J+Hty0zOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+    },
+    {
+      "type": "vmess",
+      "address": "dashboard.ojeshop.top",
+      "port": "5380",
+      "id": "63ad66f6-b7a6-4df0-bf15-0c82a047b7e3",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc2hvcC50b3AiLCJhaWQiOiIwIiwiaWQiOiI2M2FkNjZmNi1iN2E2LTRkZjAtYmYxNS0wYzgyYTA0N2I3ZTMiLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo1MzgwLCJwcyI6InZtZXNzLWF1dG8tdGNwLUlS8J+HrvCfh7ctMzkiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "ip": "37.202.225.110",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc2hvcC50b3AiLCJhaWQiOiIwIiwiaWQiOiI2M2FkNjZmNi1iN2E2LTRkZjAtYmYxNS0wYzgyYTA0N2I3ZTMiLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo1MzgwLCJwcyI6InZtZXNzLWF1dG8tdGNwLUlS8J+HrvCfh7ctMzkiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+    },
+    {
+      "type": "vmess",
+      "address": "dashboard.ojeshop.top",
+      "port": "5380",
+      "id": "8c8960f8-1e29-48a0-bb61-956c9e5a91af",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc2hvcC50b3AiLCJhaWQiOiIwIiwiaWQiOiI4Yzg5NjBmOC0xZTI5LTQ4YTAtYmI2MS05NTZjOWU1YTkxYWYiLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo1MzgwLCJwcyI6InZtZXNzLWF1dG8tdGNwLUlS8J+HrvCfh7ctNDQiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "ip": "37.202.225.110",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc2hvcC50b3AiLCJhaWQiOiIwIiwiaWQiOiI4Yzg5NjBmOC0xZTI5LTQ4YTAtYmI2MS05NTZjOWU1YTkxYWYiLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo1MzgwLCJwcyI6InZtZXNzLWF1dG8tdGNwLUlS8J+HrvCfh7ctNDQiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
     }
   ]
 }

@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-19T15:11:36.290997",
-  "count": 1,
+  "updated": "2026-10-19T20:49:59.087168",
+  "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "de10.dedushka.top",
+      "port": "443",
+      "password": "4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA",
+      "name": "@ProxyMTProtoIR",
+      "sni": "de10.dedushka.top",
+      "host": "",
+      "original": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de10.dedushka.top#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-61",
+      "ip": "188.241.241.236",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de10.dedushka.top#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-61"
+    },
+    {
+      "type": "trojan",
+      "address": "188.241.241.122",
+      "port": "443",
+      "password": "4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA",
+      "name": "@meliproxyy",
+      "sni": "de2.dedushka.top",
+      "host": "",
+      "original": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http%2F1.1&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-101",
+      "ip": "188.241.241.122",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http%2F1.1&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-101"
+    },
     {
       "type": "trojan",
       "address": "de2.dedushka.top",
@@ -10,13 +42,13 @@
       "name": "@meliproxyy",
       "sni": "de2.dedushka.top",
       "host": "",
-      "original": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de2.dedushka.top#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-108",
+      "original": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de2.dedushka.top#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-138",
       "ip": "188.241.241.122",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de2.dedushka.top#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-108"
+      "rebuilt": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de2.dedushka.top#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-138"
     }
   ]
 }
