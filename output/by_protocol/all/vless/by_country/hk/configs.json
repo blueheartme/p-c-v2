@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T18:24:19.740664",
-  "count": 1,
+  "updated": "2026-10-19T02:44:25.601870",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-11",
+      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-12",
       "ip": "39.109.110.80",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-11"
+      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-12"
+    },
+    {
+      "type": "vless",
+      "address": "fi.api.nurcloud.org",
+      "port": "443",
+      "id": "29d5b0b0-0417-46cc-948f-8f3077ded709",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "fi.api.nurcloud.org",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://29d5b0b0-0417-46cc-948f-8f3077ded709@fi.api.nurcloud.org:443?security=reality&encryption=none&pbk=DYai8uLOumyG7Gh3H8ADSmRMZpfw-t98uU4D6ean_Gw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fi.api.nurcloud.org&sid=b289dd8ac05d4594#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-13",
+      "ip": "96.62.103.176",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://29d5b0b0-0417-46cc-948f-8f3077ded709@fi.api.nurcloud.org:443?security=reality&encryption=none&pbk=DYai8uLOumyG7Gh3H8ADSmRMZpfw-t98uU4D6ean_Gw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fi.api.nurcloud.org&sid=b289dd8ac05d4594#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-13"
     }
   ]
 }

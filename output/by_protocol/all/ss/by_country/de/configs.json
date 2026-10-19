@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-18T18:24:19.782534",
-  "count": 5,
+  "updated": "2026-10-19T02:44:25.625377",
+  "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "185.226.172.8",
+      "port": "8008",
+      "method": "aes-256-gcm",
+      "password": "XKFKl2rULjIp74",
+      "name": "🇩🇪 DE 4",
+      "original": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%f0%9f%87%a9%f0%9f%87%aa%20DE%204",
+      "ip": "185.226.172.8",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%f0%9f%87%a9%f0%9f%87%aa%20DE%204"
+    },
     {
       "type": "ss",
       "address": "209.46.102.22",
@@ -16,21 +31,6 @@
       "tested": true,
       "working": true,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%f0%9f%87%a9%f0%9f%87%aa%20DE%201"
-    },
-    {
-      "type": "ss",
-      "address": "with.monqela.ir",
-      "port": "26253",
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "cNzPRmWPL/xKZ2pfKgcUKPuoJ8eXWJcwYEtq4YlrppI=:mJEsf+46SPkLkKVufeebN10NQaMtmZlz38GnOuotH68=",
-      "name": "@filembad",
-      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y056UFJtV1BML3hLWjJwZktnY1VLUHVvSjhlWFdKY3dZRXRxNFlscnBwST06bUpFc2YrNDZTUGtMa0tWdWZlZWJOMTBOUWFNdG1abHozOEduT3VvdEg2OD0@with.monqela.ir:26253#%40filembad",
-      "ip": "5.75.214.113",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y056UFJtV1BML3hLWjJwZktnY1VLUHVvSjhlWFdKY3dZRXRxNFlscnBwST06bUpFc2YrNDZTUGtMa0tWdWZlZWJOMTBOUWFNdG1abHozOEduT3VvdEg2OD0@with.monqela.ir:26253#%40filembad"
     },
     {
       "type": "ss",
@@ -61,19 +61,6 @@
       "tested": true,
       "working": true,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%f0%9f%87%a9%f0%9f%87%aa%20DE%203"
-    },
-    {
-      "type": "ss",
-      "address": "194.59.183.134",
-      "port": "46114",
-      "method": "chacha20-ietf-poly1305",
-      "password": "lejSRyqa033OEPmEQsvRsl",
-      "name": "Germany 0VH",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH",
-      "ip": "194.59.183.134",
-      "country": "DE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH"
     }
   ]
 }
