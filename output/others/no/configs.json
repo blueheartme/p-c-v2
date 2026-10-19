@@ -1,18 +1,19 @@
 {
-  "updated": "2026-10-12T17:13:38.703383",
+  "updated": "2026-10-19T15:11:36.143286",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "x.shmelproxy.top",
-      "port": "443",
-      "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-      "ip": "81.27.104.91",
+      "type": "ss",
+      "address": "185.213.23.63",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#@meliproxyy",
+      "ip": "185.213.23.63",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#@meliproxyy"
     }
   ]
 }

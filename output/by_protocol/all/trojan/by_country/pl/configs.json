@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-19T02:44:25.636064",
-  "count": 2,
+  "updated": "2026-10-19T15:11:36.167442",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
-      "address": "78.17.171.62",
+      "address": "pl2.dedushka.top",
       "port": "443",
-      "password": "u93yPGuY2zgIsisJZKS2QzJzg",
+      "password": "4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA",
       "name": "@meliproxyy",
-      "sni": "FREETOPLAY-2.TETRIS-GAME.WORLD",
+      "sni": "pl2.dedushka.top",
       "host": "",
-      "original": "trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4",
-      "ip": "78.17.171.62",
+      "original": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "31.133.0.186",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     },
     {
       "type": "trojan",
@@ -24,11 +24,25 @@
       "name": "@meliproxyy",
       "sni": "pl.tronsg.com",
       "host": "",
-      "original": "trojan://Trojan%4082164024@92.118.150.146:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl.tronsg.com#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-10",
+      "original": "trojan://Trojan%4082164024@92.118.150.146:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl.tronsg.com#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-16",
       "ip": "92.118.150.146",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://Trojan%4082164024@92.118.150.146:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl.tronsg.com#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-10"
+      "rebuilt": "trojan://Trojan%4082164024@92.118.150.146:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl.tronsg.com#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-16"
+    },
+    {
+      "type": "trojan",
+      "address": "78.17.171.62",
+      "port": "443",
+      "password": "u93yPGuY2zgIsisJZKS2QzJzg",
+      "name": "@meliproxyy",
+      "sni": "FREETOPLAY-2.TETRIS-GAME.WORLD",
+      "host": "",
+      "original": "trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-20",
+      "ip": "78.17.171.62",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-20"
     }
   ]
 }
