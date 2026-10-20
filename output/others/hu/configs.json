@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-20T13:12:01.131050",
-  "count": 9,
+  "updated": "2026-10-20T19:47:21.469720",
+  "count": 5,
   "configs": [
+    {
+      "type": "tg",
+      "address": "87.229.56.6",
+      "port": "443",
+      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=87.229.56.6&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "87.229.56.6",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=87.229.56.6&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    },
     {
       "type": "tg",
       "address": "87.229.56.15",
@@ -16,55 +28,15 @@
     },
     {
       "type": "tg",
-      "address": "87.229.56.10",
+      "address": "87.229.56.7",
       "port": "443",
       "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.10&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.10",
+      "original": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "ip": "87.229.56.7",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.10&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "vless",
-      "address": "85.155.242.37",
-      "port": "443",
-      "id": "6338c01a-310e-42c3-bf4f-2a20e161054b",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "hu1.aiage.work",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.37:443?security=reality&encryption=none&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu1.aiage.work&sid=f8379ce795f2e5ed#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-3",
-      "ip": "85.155.242.37",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "vless://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.37:443?security=reality&encryption=none&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu1.aiage.work&sid=f8379ce795f2e5ed#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-3"
-    },
-    {
-      "type": "vless",
-      "address": "85.155.242.38",
-      "port": "443",
-      "id": "6338c01a-310e-42c3-bf4f-2a20e161054b",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "hu1.aiage.work",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.38:443?security=reality&encryption=none&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu1.aiage.work&sid=f8379ce795f2e5ed#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-4",
-      "ip": "85.155.242.38",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "vless://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.38:443?security=reality&encryption=none&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu1.aiage.work&sid=f8379ce795f2e5ed#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%87%AD%F0%9F%87%BA-4"
+      "rebuilt": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     },
     {
       "type": "tg",
@@ -89,42 +61,6 @@
       "country": "HU",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=87.229.56.20&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.8",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.8&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.8",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.8&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.6",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.6&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.6",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.6&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "87.229.56.7",
-      "port": "443",
-      "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "87.229.56.7",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
     }
   ]
 }
