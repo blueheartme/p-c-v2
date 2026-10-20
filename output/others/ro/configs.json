@@ -1,20 +1,7 @@
 {
-  "updated": "2026-10-19T20:49:58.966210",
+  "updated": "2026-10-20T02:55:57.378799",
   "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "bogging-eyeteeth-fly.freesocks.work",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "QFWzCw2uX9B9i6qAYeFBIE",
-      "name": "5|@ConfingV2RaayNG",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#5|@ConfingV2RaayNG",
-      "ip": "154.46.31.106",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#5|@ConfingV2RaayNG"
-    },
     {
       "type": "vless",
       "address": "146.70.124.85",
@@ -29,11 +16,24 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?security=reality&encryption=none&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=fe24f8a0a560056e#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-2",
+      "original": "vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?security=reality&encryption=none&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=fe24f8a0a560056e#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-1",
       "ip": "146.70.124.85",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?security=reality&encryption=none&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=fe24f8a0a560056e#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-2"
+      "rebuilt": "vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?security=reality&encryption=none&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=fe24f8a0a560056e#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+    },
+    {
+      "type": "ss",
+      "address": "bogging-eyeteeth-fly.freesocks.work",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "QFWzCw2uX9B9i6qAYeFBIE",
+      "name": "5|@ConfingV2RaayNG",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#5|@ConfingV2RaayNG",
+      "ip": "154.46.31.106",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#5|@ConfingV2RaayNG"
     }
   ]
 }

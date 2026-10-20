@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-19T20:49:58.958639",
+  "updated": "2026-10-20T02:55:57.370315",
   "count": 4,
   "configs": [
     {
       "type": "vmess",
-      "address": "89.223.95.77",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "@i10VPN⁴",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiI4OS4yMjMuOTUuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
-      "ip": "89.223.95.77",
+      "address": "194.99.79.26",
+      "port": "443",
+      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "name": "@i10VPN⁹",
+      "network": "ws",
+      "host": "aksai.org",
+      "sni": "aksai.org",
+      "original": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "ip": "194.99.79.26",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI4OS4yMjMuOTUuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
     },
     {
       "type": "trojan",
@@ -32,21 +32,6 @@
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     },
     {
-      "type": "vmess",
-      "address": "194.99.79.26",
-      "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "@i10VPN⁹",
-      "network": "ws",
-      "host": "aksai.org",
-      "sni": "aksai.org",
-      "original": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTMiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "194.99.79.26",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTMiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
-    },
-    {
       "type": "ss",
       "address": "103.149.183.80",
       "port": "8388",
@@ -58,6 +43,26 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.80:8388#%f0%9f%87%ad%f0%9f%87%b0%20HK%202"
+    },
+    {
+      "type": "vless",
+      "address": "39.109.110.80",
+      "port": "27916",
+      "id": "57beeeb0-03fc-4fc9-94da-7604488a7134",
+      "name": "برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "cdn-dynmedia-1.microsoft.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "39.109.110.80",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }

@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-19T20:49:59.061056",
+  "updated": "2026-10-20T02:55:57.463432",
   "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "p2tun3.greewebservices.ir",
+      "port": "1030?type=tcp&headerType=none",
+      "method": "chacha20-ietf-poly1305",
+      "password": "FD9ptlhJfYob46-x7xy92A",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDlwdGxoSmZZb2I0Ni14N3h5OTJB@p2tun3.greewebservices.ir:1030?type=tcp&headerType=none#@meliproxyy",
+      "ip": "62.60.135.165",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDlwdGxoSmZZb2I0Ni14N3h5OTJB@p2tun3.greewebservices.ir:1030?type=tcp&headerType=none#@meliproxyy"
+    },
     {
       "type": "ss",
       "address": "p1tun2.greewebservices.ir",
@@ -16,19 +29,6 @@
       "tested": true,
       "working": true,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphVzRLdkdkb1M4bGR0bVJDUzU4aUhn@p1tun2.greewebservices.ir:2060#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
-    },
-    {
-      "type": "ss",
-      "address": "p2tun3.greewebservices.ir",
-      "port": "1030?type=tcp&headerType=none",
-      "method": "chacha20-ietf-poly1305",
-      "password": "FD9ptlhJfYob46-x7xy92A",
-      "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDlwdGxoSmZZb2I0Ni14N3h5OTJB@p2tun3.greewebservices.ir:1030?type=tcp&headerType=none#@meliproxyy",
-      "ip": "62.60.135.165",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDlwdGxoSmZZb2I0Ni14N3h5OTJB@p2tun3.greewebservices.ir:1030?type=tcp&headerType=none#@meliproxyy"
     }
   ]
 }
