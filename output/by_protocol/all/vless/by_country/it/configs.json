@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T02:50:11.888710",
-  "count": 2,
+  "updated": "2026-10-21T13:21:49.039480",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -27,20 +27,40 @@
       "address": "205.237.110.254",
       "port": "443",
       "id": "e75ad2eb-6c1f-45ce-8023-f5f10875df66",
-      "name": "برای اتصال دائمی جوین شو☄️ TelegramID ⌲Express_freevpn 🪩",
+      "name": "برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩",
       "network": "tcp",
       "sni": "zsit.eu-cdn294.com",
-      "host": "",
+      "host": "/?telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#vless-xtls-rprx-vision-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-11",
+      "original": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#vless-xtls-rprx-vision-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-12",
       "ip": "205.237.110.254",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#vless-xtls-rprx-vision-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-11"
+      "rebuilt": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#vless-xtls-rprx-vision-tcp-reality-firefox-IT%F0%9F%87%AE%F0%9F%87%B9-12"
+    },
+    {
+      "type": "vless",
+      "address": "116.204.164.17",
+      "port": "7443",
+      "id": "ef8907eb-8bb5-4735-80f2-1d0068500d95",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev",
+      "host": "ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://ef8907eb-8bb5-4735-80f2-1d0068500d95@116.204.164.17:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-14",
+      "ip": "116.204.164.17",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://ef8907eb-8bb5-4735-80f2-1d0068500d95@116.204.164.17:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev#vless-ws-tls-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-14"
     }
   ]
 }
