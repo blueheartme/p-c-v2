@@ -1,47 +1,7 @@
 {
-  "updated": "2026-10-21T13:21:49.046664",
-  "count": 3,
+  "updated": "2026-10-21T19:51:42.859342",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "179.43.170.84",
-      "port": "443",
-      "id": "8007dda2-aed2-4514-8299-6e3edbdb015b",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "si2.greenzone12.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://8007dda2-aed2-4514-8299-6e3edbdb015b@179.43.170.84:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=si2.greenzone12.com&sid=8718c58d3d51db59#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "179.43.170.84",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://8007dda2-aed2-4514-8299-6e3edbdb015b@179.43.170.84:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=si2.greenzone12.com&sid=8718c58d3d51db59#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "vless",
-      "address": "lists.soloramtin.cyou",
-      "port": "443",
-      "id": "67eb6b17-7797-4ded-bf52-423c4c5f6cbd",
-      "name": "🇺🇸 US 3",
-      "network": "tcp",
-      "sni": "www.foxsports.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "50.117.15.225",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3"
-    },
     {
       "type": "vless",
       "address": "ch.zango.tech",
@@ -56,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "qq",
-      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "83.228.246.83",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "vless",
+      "address": "179.43.170.84",
+      "port": "443",
+      "id": "8007dda2-aed2-4514-8299-6e3edbdb015b",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "si2.greenzone12.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://8007dda2-aed2-4514-8299-6e3edbdb015b@179.43.170.84:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=si2.greenzone12.com&sid=8718c58d3d51db59#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "ip": "179.43.170.84",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://8007dda2-aed2-4514-8299-6e3edbdb015b@179.43.170.84:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=si2.greenzone12.com&sid=8718c58d3d51db59#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-4"
     }
   ]
 }
