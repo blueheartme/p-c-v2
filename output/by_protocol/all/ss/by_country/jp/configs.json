@@ -1,19 +1,58 @@
 {
-  "updated": "2026-10-21T19:51:42.916586",
-  "count": 1,
+  "updated": "2026-10-22T02:48:56.404505",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
-      "address": "149.22.87.241",
+      "address": "84.247.155.196",
+      "port": "80",
+      "method": "aes-256-gcm",
+      "password": "3eOFeNssde7PYYMv",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#@meliproxyy",
+      "ip": "84.247.155.196",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "149.22.87.240",
       "port": "443",
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "name": "🇯🇵 JP 1",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201",
-      "ip": "149.22.87.241",
+      "name": "🇯🇵 JP 3",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%203",
+      "ip": "149.22.87.240",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%203"
+    },
+    {
+      "type": "ss",
+      "address": "154.36.158.197",
+      "port": "8388",
+      "method": "aes-256-gcm",
+      "password": "BeaUf9c0AEWH40Pu",
+      "name": "🇯🇵 JP 6",
+      "original": "ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%206",
+      "ip": "154.36.158.197",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%206"
+    },
+    {
+      "type": "ss",
+      "address": "191.223.221.53",
+      "port": "8388",
+      "method": "aes-256-gcm",
+      "password": "JuD6MNgtX3nVpCzFzXYVYjDTZ7nsmaTv",
+      "name": "🇯🇵 JP 4",
+      "original": "ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY=@191.223.221.53:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%204",
+      "ip": "191.223.221.53",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY=@191.223.221.53:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%204"
     }
   ]
 }

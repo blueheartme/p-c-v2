@@ -1,21 +1,7 @@
 {
-  "updated": "2026-10-21T19:51:42.884213",
+  "updated": "2026-10-22T02:48:56.376642",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "pl1.dedushka.top",
-      "port": "443",
-      "password": "4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA",
-      "name": "🇵🇱 PL 3",
-      "sni": "pl1.dedushka.top",
-      "host": "",
-      "original": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4",
-      "ip": "31.133.0.182",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4"
-    },
     {
       "type": "trojan",
       "address": "pl2.dedushka.top",
@@ -24,11 +10,25 @@
       "name": "@meliproxyy",
       "sni": "pl2.dedushka.top",
       "host": "",
-      "original": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-14",
+      "original": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "31.133.0.186",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-14"
+      "rebuilt": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "trojan",
+      "address": "pl1.dedushka.top",
+      "port": "443",
+      "password": "4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA",
+      "name": "🇵🇱 PL 3",
+      "sni": "pl1.dedushka.top",
+      "host": "",
+      "original": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-24",
+      "ip": "31.133.0.182",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&fp=chrome&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-24"
     }
   ]
 }
