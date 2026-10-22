@@ -1,26 +1,19 @@
 {
-  "updated": "2026-10-17T02:30:16.783899",
+  "updated": "2026-10-22T19:41:05.359819",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "aelix-al.safire-soleiman.ir",
-      "port": "6311",
-      "id": "2ffa91fe-e1cc-4c44-a90a-45002feae978",
+      "type": "ss",
+      "address": "130.49.189.158",
+      "port": "43558",
+      "method": "chacha20-ietf-poly1305",
+      "password": "nQeEoXC5Yl5PZnPLvKUpFTU9cyQcNG902zpibWkwGbo=",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "play.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://2ffa91fe-e1cc-4c44-a90a-45002feae978@aelix-al.safire-soleiman.ir:6311?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-AL%F0%9F%87%A6%F0%9F%87%B1-1",
-      "ip": "130.49.189.146",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#%40filembad",
+      "ip": "130.49.189.158",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "vless://2ffa91fe-e1cc-4c44-a90a-45002feae978@aelix-al.safire-soleiman.ir:6311?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-AL%F0%9F%87%A6%F0%9F%87%B1-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#%40filembad"
     }
   ]
 }
