@@ -1,39 +1,19 @@
 {
-  "updated": "2026-10-22T02:48:56.317398",
-  "count": 2,
+  "updated": "2026-10-22T13:22:12.621016",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "84.32.109.20",
-      "port": "443",
-      "id": "ee18d188-14cc-417e-beb1-70e4add6d023",
-      "name": "YFZ 25 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "litv.nztvpn.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?security=reality&encryption=none&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=litv.nztvpn.com&sid=0da7e14db353e7d0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1",
-      "ip": "84.32.109.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?security=reality&encryption=none&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=litv.nztvpn.com&sid=0da7e14db353e7d0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1"
-    },
     {
       "type": "ss",
       "address": "195.238.126.20",
-      "port": "9086",
+      "port": "9011",
       "method": "aes-256-cfb",
-      "password": "37Z4TFCYhfxcpc9Q",
-      "name": "🇱🇹 LT 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201",
+      "password": "M3t2ZEQcMGRWBjRa",
+      "name": "🇱🇹 LT 2",
+      "original": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#%f0%9f%87%b1%f0%9f%87%b9%20LT%202",
       "ip": "195.238.126.20",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#%f0%9f%87%b1%f0%9f%87%b9%20LT%202"
     }
   ]
 }

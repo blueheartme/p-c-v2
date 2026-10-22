@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-22T02:48:56.356295",
-  "count": 2,
+  "updated": "2026-10-22T13:22:12.672622",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "ch.zango.tech",
+      "port": "443",
+      "id": "0b21158e-00f5-4a2f-b242-e3e5574f68a0",
+      "name": "@i10VPN²",
+      "network": "grpc",
+      "sni": "bunny.net",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "83.228.246.83",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "208.69.78.217",
+      "port": "2053",
+      "id": "c0dd6d59-1573-43af-8b70-1470b2632a6d",
+      "name": "🇨🇭 CH 2",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?security=reality&sni=www.apple.com&fp=chrome&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&type=tcp&path=%2f#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "ip": "208.69.78.217",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?security=reality&sni=www.apple.com&fp=chrome&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&type=tcp&path=%2f#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+    },
     {
       "type": "vless",
       "address": "179.43.170.84",
@@ -16,31 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://8007dda2-aed2-4514-8299-6e3edbdb015b@179.43.170.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=si2.greenzone12.com&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "vless://8007dda2-aed2-4514-8299-6e3edbdb015b@179.43.170.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=si2.greenzone12.com&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-5",
       "ip": "179.43.170.84",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://8007dda2-aed2-4514-8299-6e3edbdb015b@179.43.170.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=si2.greenzone12.com&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "vless",
-      "address": "p2real5.greewebservices.ir",
-      "port": "1350",
-      "id": "2582857a-632b-4c4e-9b67-96213cbaf58c",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "play.googleapis.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "131.123.34.193",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://8007dda2-aed2-4514-8299-6e3edbdb015b@179.43.170.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=si2.greenzone12.com&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-5"
     }
   ]
 }

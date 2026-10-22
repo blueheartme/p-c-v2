@@ -1,66 +1,21 @@
 {
-  "updated": "2026-10-19T15:11:36.230959",
-  "count": 4,
+  "updated": "2026-10-22T13:22:12.697609",
+  "count": 1,
   "configs": [
     {
       "type": "vmess",
-      "address": "hong.1.povrak.ir",
-      "port": "56268",
-      "id": "29c6f854-2068-4899-8d68-7a5f0ffb92d1",
+      "address": "65.109.209.239",
+      "port": "16911",
+      "id": "c5f59d68-5a26-40b8-a086-2f531e06737c",
       "name": "@filembad",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiJob25nLjEucG92cmFrLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI5YzZmODU0LTIwNjgtNDg5OS04ZDY4LTdhNWYwZmZiOTJkMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTYyNjgiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUZJ8J+Hq/Cfh64tMTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "13.140.93.215",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtRknwn4er8J+Hri0yOCIsImFkZCI6IjY1LjEwOS4yMDkuMjM5IiwicG9ydCI6IjE2OTExIiwiaWQiOiJjNWY1OWQ2OC01YTI2LTQwYjgtYTA4Ni0yZjUzMWUwNjczN2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIifQ==",
+      "ip": "65.109.209.239",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJob25nLjEucG92cmFrLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI5YzZmODU0LTIwNjgtNDg5OS04ZDY4LTdhNWYwZmZiOTJkMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTYyNjgiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUZJ8J+Hq/Cfh64tMTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
-    },
-    {
-      "type": "vmess",
-      "address": "37.27.65.125",
-      "port": "25514",
-      "id": "c512c69f-e7f4-42ec-9173-9f88950e8886",
-      "name": "@filembad",
-      "network": "ws",
-      "host": "37.27.65.125",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIzNy4yNy42NS4xMjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjM3LjI3LjY1LjEyNSIsImlkIjoiYzUxMmM2OWYtZTdmNC00MmVjLTkxNzMtOWY4ODk1MGU4ODg2IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL0BCbHVlS25pZ2h0X05ldC0tQEJsdWVLbmlnaHRfTmV0LS1AQmx1ZUtuaWdodF9OZXQtLUBCbHVlS25pZ2h0X05ldC0tdm1lc3MiLCJwY3MiOiIiLCJwb3J0IjoiMjU1MTQiLCJwcyI6InZtZXNzLWF1dG8td3MtRknwn4er8J+Hri0xNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
-      "ip": "37.27.65.125",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIzNy4yNy42NS4xMjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjM3LjI3LjY1LjEyNSIsImlkIjoiYzUxMmM2OWYtZTdmNC00MmVjLTkxNzMtOWY4ODk1MGU4ODg2IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL0BCbHVlS25pZ2h0X05ldC0tQEJsdWVLbmlnaHRfTmV0LS1AQmx1ZUtuaWdodF9OZXQtLUBCbHVlS25pZ2h0X05ldC0tdm1lc3MiLCJwY3MiOiIiLCJwb3J0IjoiMjU1MTQiLCJwcyI6InZtZXNzLWF1dG8td3MtRknwn4er8J+Hri0xNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
-    },
-    {
-      "type": "vmess",
-      "address": "hong.1.povrak.ir",
-      "port": "47014",
-      "id": "29c6f854-2068-4899-8d68-7a5f0ffb92d1",
-      "name": "@filembad",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJob25nLjEucG92cmFrLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI5YzZmODU0LTIwNjgtNDg5OS04ZDY4LTdhNWYwZmZiOTJkMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNDcwMTQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUZJ8J+Hq/Cfh64tMzIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "13.140.93.215",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJob25nLjEucG92cmFrLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI5YzZmODU0LTIwNjgtNDg5OS04ZDY4LTdhNWYwZmZiOTJkMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNDcwMTQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUZJ8J+Hq/Cfh64tMzIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
-    },
-    {
-      "type": "vmess",
-      "address": "hong.1.povrak.ir",
-      "port": "52364",
-      "id": "29c6f854-2068-4899-8d68-7a5f0ffb92d1",
-      "name": "@filembad",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJob25nLjEucG92cmFrLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI5YzZmODU0LTIwNjgtNDg5OS04ZDY4LTdhNWYwZmZiOTJkMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTIzNjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUZJ8J+Hq/Cfh64tMzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "13.140.93.215",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJob25nLjEucG92cmFrLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI5YzZmODU0LTIwNjgtNDg5OS04ZDY4LTdhNWYwZmZiOTJkMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTIzNjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUZJ8J+Hq/Cfh64tMzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtRknwn4er8J+Hri0yOCIsImFkZCI6IjY1LjEwOS4yMDkuMjM5IiwicG9ydCI6IjE2OTExIiwiaWQiOiJjNWY1OWQ2OC01YTI2LTQwYjgtYTA4Ni0yZjUzMWUwNjczN2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIifQ=="
     }
   ]
 }

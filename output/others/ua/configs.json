@@ -1,26 +1,18 @@
 {
-  "updated": "2026-10-21T02:50:11.823757",
+  "updated": "2026-10-22T13:22:12.603026",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "185.243.99.100",
-      "port": "1222",
-      "id": "36c3dcc2-17b6-4478-b8a7-3978e6d5afe9",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "play.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#vless-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1",
-      "ip": "185.243.99.100",
+      "type": "tg",
+      "address": "max.mishutkin.click",
+      "port": "443",
+      "secret": "ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=max.mishutkin.click&port=443&secret=ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d",
+      "ip": "31.57.12.77",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#vless-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "https://t.me/proxy?server=max.mishutkin.click&port=443&secret=ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d"
     }
   ]
 }
