@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T13:22:12.595902",
-  "count": 3,
+  "updated": "2026-10-23T02:52:43.435874",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,39 +21,6 @@
       "country": "RO",
       "cdn": null,
       "rebuilt": "vless://74f5426b-19d9-4567-a7ff-865aa4c87cca@pub-07h33f.mydevelopertool.xyz:8000?flow=xtls-rprx-vision&encryption=none&security=reality&sni=sni-07h33f.mydevelopertool.xyz&fp=safari&pbk=2dv8gNuhbvuxFB2A2bsxGj1lQ_ApOmj_-5qXejNxRwY&sid=e0954def98b22710&spx=%2F887354a7793d8f1&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-safari-RO%F0%9F%87%B7%F0%9F%87%B4-1"
-    },
-    {
-      "type": "ss",
-      "address": "154.46.31.106",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "QFWzCw2uX9B9i6qAYeFBIE",
-      "name": "🇷🇴 RO 2",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%202",
-      "ip": "154.46.31.106",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%202"
-    },
-    {
-      "type": "vless",
-      "address": "109.104.106.101",
-      "port": "443",
-      "id": "e5544327-834c-455a-9db5-2454c788fa17",
-      "name": "🇷🇴 RO 1",
-      "network": "tcp",
-      "sni": "d1-ro.cloud-cdn.xyz",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://e5544327-834c-455a-9db5-2454c788fa17@109.104.106.101:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=d1-ro.cloud-cdn.xyz&fp=edge&pbk=V-6tk21giXjug4ZXwpAhT4aXHjsXYwkgznT4dQEc9Aw&sid=48d6ed723454f6db&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-RO%F0%9F%87%B7%F0%9F%87%B4-3",
-      "ip": "109.104.106.101",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "vless://e5544327-834c-455a-9db5-2454c788fa17@109.104.106.101:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=d1-ro.cloud-cdn.xyz&fp=edge&pbk=V-6tk21giXjug4ZXwpAhT4aXHjsXYwkgznT4dQEc9Aw&sid=48d6ed723454f6db&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-RO%F0%9F%87%B7%F0%9F%87%B4-3"
     }
   ]
 }
