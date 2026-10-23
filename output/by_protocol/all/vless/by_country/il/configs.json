@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-09T14:52:37.517813",
+  "updated": "2026-10-23T13:00:17.536376",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "85.209.158.187",
-      "port": "443",
-      "id": "ab9929fd-ab22-48e3-8723-480733c0eca9",
+      "address": "77.91.69.169",
+      "port": "19226",
+      "id": "f0b144bd-4c44-440d-b630-d79ec82cad3a",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "isr.vpnskyline.com",
+      "sni": "yahoo.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://ab9929fd-ab22-48e3-8723-480733c0eca9@85.209.158.187:443?security=reality&encryption=none&pbk=4aN0Mr6AENm6-K7mokUioB8xe99zKP4UDHnzHtWEvBU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=isr.vpnskyline.com&sid=eb1a94ed#vless-xtls-rprx-vision-tcp-reality-random-IL%F0%9F%87%AE%F0%9F%87%B1-1",
-      "ip": "85.209.158.187",
+      "fingerprint": "firefox",
+      "original": "vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c#vless-xtls-rprx-vision-tcp-reality-firefox-IL%F0%9F%87%AE%F0%9F%87%B1-1",
+      "ip": "77.91.69.169",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "vless://ab9929fd-ab22-48e3-8723-480733c0eca9@85.209.158.187:443?security=reality&encryption=none&pbk=4aN0Mr6AENm6-K7mokUioB8xe99zKP4UDHnzHtWEvBU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=isr.vpnskyline.com&sid=eb1a94ed#vless-xtls-rprx-vision-tcp-reality-random-IL%F0%9F%87%AE%F0%9F%87%B1-1"
+      "rebuilt": "vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c#vless-xtls-rprx-vision-tcp-reality-firefox-IL%F0%9F%87%AE%F0%9F%87%B1-1"
     }
   ]
 }
