@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-23T13:00:17.486462",
-  "count": 2,
+  "updated": "2026-10-23T19:42:46.409501",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "179.237.109.135",
-      "port": "443",
-      "id": "bfd81b63-a43d-4c27-b71d-2c948cfc4ab2",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "seznam.cz",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://bfd81b63-a43d-4c27-b71d-2c948cfc4ab2@179.237.109.135:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "179.237.109.135",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://bfd81b63-a43d-4c27-b71d-2c948cfc4ab2@179.237.109.135:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
     {
       "type": "vless",
       "address": "ch.zango.tech",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "qq",
-      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "83.228.246.83",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }

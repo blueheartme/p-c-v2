@@ -1,46 +1,26 @@
 {
-  "updated": "2026-10-18T12:22:29.737221",
-  "count": 2,
+  "updated": "2026-10-23T19:42:46.406187",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "7a93d9a1af92.salzivo.ir",
+      "address": "140.248.69.254",
       "port": "443",
-      "id": "410bc842-c3df-4fc5-9e11-0feab5c97d64",
+      "id": "633c1bb0-60d5-41fb-a9c4-11f408b264ec",
       "name": "@meliproxyy",
       "network": "xhttp",
-      "sni": "google.com",
-      "host": "uzcbzfiwipn6.global.ssl.fastly.net",
+      "sni": "speedtest.net",
+      "host": "1fastli-name.global.ssl.fastly.net",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://410bc842-c3df-4fc5-9e11-0feab5c97d64@7a93d9a1af92.salzivo.ir:443?vcn=default.ssl.fastly.net&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=google.com&mode=auto&path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=uzcbzfiwipn6.global.ssl.fastly.net&allowInsecure=0#vless-xhttp-tls-chrome-DK%F0%9F%87%A9%F0%9F%87%B0-1",
+      "original": "vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@140.248.69.254:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2048&security=tls&alpn=h2&encryption=none&insecure=0&host=1fastli-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=speedtest.net#vless-xhttp-tls-chrome-DK%F0%9F%87%A9%F0%9F%87%B0-1",
       "ip": "140.248.69.254",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://410bc842-c3df-4fc5-9e11-0feab5c97d64@7a93d9a1af92.salzivo.ir:443?vcn=default.ssl.fastly.net&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=google.com&mode=auto&path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=uzcbzfiwipn6.global.ssl.fastly.net&allowInsecure=0#vless-xhttp-tls-chrome-DK%F0%9F%87%A9%F0%9F%87%B0-1"
-    },
-    {
-      "type": "vless",
-      "address": "87.58.158.82",
-      "port": "443",
-      "id": "267b3a79-81f2-42ac-a409-c23b05b6329d",
-      "name": "3|@ConfingV2RaayNG",
-      "network": "tcp",
-      "sni": "dk7.bbobr.win",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?security=reality&encryption=none&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=dk7.bbobr.win&sid=f6985908fcb5612f#vless-xtls-rprx-vision-tcp-reality-random-DK%F0%9F%87%A9%F0%9F%87%B0-2",
-      "ip": "87.58.158.82",
-      "country": "DK",
-      "cdn": null,
-      "rebuilt": "vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?security=reality&encryption=none&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=dk7.bbobr.win&sid=f6985908fcb5612f#vless-xtls-rprx-vision-tcp-reality-random-DK%F0%9F%87%A9%F0%9F%87%B0-2"
+      "rebuilt": "vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@140.248.69.254:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2048&security=tls&alpn=h2&encryption=none&insecure=0&host=1fastli-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=speedtest.net#vless-xhttp-tls-chrome-DK%F0%9F%87%A9%F0%9F%87%B0-1"
     }
   ]
 }
