@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-24T02:49:37.095993",
+  "updated": "2026-10-24T12:23:48.617718",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "185.189.47.107",
-      "port": "443",
-      "id": "252f7811-d86f-4dc2-97e0-83d3172ef4b8",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "network": "tcp",
-      "sni": "edge-se.mystatic-cdn.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.189.47.107:443?security=reality&encryption=none&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-se.mystatic-cdn.ru&sid=b21f41e79ecbac55#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "185.189.47.107",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.189.47.107:443?security=reality&encryption=none&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-se.mystatic-cdn.ru&sid=b21f41e79ecbac55#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
     {
       "type": "vless",
       "address": "138.124.96.88",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "random",
-      "original": "vless://2eb3f6a0-df6e-49b6-994c-177acdd50a97@138.124.96.88:41826?path=%2F&security=tls&encryption=none&insecure=0&fp=random&type=httpupgrade&allowInsecure=0&sni=sweden.homyak.app#vless-httpupgrade-tls-random-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "original": "vless://2eb3f6a0-df6e-49b6-994c-177acdd50a97@138.124.96.88:41826?path=%2F&security=tls&encryption=none&insecure=0&fp=random&type=httpupgrade&allowInsecure=0&sni=sweden.homyak.app#vless-httpupgrade-tls-random-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "138.124.96.88",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://2eb3f6a0-df6e-49b6-994c-177acdd50a97@138.124.96.88:41826?path=%2F&security=tls&encryption=none&insecure=0&fp=random&type=httpupgrade&allowInsecure=0&sni=sweden.homyak.app#vless-httpupgrade-tls-random-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://2eb3f6a0-df6e-49b6-994c-177acdd50a97@138.124.96.88:41826?path=%2F&security=tls&encryption=none&insecure=0&fp=random&type=httpupgrade&allowInsecure=0&sni=sweden.homyak.app#vless-httpupgrade-tls-random-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "46.246.125.153",
+      "port": "443",
+      "id": "a16a3e32-8d63-4dec-8c67-1361388a64ca",
+      "name": "YFZ 29 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "res.cdn.office.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@46.246.125.153:443?security=reality&encryption=none&pbk=ftglT-Ghp2FPiPlwyEAldfiAE1IL_AJ9UCkfCj0zk2I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=res.cdn.office.net&sid=a83b77e064761e3c#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "46.246.125.153",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@46.246.125.153:443?security=reality&encryption=none&pbk=ftglT-Ghp2FPiPlwyEAldfiAE1IL_AJ9UCkfCj0zk2I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=res.cdn.office.net&sid=a83b77e064761e3c#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }
