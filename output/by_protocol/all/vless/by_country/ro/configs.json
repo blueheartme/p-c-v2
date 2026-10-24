@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-23T19:42:46.437248",
+  "updated": "2026-10-24T02:49:37.091853",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "193.168.140.237",
-      "port": "443",
-      "id": "9c54d883-97a8-4b49-af23-fe052eff2c3a",
-      "name": "@ProxyMTProtoIR",
-      "network": "grpc",
-      "sni": "ads.x5.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://9c54d883-97a8-4b49-af23-fe052eff2c3a@193.168.140.237:443/?type=grpc&encryption=none&flow=&sni=ads.x5.ru&fp=chrome&security=reality&pbk=byjOBWoaPgKQoy7yj91s7Uavs9VNpBns773wt-UeRxM&sid=3e0c480d#vless-grpc-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-1",
-      "ip": "193.168.140.237",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "vless://9c54d883-97a8-4b49-af23-fe052eff2c3a@193.168.140.237:443/?type=grpc&encryption=none&flow=&sni=ads.x5.ru&fp=chrome&security=reality&pbk=byjOBWoaPgKQoy7yj91s7Uavs9VNpBns773wt-UeRxM&sid=3e0c480d#vless-grpc-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-1"
-    },
     {
       "type": "vless",
       "address": "163.245.41.52",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.52:2096?mode=auto&path=%2Fapple-xh%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&fp=chrome&type=xhttp&sni=www.apple.com&sid=3649e084544949f1#vless-xhttp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-3",
+      "original": "vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.52:2096?mode=auto&path=%2Fapple-xh%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&fp=chrome&type=xhttp&sni=www.apple.com&sid=3649e084544949f1#vless-xhttp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-1",
       "ip": "163.245.41.52",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.52:2096?mode=auto&path=%2Fapple-xh%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&fp=chrome&type=xhttp&sni=www.apple.com&sid=3649e084544949f1#vless-xhttp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-3"
+      "rebuilt": "vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.52:2096?mode=auto&path=%2Fapple-xh%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&fp=chrome&type=xhttp&sni=www.apple.com&sid=3649e084544949f1#vless-xhttp-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+    },
+    {
+      "type": "vless",
+      "address": "193.168.140.237",
+      "port": "443",
+      "id": "9c54d883-97a8-4b49-af23-fe052eff2c3a",
+      "name": "@ProxyMTProtoIR",
+      "network": "grpc",
+      "sni": "ads.x5.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://9c54d883-97a8-4b49-af23-fe052eff2c3a@193.168.140.237:443/?type=grpc&encryption=none&flow=&sni=ads.x5.ru&fp=chrome&security=reality&pbk=byjOBWoaPgKQoy7yj91s7Uavs9VNpBns773wt-UeRxM&sid=3e0c480d#vless-grpc-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-2",
+      "ip": "193.168.140.237",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "vless://9c54d883-97a8-4b49-af23-fe052eff2c3a@193.168.140.237:443/?type=grpc&encryption=none&flow=&sni=ads.x5.ru&fp=chrome&security=reality&pbk=byjOBWoaPgKQoy7yj91s7Uavs9VNpBns773wt-UeRxM&sid=3e0c480d#vless-grpc-reality-chrome-RO%F0%9F%87%B7%F0%9F%87%B4-2"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T19:42:46.433357",
-  "count": 4,
+  "updated": "2026-10-24T02:49:37.099362",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
@@ -16,38 +16,38 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://4bab9727-7075-4260-a30b-369b3e54ee14@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "original": "vless://4bab9727-7075-4260-a30b-369b3e54ee14@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "206.1.99.204",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://4bab9727-7075-4260-a30b-369b3e54ee14@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://4bab9727-7075-4260-a30b-369b3e54ee14@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
       "type": "vless",
-      "address": "143.246.136.252",
-      "port": "8999",
-      "id": "57d52736-888b-4139-a3d5-9b6d7c91c030",
-      "name": "Maznet-SOS536",
+      "address": "tr-biu.korluma.ir",
+      "port": "8010",
+      "id": "e7e1e726-b30f-477a-a308-3138e62a8d21",
+      "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "play.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://57d52736-888b-4139-a3d5-9b6d7c91c030@143.246.136.252:8999?security=reality&encryption=none&pbk=dx7cY0aeosAvz0hzRR9DrAtAiKAuMH44KRBSufYYMmk&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=992a171518f6f60e#vless-xtls-rprx-vision-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "143.246.136.252",
+      "sni": "",
+      "host": "netmeli.korluma.ir",
+      "security": "none",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.native.0rtt.qu4km2yz6qahjfvvoouz7haqfy01ciucsdrrpjy4rbw",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://e7e1e726-b30f-477a-a308-3138e62a8d21@tr-biu.korluma.ir:8010?security=none&encryption=mlkem768x25519plus.native.0rtt.Qu4km2yZ6QAhjFVVooUz7HaqfY01CIucSDrRPJY4rBw&host=netmeli.korluma.ir&headerType=http&type=tcp#vless-mlkem768x25519plus.native.0rtt.qu4km2yz6qahjfvvoouz7haqfy01ciucsdrrpjy4rbw-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "167.104.219.118",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://57d52736-888b-4139-a3d5-9b6d7c91c030@143.246.136.252:8999?security=reality&encryption=none&pbk=dx7cY0aeosAvz0hzRR9DrAtAiKAuMH44KRBSufYYMmk&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=992a171518f6f60e#vless-xtls-rprx-vision-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "vless://e7e1e726-b30f-477a-a308-3138e62a8d21@tr-biu.korluma.ir:8010?security=none&encryption=mlkem768x25519plus.native.0rtt.Qu4km2yZ6QAhjFVVooUz7HaqfY01CIucSDrRPJY4rBw&host=netmeli.korluma.ir&headerType=http&type=tcp#vless-mlkem768x25519plus.native.0rtt.qu4km2yz6qahjfvvoouz7haqfy01ciucsdrrpjy4rbw-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
       "address": "sable56.fars-remen.ir",
       "port": "8446",
       "id": "633c1bb0-60d5-41fb-a9c4-11f408b264ec",
-      "name": "برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩",
+      "name": "1|@ConfingV2RaayNG",
       "network": "tcp",
       "sni": "storage-p2.googleapis.com",
       "host": "",
@@ -56,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "edge",
-      "original": "vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@sable56.fars-remen.ir:8446?security=reality&encryption=none&pbk=7OwcalQiQ5RaMsYRjvtwTxZWS3sCpjOefcr3WYKFh04&headerType=none&fp=edge&type=tcp&sni=storage-p2.googleapis.com&sid=73da8baa63f8d537#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "original": "vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@sable56.fars-remen.ir:8446?encryption=none&security=reality&sni=storage-p2.googleapis.com&fp=edge&pbk=7OwcalQiQ5RaMsYRjvtwTxZWS3sCpjOefcr3WYKFh04&sid=73da8baa63f8d537&type=tcp&headerType=none#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-4",
       "ip": "45.144.214.144",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@sable56.fars-remen.ir:8446?security=reality&encryption=none&pbk=7OwcalQiQ5RaMsYRjvtwTxZWS3sCpjOefcr3WYKFh04&headerType=none&fp=edge&type=tcp&sni=storage-p2.googleapis.com&sid=73da8baa63f8d537#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-5"
+      "rebuilt": "vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@sable56.fars-remen.ir:8446?encryption=none&security=reality&sni=storage-p2.googleapis.com&fp=edge&pbk=7OwcalQiQ5RaMsYRjvtwTxZWS3sCpjOefcr3WYKFh04&sid=73da8baa63f8d537&type=tcp&headerType=none#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     },
     {
       "type": "vless",
@@ -76,11 +76,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-6",
+      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-5",
       "ip": "185.71.219.188",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-6"
+      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-5"
+    },
+    {
+      "type": "vless",
+      "address": "143.246.136.252",
+      "port": "8999",
+      "id": "57d52736-888b-4139-a3d5-9b6d7c91c030",
+      "name": "Maznet-SOS536",
+      "network": "tcp",
+      "sni": "play.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://57d52736-888b-4139-a3d5-9b6d7c91c030@143.246.136.252:8999?security=reality&encryption=none&pbk=dx7cY0aeosAvz0hzRR9DrAtAiKAuMH44KRBSufYYMmk&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=992a171518f6f60e#vless-xtls-rprx-vision-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-6",
+      "ip": "143.246.136.252",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://57d52736-888b-4139-a3d5-9b6d7c91c030@143.246.136.252:8999?security=reality&encryption=none&pbk=dx7cY0aeosAvz0hzRR9DrAtAiKAuMH44KRBSufYYMmk&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=992a171518f6f60e#vless-xtls-rprx-vision-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-6"
     }
   ]
 }
