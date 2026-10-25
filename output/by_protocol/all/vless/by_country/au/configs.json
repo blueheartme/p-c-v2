@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-01T14:59:51.494881",
+  "updated": "2026-10-25T12:53:59.578200",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "1.1.1.1",
+      "address": "51.161.204.242",
       "port": "443",
-      "id": "00000000-0000-0000-0000-000000000000",
-      "name": "@ProxyMTProtoIR 🇮🇹",
-      "network": "ws",
-      "sni": "1.1.1.1",
-      "host": "1.1.1.1",
-      "security": "tls",
-      "flow": "",
+      "id": "a14b736b-a92a-48d6-a596-5d31f7378ded",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://00000000-0000-0000-0000-000000000000@1.1.1.1:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=1.1.1.1&type=ws&allowInsecure=0&sni=1.1.1.1#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "1.1.1.1",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?security=reality&encryption=none&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d15c17cef9b2e456#vless-xtls-rprx-vision-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "51.161.204.242",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://00000000-0000-0000-0000-000000000000@1.1.1.1:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=1.1.1.1&type=ws&allowInsecure=0&sni=1.1.1.1#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?security=reality&encryption=none&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d15c17cef9b2e456#vless-xtls-rprx-vision-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }
