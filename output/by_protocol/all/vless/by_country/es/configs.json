@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-25T12:53:59.576588",
+  "updated": "2026-10-25T18:40:05.093326",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "46.28.71.135",
-      "port": "443",
-      "id": "7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc",
-      "name": "YFZ 179 @Outline_Vpn",
-      "network": "grpc",
-      "sni": "l97bke0sf1.hat.onl",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3",
-      "ip": "46.28.71.135",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3"
-    },
     {
       "type": "vless",
       "address": "31.57.190.50",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-4",
+      "original": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1",
       "ip": "31.57.190.50",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-4"
+      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+    },
+    {
+      "type": "vless",
+      "address": "46.28.71.135",
+      "port": "443",
+      "id": "7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc",
+      "name": "YFZ 179 @Outline_Vpn",
+      "network": "grpc",
+      "sni": "l97bke0sf1.hat.onl",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "46.28.71.135",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     }
   ]
 }

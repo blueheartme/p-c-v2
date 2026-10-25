@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-25T12:53:59.618890",
-  "count": 2,
+  "updated": "2026-10-25T18:40:05.127823",
+  "count": 3,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "54.37.131.126",
+      "port": "80",
+      "id": "6deef9ad-1357-443d-f95c-cb18952c20b3",
+      "name": "@meliproxy",
+      "network": "ws",
+      "host": "google.whatsapp.snapp.torob.basalam.hesanid8.ir.",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLWF1dG8td3MtUEzwn4e18J+HsS00Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "54.37.131.126",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLWF1dG8td3MtUEzwn4e18J+HsS00Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+    },
+    {
+      "type": "vmess",
+      "address": "45.144.48.32",
+      "port": "56080",
+      "id": "f4daaec7-0e1e-4c8e-97e8-cff5347c2dae",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjRkYWFlYzctMGUxZS00YzhlLTk3ZTgtY2ZmNTM0N2MyZGFlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1NjA4MCIsInBzIjoidm1lc3MtYXV0by10Y3AtUEzwn4e18J+HsS05Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "ip": "45.144.48.32",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjRkYWFlYzctMGUxZS00YzhlLTk3ZTgtY2ZmNTM0N2MyZGFlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1NjA4MCIsInBzIjoidm1lc3MtYXV0by10Y3AtUEzwn4e18J+HsS05Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+    },
     {
       "type": "vmess",
       "address": "45.144.48.32",
@@ -11,26 +41,11 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTAzNDQ1ZjItZTU2Mi00NjBjLTljNmYtMDNkODQxMjI4ZDQ3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1Nzg5MSIsInBzIjoidm1lc3MtYXV0by10Y3AtUEzwn4e18J+HsS01Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "original": "vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTAzNDQ1ZjItZTU2Mi00NjBjLTljNmYtMDNkODQxMjI4ZDQ3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1Nzg5MSIsInBzIjoidm1lc3MtYXV0by10Y3AtUEzwn4e18J+HsS0xNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
       "ip": "45.144.48.32",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTAzNDQ1ZjItZTU2Mi00NjBjLTljNmYtMDNkODQxMjI4ZDQ3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1Nzg5MSIsInBzIjoidm1lc3MtYXV0by10Y3AtUEzwn4e18J+HsS01Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
-    },
-    {
-      "type": "vmess",
-      "address": "54.37.131.126",
-      "port": "80",
-      "id": "6deef9ad-1357-443d-f95c-cb18952c20b3",
-      "name": "برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn",
-      "network": "ws",
-      "host": "google.whatsapp.snapp.torob.basalam.hesanid8.ir.",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVBM8J+HtfCfh7EtNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==",
-      "ip": "54.37.131.126",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVBM8J+HtfCfh7EtNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTAzNDQ1ZjItZTU2Mi00NjBjLTljNmYtMDNkODQxMjI4ZDQ3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1Nzg5MSIsInBzIjoidm1lc3MtYXV0by10Y3AtUEzwn4e18J+HsS0xNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-25T12:53:59.569523",
+  "updated": "2026-10-25T18:40:05.091002",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "p.maxiko.ir",
-      "port": "2086",
-      "id": "45016458-a8c5-4e3f-814a-437145e4dd4f",
-      "name": "YFZ 10 @Outline_Vpn",
-      "network": "xhttp",
-      "sni": "p.maxiko.ir",
-      "host": "p.maxiko.ir",
-      "security": "tls",
-      "flow": "",
-      "encryption": "mlkem768x25519plus.native.0rtt.hady5_9p30ldps2krancjr5-17u184nqz49my7o8qmu",
-      "headerType": "",
+      "address": "195.135.252.28",
+      "port": "443",
+      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
+      "name": "Latvia Sia Veesp",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://45016458-a8c5-4e3f-814a-437145e4dd4f@p.maxiko.ir:2086?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.HAdY5_9P30LdPS2KrAnCjr5-17u184nqZ49My7O8QmU&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=p.maxiko.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=p.maxiko.ir#vless-mlkem768x25519plus.native.0rtt.hady5_9p30ldps2krancjr5-17u184nqz49my7o8qmu-xhttp-tls-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3",
-      "ip": "31.57.157.85",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2",
+      "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://45016458-a8c5-4e3f-814a-437145e4dd4f@p.maxiko.ir:2086?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.HAdY5_9P30LdPS2KrAnCjr5-17u184nqZ49My7O8QmU&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=p.maxiko.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=p.maxiko.ir#vless-mlkem768x25519plus.native.0rtt.hady5_9p30ldps2krancjr5-17u184nqz49my7o8qmu-xhttp-tls-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2"
     }
   ]
 }
