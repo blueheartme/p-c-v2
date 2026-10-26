@@ -1,21 +1,26 @@
 {
-  "updated": "2026-10-25T12:53:59.540078",
+  "updated": "2026-10-26T14:44:57.356176",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "152.67.8.205",
-      "port": "80",
-      "id": "9db4c708-aef8-4359-821b-38e47990be0d",
-      "name": "🇮🇳 IN 1",
-      "network": "ws",
-      "host": "in-152.67.8.205-0250",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0xIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJpbi0xNTIuNjcuOC4yMDUtMDI1MCIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "152.67.8.205",
+      "type": "vless",
+      "address": "5.253.28.84",
+      "port": "8443",
+      "id": "1506f2e0-ae12-4718-b5ab-c5609161300e",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "as15.cdn77.icu",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://1506f2e0-ae12-4718-b5ab-c5609161300e@5.253.28.84:8443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=firefox&type=tcp&sni=as15.cdn77.icu#vless-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "5.253.28.84",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0xIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJpbi0xNTIuNjcuOC4yMDUtMDI1MCIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "vless://1506f2e0-ae12-4718-b5ab-c5609161300e@5.253.28.84:8443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=firefox&type=tcp&sni=as15.cdn77.icu#vless-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }

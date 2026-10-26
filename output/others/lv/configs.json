@@ -1,20 +1,21 @@
 {
-  "updated": "2026-10-26T02:39:34.511697",
-  "count": 3,
+  "updated": "2026-10-26T14:44:57.358917",
+  "count": 4,
   "configs": [
     {
-      "type": "trojan",
-      "address": "85.31.102.163",
-      "port": "443",
-      "password": "humanity",
-      "name": "@meliproxyy",
-      "sni": "www.calmlunch.com",
+      "type": "vmess",
+      "address": "45.38.198.25",
+      "port": "23198",
+      "id": "2fe24d2f-5319-4276-bf92-b00122a7c1de",
+      "name": "50 گیگ 49 ت! تست رایگان🤩TICKV2BOT@",
+      "network": "tcp",
       "host": "",
-      "original": "trojan://humanity@85.31.102.163:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LV%F0%9F%87%B1%F0%9F%87%BB-1",
-      "ip": "85.31.102.163",
+      "sni": "45.38.198.25",
+      "original": "vmess://eyJhZGQiOiI0NS4zOC4xOTguMjUiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIyZmUyNGQyZi01MzE5LTQyNzYtYmY5Mi1iMDAxMjJhN2MxZGUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzMTk4IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC10bHMtTFbwn4ex8J+Huy0xIiwic2N5IjoiYXV0byIsInNuaSI6IjQ1LjM4LjE5OC4yNSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "ip": "45.38.198.25",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "trojan://humanity@85.31.102.163:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+      "rebuilt": "vmess://eyJhZGQiOiI0NS4zOC4xOTguMjUiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIyZmUyNGQyZi01MzE5LTQyNzYtYmY5Mi1iMDAxMjJhN2MxZGUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzMTk4IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC10bHMtTFbwn4ex8J+Huy0xIiwic2N5IjoiYXV0byIsInNuaSI6IjQ1LjM4LjE5OC4yNSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
     },
     {
       "type": "vless",
@@ -55,6 +56,20 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3"
+    },
+    {
+      "type": "trojan",
+      "address": "85.31.102.163",
+      "port": "443",
+      "password": "humanity",
+      "name": "@meliproxyy",
+      "sni": "www.calmlunch.com",
+      "host": "",
+      "original": "trojan://humanity@85.31.102.163:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LV%F0%9F%87%B1%F0%9F%87%BB-4",
+      "ip": "85.31.102.163",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@85.31.102.163:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LV%F0%9F%87%B1%F0%9F%87%BB-4"
     }
   ]
 }

@@ -1,20 +1,34 @@
 {
-  "updated": "2026-10-25T12:53:59.599590",
-  "count": 1,
+  "updated": "2026-10-26T14:44:57.444328",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
-      "address": "31.57.190.71",
+      "address": "185.114.72.31",
+      "port": "2053",
+      "password": "humanity",
+      "name": "@meliproxyy",
+      "sni": "www.calmlunch.com",
+      "host": "www.calmlunch.com",
+      "original": "trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "185.114.72.31",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
+    {
+      "type": "trojan",
+      "address": "109.234.211.232",
       "port": "443",
       "password": "humanity",
       "name": "@meliproxyy",
       "sni": "www.pleadcourt.org",
-      "host": "",
-      "original": "trojan://humanity@31.57.190.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
-      "ip": "31.57.190.71",
+      "host": "www.pleadcourt.org",
+      "original": "trojan://humanity@109.234.211.232:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-4",
+      "ip": "109.234.211.232",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://humanity@31.57.190.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+      "rebuilt": "trojan://humanity@109.234.211.232:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-4"
     }
   ]
 }

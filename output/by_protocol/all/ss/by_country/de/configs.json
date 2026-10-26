@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-26T02:39:34.589295",
+  "updated": "2026-10-26T14:44:57.428987",
   "count": 6,
   "configs": [
+    {
+      "type": "ss",
+      "address": "ger1.4ebur.app",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "kBQA4ihPCmDzgdEd2RCu6A",
+      "name": "@ProxyMTProtoIR",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprQlFBNGloUENtRHpnZEVkMlJDdTZB@ger1.4ebur.app:8388#@ProxyMTProtoIR",
+      "ip": "51.38.123.51",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprQlFBNGloUENtRHpnZEVkMlJDdTZB@ger1.4ebur.app:8388#@ProxyMTProtoIR"
+    },
     {
       "type": "ss",
       "address": "dns8.m3hrzd.ir",
@@ -24,26 +39,26 @@
       "method": "aes-256-gcm",
       "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
       "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@185.176.204.18:19999#@meliproxyy",
       "ip": "185.176.204.18",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#@meliproxyy"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@185.176.204.18:19999#@meliproxyy"
     },
     {
       "type": "ss",
-      "address": "213.202.216.117",
-      "port": "17001",
-      "method": "aes-256-gcm",
-      "password": "I6o9NnialYLMEjVt28RF4dpjmr9wMvNL",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@213.202.216.117:17001#@meliproxyy",
-      "ip": "213.202.216.117",
+      "address": "194.59.183.134",
+      "port": "46114",
+      "method": "chacha20-ietf-poly1305",
+      "password": "lejSRyqa033OEPmEQsvRsl",
+      "name": "Germany 0VH",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH",
+      "ip": "194.59.183.134",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@213.202.216.117:17001#@meliproxyy"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH"
     },
     {
       "type": "ss",
@@ -60,31 +75,16 @@
     },
     {
       "type": "ss",
-      "address": "57.129.113.16",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "NcAXc0UZI6yQJE1p8QmOv8",
+      "address": "213.202.216.117",
+      "port": "17001",
+      "method": "aes-256-gcm",
+      "password": "I6o9NnialYLMEjVt28RF4dpjmr9wMvNL",
       "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#@meliproxyy",
-      "ip": "57.129.113.16",
+      "original": "ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@213.202.216.117:17001#@meliproxyy",
+      "ip": "213.202.216.117",
       "country": "DE",
       "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "194.59.183.134",
-      "port": "46114",
-      "method": "chacha20-ietf-poly1305",
-      "password": "lejSRyqa033OEPmEQsvRsl",
-      "name": "Germany 0VH",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH",
-      "ip": "194.59.183.134",
-      "country": "DE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@213.202.216.117:17001#@meliproxyy"
     }
   ]
 }
