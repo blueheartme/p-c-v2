@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T14:44:57.357067",
+  "updated": "2026-10-26T20:50:27.929406",
   "count": 2,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "areal5.greewebservices.ir",
       "port": "5455",
       "id": "7c4e57be-ff6f-4ef7-ba17-f839351d9af9",
-      "name": "🇨🇵@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "name": "🔰 @prrofile_purple (تلگرام)",
       "network": "tcp",
       "sni": "amp-api-edge.apps.apple.com",
       "host": "",
@@ -23,24 +23,17 @@
       "rebuilt": "vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
-      "type": "vless",
-      "address": "ch.zango.tech",
-      "port": "443",
-      "id": "0b21158e-00f5-4a2f-b242-e3e5574f68a0",
-      "name": "@i10VPN²",
-      "network": "grpc",
-      "sni": "bunny.net",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "qq",
-      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "83.228.246.83",
+      "type": "ss",
+      "address": "132.243.175.144",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3",
+      "name": "🇨🇭 CH 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%f0%9f%87%a8%f0%9f%87%ad%20CH%201",
+      "ip": "132.243.175.144",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%f0%9f%87%a8%f0%9f%87%ad%20CH%201"
     }
   ]
 }
