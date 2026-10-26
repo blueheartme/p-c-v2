@@ -1,21 +1,40 @@
 {
-  "updated": "2026-10-25T18:40:05.023002",
+  "updated": "2026-10-26T02:39:34.511697",
   "count": 3,
   "configs": [
     {
-      "type": "vmess",
-      "address": "45.38.198.25",
-      "port": "23198",
-      "id": "2fe24d2f-5319-4276-bf92-b00122a7c1de",
-      "name": "50 گیگ 49 ت! تست رایگان🤩TICKV2BOT@",
-      "network": "tcp",
+      "type": "trojan",
+      "address": "85.31.102.163",
+      "port": "443",
+      "password": "humanity",
+      "name": "@meliproxyy",
+      "sni": "www.calmlunch.com",
       "host": "",
-      "sni": "45.38.198.25",
-      "original": "vmess://eyJhZGQiOiI0NS4zOC4xOTguMjUiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIyZmUyNGQyZi01MzE5LTQyNzYtYmY5Mi1iMDAxMjJhN2MxZGUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzMTk4IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC10bHMtTFbwn4ex8J+Huy0xIiwic2N5IjoiYXV0byIsInNuaSI6IjQ1LjM4LjE5OC4yNSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "ip": "45.38.198.25",
+      "original": "trojan://humanity@85.31.102.163:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "ip": "85.31.102.163",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI0NS4zOC4xOTguMjUiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIyZmUyNGQyZi01MzE5LTQyNzYtYmY5Mi1iMDAxMjJhN2MxZGUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzMTk4IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC10bHMtTFbwn4ex8J+Huy0xIiwic2N5IjoiYXV0byIsInNuaSI6IjQ1LjM4LjE5OC4yNSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+      "rebuilt": "trojan://humanity@85.31.102.163:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+    },
+    {
+      "type": "vless",
+      "address": "p.maxiko.ir",
+      "port": "2086",
+      "id": "45016458-a8c5-4e3f-814a-437145e4dd4f",
+      "name": "YFZ 10 @Outline_Vpn",
+      "network": "xhttp",
+      "sni": "p.maxiko.ir",
+      "host": "p.maxiko.ir",
+      "security": "tls",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.native.0rtt.hady5_9p30ldps2krancjr5-17u184nqz49my7o8qmu",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://45016458-a8c5-4e3f-814a-437145e4dd4f@p.maxiko.ir:2086?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.HAdY5_9P30LdPS2KrAnCjr5-17u184nqZ49My7O8QmU&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=p.maxiko.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=p.maxiko.ir#vless-mlkem768x25519plus.native.0rtt.hady5_9p30ldps2krancjr5-17u184nqz49my7o8qmu-xhttp-tls-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2",
+      "ip": "31.57.157.85",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://45016458-a8c5-4e3f-814a-437145e4dd4f@p.maxiko.ir:2086?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.HAdY5_9P30LdPS2KrAnCjr5-17u184nqZ49My7O8QmU&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=p.maxiko.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=p.maxiko.ir#vless-mlkem768x25519plus.native.0rtt.hady5_9p30ldps2krancjr5-17u184nqz49my7o8qmu-xhttp-tls-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2"
     },
     {
       "type": "vless",
@@ -31,25 +50,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2"
-    },
-    {
-      "type": "trojan",
-      "address": "85.31.102.163",
-      "port": "443",
-      "password": "humanity",
-      "name": "@meliproxyy",
-      "sni": "www.calmlunch.com",
-      "host": "",
-      "original": "trojan://humanity@85.31.102.163:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LV%F0%9F%87%B1%F0%9F%87%BB-3",
-      "ip": "85.31.102.163",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "trojan://humanity@85.31.102.163:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LV%F0%9F%87%B1%F0%9F%87%BB-3"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3"
     }
   ]
 }
