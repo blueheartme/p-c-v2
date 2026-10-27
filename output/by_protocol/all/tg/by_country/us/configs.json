@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T20:50:27.951593",
-  "count": 3,
+  "updated": "2026-10-27T03:13:59.132166",
+  "count": 4,
   "configs": [
     {
       "type": "tg",
@@ -16,27 +16,39 @@
     },
     {
       "type": "tg",
+      "address": "172.65.102.115",
+      "port": "22",
+      "secret": "dd79e344818749bd7ac519130220c25d09",
+      "name": "",
+      "original": "https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09",
+      "ip": "172.65.102.115",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+    },
+    {
+      "type": "tg",
+      "address": "208.87.242.223",
+      "port": "8443",
+      "secret": "EERighJJvXrFGRMCIMjdCQ",
+      "name": "",
+      "original": "https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "ip": "208.87.242.223",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    },
+    {
+      "type": "tg",
       "address": "max.kimt.click",
       "port": "443",
       "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
       "name": "",
-      "original": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-      "ip": "23.164.244.39",
+      "original": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b&@MPT_Proxy",
+      "ip": "23.164.244.237",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
-    },
-    {
-      "type": "tg",
-      "address": "ir-ir.engematica.info",
-      "port": "8443",
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
-      "name": "",
-      "original": "https://t.me/proxy?server=ir-ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-      "ip": "208.87.242.223",
-      "country": "US",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=ir-ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+      "rebuilt": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b&@MPT_Proxy"
     }
   ]
 }
