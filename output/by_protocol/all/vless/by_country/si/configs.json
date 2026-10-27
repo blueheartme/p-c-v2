@@ -1,0 +1,26 @@
+{
+  "updated": "2026-10-27T20:21:51.597862",
+  "count": 1,
+  "configs": [
+    {
+      "type": "vless",
+      "address": "92.42.201.102",
+      "port": "443",
+      "id": "d0c8aa8d-a535-432a-b521-21f0e561f643",
+      "name": "@ProxyMTProtoIR",
+      "network": "tcp",
+      "sni": "node-slo01.rkitman.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.102:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-slo01.rkitman.ru&sid=88d9dc52ef39c8bd#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-1",
+      "ip": "92.42.201.102",
+      "country": "SI",
+      "cdn": null,
+      "rebuilt": "vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.102:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-slo01.rkitman.ru&sid=88d9dc52ef39c8bd#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-1"
+    }
+  ]
+}
