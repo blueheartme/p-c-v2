@@ -1,19 +1,32 @@
 {
-  "updated": "2026-10-27T03:13:59.080511",
-  "count": 7,
+  "updated": "2026-10-27T13:51:35.691398",
+  "count": 6,
   "configs": [
     {
       "type": "ss",
       "address": "195.238.126.20",
-      "port": "9086",
+      "port": "9008",
       "method": "aes-256-cfb",
-      "password": "37Z4TFCYhfxcpc9Q",
-      "name": "🇱🇹 LT 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201",
+      "password": "y9VURyNzJWNRYEGQ",
+      "name": "🇱🇹 LT 2",
+      "original": "ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#%f0%9f%87%b1%f0%9f%87%b9%20LT%202",
       "ip": "195.238.126.20",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#%f0%9f%87%b1%f0%9f%87%b9%20LT%202"
+    },
+    {
+      "type": "ss",
+      "address": "195.238.126.20",
+      "port": "9045",
+      "method": "aes-256-cfb",
+      "password": "Lp27rqyJq72bZsqX",
+      "name": "🇱🇹 LT 4",
+      "original": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%204",
+      "ip": "195.238.126.20",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%204"
     },
     {
       "type": "ss",
@@ -27,6 +40,19 @@
       "country": "LT",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@195.238.126.20:9002#%f0%9f%87%b1%f0%9f%87%b9%20LT%203"
+    },
+    {
+      "type": "ss",
+      "address": "195.238.126.20",
+      "port": "9086",
+      "method": "aes-256-cfb",
+      "password": "37Z4TFCYhfxcpc9Q",
+      "name": "🇱🇹 LT 1",
+      "original": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201",
+      "ip": "195.238.126.20",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201"
     },
     {
       "type": "ss",
@@ -55,50 +81,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?security=reality&encryption=none&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=litv.nztvpn.com&sid=0da7e14db353e7d0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-4",
+      "original": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?security=reality&encryption=none&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=litv.nztvpn.com&sid=0da7e14db353e7d0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-6",
       "ip": "84.32.109.20",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?security=reality&encryption=none&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=litv.nztvpn.com&sid=0da7e14db353e7d0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-4"
-    },
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9045",
-      "method": "aes-256-cfb",
-      "password": "Lp27rqyJq72bZsqX",
-      "name": "🇱🇹 LT 4",
-      "original": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%204",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%204"
-    },
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9068",
-      "method": "aes-256-cfb",
-      "password": "mwgRg9hRq3b4Qnwb",
-      "name": "🇱🇹 LT 5",
-      "original": "ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%f0%9f%87%b1%f0%9f%87%b9%20LT%205",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%f0%9f%87%b1%f0%9f%87%b9%20LT%205"
-    },
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9008",
-      "method": "aes-256-cfb",
-      "password": "y9VURyNzJWNRYEGQ",
-      "name": "🇱🇹 LT 2",
-      "original": "ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#%f0%9f%87%b1%f0%9f%87%b9%20LT%202",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#%f0%9f%87%b1%f0%9f%87%b9%20LT%202"
+      "rebuilt": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?security=reality&encryption=none&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=litv.nztvpn.com&sid=0da7e14db353e7d0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-6"
     }
   ]
 }

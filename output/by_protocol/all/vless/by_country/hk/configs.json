@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-27T03:13:59.120477",
-  "count": 1,
+  "updated": "2026-10-27T13:51:35.729215",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "46.8.78.77",
+      "port": "36321",
+      "id": "1ff0dd9f-71e4-4333-a334-1e4197c051ba",
+      "name": "Channel : @proxy_kafee",
+      "network": "httpupgrade",
+      "sni": "",
+      "host": "telewebion.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.native.0rtt.o2sluh5jqgfcegyv4v2bnhrosndibalrkmxsp7c9wbi",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://1ff0dd9f-71e4-4333-a334-1e4197c051ba@46.8.78.77:36321?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.o2slUH5jQgFCEGyV4v2BNhroSndiBalrkmxsp7C9WBI&host=telewebion.com&type=httpupgrade#vless-mlkem768x25519plus.native.0rtt.o2sluh5jqgfcegyv4v2bnhrosndibalrkmxsp7c9wbi-httpupgrade-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "46.8.78.77",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://1ff0dd9f-71e4-4333-a334-1e4197c051ba@46.8.78.77:36321?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.o2slUH5jQgFCEGyV4v2BNhroSndiBalrkmxsp7C9WBI&host=telewebion.com&type=httpupgrade#vless-mlkem768x25519plus.native.0rtt.o2sluh5jqgfcegyv4v2bnhrosndibalrkmxsp7c9wbi-httpupgrade-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
     {
       "type": "vless",
       "address": "165.154.63.139",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?security=reality&encryption=none&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=ca4aedd4#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6",
+      "original": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?security=reality&encryption=none&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=ca4aedd4#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-8",
       "ip": "165.154.63.139",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?security=reality&encryption=none&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=ca4aedd4#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6"
+      "rebuilt": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?security=reality&encryption=none&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=ca4aedd4#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-8"
     }
   ]
 }
