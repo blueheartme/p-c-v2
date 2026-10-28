@@ -1,26 +1,19 @@
 {
-  "updated": "2026-10-27T20:21:51.558820",
+  "updated": "2026-10-28T20:43:24.743505",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "85.11.187.68",
-      "port": "8443",
-      "id": "1506f2e0-ae12-4718-b5ab-c5609161300e",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "eu93.cdn77.icu",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://1506f2e0-ae12-4718-b5ab-c5609161300e@85.11.187.68:8443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=firefox&type=tcp&sni=eu93.cdn77.icu#vless-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-1",
-      "ip": "85.11.187.68",
+      "type": "ss",
+      "address": "185.213.23.63",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇳🇴 NO 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%f0%9f%87%b3%f0%9f%87%b4%20NO%201",
+      "ip": "185.213.23.63",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "vless://1506f2e0-ae12-4718-b5ab-c5609161300e@85.11.187.68:8443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=firefox&type=tcp&sni=eu93.cdn77.icu#vless-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%f0%9f%87%b3%f0%9f%87%b4%20NO%201"
     }
   ]
 }
