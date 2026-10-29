@@ -1,26 +1,19 @@
 {
-  "updated": "2026-10-28T20:43:24.745774",
-  "count": 8,
+  "updated": "2026-10-29T03:50:58.179620",
+  "count": 6,
   "configs": [
     {
-      "type": "vless",
-      "address": "156.252.229.11",
-      "port": "8443",
-      "id": "3e21e3d3-6d26-4155-b851-764dd8e8c6b5",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "play.googleapis.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1",
-      "ip": "156.252.229.11",
+      "type": "ss",
+      "address": "5.188.181.201",
+      "port": "9005",
+      "method": "aes-256-cfb",
+      "password": "ZET59LF6DvCC8KVt",
+      "name": "🇪🇸 ES 4",
+      "original": "ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#%f0%9f%87%aa%f0%9f%87%b8%20ES%204",
+      "ip": "5.188.181.201",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#%f0%9f%87%aa%f0%9f%87%b8%20ES%204"
     },
     {
       "type": "vless",
@@ -43,6 +36,26 @@
       "rebuilt": "vless://e0216964-ffa1-4d39-82c4-0e40879a470d@83.97.79.93:8443?security=reality&encryption=none&pbk=e8vusEkL9FTC7oxFCp8biOWMFH-e-1IN21V6YNynGDg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ger.nullo.pro&sid=6350d1647a4880#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     },
     {
+      "type": "vless",
+      "address": "31.57.190.50",
+      "port": "443",
+      "id": "d342d11e-d224-4463-b982-532309285094",
+      "name": "YFZ 90 @Outline_Vpn",
+      "network": "ws",
+      "sni": "ccc.010304.xyz",
+      "host": "ccc.010304.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "ip": "31.57.190.50",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+    },
+    {
       "type": "trojan",
       "address": "66.163.118.62",
       "port": "443",
@@ -50,11 +63,11 @@
       "name": "@meliproxyy",
       "sni": "courses.discovergreatjobsandadvanceyourcareer.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-4",
       "ip": "66.163.118.62",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-4"
     },
     {
       "type": "ss",
@@ -70,59 +83,6 @@
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#%f0%9f%87%aa%f0%9f%87%b8%20ES%203"
     },
     {
-      "type": "vless",
-      "address": "46.28.71.135",
-      "port": "443",
-      "id": "7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc",
-      "name": "YFZ 179 @Outline_Vpn",
-      "network": "grpc",
-      "sni": "l97bke0sf1.hat.onl",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-5",
-      "ip": "46.28.71.135",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-5"
-    },
-    {
-      "type": "vless",
-      "address": "31.57.190.50",
-      "port": "443",
-      "id": "d342d11e-d224-4463-b982-532309285094",
-      "name": "YFZ 90 @Outline_Vpn",
-      "network": "ws",
-      "sni": "ccc.010304.xyz",
-      "host": "ccc.010304.xyz",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-6",
-      "ip": "31.57.190.50",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-6"
-    },
-    {
-      "type": "ss",
-      "address": "5.188.181.201",
-      "port": "9005",
-      "method": "aes-256-cfb",
-      "password": "ZET59LF6DvCC8KVt",
-      "name": "🇪🇸 ES 4",
-      "original": "ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#%f0%9f%87%aa%f0%9f%87%b8%20ES%204",
-      "ip": "5.188.181.201",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#%f0%9f%87%aa%f0%9f%87%b8%20ES%204"
-    },
-    {
       "type": "trojan",
       "address": "66.163.118.244",
       "port": "443",
@@ -130,11 +90,11 @@
       "name": "@meliproxyy",
       "sni": "api.discovergreatjobsandadvanceyourcareer.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-8",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-6",
       "ip": "66.163.118.244",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-8"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-6"
     }
   ]
 }

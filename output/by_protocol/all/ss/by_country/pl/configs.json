@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:43:24.853498",
+  "updated": "2026-10-29T03:50:58.220351",
   "count": 6,
   "configs": [
     {
@@ -17,6 +17,19 @@
     },
     {
       "type": "ss",
+      "address": "pol.rvpn.app",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "8z2OB_gvFvpKgjFi8s9Cvw",
+      "name": "🇵🇱 PL 1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@pol.rvpn.app:8388#%f0%9f%87%b5%f0%9f%87%b1%20PL%201",
+      "ip": "185.223.57.174",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@pol.rvpn.app:8388#%f0%9f%87%b5%f0%9f%87%b1%20PL%201"
+    },
+    {
+      "type": "ss",
       "address": "217.30.10.44",
       "port": "9042",
       "method": "aes-256-cfb",
@@ -30,16 +43,16 @@
     },
     {
       "type": "ss",
-      "address": "54.36.174.140",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "6heexyz",
-      "name": "🇵🇱 PL 2",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.140:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%202",
-      "ip": "54.36.174.140",
+      "address": "217.30.10.44",
+      "port": "9071",
+      "method": "aes-256-cfb",
+      "password": "mENfxTFQpRKKh4As",
+      "name": "🇵🇱 PL 4",
+      "original": "ss://YWVzLTI1Ni1jZmI6bUVOZnhURlFwUktLaDRBcw==@217.30.10.44:9071#%f0%9f%87%b5%f0%9f%87%b1%20PL%204",
+      "ip": "217.30.10.44",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.140:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%202"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6bUVOZnhURlFwUktLaDRBcw==@217.30.10.44:9071#%f0%9f%87%b5%f0%9f%87%b1%20PL%204"
     },
     {
       "type": "ss",
@@ -56,29 +69,16 @@
     },
     {
       "type": "ss",
-      "address": "pol.rvpn.app",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "8z2OB_gvFvpKgjFi8s9Cvw",
-      "name": "🇵🇱 PL 1",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@pol.rvpn.app:8388#%f0%9f%87%b5%f0%9f%87%b1%20PL%201",
-      "ip": "185.223.57.174",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@pol.rvpn.app:8388#%f0%9f%87%b5%f0%9f%87%b1%20PL%201"
-    },
-    {
-      "type": "ss",
-      "address": "pl134.vpnbook.com",
+      "address": "54.36.174.134",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "6heexyz",
-      "name": "🇵🇱 PL 5",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl134.vpnbook.com:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%205",
+      "name": "🇵🇱 PL 12",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.134:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%2012",
       "ip": "54.36.174.134",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl134.vpnbook.com:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%205"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.134:443#%f0%9f%87%b5%f0%9f%87%b1%20PL%2012"
     }
   ]
 }
