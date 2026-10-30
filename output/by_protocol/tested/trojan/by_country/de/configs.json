@@ -1,22 +1,38 @@
 {
-  "updated": "2026-10-30T14:44:44.676912",
-  "count": 1,
+  "updated": "2026-10-30T20:18:17.460616",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
       "address": "45.80.111.7",
       "port": "443",
       "password": "humanity",
-      "name": "Channel : @proxy_kafee",
+      "name": "@meliproxyy",
       "sni": "www.calmlunch.com",
       "host": "",
-      "original": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-117",
+      "original": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-12",
       "ip": "45.80.111.7",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-117"
+      "rebuilt": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-12"
+    },
+    {
+      "type": "trojan",
+      "address": "45.128.76.242",
+      "port": "443",
+      "password": "humanity",
+      "name": "@meliproxyy",
+      "sni": "www.trusteeforward.com",
+      "host": "www.trusteeforward.com",
+      "original": "trojan://humanity@45.128.76.242:443?security=tls&sni=www.trusteeforward.com&alpn=http%2F1.1&type=ws&host=www.trusteeforward.com&path=%2Fassignment#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-56",
+      "ip": "45.128.76.242",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://humanity@45.128.76.242:443?security=tls&sni=www.trusteeforward.com&alpn=http%2F1.1&type=ws&host=www.trusteeforward.com&path=%2Fassignment#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-56"
     }
   ]
 }
