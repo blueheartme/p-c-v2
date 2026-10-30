@@ -1,24 +1,7 @@
 {
-  "updated": "2026-10-30T03:53:19.202161",
+  "updated": "2026-10-30T14:44:44.687837",
   "count": 2,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "216.106.187.60",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "@i10VPN¹",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMTYuMTA2LjE4Ny42MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTEzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ==",
-      "ip": "216.106.187.60",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiIyMTYuMTA2LjE4Ny42MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTEzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ=="
-    },
     {
       "type": "vmess",
       "address": "funnymemes.goalir.co.uk",
@@ -28,13 +11,30 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiJmdW5ueW1lbWVzLmdvYWxpci5jby51ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZGZkNDNhYi1lOGQ1LTRlMmQtOGVmZS01MTUzNzkyNzY3MTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otNTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "original": "vmess://eyJhZGQiOiJmdW5ueW1lbWVzLmdvYWxpci5jby51ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZGZkNDNhYi1lOGQ1LTRlMmQtOGVmZS01MTUzNzkyNzY3MTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
       "ip": "86.54.42.143",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiJmdW5ueW1lbWVzLmdvYWxpci5jby51ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZGZkNDNhYi1lOGQ1LTRlMmQtOGVmZS01MTUzNzkyNzY3MTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otNTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+      "rebuilt": "vmess://eyJhZGQiOiJmdW5ueW1lbWVzLmdvYWxpci5jby51ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZGZkNDNhYi1lOGQ1LTRlMmQtOGVmZS01MTUzNzkyNzY3MTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+    },
+    {
+      "type": "vmess",
+      "address": "216.106.187.60",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "@i10VPN¹",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIyMTYuMTA2LjE4Ny42MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTE3MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "216.106.187.60",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJhZGQiOiIyMTYuMTA2LjE4Ny42MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTE3MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0="
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-29T03:50:58.270422",
+  "updated": "2026-10-30T14:44:44.604844",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "au7.pad-sservice.lat",
+      "address": "av.neuroniko.com",
       "port": "8443",
-      "id": "2b0e5676-fb62-4bf0-9607-6e7818421e8e",
-      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "ws",
-      "sni": "au7.pad-sservice.lat",
-      "host": "au7.pad-sservice.lat",
-      "security": "tls",
-      "flow": "",
+      "id": "69158986-cfae-4567-8391-0f96d9d985bd",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "av.neuroniko.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au7.pad-sservice.lat:8443?path=%2FAU7W&security=tls&alpn=http%2F1.1&encryption=none&host=au7.pad-sservice.lat&fp=firefox&type=ws&sni=au7.pad-sservice.lat#vless-ws-tls-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-2",
-      "ip": "62.83.19.186",
+      "original": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=av.neuroniko.com&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "185.126.236.125",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au7.pad-sservice.lat:8443?path=%2FAU7W&security=tls&alpn=http%2F1.1&encryption=none&host=au7.pad-sservice.lat&fp=firefox&type=ws&sni=au7.pad-sservice.lat#vless-ws-tls-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+      "rebuilt": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=av.neuroniko.com&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }

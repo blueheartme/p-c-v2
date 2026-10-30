@@ -1,45 +1,19 @@
 {
-  "updated": "2026-10-30T03:53:19.110472",
-  "count": 5,
+  "updated": "2026-10-30T14:44:44.639692",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "149.22.87.204",
+      "address": "149.22.87.241",
       "port": "443",
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "name": "🇯🇵 JP 2",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%202",
-      "ip": "149.22.87.204",
+      "name": "🇯🇵 JP 1",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201",
+      "ip": "149.22.87.241",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%f0%9f%87%af%f0%9f%87%b5%20JP%202"
-    },
-    {
-      "type": "ss",
-      "address": "154.36.158.197",
-      "port": "8388",
-      "method": "aes-256-gcm",
-      "password": "BeaUf9c0AEWH40Pu",
-      "name": "🇯🇵 JP 20",
-      "original": "ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%2020",
-      "ip": "154.36.158.197",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%2020"
-    },
-    {
-      "type": "ss",
-      "address": "84.247.155.196",
-      "port": "80",
-      "method": "aes-256-gcm",
-      "password": "3eOFeNssde7PYYMv",
-      "name": "🇯🇵 JP 19",
-      "original": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%f0%9f%87%af%f0%9f%87%b5%20JP%2019",
-      "ip": "84.247.155.196",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%f0%9f%87%af%f0%9f%87%b5%20JP%2019"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201"
     },
     {
       "type": "ss",
@@ -56,16 +30,16 @@
     },
     {
       "type": "ss",
-      "address": "84.247.155.196",
-      "port": "443",
+      "address": "154.36.158.197",
+      "port": "8388",
       "method": "aes-256-gcm",
-      "password": "3eOFeNssde7PYYMv",
-      "name": "🇯🇵 JP 18",
-      "original": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%f0%9f%87%af%f0%9f%87%b5%20JP%2018",
-      "ip": "84.247.155.196",
+      "password": "BeaUf9c0AEWH40Pu",
+      "name": "🇯🇵 JP 20",
+      "original": "ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%2020",
+      "ip": "154.36.158.197",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%f0%9f%87%af%f0%9f%87%b5%20JP%2018"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%f0%9f%87%af%f0%9f%87%b5%20JP%2020"
     }
   ]
 }

@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-30T03:53:19.155483",
-  "count": 2,
+  "updated": "2026-10-30T14:44:44.600054",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "212.227.235.66",
+      "port": "2053",
+      "id": "ead0dd61-d398-40ad-80d6-a0e1e516d7d3",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?security=reality&encryption=none&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=29e8dcd2b37aaa7f#vless-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "212.227.235.66",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?security=reality&encryption=none&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=29e8dcd2b37aaa7f#vless-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+    },
+    {
+      "type": "vless",
+      "address": "83.97.79.93",
+      "port": "8443",
+      "id": "e0216964-ffa1-4d39-82c4-0e40879a470d",
+      "name": "⭐️ @Premium_Config_1 🚀 | 👈 Join",
+      "network": "tcp",
+      "sni": "ger.nullo.pro",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://e0216964-ffa1-4d39-82c4-0e40879a470d@83.97.79.93:8443?security=reality&encryption=none&pbk=e8vusEkL9FTC7oxFCp8biOWMFH-e-1IN21V6YNynGDg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ger.nullo.pro&sid=6350d1647a4880#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "83.97.79.93",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://e0216964-ffa1-4d39-82c4-0e40879a470d@83.97.79.93:8443?security=reality&encryption=none&pbk=e8vusEkL9FTC7oxFCp8biOWMFH-e-1IN21V6YNynGDg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ger.nullo.pro&sid=6350d1647a4880#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
     {
       "type": "vless",
       "address": "31.57.190.50",
@@ -16,11 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "original": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3",
       "ip": "31.57.190.50",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3"
     },
     {
       "type": "vless",
@@ -36,11 +76,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "original": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-4",
       "ip": "46.28.71.135",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+      "rebuilt": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-4"
     }
   ]
 }

@@ -1,32 +1,39 @@
 {
-  "updated": "2026-10-30T03:53:19.076433",
-  "count": 10,
+  "updated": "2026-10-30T14:44:44.498311",
+  "count": 9,
   "configs": [
     {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9045",
-      "method": "aes-256-cfb",
-      "password": "Lp27rqyJq72bZsqX",
-      "name": "🇱🇹 LT 6",
-      "original": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%206",
-      "ip": "195.238.126.20",
+      "type": "vless",
+      "address": "88.216.69.253",
+      "port": "443",
+      "id": "d342d11e-d224-4463-b982-532309285094",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "ccc.010304.xyz",
+      "host": "ccc.010304.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "88.216.69.253",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%206"
+      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-1"
     },
     {
       "type": "ss",
       "address": "195.238.126.20",
-      "port": "9001",
+      "port": "9011",
       "method": "aes-256-cfb",
-      "password": "UkXRsXvR6buDMG2Y",
-      "name": "🇱🇹 LT 7",
-      "original": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@195.238.126.20:9001#%f0%9f%87%b1%f0%9f%87%b9%20LT%207",
+      "password": "M3t2ZEQcMGRWBjRa",
+      "name": "🇱🇹 LT 8",
+      "original": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#%f0%9f%87%b1%f0%9f%87%b9%20LT%208",
       "ip": "195.238.126.20",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@195.238.126.20:9001#%f0%9f%87%b1%f0%9f%87%b9%20LT%207"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#%f0%9f%87%b1%f0%9f%87%b9%20LT%208"
     },
     {
       "type": "ss",
@@ -44,19 +51,6 @@
     {
       "type": "ss",
       "address": "195.238.126.20",
-      "port": "9078",
-      "method": "aes-256-cfb",
-      "password": "JCJpbRbQZNw9XFZG",
-      "name": "🇱🇹 LT 9",
-      "original": "ss://YWVzLTI1Ni1jZmI6SkNKcGJSYlFaTnc5WEZaRw==@195.238.126.20:9078#%f0%9f%87%b1%f0%9f%87%b9%20LT%209",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6SkNKcGJSYlFaTnc5WEZaRw==@195.238.126.20:9078#%f0%9f%87%b1%f0%9f%87%b9%20LT%209"
-    },
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
       "port": "9068",
       "method": "aes-256-cfb",
       "password": "mwgRg9hRq3b4Qnwb",
@@ -66,19 +60,6 @@
       "country": "LT",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%f0%9f%87%b1%f0%9f%87%b9%20LT%204"
-    },
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9086",
-      "method": "aes-256-cfb",
-      "password": "37Z4TFCYhfxcpc9Q",
-      "name": "🇱🇹 LT 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201"
     },
     {
       "type": "ss",
@@ -96,42 +77,54 @@
     {
       "type": "ss",
       "address": "195.238.126.20",
-      "port": "9011",
+      "port": "9045",
       "method": "aes-256-cfb",
-      "password": "M3t2ZEQcMGRWBjRa",
-      "name": "🇱🇹 LT 8",
-      "original": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#%f0%9f%87%b1%f0%9f%87%b9%20LT%208",
+      "password": "Lp27rqyJq72bZsqX",
+      "name": "🇱🇹 LT 6",
+      "original": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%206",
       "ip": "195.238.126.20",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#%f0%9f%87%b1%f0%9f%87%b9%20LT%208"
-    },
-    {
-      "type": "trojan",
-      "address": "195.181.244.216",
-      "port": "443",
-      "password": "humanity",
-      "name": "برای اتصال دائمی جوین شو☄️ TelegramID ⌲Express_freevpn 🪩",
-      "sni": "www.calmlunch.com",
-      "host": "",
-      "original": "trojan://humanity@195.181.244.216:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-9",
-      "ip": "195.181.244.216",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "trojan://humanity@195.181.244.216:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-9"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%206"
     },
     {
       "type": "ss",
-      "address": "195.238.126.84",
-      "port": "9039",
+      "address": "195.238.126.20",
+      "port": "9012",
       "method": "aes-256-cfb",
-      "password": "qYEN5HX4JKeVCdEC",
-      "name": "🇱🇹 LT 3",
-      "original": "ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#%f0%9f%87%b1%f0%9f%87%b9%20LT%203",
-      "ip": "195.238.126.84",
+      "password": "xaupMUvhptwxdDUg",
+      "name": "🇱🇹 LT 5",
+      "original": "ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw==@195.238.126.20:9012#%f0%9f%87%b1%f0%9f%87%b9%20LT%205",
+      "ip": "195.238.126.20",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#%f0%9f%87%b1%f0%9f%87%b9%20LT%203"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw==@195.238.126.20:9012#%f0%9f%87%b1%f0%9f%87%b9%20LT%205"
+    },
+    {
+      "type": "ss",
+      "address": "195.238.126.20",
+      "port": "9078",
+      "method": "aes-256-cfb",
+      "password": "JCJpbRbQZNw9XFZG",
+      "name": "🇱🇹 LT 9",
+      "original": "ss://YWVzLTI1Ni1jZmI6SkNKcGJSYlFaTnc5WEZaRw==@195.238.126.20:9078#%f0%9f%87%b1%f0%9f%87%b9%20LT%209",
+      "ip": "195.238.126.20",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6SkNKcGJSYlFaTnc5WEZaRw==@195.238.126.20:9078#%f0%9f%87%b1%f0%9f%87%b9%20LT%209"
+    },
+    {
+      "type": "ss",
+      "address": "195.238.126.20",
+      "port": "9086",
+      "method": "aes-256-cfb",
+      "password": "37Z4TFCYhfxcpc9Q",
+      "name": "🇱🇹 LT 1",
+      "original": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201",
+      "ip": "195.238.126.20",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%f0%9f%87%b1%f0%9f%87%b9%20LT%201"
     }
   ]
 }
