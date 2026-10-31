@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-28T14:46:29.613697",
+  "updated": "2026-10-31T14:10:10.812428",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "ae.cdn.stun.su",
+      "address": "20.174.15.226",
       "port": "443",
-      "id": "eb071647-72a6-46be-8e89-ff3d228d52f6",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "ae.cdn.stun.su",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "id": "49996e29-93c5-4975-b56f-792acbbf3444",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "",
+      "host": "jyfrj1cims.dev.onappjet.com",
+      "security": "tls",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "38.180.26.28",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://49996e29-93c5-4975-b56f-792acbbf3444@20.174.15.226:443?path=%2Fjx-yjkteysq815pzp&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "20.174.15.226",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "vless://49996e29-93c5-4975-b56f-792acbbf3444@20.174.15.226:443?path=%2Fjx-yjkteysq815pzp&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     }
   ]
 }

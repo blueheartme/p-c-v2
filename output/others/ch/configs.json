@@ -1,20 +1,68 @@
 {
-  "updated": "2026-10-31T03:37:53.562377",
-  "count": 2,
+  "updated": "2026-10-31T14:10:10.769809",
+  "count": 5,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "208.69.78.29",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "@meliproxyy",
+      "sni": "learn.yourultimateprofessionalcareerhub.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "208.69.78.29",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "trojan",
+      "address": "208.69.78.19",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "Channel : @proxy_kafee",
+      "sni": "www.yourultimateprofessionalcareerhub.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&sni=www.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "208.69.78.19",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&sni=www.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
     {
       "type": "trojan",
       "address": "185.18.250.252",
       "port": "443",
       "password": "humanity",
-      "name": "@meliproxyy",
+      "name": "برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩",
       "sni": "www.calmlunch.com",
       "host": "",
-      "original": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-3",
       "ip": "185.18.250.252",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+    },
+    {
+      "type": "vless",
+      "address": "areal5.greewebservices.ir",
+      "port": "5455",
+      "id": "7c4e57be-ff6f-4ef7-ba17-f839351d9af9",
+      "name": "🔰 @prrofile_purple (تلگرام)",
+      "network": "tcp",
+      "sni": "amp-api-edge.apps.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "edge",
+      "original": "vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "ip": "131.123.34.193",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-4"
     },
     {
       "type": "vless",
@@ -30,11 +78,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-5",
       "ip": "45.90.57.119",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-5"
     }
   ]
 }

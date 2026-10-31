@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-31T03:37:53.570868",
-  "count": 1,
+  "updated": "2026-10-31T14:10:10.779986",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "88.216.69.253",
+      "port": "443",
+      "id": "d342d11e-d224-4463-b982-532309285094",
+      "name": "Channel : @proxy_kafee",
+      "network": "ws",
+      "sni": "ccc.010304.xyz",
+      "host": "ccc.010304.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp#vless-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "ip": "88.216.69.253",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp#vless-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+    },
     {
       "type": "trojan",
       "address": "195.181.244.216",
@@ -10,11 +30,11 @@
       "name": "برای اتصال دائمی جوین شو☄️ TelegramID ⌲Express_freevpn 🪩",
       "sni": "www.calmlunch.com",
       "host": "",
-      "original": "trojan://humanity@195.181.244.216:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "original": "trojan://humanity@195.181.244.216:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-2",
       "ip": "195.181.244.216",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "trojan://humanity@195.181.244.216:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+      "rebuilt": "trojan://humanity@195.181.244.216:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     }
   ]
 }
