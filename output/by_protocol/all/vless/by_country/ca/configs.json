@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-30T20:18:17.397354",
+  "updated": "2026-10-31T03:37:53.583790",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "66.70.179.198",
+      "port": "2053",
+      "id": "dc620cd6-a9d8-4a0f-8f18-006b895db77e",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-5",
+      "ip": "66.70.179.198",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-5"
+    },
     {
       "type": "vless",
       "address": "198.100.154.175",
@@ -16,31 +36,11 @@
       "encryption": "mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "original": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-7",
       "ip": "198.100.154.175",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-4"
-    },
-    {
-      "type": "vless",
-      "address": "66.70.179.198",
-      "port": "2053",
-      "id": "dc620cd6-a9d8-4a0f-8f18-006b895db77e",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-5",
-      "ip": "66.70.179.198",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-5"
+      "rebuilt": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-7"
     }
   ]
 }
