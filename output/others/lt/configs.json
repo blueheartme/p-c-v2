@@ -1,26 +1,20 @@
 {
-  "updated": "2026-10-31T14:10:10.779986",
+  "updated": "2026-10-31T19:39:58.178801",
   "count": 2,
   "configs": [
     {
-      "type": "vless",
+      "type": "trojan",
       "address": "88.216.69.253",
       "port": "443",
-      "id": "d342d11e-d224-4463-b982-532309285094",
-      "name": "Channel : @proxy_kafee",
-      "network": "ws",
-      "sni": "ccc.010304.xyz",
-      "host": "ccc.010304.xyz",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp#vless-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "password": "humanity",
+      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "sni": "www.pleadcourt.org",
+      "host": "www.pleadcourt.org",
+      "original": "trojan://humanity@88.216.69.253:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-1",
       "ip": "88.216.69.253",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp#vless-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+      "rebuilt": "trojan://humanity@88.216.69.253:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#trojan-ws-tls-LT%F0%9F%87%B1%F0%9F%87%B9-1"
     },
     {
       "type": "trojan",

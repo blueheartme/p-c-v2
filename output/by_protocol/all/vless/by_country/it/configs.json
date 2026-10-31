@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-31T14:10:10.797711",
-  "count": 1,
+  "updated": "2026-10-31T19:39:58.231182",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
       "address": "57.131.38.163",
       "port": "2053",
       "id": "d4b08cd6-0903-411a-9dac-45dbdf5c9712",
-      "name": "🇯🇵@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "name": "برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩",
       "network": "tcp",
       "sni": "www.apple.com",
       "host": "",
@@ -16,11 +16,51 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#vless-tcp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-4",
+      "original": "vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#vless-tcp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-7",
       "ip": "57.131.38.163",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#vless-tcp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-4"
+      "rebuilt": "vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#vless-tcp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-7"
+    },
+    {
+      "type": "vless",
+      "address": "57.131.21.102",
+      "port": "8080",
+      "id": "09c10f40-6992-4b33-8d4a-6d8feb01323e",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "icloud.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "mlkem768x25519plus.native.0rtt.i8cgpaz5mhjf9fbdb6ufhsmjm7gwe39furkzbjaqavc",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://09c10f40-6992-4b33-8d4a-6d8feb01323e@57.131.21.102:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.I8cgpaz5mHJF9FbDB6uFHSmJM7gWe39FURKzBjAqaVc&pbk=Lew0Y0hNzQyEeLxBpBxC2QnshUrtPvSdkLykPZcqLHs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=b10dd5#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.i8cgpaz5mhjf9fbdb6ufhsmjm7gwe39furkzbjaqavc-tcp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-9",
+      "ip": "57.131.21.102",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://09c10f40-6992-4b33-8d4a-6d8feb01323e@57.131.21.102:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.I8cgpaz5mHJF9FbDB6uFHSmJM7gWe39FURKzBjAqaVc&pbk=Lew0Y0hNzQyEeLxBpBxC2QnshUrtPvSdkLykPZcqLHs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=b10dd5#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.i8cgpaz5mhjf9fbdb6ufhsmjm7gwe39furkzbjaqavc-tcp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-9"
+    },
+    {
+      "type": "vless",
+      "address": "205.237.110.254",
+      "port": "443",
+      "id": "e75ad2eb-6c1f-45ce-8023-f5f10875df66",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "zsit.eu-cdn294.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-10",
+      "ip": "205.237.110.254",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%87%AE%F0%9F%87%B9-10"
     }
   ]
 }
