@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T14:39:53.377142",
+  "updated": "2026-11-01T20:02:23.654742",
   "count": 3,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "198.100.154.175",
       "port": "8080",
       "id": "e17150a9-f949-467b-94ea-4d50e4c84186",
-      "name": "@meliproxyy",
+      "name": "YFZ 144 @Outline_Vpn",
       "network": "tcp",
       "sni": "icloud.com",
       "host": "",
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "54.39.96.233",
-      "port": "8080",
-      "id": "20b98028-53c9-4f76-9bc9-b6b16b8a9152",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "icloud.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "mlkem768x25519plus.native.0rtt.0czmlmsqip7ubkaqqdqr-2yxkgupi6hyukootffqbvo",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.0czmlmsqip7ubkaqqdqr-2yxkgupi6hyukootffqbvo-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-3",
-      "ip": "54.39.96.233",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.0czmlmsqip7ubkaqqdqr-2yxkgupi6hyukootffqbvo-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-3"
-    },
-    {
-      "type": "vless",
       "address": "66.70.179.198",
       "port": "2053",
       "id": "dc620cd6-a9d8-4a0f-8f18-006b895db77e",
@@ -56,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-6",
+      "original": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-3",
       "ip": "66.70.179.198",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-6"
+      "rebuilt": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+    },
+    {
+      "type": "vless",
+      "address": "54.39.96.233",
+      "port": "8080",
+      "id": "20b98028-53c9-4f76-9bc9-b6b16b8a9152",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "icloud.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "mlkem768x25519plus.native.0rtt.0czmlmsqip7ubkaqqdqr-2yxkgupi6hyukootffqbvo",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.0czmlmsqip7ubkaqqdqr-2yxkgupi6hyukootffqbvo-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-6",
+      "ip": "54.39.96.233",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.0czmlmsqip7ubkaqqdqr-2yxkgupi6hyukootffqbvo-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-6"
     }
   ]
 }

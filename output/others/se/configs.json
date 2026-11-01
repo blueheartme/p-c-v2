@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-01T03:43:13.893158",
+  "updated": "2026-11-01T20:02:23.619996",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "62.182.192.195",
-      "port": "443",
-      "id": "495c7195-85b8-498a-bf20-2ea9ce9175b5",
-      "name": "YFZ 92 @Outline_Vpn",
-      "network": "ws",
-      "sni": "snip.edgeoneai.cc.cd",
-      "host": "snip.edgeoneai.cc.cd",
-      "security": "tls",
-      "flow": "",
+      "address": "46.29.255.123",
+      "port": "59539",
+      "id": "30572b57-f5ab-4eb8-82d4-a24d399b99f6",
+      "name": "🇸🇪 SE 1",
+      "network": "tcp",
+      "sni": "cloudflare-dns.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?path=%2Ffdip%23TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#vless-ws-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "62.182.192.195",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?flow=xtls-rprx-vision&security=reality&encryption=none&sni=cloudflare-dns.com&fp=firefox&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "46.29.255.123",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?path=%2Ffdip%23TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#vless-ws-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?flow=xtls-rprx-vision&security=reality&encryption=none&sni=cloudflare-dns.com&fp=firefox&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }

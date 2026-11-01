@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T14:39:53.310800",
-  "count": 5,
+  "updated": "2026-11-01T20:02:23.600926",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -24,51 +24,37 @@
     },
     {
       "type": "trojan",
-      "address": "185.18.250.252",
-      "port": "443",
-      "password": "humanity",
-      "name": "برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩",
-      "sni": "www.calmlunch.com",
-      "host": "",
-      "original": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "185.18.250.252",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "vless",
-      "address": "45.90.57.119",
-      "port": "8443",
-      "id": "f5e70ce3-cfb4-4df1-b25c-d19bfae627c0",
-      "name": "YFZ 183 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "twitch.tv",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "45.90.57.119",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
-    },
-    {
-      "type": "trojan",
       "address": "208.69.78.19",
       "port": "443",
       "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
       "name": "برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩",
       "sni": "www.yourultimateprofessionalcareerhub.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "208.69.78.19",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "vless",
+      "address": "45.90.57.119",
+      "port": "8443",
+      "id": "f5e70ce3-cfb4-4df1-b25c-d19bfae627c0",
+      "name": "🇨🇭 CH 1",
+      "network": "tcp",
+      "sni": "twitch.tv",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?flow=xtls-rprx-vision&security=reality&sni=twitch.tv&fp=firefox&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&sid=16036bbef04d0509&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "45.90.57.119",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?flow=xtls-rprx-vision&security=reality&sni=twitch.tv&fp=firefox&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&sid=16036bbef04d0509&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     },
     {
       "type": "trojan",
@@ -78,11 +64,11 @@
       "name": "@meliproxyy",
       "sni": "learn.yourultimateprofessionalcareerhub.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-5",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-4",
       "ip": "208.69.78.29",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-5"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-4"
     }
   ]
 }
