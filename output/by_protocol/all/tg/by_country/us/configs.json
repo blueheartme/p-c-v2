@@ -1,18 +1,42 @@
 {
-  "updated": "2026-10-31T19:39:58.260637",
-  "count": 2,
+  "updated": "2026-11-01T03:43:13.969419",
+  "count": 6,
   "configs": [
+    {
+      "type": "tg",
+      "address": "3.136.103.184",
+      "port": "443",
+      "secret": "eef177b848aaadfd76031e02c2dd03490b636c6f7564666c6172652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=3.136.103.184&port=443&secret=eef177b848aaadfd76031e02c2dd03490b636c6f7564666c6172652e636f6d&@MPT_Proxy",
+      "ip": "3.136.103.184",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=3.136.103.184&port=443&secret=eef177b848aaadfd76031e02c2dd03490b636c6f7564666c6172652e636f6d&@MPT_Proxy"
+    },
+    {
+      "type": "tg",
+      "address": "ir-ir.engematica.info",
+      "port": "8443",
+      "secret": "EERighJJvXrFGRMCIMjdCQ",
+      "name": "",
+      "original": "https://t.me/proxy?server=ir-ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "ip": "208.87.242.223",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=ir-ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    },
     {
       "type": "tg",
       "address": "a.similemat.com",
       "port": "12341",
-      "secret": "72b0b92a658f24c42ddf2a789c8b5261",
+      "secret": "12ae621d80f74e07754a1b66d97ec86e",
       "name": "",
-      "original": "https://t.me/proxy?server=a.similemat.com&port=12341&secret=72b0b92a658f24c42ddf2a789c8b5261&@MPT_Proxy",
+      "original": "https://t.me/proxy?server=a.similemat.com&port=12341&secret=12ae621d80f74e07754a1b66d97ec86e&@MPT_Proxy",
       "ip": "216.9.226.66",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=a.similemat.com&port=12341&secret=72b0b92a658f24c42ddf2a789c8b5261&@MPT_Proxy"
+      "rebuilt": "https://t.me/proxy?server=a.similemat.com&port=12341&secret=12ae621d80f74e07754a1b66d97ec86e&@MPT_Proxy"
     },
     {
       "type": "tg",
@@ -21,10 +45,34 @@
       "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
       "name": "",
       "original": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-      "ip": "23.164.244.53",
+      "ip": "23.164.244.141",
       "country": "US",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
+    },
+    {
+      "type": "tg",
+      "address": "208.87.242.223",
+      "port": "8443",
+      "secret": "EERighJJvXrFGRMCIMjdCQ",
+      "name": "",
+      "original": "https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "ip": "208.87.242.223",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    },
+    {
+      "type": "tg",
+      "address": "a.similemat.com",
+      "port": "443",
+      "secret": "4170ef4862902c504d0e3e8c38d5fa24",
+      "name": "",
+      "original": "https://t.me/proxy?server=a.similemat.com&port=443&secret=4170ef4862902c504d0e3e8c38d5fa24",
+      "ip": "216.9.226.66",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=a.similemat.com&port=443&secret=4170ef4862902c504d0e3e8c38d5fa24"
     }
   ]
 }
