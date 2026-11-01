@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-30T14:44:44.622791",
+  "updated": "2026-11-01T14:39:53.401618",
   "count": 1,
   "configs": [
     {
       "type": "trojan",
-      "address": "51.68.34.78",
-      "port": "20155",
-      "password": "5365cb12-83e2-4e12-8098-c9673ed7f540",
-      "name": "@filembad",
+      "address": "fr001.zestapp778.com",
+      "port": "16778",
+      "password": "5t6i121em5lkmsmk",
+      "name": "Channel : @proxy_kafee",
       "sni": "",
       "host": "",
-      "original": "trojan://5365cb12-83e2-4e12-8098-c9673ed7f540@51.68.34.78:20155?path=%2Fbp-trojan&security=none&type=ws#trojan-ws-FR%F0%9F%87%AB%F0%9F%87%B7-27",
-      "ip": "51.68.34.78",
+      "original": "trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?allowInsecure=1&insecure=1&security=tls&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-9",
+      "ip": "108.61.177.57",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "trojan://5365cb12-83e2-4e12-8098-c9673ed7f540@51.68.34.78:20155?path=%2Fbp-trojan&security=none&type=ws#trojan-ws-FR%F0%9F%87%AB%F0%9F%87%B7-27"
+      "rebuilt": "trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?allowInsecure=1&insecure=1&security=tls&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-FR%F0%9F%87%AB%F0%9F%87%B7-9"
     }
   ]
 }

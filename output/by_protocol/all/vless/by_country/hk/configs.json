@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T03:43:13.941568",
-  "count": 1,
+  "updated": "2026-11-01T14:39:53.378094",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&encryption=none&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=bb82c8#vless-xtls-rprx-vision-tcp-reality-random-HK%F0%9F%87%AD%F0%9F%87%B0-7"
+    },
+    {
+      "type": "vless",
+      "address": "165.154.63.139",
+      "port": "443",
+      "id": "91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.amazon.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "random",
+      "original": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=random&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&sid=ca4aedd4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-HK%F0%9F%87%AD%F0%9F%87%B0-11",
+      "ip": "165.154.63.139",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=random&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&sid=ca4aedd4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-HK%F0%9F%87%AD%F0%9F%87%B0-11"
     }
   ]
 }

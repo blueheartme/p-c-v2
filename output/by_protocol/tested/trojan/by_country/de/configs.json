@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-01T03:43:14.001387",
-  "count": 5,
+  "updated": "2026-11-01T14:39:53.467982",
+  "count": 4,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "193.108.119.78",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "@meliproxyy",
+      "sni": "www.iloverussia2026.com",
+      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1",
+      "ip": "193.108.119.78",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1"
+    },
+    {
+      "type": "trojan",
+      "address": "45.80.111.7",
+      "port": "443",
+      "password": "humanity",
+      "name": "🇩🇪Germany+⚡@DeamNet_Proxy",
+      "sni": "www.calmlunch.com",
+      "host": "",
+      "original": "trojan://humanity@45.80.111.7:443?type=ws&security=tls&sni=www.calmlunch.com&alpn=null&path=%2Fassignment#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-11",
+      "ip": "45.80.111.7",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://humanity@45.80.111.7:443?type=ws&security=tls&sni=www.calmlunch.com&alpn=null&path=%2Fassignment#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-11"
+    },
     {
       "type": "trojan",
       "address": "45.128.76.242",
@@ -10,13 +42,13 @@
       "name": "برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩",
       "sni": "www.trusteeforward.com",
       "host": "www.trusteeforward.com",
-      "original": "trojan://humanity@45.128.76.242:443?path=%2Fassignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-19",
+      "original": "trojan://humanity@45.128.76.242:443?path=%2Fassignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-99",
       "ip": "45.128.76.242",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@45.128.76.242:443?path=%2Fassignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-19"
+      "rebuilt": "trojan://humanity@45.128.76.242:443?path=%2Fassignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-99"
     },
     {
       "type": "trojan",
@@ -26,61 +58,13 @@
       "name": "@meliproxyy",
       "sni": "courses.iloverussia2026.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-27",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-174",
       "ip": "193.108.119.15",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-27"
-    },
-    {
-      "type": "trojan",
-      "address": "45.80.111.7",
-      "port": "443",
-      "password": "humanity",
-      "name": "برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩",
-      "sni": "www.calmlunch.com",
-      "host": "",
-      "original": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-90",
-      "ip": "45.80.111.7",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-90"
-    },
-    {
-      "type": "trojan",
-      "address": "de001.zestapp778.com",
-      "port": "51520",
-      "password": "5t6i121em5lkmsmk",
-      "name": "@meliproxyy",
-      "sni": "",
-      "host": "",
-      "original": "trojan://5t6i121em5lkmsmk@de001.zestapp778.com:51520?security=tls&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-108",
-      "ip": "136.244.91.14",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://5t6i121em5lkmsmk@de001.zestapp778.com:51520?security=tls&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-108"
-    },
-    {
-      "type": "trojan",
-      "address": "193.108.119.78",
-      "port": "443",
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "YFZ 223 @Outline_Vpn",
-      "sni": "www.iloverussia2026.com",
-      "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-145",
-      "ip": "193.108.119.78",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-145"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-174"
     }
   ]
 }

@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-01T03:43:13.984906",
-  "count": 1,
+  "updated": "2026-11-01T14:39:53.412090",
+  "count": 3,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "s1.connect.bloroxy.net",
+      "port": "1139",
+      "id": "8149b012-5f2f-47db-b564-f2c6975a24eb",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJzMS5jb25uZWN0LmJsb3JveHkubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgxNDliMDEyLTVmMmYtNDdkYi1iNTY0LWYyYzY5NzVhMjRlYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEzOSIsInBzIjoidm1lc3MtYWVzLTEyOC1nY20tdGNwLUlS8J+HrvCfh7ctMjMiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "ip": "94.139.183.67",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJhZGQiOiJzMS5jb25uZWN0LmJsb3JveHkubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgxNDliMDEyLTVmMmYtNDdkYi1iNTY0LWYyYzY5NzVhMjRlYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEzOSIsInBzIjoidm1lc3MtYWVzLTEyOC1nY20tdGNwLUlS8J+HrvCfh7ctMjMiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+    },
     {
       "type": "vmess",
       "address": "94.184.33.86",
@@ -11,11 +28,26 @@
       "network": "tcp",
       "host": "",
       "sni": "Pannelman.pannelman.ir",
-      "original": "vmess://eyJhZGQiOiI5NC4xODQuMzMuODYiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJmNTliOTlkMC04MzY3LTRhYWMtYjJjNS0xMWE5NWRiOWM0NzciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIxMDQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1JUvCfh67wn4e3LTM5Iiwic2N5IjoiYXV0byIsInNuaSI6IlBhbm5lbG1hbi5wYW5uZWxtYW4uaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "original": "vmess://eyJhZGQiOiI5NC4xODQuMzMuODYiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJmNTliOTlkMC04MzY3LTRhYWMtYjJjNS0xMWE5NWRiOWM0NzciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIxMDQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1JUvCfh67wn4e3LTE2Iiwic2N5IjoiYXV0byIsInNuaSI6IlBhbm5lbG1hbi5wYW5uZWxtYW4uaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
       "ip": "94.184.33.86",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI5NC4xODQuMzMuODYiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJmNTliOTlkMC04MzY3LTRhYWMtYjJjNS0xMWE5NWRiOWM0NzciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIxMDQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1JUvCfh67wn4e3LTM5Iiwic2N5IjoiYXV0byIsInNuaSI6IlBhbm5lbG1hbi5wYW5uZWxtYW4uaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+      "rebuilt": "vmess://eyJhZGQiOiI5NC4xODQuMzMuODYiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJmNTliOTlkMC04MzY3LTRhYWMtYjJjNS0xMWE5NWRiOWM0NzciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIxMDQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1JUvCfh67wn4e3LTE2Iiwic2N5IjoiYXV0byIsInNuaSI6IlBhbm5lbG1hbi5wYW5uZWxtYW4uaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+    },
+    {
+      "type": "vmess",
+      "address": "94.184.33.86",
+      "port": "2105",
+      "id": "f59b99d0-8367-4aac-b2c5-11a95db9c477",
+      "name": "@i10VPN⁷",
+      "network": "xhttp",
+      "host": "pannelman.pannelman.ir",
+      "sni": "Pannelman.pannelman.ir",
+      "original": "vmess://eyJhZGQiOiI5NC4xODQuMzMuODYiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJyYW5kb20iLCJob3N0IjoicGFubmVsbWFuLnBhbm5lbG1hbi5pciIsImlkIjoiZjU5Yjk5ZDAtODM2Ny00YWFjLWIyYzUtMTFhOTVkYjljNDc3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoieGh0dHAiLCJwYXRoIjoiL3hodHRwIiwicGNzIjoiIiwicG9ydCI6IjIxMDUiLCJwcyI6InZtZXNzLWF1dG8teGh0dHAtdGxzLUlS8J+HrvCfh7ctMjciLCJzY3kiOiJhdXRvIiwic25pIjoiUGFubmVsbWFuLnBhbm5lbG1hbi5pciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "ip": "94.184.33.86",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI5NC4xODQuMzMuODYiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJyYW5kb20iLCJob3N0IjoicGFubmVsbWFuLnBhbm5lbG1hbi5pciIsImlkIjoiZjU5Yjk5ZDAtODM2Ny00YWFjLWIyYzUtMTFhOTVkYjljNDc3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoieGh0dHAiLCJwYXRoIjoiL3hodHRwIiwicGNzIjoiIiwicG9ydCI6IjIxMDUiLCJwcyI6InZtZXNzLWF1dG8teGh0dHAtdGxzLUlS8J+HrvCfh7ctMjciLCJzY3kiOiJhdXRvIiwic25pIjoiUGFubmVsbWFuLnBhbm5lbG1hbi5pciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }

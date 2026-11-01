@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T03:43:13.945359",
-  "count": 1,
+  "updated": "2026-11-01T14:39:53.373141",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -10,17 +10,37 @@
       "name": "@meliproxyy",
       "network": "tcp",
       "sni": "zoom.us",
-      "host": "zoom.us",
+      "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&host=zoom.us&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#vless-xtls-rprx-vision-tcp-reality-random-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "fingerprint": "chrome",
+      "original": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "172.237.88.103",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&host=zoom.us&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#vless-xtls-rprx-vision-tcp-reality-random-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "vless",
+      "address": "43.174.193.1",
+      "port": "443",
+      "id": "d342d11e-d224-4463-b982-532309285094",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "ccc.010304.xyz",
+      "host": "ccc.010304.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "43.174.193.1",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }
