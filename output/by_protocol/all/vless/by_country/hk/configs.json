@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T03:48:42.593783",
-  "count": 2,
+  "updated": "2026-11-02T17:39:41.178340",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -41,6 +41,26 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=random&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&sid=ca4aedd4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
+      "type": "vless",
+      "address": "hk.huahua.wiki",
+      "port": "443",
+      "id": "2b7e9abc-97bf-4c23-912d-9e28165dd37d",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://2b7e9abc-97bf-4c23-912d-9e28165dd37d@hk.huahua.wiki:443?security=reality&encryption=none&pbk=NuKkYBdvf60o5sll4IvvT-uXjjXrhugUMYvOfAh3gyc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=aa7563369cab9613#vless-xtls-rprx-vision-tcp-reality-qq-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "43.161.197.242",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://2b7e9abc-97bf-4c23-912d-9e28165dd37d@hk.huahua.wiki:443?security=reality&encryption=none&pbk=NuKkYBdvf60o5sll4IvvT-uXjjXrhugUMYvOfAh3gyc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=aa7563369cab9613#vless-xtls-rprx-vision-tcp-reality-qq-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }
