@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-01T14:39:53.317296",
-  "count": 2,
+  "updated": "2026-11-02T03:48:42.557031",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "2.59.21.188",
+      "port": "443",
+      "id": "2c114179-04b4-4958-b260-7030d12887de",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "tg-lovers-free.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "edge",
+      "original": "vless://2c114179-04b4-4958-b260-7030d12887de@2.59.21.188:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=tg-lovers-free.com&fp=edge&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&sid=f00f58383241c807&spx=%2FHesarWeb&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "2.59.21.188",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://2c114179-04b4-4958-b260-7030d12887de@2.59.21.188:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=tg-lovers-free.com&fp=edge&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&sid=f00f58383241c807&spx=%2FHesarWeb&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
     {
       "type": "trojan",
       "address": "212.183.88.136",
@@ -10,11 +30,11 @@
       "name": "@meliproxyy",
       "sni": "www.calmlunch.com",
       "host": "www.calmlunch.com",
-      "original": "trojan://humanity@212.183.88.136:443?path=%2F%252Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "original": "trojan://humanity@212.183.88.136:443?path=%2F%252Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2",
       "ip": "212.183.88.136",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "trojan://humanity@212.183.88.136:443?path=%2F%252Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "trojan://humanity@212.183.88.136:443?path=%2F%252Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     },
     {
       "type": "vless",
@@ -30,11 +50,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "original": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=av.neuroniko.com&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-3",
       "ip": "185.126.236.125",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+      "rebuilt": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=av.neuroniko.com&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-3"
     }
   ]
 }

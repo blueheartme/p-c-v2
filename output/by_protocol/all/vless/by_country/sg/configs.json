@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-01T20:02:23.665500",
-  "count": 2,
+  "updated": "2026-11-02T03:48:42.592493",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "134.185.81.5",
+      "port": "47881",
+      "id": "59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72",
+      "name": "🇸🇬 SG 1",
+      "network": "tcp",
+      "sni": "www.tesla.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.tesla.com&fp=chrome&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&sid=38d72071&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "134.185.81.5",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.tesla.com&fp=chrome&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&sid=38d72071&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
     {
       "type": "vless",
       "address": "172.237.88.103",
@@ -36,11 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "original": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5",
       "ip": "43.174.193.1",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5"
     }
   ]
 }

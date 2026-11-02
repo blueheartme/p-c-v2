@@ -1,18 +1,30 @@
 {
-  "updated": "2026-11-01T20:02:23.708164",
-  "count": 1,
+  "updated": "2026-11-02T03:48:42.629570",
+  "count": 2,
   "configs": [
     {
       "type": "tg",
-      "address": "portfolio.hrscp.net",
-      "port": "8443",
-      "secret": "ee07955a5d55074ab555484463a3f2ceca706f7274666f6c696f2e68727363702e6e6574",
+      "address": "x.shmelproxy.top",
+      "port": "443",
+      "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
       "name": "",
-      "original": "https://t.me/proxy?server=portfolio.hrscp.net&port=8443&secret=ee07955a5d55074ab555484463a3f2ceca706f7274666f6c696f2e68727363702e6e6574",
-      "ip": "188.68.202.239",
+      "original": "https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+      "ip": "158.160.166.208",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=portfolio.hrscp.net&port=8443&secret=ee07955a5d55074ab555484463a3f2ceca706f7274666f6c696f2e68727363702e6e6574"
+      "rebuilt": "https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
+    },
+    {
+      "type": "tg",
+      "address": "topproxt.asia",
+      "port": "443",
+      "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+      "ip": "93.77.160.143",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
     }
   ]
 }

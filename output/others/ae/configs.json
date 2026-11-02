@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T20:02:23.621934",
-  "count": 1,
+  "updated": "2026-11-02T03:48:42.557777",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "AE",
       "cdn": null,
       "rebuilt": "vless://49996e29-93c5-4975-b56f-792acbbf3444@20.174.15.226:443?path=%2Fjx-yjkteysq815pzp&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "dubai-cdn-keno.keno.su",
+      "port": "443",
+      "id": "dc413f44-7dce-4cc4-b2c7-878ef70ce464",
+      "name": "🇭🇰 HK 3",
+      "network": "tcp",
+      "sni": "dubai-cdn-keno.keno.su",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@dubai-cdn-keno.keno.su:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=dubai-cdn-keno.keno.su&fp=firefox&pbk=9MgNwdrftjPf18DG8qYo6iHJw7IG7uSnULScDQ0WDy4&sid=0123456789abcdef&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "46.8.125.64",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@dubai-cdn-keno.keno.su:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=dubai-cdn-keno.keno.su&fp=firefox&pbk=9MgNwdrftjPf18DG8qYo6iHJw7IG7uSnULScDQ0WDy4&sid=0123456789abcdef&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }

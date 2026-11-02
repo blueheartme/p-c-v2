@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-22T02:48:56.318156",
+  "updated": "2026-11-02T03:48:42.554893",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "pphfree2.mvpnpvpn.de5.net",
-      "port": "52351",
-      "method": "aes-256-gcm",
-      "password": "sxajCTwrlK0zl+zmHpX0p0jXIfatnzlLzWlSQ950L1c=",
-      "name": "برای اتصال دائمی جوین شو☄️ TelegramID ⌲Express_freevpn 🪩",
-      "original": "ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0@pphfree2.mvpnpvpn.de5.net:52351#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%E2%98%84%EF%B8%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
-      "ip": "103.107.52.106",
+      "type": "vless",
+      "address": "45.154.26.63",
+      "port": "443",
+      "id": "ff85e702-b605-4109-884d-2c1f065d0954",
+      "name": "🇹🇭 TH 1",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&sid=3c032a7e&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-TH%F0%9F%87%B9%F0%9F%87%AD-1",
+      "ip": "45.154.26.63",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0@pphfree2.mvpnpvpn.de5.net:52351#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%E2%98%84%EF%B8%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
+      "rebuilt": "vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&sid=3c032a7e&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-TH%F0%9F%87%B9%F0%9F%87%AD-1"
     }
   ]
 }
