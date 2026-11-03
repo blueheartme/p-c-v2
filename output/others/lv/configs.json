@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T15:42:13.657010",
-  "count": 2,
+  "updated": "2026-11-03T21:24:54.853903",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -41,6 +41,18 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://2614a96d-e39f-4cca-a9c7-467a178c2c0a@72.56.52.248:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv.dexlen.cc#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%87%B1%F0%9F%87%BB-2"
+    },
+    {
+      "type": "tg",
+      "address": "proxy.nizya.club",
+      "port": "443",
+      "secret": "ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562",
+      "name": "",
+      "original": "https://t.me/proxy?server=proxy.nizya.club&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562&@MPT_Proxy",
+      "ip": "217.19.4.157",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=proxy.nizya.club&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562&@MPT_Proxy"
     }
   ]
 }
