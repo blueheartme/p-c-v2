@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-02T17:39:41.185161",
-  "count": 1,
+  "updated": "2026-11-03T04:52:29.472993",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "31.222.235.81",
+      "address": "netx.smrtai.top",
       "port": "443",
       "id": "d8b58872-cc25-4bb2-badb-b86399c075fa",
-      "name": "🇯🇵@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "name": "@meliproxyy",
       "network": "tcp",
       "sni": "www.cloudflare.com",
       "host": "",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#vless-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-3",
+      "original": "vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#vless-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-3",
       "ip": "31.222.235.81",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#vless-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-3"
+      "rebuilt": "vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#vless-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-3"
+    },
+    {
+      "type": "vless",
+      "address": "31.222.235.81",
+      "port": "443",
+      "id": "d8b58872-cc25-4bb2-badb-b86399c075fa",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#vless-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-4",
+      "ip": "31.222.235.81",
+      "country": "UA",
+      "cdn": null,
+      "rebuilt": "vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#vless-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-4"
     }
   ]
 }

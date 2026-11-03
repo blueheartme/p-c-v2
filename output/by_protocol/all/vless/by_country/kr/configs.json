@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-16T02:37:49.550041",
+  "updated": "2026-11-03T04:52:29.474328",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "141.164.43.178",
-      "port": "443",
-      "id": "583cc910-b57c-4dd0-a4a7-cea51a30b032",
-      "name": "@meliproxyy",
+      "address": "3.39.4.109",
+      "port": "13672",
+      "id": "814bd064-544d-4255-a070-5705c03f6da9",
+      "name": "@filembad",
       "network": "tcp",
       "sni": "www.apple.com",
       "host": "",
@@ -15,12 +15,12 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81#vless-xtls-rprx-vision-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-2",
-      "ip": "141.164.43.178",
+      "fingerprint": "chrome",
+      "original": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#vless-xtls-rprx-vision-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "3.39.4.109",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81#vless-xtls-rprx-vision-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+      "rebuilt": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#vless-xtls-rprx-vision-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1"
     }
   ]
 }

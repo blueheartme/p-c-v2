@@ -1,21 +1,26 @@
 {
-  "updated": "2026-11-01T14:39:53.320885",
+  "updated": "2026-11-03T04:52:29.417527",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "132.145.80.230",
-      "port": "80",
-      "id": "5155860e-d07d-46c3-9128-3afbd84626c7",
-      "name": "🇰🇷 KR 5",
-      "network": "ws",
-      "host": "132.145.80.230",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0xIiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0Ijo4MCwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjEzMi4xNDUuODAuMjMwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "132.145.80.230",
+      "type": "vless",
+      "address": "3.39.4.109",
+      "port": "13672",
+      "id": "814bd064-544d-4255-a070-5705c03f6da9",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#vless-xtls-rprx-vision-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "3.39.4.109",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1Lwn4ew8J+Hty0xIiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0Ijo4MCwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjEzMi4xNDUuODAuMjMwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#vless-xtls-rprx-vision-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1"
     }
   ]
 }
