@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-03T21:24:54.894310",
-  "count": 1,
+  "updated": "2026-11-04T04:20:01.116609",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "in.smrtai.top",
       "port": "443",
       "id": "6bdc8320-7eae-46fc-be08-f5f54e65dfc8",
-      "name": "@meliproxyy",
+      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
       "network": "tcp",
       "sni": "www.cloudflare.com",
       "host": "",
@@ -21,6 +21,26 @@
       "country": "IN",
       "cdn": null,
       "rebuilt": "vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&encryption=none&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=6bdc8320#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
+    {
+      "type": "vless",
+      "address": "hydra.yokkastars.com",
+      "port": "40443",
+      "id": "405b964e-a2d2-454f-aaaa-711cc218897c",
+      "name": "Joinbede@ConfingV2RaayNG",
+      "network": "tcp",
+      "sni": "deepl.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "5.253.28.240",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     }
   ]
 }
