@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-04T15:54:42.819977",
-  "count": 5,
+  "updated": "2026-11-04T21:39:57.296204",
+  "count": 6,
   "configs": [
     {
       "type": "vless",
       "address": "156.252.229.11",
       "port": "8443",
       "id": "3e21e3d3-6d26-4155-b851-764dd8e8c6b5",
-      "name": "🇬🇧@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "name": "@meliproxyy",
       "network": "tcp",
       "sni": "play.googleapis.com",
       "host": "",
@@ -24,10 +24,10 @@
     },
     {
       "type": "vless",
-      "address": "156.252.229.136",
+      "address": "156.252.229.188",
       "port": "8443",
       "id": "3e21e3d3-6d26-4155-b851-764dd8e8c6b5",
-      "name": "برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩",
+      "name": "@filembad",
       "network": "tcp",
       "sni": "play.googleapis.com",
       "host": "",
@@ -36,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2",
-      "ip": "156.252.229.136",
+      "original": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.188:8443?encryption=none&security=reality&sni=play.googleapis.com&fp=chrome&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&sid=974f7f8f&type=tcp&headerType=none#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "156.252.229.188",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+      "rebuilt": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.188:8443?encryption=none&security=reality&sni=play.googleapis.com&fp=chrome&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&sid=974f7f8f&type=tcp&headerType=none#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-2"
     },
     {
       "type": "vless",
@@ -78,23 +78,36 @@
     },
     {
       "type": "vless",
-      "address": "31.57.190.50",
-      "port": "443",
-      "id": "d342d11e-d224-4463-b982-532309285094",
-      "name": "YFZ 90 @Outline_Vpn",
-      "network": "ws",
-      "sni": "ccc.010304.xyz",
-      "host": "ccc.010304.xyz",
-      "security": "tls",
+      "address": "156.252.229.136",
+      "port": "8443",
+      "id": "3e21e3d3-6d26-4155-b851-764dd8e8c6b5",
+      "name": "برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "play.googleapis.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-5",
-      "ip": "31.57.190.50",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-5",
+      "ip": "156.252.229.136",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%87%AA%F0%9F%87%B8-5"
+      "rebuilt": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-5"
+    },
+    {
+      "type": "ss",
+      "address": "167.17.71.167",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "🇪🇸 ES 1",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.71.167:19999#%f0%9f%87%aa%f0%9f%87%b8%20ES%201",
+      "ip": "167.17.71.167",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.71.167:19999#%f0%9f%87%aa%f0%9f%87%b8%20ES%201"
     }
   ]
 }

@@ -1,7 +1,42 @@
 {
-  "updated": "2026-11-04T15:54:42.828125",
-  "count": 2,
+  "updated": "2026-11-04T21:39:57.286064",
+  "count": 3,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "152.67.8.205",
+      "port": "80",
+      "id": "9db4c708-aef8-4359-821b-38e47990be0d",
+      "name": "🇮🇳 IN 4",
+      "network": "ws",
+      "host": "in-152.67.8.205-0204",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0xIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJpbi0xNTIuNjcuOC4yMDUtMDIwNCIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "152.67.8.205",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0xIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJpbi0xNTIuNjcuOC4yMDUtMDIwNCIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
+    {
+      "type": "vless",
+      "address": "in.smrtai.top",
+      "port": "443",
+      "id": "6bdc8320-7eae-46fc-be08-f5f54e65dfc8",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&encryption=none&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=6bdc8320#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "178.212.35.198",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&encryption=none&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=6bdc8320#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+    },
     {
       "type": "vless",
       "address": "dorado.yokkastars.com",
@@ -16,31 +51,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "original": "vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-3",
       "ip": "5.253.28.224",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1"
-    },
-    {
-      "type": "vless",
-      "address": "in.smrtai.top",
-      "port": "443",
-      "id": "6bdc8320-7eae-46fc-be08-f5f54e65dfc8",
-      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&encryption=none&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=6bdc8320#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "178.212.35.198",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&encryption=none&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=6bdc8320#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+      "rebuilt": "vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     }
   ]
 }

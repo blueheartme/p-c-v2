@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-04T15:54:42.862200",
-  "count": 2,
+  "updated": "2026-11-04T21:39:57.344169",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.90.57.119",
+      "port": "8443",
+      "id": "f5e70ce3-cfb4-4df1-b25c-d19bfae627c0",
+      "name": "YFZ 183 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "twitch.tv",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "45.90.57.119",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "vless",
       "address": "areal5.greewebservices.ir",
@@ -24,23 +44,23 @@
     },
     {
       "type": "vless",
-      "address": "45.90.57.119",
-      "port": "8443",
-      "id": "f5e70ce3-cfb4-4df1-b25c-d19bfae627c0",
-      "name": "YFZ 183 @Outline_Vpn",
+      "address": "179.43.187.67",
+      "port": "443",
+      "id": "9dd38d60-e683-47c6-bd53-d71bdfee78f3",
+      "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "twitch.tv",
+      "sni": "portal.mavexa.ir",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "security": "tls",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-4",
-      "ip": "45.90.57.119",
+      "fingerprint": "chrome",
+      "original": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-5",
+      "ip": "179.43.187.67",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+      "rebuilt": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-5"
     }
   ]
 }

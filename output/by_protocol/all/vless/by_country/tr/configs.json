@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T15:54:42.862715",
+  "updated": "2026-11-04T21:39:57.340740",
   "count": 2,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "206.1.101.85",
-      "port": "42654",
-      "id": "893845c5-8e4a-48d5-8a85-622f5b7ea950",
-      "name": "YFZ 200 @Outline_Vpn",
-      "network": "ws",
-      "sni": "206.1.101.85",
+      "address": "147.45.66.60",
+      "port": "43000",
+      "id": "01e61db7-9e0b-4431-a995-a5288a01b951",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "",
       "host": "",
-      "security": "tls",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#vless-ws-tls-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "206.1.101.85",
+      "original": "vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.60:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&sid=4d3d8e15&spx=%2F&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "147.45.66.60",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#vless-ws-tls-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.60:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&sid=4d3d8e15&spx=%2F&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }
