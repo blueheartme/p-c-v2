@@ -1,26 +1,19 @@
 {
-  "updated": "2026-09-05T17:51:26.948801",
+  "updated": "2026-11-04T15:54:42.830618",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "38.54.59.209",
-      "port": "2087",
-      "id": "cd842ef8-9577-47f3-83ca-627147ed291b",
-      "name": "🇪🇬 EG 1",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://cd842ef8-9577-47f3-83ca-627147ed291b@38.54.59.209:2087?security=none&encryption=none&type=ws&path=%2fd1000b16fe76#vless-ws-EG%F0%9F%87%AA%F0%9F%87%AC-1",
-      "ip": "38.54.59.209",
+      "type": "ss",
+      "address": "38.54.59.78",
+      "port": "16676",
+      "method": "aes-128-gcm",
+      "password": "c58938bbf5410f996b13983264fb2229",
+      "name": "Channel : @proxy_kafee",
+      "original": "ss://YWVzLTEyOC1nY206YzU4OTM4YmJmNTQxMGY5OTZiMTM5ODMyNjRmYjIyMjk@38.54.59.78:16676#Channel%20%3A%20%40proxy_kafee%20",
+      "ip": "38.54.59.78",
       "country": "EG",
       "cdn": null,
-      "rebuilt": "vless://cd842ef8-9577-47f3-83ca-627147ed291b@38.54.59.209:2087?security=none&encryption=none&type=ws&path=%2fd1000b16fe76#vless-ws-EG%F0%9F%87%AA%F0%9F%87%AC-1"
+      "rebuilt": "ss://YWVzLTEyOC1nY206YzU4OTM4YmJmNTQxMGY5OTZiMTM5ODMyNjRmYjIyMjk@38.54.59.78:16676#Channel%20%3A%20%40proxy_kafee%20"
     }
   ]
 }
