@@ -1,36 +1,36 @@
 {
-  "updated": "2026-11-04T21:39:57.363985",
+  "updated": "2026-11-05T04:38:32.737509",
   "count": 2,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "aksai.org",
+      "port": "443",
+      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "name": "@i10VPN⁶",
+      "network": "ws",
+      "host": "aksai.org",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJha3NhaS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1HQvCfh6zwn4enLTExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "ip": "66.163.117.70",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiJha3NhaS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1HQvCfh6zwn4enLTExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+    },
     {
       "type": "vmess",
       "address": "149.7.16.228",
       "port": "1270",
       "id": "5c040f1d-45db-43bd-8d46-e4950e433735",
-      "name": "🇧🇻@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "name": "@meliproxy",
       "network": "tcp",
       "host": "",
       "sni": "xmfhlpy.com",
-      "original": "vmess://eyJhZGQiOiIxNDkuNy4xNi4yMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC10bHMtR0Lwn4es8J+Hpy0xMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "original": "vmess://eyJhZGQiOiIxNDkuNy4xNi4yMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC10bHMtR0Lwn4es8J+Hpy0xNSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
       "ip": "149.7.16.228",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNDkuNy4xNi4yMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC10bHMtR0Lwn4es8J+Hpy0xMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
-    },
-    {
-      "type": "vmess",
-      "address": "57.129.132.223",
-      "port": "80",
-      "id": "a25cbf11-2908-4a1b-a3a8-9a571777dca3",
-      "name": "🇬🇧 GB 1",
-      "network": "ws",
-      "host": "viber.com",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtR0Lwn4es8J+Hpy0xNyIsImFkZCI6IjU3LjEyOS4xMzIuMjIzIiwicG9ydCI6ODAsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJ2aWJlci5jb20iLCJhbHBuIjpudWxsLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "57.129.132.223",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtR0Lwn4es8J+Hpy0xNyIsImFkZCI6IjU3LjEyOS4xMzIuMjIzIiwicG9ydCI6ODAsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJ2aWJlci5jb20iLCJhbHBuIjpudWxsLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "vmess://eyJhZGQiOiIxNDkuNy4xNi4yMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC10bHMtR0Lwn4es8J+Hpy0xNSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }

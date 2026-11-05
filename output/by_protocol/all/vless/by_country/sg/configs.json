@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-04T21:39:57.337455",
-  "count": 5,
+  "updated": "2026-11-05T04:38:32.714993",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
       "address": "hw3.divarkhaghazi.com",
       "port": "465",
       "id": "924e20da-fcad-4e7e-8113-c62d27a0d01e",
-      "name": "YFZ 188 @Outline_Vpn",
+      "name": "@freeConfigw 📦",
       "network": "ws",
       "sni": "hw3.divarkhaghazi.com.",
       "host": "hw3.divarkhaghazi.com.",
@@ -15,12 +15,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "fingerprint": "chrome",
+      "original": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?host=hw3.divarkhaghazi.com.&encryption=none&allowInsecure=0&insecure=0&type=ws&sni=hw3.divarkhaghazi.com.&security=tls&path=%2F&fp=chrome&alpn=http%2F1.1#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "5.223.59.60",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?host=hw3.divarkhaghazi.com.&encryption=none&allowInsecure=0&insecure=0&type=ws&sni=hw3.divarkhaghazi.com.&security=tls&path=%2F&fp=chrome&alpn=http%2F1.1#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     },
     {
       "type": "vless",
@@ -56,31 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "original": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-5",
       "ip": "5.223.59.190",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4"
-    },
-    {
-      "type": "vless",
-      "address": "103.106.229.37",
-      "port": "21004",
-      "id": "41b1c169-5905-4d98-b6a6-56896c25737c",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21004?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2df2bd9d8366cef1#vless-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-5",
-      "ip": "103.106.229.37",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21004?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2df2bd9d8366cef1#vless-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-5"
+      "rebuilt": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-5"
     },
     {
       "type": "vless",
