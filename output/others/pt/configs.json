@@ -1,26 +1,19 @@
 {
-  "updated": "2026-10-28T03:28:17.566585",
+  "updated": "2026-11-05T15:59:27.633222",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "95.93.3.5",
-      "port": "80",
-      "id": "af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1",
-      "ip": "95.93.3.5",
+      "type": "ss",
+      "address": "185.231.233.91",
+      "port": "17167",
+      "method": "aes-128-gcm",
+      "password": "d925ddb6fe1e6e62887cf3dc3f5137f3",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTEyOC1nY206ZDkyNWRkYjZmZTFlNmU2Mjg4N2NmM2RjM2Y1MTM3ZjM@185.231.233.91:17167#@meliproxyy",
+      "ip": "185.231.233.91",
       "country": "PT",
       "cdn": null,
-      "rebuilt": "vless://af33a49d-e9ff-486b-ba6c-5ee9e8ded6f5@95.93.3.5:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PT%F0%9F%87%B5%F0%9F%87%B9-1"
+      "rebuilt": "ss://YWVzLTEyOC1nY206ZDkyNWRkYjZmZTFlNmU2Mjg4N2NmM2RjM2Y1MTM3ZjM@185.231.233.91:17167#@meliproxyy"
     }
   ]
 }
