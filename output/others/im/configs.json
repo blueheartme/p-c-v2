@@ -1,0 +1,46 @@
+{
+  "updated": "2026-11-06T04:36:59.316059",
+  "count": 2,
+  "configs": [
+    {
+      "type": "vless",
+      "address": "185.162.229.50",
+      "port": "8880",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "vms.lifetime61.workers.dev",
+      "security": "",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.50:8880?type=ws&host=vms.lifetime61.workers.dev&path=/#vless-ws-IM%F0%9F%87%AE%F0%9F%87%B2-1",
+      "ip": "185.162.229.50",
+      "country": "IM",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.50:8880?type=ws&host=vms.lifetime61.workers.dev&path=/#vless-ws-IM%F0%9F%87%AE%F0%9F%87%B2-1"
+    },
+    {
+      "type": "vless",
+      "address": "185.162.229.30",
+      "port": "8880",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "vms.lifetime61.workers.dev",
+      "security": "none",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime61.workers.dev&packetEncoding=xudp#vless-ws-IM%F0%9F%87%AE%F0%9F%87%B2-2",
+      "ip": "185.162.229.30",
+      "country": "IM",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime61.workers.dev&packetEncoding=xudp#vless-ws-IM%F0%9F%87%AE%F0%9F%87%B2-2"
+    }
+  ]
+}
