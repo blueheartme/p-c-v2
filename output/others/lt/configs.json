@@ -1,13 +1,25 @@
 {
-  "updated": "2026-11-06T15:31:46.603578",
-  "count": 1,
+  "updated": "2026-11-06T21:12:06.356092",
+  "count": 2,
   "configs": [
+    {
+      "type": "tg",
+      "address": "football.world-pro.co.uk",
+      "port": "25565",
+      "secret": "7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20",
+      "name": "",
+      "original": "https://t.me/proxy?server=football.world-pro.co.uk&port=25565&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20",
+      "ip": "89.117.222.34",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=football.world-pro.co.uk&port=25565&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20"
+    },
     {
       "type": "vless",
       "address": "app26.betust.net",
       "port": "443",
       "id": "2232d904-8e6a-4202-8240-6efd8aec02e9",
-      "name": "@filembad",
+      "name": "5|@ConfingV2RaayNG",
       "network": "tcp",
       "sni": "app26.betust.net",
       "host": "",
@@ -16,11 +28,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-1",
+      "original": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-2",
       "ip": "84.32.151.159",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+      "rebuilt": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     }
   ]
 }

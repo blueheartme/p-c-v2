@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T15:31:46.595781",
-  "count": 2,
+  "updated": "2026-11-06T21:12:06.363313",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,6 +24,26 @@
     },
     {
       "type": "vless",
+      "address": "smart.bachidze.com",
+      "port": "443",
+      "id": "3bb97d46-789b-4229-88f6-9beb222a4137",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "smart.bachidze.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart.bachidze.com:443?security=reality&encryption=none&pbk=vzRgIP8Mvd9V6krwKxw5EwwzvC4uiaW3wo0Y2ri2_Wc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smart.bachidze.com#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "88.216.223.100",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart.bachidze.com:443?security=reality&encryption=none&pbk=vzRgIP8Mvd9V6krwKxw5EwwzvC4uiaW3wo0Y2ri2_Wc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smart.bachidze.com#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
       "address": "46.29.255.123",
       "port": "59539",
       "id": "30572b57-f5ab-4eb8-82d4-a24d399b99f6",
@@ -36,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&encryption=none&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare-dns.com#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "original": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&encryption=none&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare-dns.com#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3",
       "ip": "46.29.255.123",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&encryption=none&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare-dns.com#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&encryption=none&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare-dns.com#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }
