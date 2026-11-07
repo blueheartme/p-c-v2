@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T04:01:55.280233",
-  "count": 2,
+  "updated": "2026-11-07T14:35:06.093861",
+  "count": 5,
   "configs": [
     {
       "type": "tg",
@@ -18,13 +18,49 @@
       "type": "tg",
       "address": "a.similemat.com",
       "port": "12341",
-      "secret": "57398acfb06b108a433f805514ec275d",
+      "secret": "29ce8c54cff0d4e1c054e176a940ef97",
       "name": "",
-      "original": "https://t.me/proxy?server=a.similemat.com&port=12341&secret=57398acfb06b108a433f805514ec275d&@MPT_Proxy",
+      "original": "https://t.me/proxy?server=a.similemat.com&port=12341&secret=29ce8c54cff0d4e1c054e176a940ef97&@MPT_Proxy",
       "ip": "216.9.226.66",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=a.similemat.com&port=12341&secret=57398acfb06b108a433f805514ec275d&@MPT_Proxy"
+      "rebuilt": "https://t.me/proxy?server=a.similemat.com&port=12341&secret=29ce8c54cff0d4e1c054e176a940ef97&@MPT_Proxy"
+    },
+    {
+      "type": "tg",
+      "address": "18.216.73.109",
+      "port": "443",
+      "secret": "0bc2ca2843411272cace1e4436cd83f1",
+      "name": "",
+      "original": "https://t.me/proxy?server=18.216.73.109&port=443&secret=0bc2ca2843411272cace1e4436cd83f1&@MPT_Proxy",
+      "ip": "18.216.73.109",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=18.216.73.109&port=443&secret=0bc2ca2843411272cace1e4436cd83f1&@MPT_Proxy"
+    },
+    {
+      "type": "tg",
+      "address": "13.58.22.61",
+      "port": "443",
+      "secret": "7d98258a55364368867e30b16b2fdd83",
+      "name": "",
+      "original": "https://t.me/proxy?server=13.58.22.61&port=443&secret=7d98258a55364368867e30b16b2fdd83",
+      "ip": "13.58.22.61",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=13.58.22.61&port=443&secret=7d98258a55364368867e30b16b2fdd83"
+    },
+    {
+      "type": "tg",
+      "address": "172.65.39.222",
+      "port": "131515",
+      "secret": "ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=172.65.39.222&port=131515&secret=ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d",
+      "ip": "172.65.39.222",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=172.65.39.222&port=131515&secret=ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d"
     }
   ]
 }
