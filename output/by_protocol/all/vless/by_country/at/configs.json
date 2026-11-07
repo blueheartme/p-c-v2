@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T14:35:06.053996",
-  "count": 1,
+  "updated": "2026-11-07T19:47:07.175291",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "fdat.titun.su",
+      "address": "66.90.106.28",
       "port": "443",
       "id": "90157e25-cee1-4217-921e-91f300bc1a24",
       "name": "@filembad",
@@ -15,12 +15,32 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://90157e25-cee1-4217-921e-91f300bc1a24@fdat.titun.su:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=banket-restoran.su&sid=428ef87fd47a3a32#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "fingerprint": "firefox",
+      "original": "vless://90157e25-cee1-4217-921e-91f300bc1a24@66.90.106.28:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=banket-restoran.su&sid=428ef87fd47a3a32#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1",
       "ip": "66.90.106.28",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://90157e25-cee1-4217-921e-91f300bc1a24@fdat.titun.su:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=banket-restoran.su&sid=428ef87fd47a3a32#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://90157e25-cee1-4217-921e-91f300bc1a24@66.90.106.28:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=banket-restoran.su&sid=428ef87fd47a3a32#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "av.neuroniko.com",
+      "port": "8443",
+      "id": "69158986-cfae-4567-8391-0f96d9d985bd",
+      "name": "YFZ 215 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "av.neuroniko.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "185.126.236.125",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     }
   ]
 }

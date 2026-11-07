@@ -1,7 +1,47 @@
 {
-  "updated": "2026-11-07T14:35:06.045458",
-  "count": 2,
+  "updated": "2026-11-07T19:47:07.168420",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "76574ct.nl7.h1clayd.click",
+      "port": "443",
+      "id": "cda0862a-0f87-4be9-8ed8-1d0c9e382839",
+      "name": "YFZ 286 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "76574ct.nl7.h1clayd.click",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@76574ct.nl7.h1clayd.click:443?security=reality&encryption=none&pbk=9zW5lTDbs9svY-lzlPp-pq0j2Sr6g031SY0E-3xSHDc&headerType=none&type=tcp&sni=76574ct.nl7.h1clayd.click&sid=2ca59bdc5121f921#vless-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "196.245.52.186",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@76574ct.nl7.h1clayd.click:443?security=reality&encryption=none&pbk=9zW5lTDbs9svY-lzlPp-pq0j2Sr6g031SY0E-3xSHDc&headerType=none&type=tcp&sni=76574ct.nl7.h1clayd.click&sid=2ca59bdc5121f921#vless-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
+    {
+      "type": "vless",
+      "address": "156.252.229.11",
+      "port": "8443",
+      "id": "3e21e3d3-6d26-4155-b851-764dd8e8c6b5",
+      "name": "YFZ 248 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "play.googleapis.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-4",
+      "ip": "156.252.229.11",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-4"
+    },
     {
       "type": "vless",
       "address": "46.28.71.135",
@@ -16,31 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "original": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-5",
       "ip": "46.28.71.135",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3"
-    },
-    {
-      "type": "vless",
-      "address": "156.252.229.136",
-      "port": "8443",
-      "id": "3e21e3d3-6d26-4155-b851-764dd8e8c6b5",
-      "name": "برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩",
-      "network": "tcp",
-      "sni": "play.googleapis.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-6",
-      "ip": "156.252.229.136",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#vless-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-6"
+      "rebuilt": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%87%AA%F0%9F%87%B8-5"
     }
   ]
 }

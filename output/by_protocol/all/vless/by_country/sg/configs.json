@@ -1,27 +1,7 @@
 {
-  "updated": "2026-11-07T14:35:06.051808",
-  "count": 4,
+  "updated": "2026-11-07T19:47:07.171057",
+  "count": 5,
   "configs": [
-    {
-      "type": "vless",
-      "address": "510.150333.xyz",
-      "port": "21002",
-      "id": "67952583-8572-42e1-943d-0602794f885b",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://67952583-8572-42e1-943d-0602794f885b@510.150333.xyz:21002?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d9a6b52e98121db2#vless-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "103.106.229.177",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://67952583-8572-42e1-943d-0602794f885b@510.150333.xyz:21002?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d9a6b52e98121db2#vless-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
     {
       "type": "vless",
       "address": "hw6.divarkhaghazi.com",
@@ -36,18 +16,38 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "5.223.59.190",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "vless",
+      "address": "510.150333.xyz",
+      "port": "21002",
+      "id": "67952583-8572-42e1-943d-0602794f885b",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://67952583-8572-42e1-943d-0602794f885b@510.150333.xyz:21002?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d9a6b52e98121db2#vless-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "103.106.229.177",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://67952583-8572-42e1-943d-0602794f885b@510.150333.xyz:21002?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d9a6b52e98121db2#vless-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     },
     {
       "type": "vless",
       "address": "hw3.divarkhaghazi.com",
       "port": "465",
       "id": "924e20da-fcad-4e7e-8113-c62d27a0d01e",
-      "name": "YFZ 190 @Outline_Vpn",
+      "name": "YFZ 188 @Outline_Vpn",
       "network": "ws",
       "sni": "hw3.divarkhaghazi.com.",
       "host": "hw3.divarkhaghazi.com.",
@@ -55,12 +55,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "fingerprint": "",
+      "original": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3",
       "ip": "5.223.59.36",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     },
     {
       "type": "vless",
@@ -81,6 +81,26 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+    },
+    {
+      "type": "vless",
+      "address": "43.163.112.174",
+      "port": "443",
+      "id": "0dedd47d-47b9-4ed1-9c9f-cbeecad57a68",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://0dedd47d-47b9-4ed1-9c9f-cbeecad57a68@43.163.112.174:443?security=reality&encryption=none&pbk=mXQudYHNu0pebcdk1_qn-UgcmwhjaV7y9UrYu3HX7Rg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0123456789abcdef#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-6",
+      "ip": "43.163.112.174",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://0dedd47d-47b9-4ed1-9c9f-cbeecad57a68@43.163.112.174:443?security=reality&encryption=none&pbk=mXQudYHNu0pebcdk1_qn-UgcmwhjaV7y9UrYu3HX7Rg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0123456789abcdef#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-6"
     }
   ]
 }
