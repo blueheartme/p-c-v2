@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:47:07.075091",
+  "updated": "2026-11-08T14:41:28.634104",
   "count": 2,
   "configs": [
     {
@@ -16,17 +16,24 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#4|@ConfingV2RaayNG"
     },
     {
-      "type": "ss",
-      "address": "82.152.132.211",
-      "port": "8044",
-      "method": "chacha20-ietf-poly1305",
-      "password": "YmDLpsj_FzmVBIebcwpEUdFptqSjedtA",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbURMcHNqX0Z6bVZCSWViY3dwRVVkRnB0cVNqZWR0QQ@82.152.132.211:8044#%40filembad",
-      "ip": "82.152.132.211",
+      "type": "vless",
+      "address": "212.193.0.105",
+      "port": "443",
+      "id": "dc95c1dd-2cd3-414c-8cf1-71ae86dad666",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "cdn-rum-keno-prsv.keno.su",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@212.193.0.105:443?security=reality&encryption=none&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-rum-keno-prsv.keno.su&sid=a1b2c3d4e5f60718#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-2",
+      "ip": "212.193.0.105",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbURMcHNqX0Z6bVZCSWViY3dwRVVkRnB0cVNqZWR0QQ@82.152.132.211:8044#%40filembad"
+      "rebuilt": "vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@212.193.0.105:443?security=reality&encryption=none&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-rum-keno-prsv.keno.su&sid=a1b2c3d4e5f60718#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-2"
     }
   ]
 }

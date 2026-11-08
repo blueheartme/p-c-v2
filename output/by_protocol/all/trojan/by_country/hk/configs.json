@@ -1,20 +1,20 @@
 {
-  "updated": "2026-11-08T03:47:38.348196",
-  "count": 2,
+  "updated": "2026-11-08T14:41:28.733353",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
-      "address": "sclass-00.catcat321.com",
-      "port": "20123",
+      "address": "sclass-c1.catcat321.com",
+      "port": "20086",
       "password": "d9064589-74af-432a-9390-5d8a9da281bf",
-      "name": "🇭🇰 HK 1",
+      "name": "Channel : @proxy_kafee",
       "sni": "hk.catxstar.com",
       "host": "",
-      "original": "trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "43.199.33.72",
+      "original": "trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "95.40.89.14",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "trojan",
@@ -29,6 +29,20 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+    },
+    {
+      "type": "trojan",
+      "address": "sclass-00.catcat321.com",
+      "port": "20123",
+      "password": "d9064589-74af-432a-9390-5d8a9da281bf",
+      "name": "🇭🇰 HK 1",
+      "sni": "hk.catxstar.com",
+      "host": "",
+      "original": "trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "95.40.89.14",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }

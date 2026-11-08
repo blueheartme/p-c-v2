@@ -1,26 +1,21 @@
 {
-  "updated": "2026-11-02T03:48:42.554893",
+  "updated": "2026-11-08T14:41:28.645645",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.154.26.63",
-      "port": "443",
-      "id": "ff85e702-b605-4109-884d-2c1f065d0954",
+      "type": "vmess",
+      "address": "119.46.51.45",
+      "port": "37515",
+      "id": "9b76bc31-17a5-4454-934a-8d5fb602cd70",
       "name": "🇹🇭 TH 1",
       "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&sid=3c032a7e&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-TH%F0%9F%87%B9%F0%9F%87%AD-1",
-      "ip": "45.154.26.63",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLVRI8J+HufCfh60tMSIsImFkZCI6IjExOS40Ni41MS40NSIsInBvcnQiOjM3NTE1LCJpZCI6IjliNzZiYzMxLTE3YTUtNDQ1NC05MzRhLThkNWZiNjAyY2Q3MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "119.46.51.45",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&sid=3c032a7e&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-TH%F0%9F%87%B9%F0%9F%87%AD-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLVRI8J+HufCfh60tMSIsImFkZCI6IjExOS40Ni41MS40NSIsInBvcnQiOjM3NTE1LCJpZCI6IjliNzZiYzMxLTE3YTUtNDQ1NC05MzRhLThkNWZiNjAyY2Q3MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     }
   ]
 }
