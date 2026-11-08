@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:41:28.683855",
+  "updated": "2026-11-08T20:05:32.452148",
   "count": 2,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "92.42.201.160",
       "port": "14443",
       "id": "a60da2ca-0abf-49f8-9dcb-156989d76ad2",
-      "name": "YFZ 308 @Outline_Vpn",
+      "name": "@meliproxyy",
       "network": "tcp",
       "sni": "node-slo05.rkitman.ru",
       "host": "",
@@ -27,7 +27,7 @@
       "address": "92.42.201.155",
       "port": "14443",
       "id": "a60da2ca-0abf-49f8-9dcb-156989d76ad2",
-      "name": "@meliproxyy",
+      "name": "YFZ 305 @Outline_Vpn",
       "network": "tcp",
       "sni": "node-slo04.rkitman.ru",
       "host": "",
@@ -36,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node-slo04.rkitman.ru&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&sid=e204defc87a8949e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-2",
+      "original": "vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?security=reality&encryption=none&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-slo04.rkitman.ru&sid=e204defc87a8949e#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-2",
       "ip": "92.42.201.155",
       "country": "SI",
       "cdn": null,
-      "rebuilt": "vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node-slo04.rkitman.ru&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&sid=e204defc87a8949e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-2"
+      "rebuilt": "vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?security=reality&encryption=none&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-slo04.rkitman.ru&sid=e204defc87a8949e#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-2"
     }
   ]
 }

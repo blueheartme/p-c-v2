@@ -1,18 +1,26 @@
 {
-  "updated": "2026-10-30T03:53:19.078322",
+  "updated": "2026-11-08T20:05:32.388586",
   "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "t5.nevcodeframe.com",
-      "port": "443",
-      "secret": "ee4e7e658f96af22ada977fa3e2e472e6274352e6e6576636f64656672616d652e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=t5.nevcodeframe.com&port=443&secret=ee4e7e658f96af22ada977fa3e2e472e6274352e6e6576636f64656672616d652e636f6d",
-      "ip": "147.90.12.132",
+      "type": "vless",
+      "address": "93.95.226.159",
+      "port": "28150",
+      "id": "b4e69d67-9d41-417c-b465-ebf1591fb792",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&type=tcp&sni=google.com&fp=chrome&sid=06&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo#vless-tcp-reality-chrome-IS%F0%9F%87%AE%F0%9F%87%B8-1",
+      "ip": "93.95.226.159",
       "country": "IS",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=t5.nevcodeframe.com&port=443&secret=ee4e7e658f96af22ada977fa3e2e472e6274352e6e6576636f64656672616d652e636f6d"
+      "rebuilt": "vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&type=tcp&sni=google.com&fp=chrome&sid=06&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo#vless-tcp-reality-chrome-IS%F0%9F%87%AE%F0%9F%87%B8-1"
     }
   ]
 }

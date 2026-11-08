@@ -1,26 +1,18 @@
 {
-  "updated": "2026-11-03T04:52:29.418542",
+  "updated": "2026-11-08T20:05:32.399801",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "103.169.142.30",
-      "port": "8880",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "vms.lifetime38.workers.dev",
-      "security": "none",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.169.142.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime38.workers.dev&packetEncoding=xudp#vless-ws-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "103.169.142.30",
+      "type": "tg",
+      "address": "vk1.host.siblin.org",
+      "port": "4324",
+      "secret": "ee25cd948c0fdbcb460082f19266e3c85e7777772e646576656c6f7065722e6e76696469612e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=vk1.host.siblin.org&port=4324&secret=ee25cd948c0fdbcb460082f19266e3c85e7777772e646576656c6f7065722e6e76696469612e636f6d",
+      "ip": "1.1.1.1",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.169.142.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime38.workers.dev&packetEncoding=xudp#vless-ws-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "https://t.me/proxy?server=vk1.host.siblin.org&port=4324&secret=ee25cd948c0fdbcb460082f19266e3c85e7777772e646576656c6f7065722e6e76696469612e636f6d"
     }
   ]
 }

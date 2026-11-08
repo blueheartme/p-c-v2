@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-08T14:41:28.639971",
+  "updated": "2026-11-08T20:05:32.403381",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "94.183.234.245",
+      "address": "195.135.252.28",
       "port": "443",
-      "id": "5de0c218-0138-45d8-94d2-c2c3f37a1a6d",
-      "name": "🇱🇻 LV 1",
+      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
+      "name": "Latvia Sia Veesp",
       "network": "tcp",
-      "sni": "www.bing.com",
+      "sni": "yahoo.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "qq",
-      "original": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.bing.com&fp=qq&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&sid=7f1e29593aa94ad1&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-LV%F0%9F%87%B1%F0%9F%87%BB-1",
-      "ip": "94.183.234.245",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.bing.com&fp=qq&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&sid=7f1e29593aa94ad1&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
     }
   ]
 }
