@@ -1,46 +1,26 @@
 {
-  "updated": "2026-11-07T19:47:07.167075",
-  "count": 2,
+  "updated": "2026-11-08T03:47:38.319899",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "195.135.252.28",
+      "address": "94.183.234.245",
       "port": "443",
-      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
-      "name": "Latvia Sia Veesp",
+      "id": "5de0c218-0138-45d8-94d2-c2c3f37a1a6d",
+      "name": "🇱🇻 LV 1",
       "network": "tcp",
-      "sni": "yahoo.com",
+      "sni": "www.bing.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1",
-      "ip": "195.135.252.28",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.bing.com&fp=qq&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&sid=7f1e29593aa94ad1&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "ip": "94.183.234.245",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
-    },
-    {
-      "type": "vless",
-      "address": "95.182.80.235",
-      "port": "2053",
-      "id": "c863ae9c-f199-4955-8635-08ccaf3fd97d",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://c863ae9c-f199-4955-8635-08ccaf3fd97d@95.182.80.235:2053?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-2",
-      "ip": "95.182.80.235",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://c863ae9c-f199-4955-8635-08ccaf3fd97d@95.182.80.235:2053?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%87%B1%F0%9F%87%BB-2"
+      "rebuilt": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.bing.com&fp=qq&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&sid=7f1e29593aa94ad1&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-qq-LV%F0%9F%87%B1%F0%9F%87%BB-1"
     }
   ]
 }

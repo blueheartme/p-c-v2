@@ -1,27 +1,7 @@
 {
-  "updated": "2026-11-07T19:47:07.174690",
+  "updated": "2026-11-08T03:47:38.302091",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "92.42.201.160",
-      "port": "14443",
-      "id": "a60da2ca-0abf-49f8-9dcb-156989d76ad2",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "node-slo05.rkitman.ru",
-      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.160:14443?security=reality&encryption=none&pbk=fmZQYGYXw4xYtiuMFvH4Dgse1DBoGazt-vWM7LOdchY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-slo05.rkitman.ru&sid=e013fa99a81badcc&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-1",
-      "ip": "92.42.201.160",
-      "country": "SI",
-      "cdn": null,
-      "rebuilt": "vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.160:14443?security=reality&encryption=none&pbk=fmZQYGYXw4xYtiuMFvH4Dgse1DBoGazt-vWM7LOdchY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-slo05.rkitman.ru&sid=e013fa99a81badcc&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-1"
-    },
     {
       "type": "vless",
       "address": "92.42.201.155",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node-slo04.rkitman.ru&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&sid=e204defc87a8949e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-2",
+      "original": "vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node-slo04.rkitman.ru&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&sid=e204defc87a8949e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-1",
       "ip": "92.42.201.155",
       "country": "SI",
       "cdn": null,
-      "rebuilt": "vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node-slo04.rkitman.ru&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&sid=e204defc87a8949e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-2"
+      "rebuilt": "vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node-slo04.rkitman.ru&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&sid=e204defc87a8949e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-1"
+    },
+    {
+      "type": "vless",
+      "address": "92.42.201.160",
+      "port": "14443",
+      "id": "a60da2ca-0abf-49f8-9dcb-156989d76ad2",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "node-slo05.rkitman.ru",
+      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.160:14443?security=reality&encryption=none&pbk=fmZQYGYXw4xYtiuMFvH4Dgse1DBoGazt-vWM7LOdchY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-slo05.rkitman.ru&sid=e013fa99a81badcc&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-2",
+      "ip": "92.42.201.160",
+      "country": "SI",
+      "cdn": null,
+      "rebuilt": "vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.160:14443?security=reality&encryption=none&pbk=fmZQYGYXw4xYtiuMFvH4Dgse1DBoGazt-vWM7LOdchY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-slo05.rkitman.ru&sid=e013fa99a81badcc&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#vless-xtls-rprx-vision-tcp-reality-SI%F0%9F%87%B8%F0%9F%87%AE-2"
     }
   ]
 }
