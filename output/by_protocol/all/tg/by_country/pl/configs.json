@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T20:05:32.459890",
-  "count": 2,
+  "updated": "2026-11-09T03:59:29.909807",
+  "count": 3,
   "configs": [
     {
       "type": "tg",
@@ -9,7 +9,7 @@
       "secret": "ee61a214279f303f07c536ce7a8228e4c5626f6f73742e77656270726f78792e6c6f6c",
       "name": "",
       "original": "https://t.me/proxy?server=boost.webproxy.lol&port=443&secret=ee61a214279f303f07c536ce7a8228e4c5626f6f73742e77656270726f78792e6c6f6c",
-      "ip": "77.216.4.146",
+      "ip": "77.216.4.20",
       "country": "PL",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=boost.webproxy.lol&port=443&secret=ee61a214279f303f07c536ce7a8228e4c5626f6f73742e77656270726f78792e6c6f6c"
@@ -21,10 +21,22 @@
       "secret": "ee4160cbb0629c129ad2209f4df88d4bc964726976652e676f6f676c652e636f6d",
       "name": "",
       "original": "https://t.me/proxy?server=fast.webproxy.lol&port=443&secret=ee4160cbb0629c129ad2209f4df88d4bc964726976652e676f6f676c652e636f6d",
-      "ip": "77.216.4.146",
+      "ip": "77.216.4.20",
       "country": "PL",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=fast.webproxy.lol&port=443&secret=ee4160cbb0629c129ad2209f4df88d4bc964726976652e676f6f676c652e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "warp.webproxy.lol",
+      "port": "443",
+      "secret": "eecdd352e63c109299dc978b4e94fc4897776172702e77656270726f78792e6c6f6c",
+      "name": "",
+      "original": "https://t.me/proxy?server=warp.webproxy.lol&port=443&secret=eecdd352e63c109299dc978b4e94fc4897776172702e77656270726f78792e6c6f6c&@MPT_Proxy",
+      "ip": "77.216.4.20",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=warp.webproxy.lol&port=443&secret=eecdd352e63c109299dc978b4e94fc4897776172702e77656270726f78792e6c6f6c&@MPT_Proxy"
     }
   ]
 }

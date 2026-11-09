@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T20:05:32.395564",
-  "count": 2,
+  "updated": "2026-11-09T03:59:29.845636",
+  "count": 5,
   "configs": [
     {
       "type": "trojan",
@@ -9,12 +9,12 @@
       "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
       "name": "@meliproxyy",
       "sni": "discoverparttimepositionsandsupplementyourincomeguide.com",
-      "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
       "ip": "167.179.108.225",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
     },
     {
       "type": "trojan",
@@ -29,6 +29,60 @@
       "country": "JP",
       "cdn": null,
       "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+    },
+    {
+      "type": "vless",
+      "address": "15.168.173.144",
+      "port": "443",
+      "id": "e0306a33-9971-4b75-a5e0-a176a5a48a2e",
+      "name": "Japan+AWS",
+      "network": "tcp",
+      "sni": "swdist.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "ip": "15.168.173.144",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-3"
+    },
+    {
+      "type": "vless",
+      "address": "31.76.91.98",
+      "port": "443",
+      "id": "7072eeba-94fd-4fb3-92f2-a4506dd84cd8",
+      "name": "برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩",
+      "network": "tcp",
+      "sni": "fuji.etherhub.cc",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?security=reality&encryption=none&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fuji.etherhub.cc&sid=bd6f67b6b2152b45#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-4",
+      "ip": "31.76.91.98",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?security=reality&encryption=none&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fuji.etherhub.cc&sid=bd6f67b6b2152b45#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-4"
+    },
+    {
+      "type": "trojan",
+      "address": "kuame.missionsec.us",
+      "port": "443",
+      "password": "FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D",
+      "name": "Japan Klayer LLC",
+      "sni": "kuame.missionsec.us",
+      "host": "",
+      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5",
+      "ip": "93.93.246.88",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5"
     }
   ]
 }

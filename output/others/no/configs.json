@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T20:05:32.398139",
-  "count": 1,
+  "updated": "2026-11-09T03:59:29.824093",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "no.gacvpn.site",
+      "address": "193.203.10.188",
       "port": "443",
       "id": "3f5e89d5-591f-4ac9-b071-b05680b573c3",
       "name": "@filembad",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@no.gacvpn.site:443?security=reality&encryption=none&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=no.gacvpn.site&sid=08d12dce#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-1",
+      "original": "vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@193.203.10.188:443?security=reality&encryption=none&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=no.gacvpn.site&sid=08d12dce#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-1",
       "ip": "193.203.10.188",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@no.gacvpn.site:443?security=reality&encryption=none&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=no.gacvpn.site&sid=08d12dce#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-1"
+      "rebuilt": "vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@193.203.10.188:443?security=reality&encryption=none&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=no.gacvpn.site&sid=08d12dce#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-1"
+    },
+    {
+      "type": "vless",
+      "address": "no.gacvpn.site",
+      "port": "443",
+      "id": "3f5e89d5-591f-4ac9-b071-b05680b573c3",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "no.gacvpn.site",
+      "host": "/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@no.gacvpn.site:443?security=reality&encryption=none&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=no.gacvpn.site&sid=08d12dce#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-2",
+      "ip": "193.203.10.188",
+      "country": "NO",
+      "cdn": null,
+      "rebuilt": "vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@no.gacvpn.site:443?security=reality&encryption=none&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=no.gacvpn.site&sid=08d12dce#vless-xtls-rprx-vision-tcp-reality-firefox-NO%F0%9F%87%B3%F0%9F%87%B4-2"
     }
   ]
 }
