@@ -1,33 +1,13 @@
 {
-  "updated": "2026-11-09T03:59:29.871950",
-  "count": 3,
+  "updated": "2026-11-09T18:06:12.713299",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "3.96.148.231",
-      "port": "80",
-      "id": "6daa0b95-9210-4f29-be40-8c6db00bc5bb",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@3.96.148.231:80?security=&encryption=none&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&type=tcp#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "3.96.148.231",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@3.96.148.231:80?security=&encryption=none&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&type=tcp#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-1"
-    },
     {
       "type": "vless",
       "address": "198.100.154.175",
       "port": "8080",
       "id": "e17150a9-f949-467b-94ea-4d50e4c84186",
-      "name": "برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩",
+      "name": "برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩",
       "network": "tcp",
       "sni": "icloud.com",
       "host": "",
@@ -35,32 +15,12 @@
       "flow": "xtls-rprx-vision",
       "encryption": "mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "fingerprint": "",
+      "original": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-5",
       "ip": "198.100.154.175",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-2"
-    },
-    {
-      "type": "vless",
-      "address": "2607:5300:229:bd1::1",
-      "port": "8080",
-      "id": "e17150a9-f949-467b-94ea-4d50e4c84186",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "icloud.com",
-      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@[2607:5300:229:bd1::1]:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&fp=chrome&spx=%2F223e596aaeef765&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-11",
-      "ip": "2607:5300:229:bd1::1",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@[2607:5300:229:bd1::1]:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&fp=chrome&spx=%2F223e596aaeef765&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-11"
+      "rebuilt": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-5"
     }
   ]
 }

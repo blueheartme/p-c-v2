@@ -1,33 +1,7 @@
 {
-  "updated": "2026-11-09T03:59:29.912636",
+  "updated": "2026-11-09T18:06:12.758052",
   "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "46.17.47.58",
-      "port": "1844",
-      "method": "aes-256-gcm",
-      "password": "cCMJgJTA3BA489YUYrFq7XHXSiSpWlLa",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.58:1844#@meliproxyy",
-      "ip": "46.17.47.58",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.58:1844#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "87.228.61.175",
-      "port": "1443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "tAGGzgRCi6W95UwG0qerf6",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#%40filembad",
-      "ip": "87.228.61.175",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#%40filembad"
-    },
     {
       "type": "ss",
       "address": "46.17.47.58",
@@ -40,6 +14,32 @@
       "country": "RU",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.58:18443#YFZ%20325%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "185.22.153.117",
+      "port": "18443",
+      "method": "aes-256-gcm",
+      "password": "NTiHBg64fsY8u8DbGrtypD9gPGSL386p",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.117:18443#%40filembad",
+      "ip": "185.22.153.117",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.117:18443#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "87.228.61.175",
+      "port": "1443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "tAGGzgRCi6W95UwG0qerf6",
+      "name": "@meliproxyy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#@meliproxyy",
+      "ip": "87.228.61.175",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#@meliproxyy"
     }
   ]
 }
