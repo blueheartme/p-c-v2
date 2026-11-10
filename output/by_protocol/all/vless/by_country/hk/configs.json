@@ -1,46 +1,26 @@
 {
-  "updated": "2026-11-10T15:59:35.307847",
-  "count": 2,
+  "updated": "2026-11-10T21:42:10.086707",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "doghkzf.zalolink.com",
-      "port": "28675",
+      "address": "154.44.24.25",
+      "port": "51279",
       "id": "57beeeb0-03fc-4fc9-94da-7604488a7134",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "www.lamer.com.hk",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@doghkzf.zalolink.com:28675?security=reality&encryption=none&pbk=jgtiLXdCnQ9WRWMuu2gsuGQOQTCRZQpspnn228kjTSA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.hk&sid=9a79807253c040#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-5",
-      "ip": "39.109.111.23",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@doghkzf.zalolink.com:28675?security=reality&encryption=none&pbk=jgtiLXdCnQ9WRWMuu2gsuGQOQTCRZQpspnn228kjTSA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.hk&sid=9a79807253c040#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-5"
-    },
-    {
-      "type": "vless",
-      "address": "39.109.111.23",
-      "port": "48158",
-      "id": "57beeeb0-03fc-4fc9-94da-7604488a7134",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.apple.com",
+      "sni": "www.tesla.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.111.23:48158/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&allowInsecure=1&fp=firefox&security=reality&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-8",
-      "ip": "39.109.111.23",
+      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.44.24.25:51279?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-5",
+      "ip": "154.44.24.25",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.111.23:48158/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&allowInsecure=1&fp=firefox&security=reality&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-8"
+      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.44.24.25:51279?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-5"
     }
   ]
 }
