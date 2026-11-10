@@ -1,19 +1,26 @@
 {
-  "updated": "2026-11-10T05:32:45.358354",
-  "count": 2,
+  "updated": "2026-11-10T15:59:35.247315",
+  "count": 4,
   "configs": [
     {
-      "type": "ss",
-      "address": "152.53.1.57",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "AdawffFMHymlasRb0VOP3HFf7sTG5sJx",
-      "name": "برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A5%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
-      "ip": "152.53.1.57",
+      "type": "vless",
+      "address": "193.233.129.97",
+      "port": "443",
+      "id": "99c5b713-dedf-4a10-8070-916ff3f49b0e",
+      "name": "Channel : @proxy_kafee",
+      "network": "ws",
+      "sni": "fs.qicai99.com",
+      "host": "fs.qicai99.com",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.233.129.97:443?encryption=none&security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F#vless-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "193.233.129.97",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A5%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
+      "rebuilt": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.233.129.97:443?encryption=none&security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F#vless-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     },
     {
       "type": "vmess",
@@ -29,6 +36,39 @@
       "country": "AT",
       "cdn": null,
       "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1BVPCfh6bwn4e5LTIiLCJhZGQiOiIxNTQuNDcuMTkuMjI1IiwicG9ydCI6MTI3MCwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOm51bGx9"
+    },
+    {
+      "type": "vless",
+      "address": "av.neuroniko.com",
+      "port": "8443",
+      "id": "69158986-cfae-4567-8391-0f96d9d985bd",
+      "name": "YFZ 215 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "av.neuroniko.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-3",
+      "ip": "185.126.236.125",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-3"
+    },
+    {
+      "type": "ss",
+      "address": "152.53.1.57",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "AdawffFMHymlasRb0VOP3HFf7sTG5sJx",
+      "name": "برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A5%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+      "ip": "152.53.1.57",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%A5%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
     }
   ]
 }

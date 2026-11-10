@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-09T18:06:12.728636",
-  "count": 1,
+  "updated": "2026-11-10T15:59:35.306305",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "193.233.129.97",
+      "port": "443",
+      "id": "99c5b713-dedf-4a10-8070-916ff3f49b0e",
+      "name": "Channel : @proxy_kafee",
+      "network": "ws",
+      "sni": "fs.qicai99.com",
+      "host": "fs.qicai99.com",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.233.129.97:443?encryption=none&security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F#vless-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "193.233.129.97",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.233.129.97:443?encryption=none&security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F#vless-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
     {
       "type": "vless",
       "address": "av.neuroniko.com",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "original": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-3",
       "ip": "185.126.236.125",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+      "rebuilt": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-3"
     }
   ]
 }

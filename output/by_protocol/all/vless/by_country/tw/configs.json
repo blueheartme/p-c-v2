@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-02T17:39:41.188818",
+  "updated": "2026-11-10T15:59:35.313283",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "152.32.167.33",
-      "port": "443",
-      "id": "91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a",
-      "name": "🇹🇼 TW 1",
+      "address": "83.147.13.74",
+      "port": "8443",
+      "id": "eb8c97f7-a154-4442-91b0-54c0d055ad0b",
+      "name": "🇬🇧@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
       "network": "tcp",
-      "sni": "www.amazon.com",
+      "sni": "github.githubassets.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4&sid=cff998a4&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-TW%F0%9F%87%B9%F0%9F%87%BC-1",
-      "ip": "152.32.167.33",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@83.147.13.74:8443?security=reality&encryption=none&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&headerType=none&fp=chrome&type=tcp&sni=github.githubassets.com&sid=4ad2e4e660550e43#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "ip": "83.147.13.74",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4&sid=cff998a4&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@83.147.13.74:8443?security=reality&encryption=none&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&headerType=none&fp=chrome&type=tcp&sni=github.githubassets.com&sid=4ad2e4e660550e43#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1"
     }
   ]
 }
