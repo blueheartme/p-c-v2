@@ -1,35 +1,7 @@
 {
-  "updated": "2026-11-09T18:06:12.764477",
-  "count": 5,
+  "updated": "2026-11-10T05:32:45.428854",
+  "count": 6,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "216.152.147.48",
-      "port": "443",
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "@i10VPN⁸",
-      "sni": "courses.connectingpeoplewithgreatjobs.com",
-      "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
-      "ip": "216.152.147.48",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
-    },
-    {
-      "type": "trojan",
-      "address": "216.152.147.89",
-      "port": "443",
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "@i10VPN⁷",
-      "sni": "www.connectingpeoplewithgreatjobs.com",
-      "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-3",
-      "ip": "216.152.147.89",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-3"
-    },
     {
       "type": "trojan",
       "address": "216.152.147.85",
@@ -38,11 +10,25 @@
       "name": "@i10VPN¹",
       "sni": "cdn.connectingpeoplewithgreatjobs.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "216.152.147.85",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+    },
+    {
+      "type": "trojan",
+      "address": "216.152.147.152",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "@meliproxyy",
+      "sni": "learn.connectingpeoplewithgreatjobs.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5",
+      "ip": "216.152.147.152",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5"
     },
     {
       "type": "trojan",
@@ -60,17 +46,45 @@
     },
     {
       "type": "trojan",
-      "address": "216.152.147.152",
+      "address": "216.152.147.89",
       "port": "443",
       "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "@meliproxyy",
-      "sni": "learn.connectingpeoplewithgreatjobs.com",
+      "name": "@i10VPN⁷",
+      "sni": "www.connectingpeoplewithgreatjobs.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-7",
-      "ip": "216.152.147.152",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-7",
+      "ip": "216.152.147.89",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-7"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-7"
+    },
+    {
+      "type": "trojan",
+      "address": "ca001.zestapp778.com",
+      "port": "46977",
+      "password": "5t6i121em5lkmsmk",
+      "name": "🇨🇦 CA 1",
+      "sni": "ca001.zestapp778.com",
+      "host": "",
+      "original": "trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?security=tls&sni=ca001.zestapp778.com&path=%2f#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-8",
+      "ip": "149.248.50.252",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?security=tls&sni=ca001.zestapp778.com&path=%2f#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-8"
+    },
+    {
+      "type": "trojan",
+      "address": "216.152.147.93",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "🇨🇦 CA 2",
+      "sni": "connectingpeoplewithgreatjobs.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com&path=%2f#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-11",
+      "ip": "216.152.147.93",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com&path=%2f#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-11"
     }
   ]
 }

@@ -1,26 +1,21 @@
 {
-  "updated": "2026-10-17T11:55:10.411413",
+  "updated": "2026-11-10T05:32:45.365074",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "my2.oh-node.com",
-      "port": "443",
-      "id": "7cfd34ae-edad-4cc5-9d6f-066f7add7829",
-      "name": "@meliproxyy",
+      "type": "vmess",
+      "address": "47.250.135.244",
+      "port": "10000",
+      "id": "aedc66b8-99d7-4a21-8310-61870e7f870d",
+      "name": "🇲🇾 MY 1",
       "network": "tcp",
-      "sni": "www.setel.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@my2.oh-node.com:443?security=reality&encryption=none&pbk=R6q8qhMxgq3ynJPUgudaRkcDXj0qgoc_UU1N0SWGLwM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.setel.com&sid=ed77ac35a310#vless-xtls-rprx-vision-tcp-reality-MY%F0%9F%87%B2%F0%9F%87%BE-1",
-      "ip": "43.217.37.47",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLU1Z8J+HsvCfh74tMSIsImFkZCI6IjQ3LjI1MC4xMzUuMjQ0IiwicG9ydCI6MTAwMDAsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "47.250.135.244",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@my2.oh-node.com:443?security=reality&encryption=none&pbk=R6q8qhMxgq3ynJPUgudaRkcDXj0qgoc_UU1N0SWGLwM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.setel.com&sid=ed77ac35a310#vless-xtls-rprx-vision-tcp-reality-MY%F0%9F%87%B2%F0%9F%87%BE-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLU1Z8J+HsvCfh74tMSIsImFkZCI6IjQ3LjI1MC4xMzUuMjQ0IiwicG9ydCI6MTAwMDAsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     }
   ]
 }

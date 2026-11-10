@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-09T18:06:12.754866",
-  "count": 2,
+  "updated": "2026-11-10T05:32:45.442859",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "141.98.101.182",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "United Kingdom M247",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
+      "ip": "141.98.101.182",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
+    },
     {
       "type": "ss",
       "address": "185.176.206.9",
@@ -17,16 +30,16 @@
     },
     {
       "type": "ss",
-      "address": "london02.npvnot.com",
-      "port": "995",
+      "address": "94.156.250.148",
+      "port": "7001",
       "method": "aes-256-gcm",
-      "password": "OGEyYWJkY2Y4OTFjYTQ1MTFmZmE0OWI2MTA5ZDgz",
-      "name": "YFZ 195 @Outline_Vpn",
-      "original": "ss://YWVzLTI1Ni1nY206T0dFeVlXSmtZMlk0T1RGallUUTFNVEZtWm1FME9XSTJNVEE1WkRneg@london02.npvnot.com:995#YFZ%20195%20%40Outline_Vpn",
-      "ip": "130.185.144.4",
+      "password": "RexnBgU7EV5ADxG",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#@meliproxyy",
+      "ip": "94.156.250.148",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206T0dFeVlXSmtZMlk0T1RGallUUTFNVEZtWm1FME9XSTJNVEE1WkRneg@london02.npvnot.com:995#YFZ%20195%20%40Outline_Vpn"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#@meliproxyy"
     }
   ]
 }
