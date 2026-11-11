@@ -1,22 +1,7 @@
 {
-  "updated": "2026-11-11T15:46:09.114279",
-  "count": 4,
+  "updated": "2026-11-11T22:25:11.806379",
+  "count": 2,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "168.138.43.75",
-      "port": "80",
-      "id": "11c3627f-31e8-4695-dfbd-34076e2f1f5d",
-      "name": "🇯🇵 JP 1",
-      "network": "ws",
-      "host": null,
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS0xIiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOjgwLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "168.138.43.75",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS0xIiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOjgwLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
-    },
     {
       "type": "trojan",
       "address": "kuame.missionsec.us",
@@ -25,11 +10,11 @@
       "name": "Japan Klayer LLC",
       "sni": "kuame.missionsec.us",
       "host": "",
-      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
+      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
       "ip": "93.93.246.88",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
     },
     {
       "type": "vless",
@@ -45,31 +30,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?security=reality&encryption=none&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fuji.etherhub.cc&sid=bd6f67b6b2152b45#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "original": "vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?security=reality&encryption=none&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fuji.etherhub.cc&sid=bd6f67b6b2152b45#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-2",
       "ip": "31.76.91.98",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?security=reality&encryption=none&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fuji.etherhub.cc&sid=bd6f67b6b2152b45#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-3"
-    },
-    {
-      "type": "vless",
-      "address": "15.168.173.144",
-      "port": "443",
-      "id": "e0306a33-9971-4b75-a5e0-a176a5a48a2e",
-      "name": "Japan+AWS",
-      "network": "tcp",
-      "sni": "swdist.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-4",
-      "ip": "15.168.173.144",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-4"
+      "rebuilt": "vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?security=reality&encryption=none&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fuji.etherhub.cc&sid=bd6f67b6b2152b45#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-2"
     }
   ]
 }

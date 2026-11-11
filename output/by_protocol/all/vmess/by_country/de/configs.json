@@ -1,24 +1,7 @@
 {
-  "updated": "2026-11-11T15:46:09.167959",
+  "updated": "2026-11-11T22:25:11.895665",
   "count": 3,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "109.70.74.201",
-      "port": "28382",
-      "id": "5e036885-8e18-49a4-9179-24d9adaf90e6",
-      "name": "@filembad",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjAxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVlMDM2ODg1LThlMTgtNDlhNC05MTc5LTI0ZDlhZGFmOTBlNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjgzODIiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
-      "ip": "109.70.74.201",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjAxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVlMDM2ODg1LThlMTgtNDlhNC05MTc5LTI0ZDlhZGFmOTBlNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjgzODIiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
-    },
     {
       "type": "vmess",
       "address": "31.76.11.83",
@@ -28,26 +11,43 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIzMS43Ni4xMS44MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZDhmNTdiZC0xMmI1LTQxYWQtYTgwNi02NTAxNzUzYzI2NGMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMjY2IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTc4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "original": "vmess://eyJhZGQiOiIzMS43Ni4xMS44MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZDhmNTdiZC0xMmI1LTQxYWQtYTgwNi02NTAxNzUzYzI2NGMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMjY2IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTY5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
       "ip": "31.76.11.83",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIzMS43Ni4xMS44MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZDhmNTdiZC0xMmI1LTQxYWQtYTgwNi02NTAxNzUzYzI2NGMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMjY2IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTc4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiIzMS43Ni4xMS44MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZDhmNTdiZC0xMmI1LTQxYWQtYTgwNi02NTAxNzUzYzI2NGMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMjY2IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTY5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     },
     {
       "type": "vmess",
-      "address": "109.70.74.202",
-      "port": "54668",
-      "id": "5cc094c4-3f86-4a0b-975d-498562f6a80d",
-      "name": "Channel : @proxy_kafee",
+      "address": "178.63.237.148",
+      "port": "2053",
+      "id": "83f70028-2897-4ca9-9bf9-fd506062cf4e",
+      "name": "@filembad",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjYzA5NGM0LTNmODYtNGEwYi05NzVkLTQ5ODU2MmY2YTgwZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTQ2NjgiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otMTcyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "ip": "109.70.74.202",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi05NiIsImFkZCI6IjE3OC42My4yMzcuMTQ4IiwicG9ydCI6IjIwNTMiLCJpZCI6IjgzZjcwMDI4LTI4OTctNGNhOS05YmY5LWZkNTA2MDYyY2Y0ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9",
+      "ip": "178.63.237.148",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjYzA5NGM0LTNmODYtNGEwYi05NzVkLTQ5ODU2MmY2YTgwZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTQ2NjgiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otMTcyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi05NiIsImFkZCI6IjE3OC42My4yMzcuMTQ4IiwicG9ydCI6IjIwNTMiLCJpZCI6IjgzZjcwMDI4LTI4OTctNGNhOS05YmY5LWZkNTA2MDYyY2Y0ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9"
+    },
+    {
+      "type": "vmess",
+      "address": "109.70.74.149",
+      "port": "54041",
+      "id": "5d30907e-0af6-4518-823e-572d0d49da60",
+      "name": "YFZ 319 @Outline_Vpn",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMTQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkMzA5MDdlLTBhZjYtNDUxOC04MjNlLTU3MmQwZDQ5ZGE2MCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTQwNDEiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otMTQ2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "ip": "109.70.74.149",
+      "country": "DE",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMTQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkMzA5MDdlLTBhZjYtNDUxOC04MjNlLTU3MmQwZDQ5ZGE2MCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTQwNDEiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otMTQ2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }
