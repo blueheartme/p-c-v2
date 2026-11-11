@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T04:04:29.065438",
-  "count": 2,
+  "updated": "2026-11-11T15:46:09.145374",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
@@ -17,19 +17,44 @@
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
-      "type": "vmess",
-      "address": "zfd-hkv2.kunlun01dns.com",
-      "port": "16116",
-      "id": "0802ac03-7973-39ef-a019-ba02de6c01e1",
-      "name": "🇭🇰 HK 1",
-      "network": "tcp",
-      "host": "zfd-hkv2.kunlun01dns.com",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1IS/Cfh63wn4ewLTIiLCJhZGQiOiJ6ZmQtaGt2Mi5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoxNjExNiwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiemZkLWhrdjIua3VubHVuMDFkbnMuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "54.46.42.11",
+      "type": "hysteria2",
+      "address": "152.32.254.68",
+      "port": "5010",
+      "name": "برای اتصال دائمی جوین شو☄️ TelegramID ⌲Express_freevpn 🪩",
+      "original": "hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#hysteria2-udp-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "152.32.254.68",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1IS/Cfh63wn4ewLTIiLCJhZGQiOiJ6ZmQtaGt2Mi5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoxNjExNiwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiemZkLWhrdjIua3VubHVuMDFkbnMuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+      "rebuilt": "hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#hysteria2-udp-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
+      "type": "trojan",
+      "address": "sclass-c1.catcat321.com",
+      "port": "20086",
+      "password": "d9064589-74af-432a-9390-5d8a9da281bf",
+      "name": "برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩",
+      "sni": "hk.catxstar.com",
+      "host": "",
+      "original": "trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "16.106.7.232",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+    },
+    {
+      "type": "vmess",
+      "address": "47.244.120.197",
+      "port": "44867",
+      "id": "845e6b08-2919-4290-ade0-5dc7dcea59ca",
+      "name": "🇭🇰 HK 2",
+      "network": "ws",
+      "host": "",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSEvwn4et8J+HsC00IiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0Ijo0NDg2NywiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvYXJraSIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "47.244.120.197",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSEvwn4et8J+HsC00IiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0Ijo0NDg2NywiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvYXJraSIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     }
   ]
 }
