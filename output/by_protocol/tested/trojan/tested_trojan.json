@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T05:16:03.618640",
-  "count": 3,
+  "updated": "2026-11-12T16:29:35.899490",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
@@ -8,31 +8,47 @@
       "port": "443",
       "password": "humanity",
       "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "sni": "www.calmlunch.com",
-      "host": "www.calmlunch.com",
-      "original": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-11",
+      "sni": "www.trusteeforward.com",
+      "host": "www.trusteeforward.com",
+      "original": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.trusteeforward.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
       "ip": "188.114.97.6",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-11"
+      "rebuilt": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.trusteeforward.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+    },
+    {
+      "type": "trojan",
+      "address": "5.75.244.105",
+      "port": "443",
+      "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+      "name": "YFZ 253 @Outline_Vpn",
+      "sni": "api.85s.me",
+      "host": "api.85s.me",
+      "original": "trojan://8deb189a-3aed-4865-843b-b72dae954c46@5.75.244.105:443?path=%2F&security=tls&insecure=0&host=api.85s.me&type=ws&allowInsecure=0&sni=api.85s.me#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-42",
+      "ip": "5.75.244.105",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://8deb189a-3aed-4865-843b-b72dae954c46@5.75.244.105:443?path=%2F&security=tls&insecure=0&host=api.85s.me&type=ws&allowInsecure=0&sni=api.85s.me#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-42"
     },
     {
       "type": "trojan",
       "address": "193.108.119.78",
       "port": "443",
       "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩",
+      "name": "🇫🇮@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
       "sni": "www.iloverussia2026.com",
-      "host": "/",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&host=%2F&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-27",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-55",
       "ip": "193.108.119.78",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&host=%2F&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-27"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-55"
     },
     {
       "type": "trojan",
@@ -42,13 +58,13 @@
       "name": "@meliproxyy",
       "sni": "api.iloverussia2026.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&sni=api.iloverussia2026.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-149",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&sni=api.iloverussia2026.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-68",
       "ip": "193.108.119.134",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&sni=api.iloverussia2026.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-149"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&sni=api.iloverussia2026.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-68"
     }
   ]
 }

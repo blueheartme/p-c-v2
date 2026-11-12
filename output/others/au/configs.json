@@ -1,20 +1,26 @@
 {
-  "updated": "2026-11-10T15:59:35.265113",
+  "updated": "2026-11-12T16:29:35.719184",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "45.63.30.142",
+      "type": "vless",
+      "address": "46.250.242.104",
       "port": "443",
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "🇦🇺 AU 1",
-      "sni": "connectwithemployerstohireyouridealteam.com",
-      "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "45.63.30.142",
+      "id": "99c5b713-dedf-4a10-8070-916ff3f49b0e",
+      "name": "Channel : @proxy_kafee",
+      "network": "ws",
+      "sni": "fs.qicai99.com",
+      "host": "fs.qicai99.com",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?encryption=none&security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2Ffp#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "46.250.242.104",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com&path=%2f#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?encryption=none&security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2Ffp#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

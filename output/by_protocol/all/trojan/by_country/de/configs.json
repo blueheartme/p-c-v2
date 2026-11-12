@@ -1,22 +1,38 @@
 {
-  "updated": "2026-11-12T05:16:03.569882",
+  "updated": "2026-11-12T16:29:35.816886",
   "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "5.75.244.105",
+      "port": "443",
+      "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+      "name": "YFZ 253 @Outline_Vpn",
+      "sni": "api.85s.me",
+      "host": "api.85s.me",
+      "original": "trojan://8deb189a-3aed-4865-843b-b72dae954c46@5.75.244.105:443?path=%2F&security=tls&insecure=0&host=api.85s.me&type=ws&allowInsecure=0&sni=api.85s.me#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-42",
+      "ip": "5.75.244.105",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://8deb189a-3aed-4865-843b-b72dae954c46@5.75.244.105:443?path=%2F&security=tls&insecure=0&host=api.85s.me&type=ws&allowInsecure=0&sni=api.85s.me#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-42"
+    },
     {
       "type": "trojan",
       "address": "193.108.119.78",
       "port": "443",
       "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩",
+      "name": "🇫🇮@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
       "sni": "www.iloverussia2026.com",
-      "host": "/",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&host=%2F&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-27",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-55",
       "ip": "193.108.119.78",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&host=%2F&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-27"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-55"
     },
     {
       "type": "trojan",
@@ -26,27 +42,13 @@
       "name": "@meliproxyy",
       "sni": "api.iloverussia2026.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&sni=api.iloverussia2026.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-149",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&sni=api.iloverussia2026.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-68",
       "ip": "193.108.119.134",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&sni=api.iloverussia2026.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-149"
-    },
-    {
-      "type": "trojan",
-      "address": "144.31.252.100",
-      "port": "8443",
-      "password": "8deb189a-3aed-4865-843b-b72dae954c46",
-      "name": "🔰 @prrofile_purple (تلگرام)",
-      "sni": "api.85s.me",
-      "host": "api.85s.me",
-      "original": "trojan://8deb189a-3aed-4865-843b-b72dae954c46@144.31.252.100:8443?path=%2F&security=tls&insecure=0&host=api.85s.me&type=ws&allowInsecure=0&sni=api.85s.me#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-185",
-      "ip": "144.31.252.100",
-      "country": "DE",
-      "cdn": null,
-      "rebuilt": "trojan://8deb189a-3aed-4865-843b-b72dae954c46@144.31.252.100:8443?path=%2F&security=tls&insecure=0&host=api.85s.me&type=ws&allowInsecure=0&sni=api.85s.me#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-185"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&sni=api.iloverussia2026.com&type=tcp&headerType=none#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-68"
     }
   ]
 }

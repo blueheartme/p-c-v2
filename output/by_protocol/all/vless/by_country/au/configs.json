@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-03T04:52:29.474926",
+  "updated": "2026-11-12T16:29:35.791694",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "103.169.142.30",
-      "port": "8880",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "@filembad",
+      "address": "46.250.242.104",
+      "port": "443",
+      "id": "99c5b713-dedf-4a10-8070-916ff3f49b0e",
+      "name": "Channel : @proxy_kafee",
       "network": "ws",
-      "sni": "",
-      "host": "vms.lifetime38.workers.dev",
-      "security": "none",
+      "sni": "fs.qicai99.com",
+      "host": "fs.qicai99.com",
+      "security": "tls",
       "flow": "",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.169.142.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime38.workers.dev&packetEncoding=xudp#vless-ws-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "103.169.142.30",
+      "original": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?encryption=none&security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2Ffp#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "46.250.242.104",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.169.142.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime38.workers.dev&packetEncoding=xudp#vless-ws-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?encryption=none&security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2Ffp#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

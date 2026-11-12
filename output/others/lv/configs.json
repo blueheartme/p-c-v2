@@ -1,18 +1,7 @@
 {
-  "updated": "2026-11-12T05:16:03.454489",
-  "count": 2,
+  "updated": "2026-11-12T16:29:35.738255",
+  "count": 3,
   "configs": [
-    {
-      "type": "hysteria2",
-      "address": "104.165.205.42",
-      "port": "8443",
-      "name": "@meliproxyy",
-      "original": "hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?sni=speedtestmark.com#hysteria2-udp-LV%F0%9F%87%B1%F0%9F%87%BB-1",
-      "ip": "104.165.205.42",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?sni=speedtestmark.com#hysteria2-udp-LV%F0%9F%87%B1%F0%9F%87%BB-1"
-    },
     {
       "type": "vless",
       "address": "195.135.252.28",
@@ -27,11 +16,34 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+    },
+    {
+      "type": "hysteria2",
+      "address": "104.165.205.42",
+      "port": "8443",
+      "name": "@meliproxyy",
+      "original": "hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?sni=speedtestmark.com#hysteria2-udp-LV%F0%9F%87%B1%F0%9F%87%BB-2",
+      "ip": "104.165.205.42",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?sni=speedtestmark.com#hysteria2-udp-LV%F0%9F%87%B1%F0%9F%87%BB-2"
+    },
+    {
+      "type": "tg",
+      "address": "31.56.177.118",
+      "port": "443",
+      "secret": "0ba8e0836ed9587f8354b4fe09628ab0",
+      "name": "",
+      "original": "https://t.me/proxy?server=31.56.177.118&port=443&secret=0ba8e0836ed9587f8354b4fe09628ab0&@MPT_Proxy",
+      "ip": "31.56.177.118",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=31.56.177.118&port=443&secret=0ba8e0836ed9587f8354b4fe09628ab0&@MPT_Proxy"
     }
   ]
 }

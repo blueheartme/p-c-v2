@@ -1,17 +1,21 @@
 {
-  "updated": "2026-11-12T05:16:03.463203",
-  "count": 5,
+  "updated": "2026-11-12T16:29:35.723434",
+  "count": 3,
   "configs": [
     {
-      "type": "hysteria2",
-      "address": "152.32.254.68",
-      "port": "5010",
-      "name": "برای اتصال دائمی جوین شو☄️ TelegramID ⌲Express_freevpn 🪩",
-      "original": "hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#hysteria2-udp-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "152.32.254.68",
+      "type": "vmess",
+      "address": "dog-tw.kunlun01dns.com",
+      "port": "21035",
+      "id": "9464ca40-dd75-3742-a628-d931a9f413b2",
+      "name": "🇭🇰Hong Kong -> 🇹🇼Taiwan ⚡@DeamNet_Proxy",
+      "network": "raw",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by1yYXctSEvwn4et8J+HsC0xIiwiYWRkIjoiZG9nLXR3Lmt1bmx1bjAxZG5zLmNvbSIsInBvcnQiOiIyMTAzNSIsImlkIjoiOTQ2NGNhNDAtZGQ3NS0zNzQyLWE2MjgtZDkzMWE5ZjQxM2IyIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0=",
+      "ip": "18.166.214.36",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#hysteria2-udp-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by1yYXctSEvwn4et8J+HsC0xIiwiYWRkIjoiZG9nLXR3Lmt1bmx1bjAxZG5zLmNvbSIsInBvcnQiOiIyMTAzNSIsImlkIjoiOTQ2NGNhNDAtZGQ3NS0zNzQyLWE2MjgtZDkzMWE5ZjQxM2IyIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0="
     },
     {
       "type": "vless",
@@ -46,40 +50,6 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
-    },
-    {
-      "type": "vless",
-      "address": "209.33.160.122",
-      "port": "39098",
-      "id": "7852e4df-db54-4f75-a35e-3b8fbe89e56d",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "dash.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://7852e4df-db54-4f75-a35e-3b8fbe89e56d@209.33.160.122:39098?security=reality&encryption=none&pbk=DtOZ39u6MyQMG96tl13-M7-HeaqQzW2RLBVPk9py-Vg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-4",
-      "ip": "209.33.160.122",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://7852e4df-db54-4f75-a35e-3b8fbe89e56d@209.33.160.122:39098?security=reality&encryption=none&pbk=DtOZ39u6MyQMG96tl13-M7-HeaqQzW2RLBVPk9py-Vg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-4"
-    },
-    {
-      "type": "trojan",
-      "address": "219.79.214.159",
-      "port": "443",
-      "password": "BxceQaOe",
-      "name": "Hong Kong Netvigator",
-      "sni": "t.me%2Fripaojiedian",
-      "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5",
-      "ip": "219.79.214.159",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5"
     }
   ]
 }
