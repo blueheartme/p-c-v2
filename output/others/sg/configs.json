@@ -1,26 +1,19 @@
 {
-  "updated": "2026-11-13T04:31:39.670917",
+  "updated": "2026-11-13T15:50:30.449913",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "172.237.88.103",
-      "port": "443",
-      "id": "efd11a89-7506-44ce-95b6-6654859f155b",
-      "name": "YFZ 235 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "zoom.us",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "172.237.88.103",
+      "type": "ss",
+      "address": "15.235.164.133",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999#@meliproxyy",
+      "ip": "15.235.164.133",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999#@meliproxyy"
     }
   ]
 }

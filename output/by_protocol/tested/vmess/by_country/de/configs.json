@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-13T04:31:39.782156",
-  "count": 1,
+  "updated": "2026-11-13T15:50:30.560605",
+  "count": 3,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "109.70.74.217",
+      "port": "19829",
+      "id": "a83f3700-e75b-47c1-aff8-808ea793f23d",
+      "name": "@meliproxy",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE4M2YzNzAwLWU3NWItNDdjMS1hZmY4LTgwOGVhNzkzZjIzZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTk4MjkiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "ip": "109.70.74.217",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE4M2YzNzAwLWU3NWItNDdjMS1hZmY4LTgwOGVhNzkzZjIzZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTk4MjkiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+    },
     {
       "type": "vmess",
       "address": "176.9.199.190",
@@ -11,13 +28,30 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi00IiwiYWRkIjoiMTc2LjkuMTk5LjE5MCIsInBvcnQiOiI0NDMiLCJpZCI6IjZiYjcwYTc5LWM1NWItNDE4MC04OWUzLWZjMjliZmFiNjY2MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi0xMiIsImFkZCI6IjE3Ni45LjE5OS4xOTAiLCJwb3J0IjoiNDQzIiwiaWQiOiI2YmI3MGE3OS1jNTViLTQxODAtODllMy1mYzI5YmZhYjY2NjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=",
       "ip": "176.9.199.190",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi00IiwiYWRkIjoiMTc2LjkuMTk5LjE5MCIsInBvcnQiOiI0NDMiLCJpZCI6IjZiYjcwYTc5LWM1NWItNDE4MC04OWUzLWZjMjliZmFiNjY2MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ=="
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi0xMiIsImFkZCI6IjE3Ni45LjE5OS4xOTAiLCJwb3J0IjoiNDQzIiwiaWQiOiI2YmI3MGE3OS1jNTViLTQxODAtODllMy1mYzI5YmZhYjY2NjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0="
+    },
+    {
+      "type": "vmess",
+      "address": "109.70.74.217",
+      "port": "19829",
+      "id": "2c00cd64-2ba3-4400-b227-04be9bddb15a",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi03MCIsImFkZCI6IjEwOS43MC43NC4yMTciLCJwb3J0IjoiMTk4MjkiLCJpZCI6IjJjMDBjZDY0LTJiYTMtNDQwMC1iMjI3LTA0YmU5YmRkYjE1YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IiIsInBjcyI6IiIsInZjbiI6IiIsImVjaCI6IiIsInBxdiI6IiJ9",
+      "ip": "109.70.74.217",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi03MCIsImFkZCI6IjEwOS43MC43NC4yMTciLCJwb3J0IjoiMTk4MjkiLCJpZCI6IjJjMDBjZDY0LTJiYTMtNDQwMC1iMjI3LTA0YmU5YmRkYjE1YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IiIsInBjcyI6IiIsInZjbiI6IiIsImVjaCI6IiIsInBxdiI6IiJ9"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T04:31:39.655873",
-  "count": 5,
+  "updated": "2026-11-13T15:50:30.429144",
+  "count": 6,
   "configs": [
     {
       "type": "vless",
@@ -55,12 +55,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?encryption=none&type=grpc&security=reality&sni=rs2.univesalsrv.com&fp=firefox&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&spx=%2FHesarWeb&serviceName=media.v1.ObjectService&mode=gun#vless-grpc-reality-firefox-RS%F0%9F%87%B7%F0%9F%87%B8-3",
+      "fingerprint": "chrome",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?encryption=none&type=grpc&security=reality&sni=rs2.univesalsrv.com&fp=chrome&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&serviceName=media.v1.ObjectService&mode=gun#vless-grpc-reality-chrome-RS%F0%9F%87%B7%F0%9F%87%B8-3",
       "ip": "150.40.126.19",
       "country": "RS",
       "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?encryption=none&type=grpc&security=reality&sni=rs2.univesalsrv.com&fp=firefox&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&spx=%2FHesarWeb&serviceName=media.v1.ObjectService&mode=gun#vless-grpc-reality-firefox-RS%F0%9F%87%B7%F0%9F%87%B8-3"
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?encryption=none&type=grpc&security=reality&sni=rs2.univesalsrv.com&fp=chrome&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&serviceName=media.v1.ObjectService&mode=gun#vless-grpc-reality-chrome-RS%F0%9F%87%B7%F0%9F%87%B8-3"
     },
     {
       "type": "vless",
@@ -87,7 +87,27 @@
       "address": "rs4.univesalsrv.com",
       "port": "443",
       "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
-      "name": "برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩",
+      "name": "🇷🇸Serbia+->+🇷🇸Serbia+⚡@DeamNet_Proxy",
+      "network": "grpc",
+      "sni": "",
+      "host": "/?BIA_TELEGRAMI@VPNine1",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&sid=861ac7d66953e55f&authority=%2F%3FBIA_TELEGRAMI@VPNine1&serviceName=media.v1.StreamService&mode=gun#vless-grpc-reality-chrome-RS%F0%9F%87%B7%F0%9F%87%B8-5",
+      "ip": "150.40.126.22",
+      "country": "RS",
+      "cdn": null,
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&sid=861ac7d66953e55f&authority=%2F%3FBIA_TELEGRAMI@VPNine1&serviceName=media.v1.StreamService&mode=gun#vless-grpc-reality-chrome-RS%F0%9F%87%B7%F0%9F%87%B8-5"
+    },
+    {
+      "type": "vless",
+      "address": "150.40.126.22",
+      "port": "443",
+      "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "name": "1|@ConfingV2RaayNG",
       "network": "grpc",
       "sni": "rs4.univesalsrv.com",
       "host": "",
@@ -96,11 +116,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#vless-grpc-reality-firefox-RS%F0%9F%87%B7%F0%9F%87%B8-5",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#vless-grpc-reality-firefox-RS%F0%9F%87%B7%F0%9F%87%B8-6",
       "ip": "150.40.126.22",
       "country": "RS",
       "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#vless-grpc-reality-firefox-RS%F0%9F%87%B7%F0%9F%87%B8-5"
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#vless-grpc-reality-firefox-RS%F0%9F%87%B7%F0%9F%87%B8-6"
     }
   ]
 }
