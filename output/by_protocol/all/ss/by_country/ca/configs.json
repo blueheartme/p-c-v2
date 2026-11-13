@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-13T15:50:30.476858",
-  "count": 1,
+  "updated": "2026-11-13T21:45:39.268855",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "15.235.121.109",
+      "port": "8080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "575hiopq2h28yao6",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080#%40filembad",
+      "ip": "15.235.121.109",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "185.206.170.32",
+      "port": "31563",
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "Xf8AxlROu6kuHkLteUs5+Q==:dnQd/VA+iuFL3cT7FKHWwA==",
+      "name": "@filembad",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WGY4QXhsUk91Nmt1SGtMdGVVczUrUT09OmRuUWQvVkEraXVGTDNjVDdGS0hXd0E9PQ@185.206.170.32:31563#%40filembad",
+      "ip": "185.206.170.32",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WGY4QXhsUk91Nmt1SGtMdGVVczUrUT09OmRuUWQvVkEraXVGTDNjVDdGS0hXd0E9PQ@185.206.170.32:31563#%40filembad"
+    },
     {
       "type": "ss",
       "address": "158.51.121.221",
