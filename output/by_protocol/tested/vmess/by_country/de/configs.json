@@ -1,24 +1,7 @@
 {
-  "updated": "2026-11-12T16:29:35.907072",
-  "count": 4,
+  "updated": "2026-11-13T04:31:39.782156",
+  "count": 1,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "109.70.74.201",
-      "port": "28382",
-      "id": "60e16949-8396-4fa8-ad8f-cb34f5873d66",
-      "name": "@filembad",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjAxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYwZTE2OTQ5LTgzOTYtNGZhOC1hZDhmLWNiMzRmNTg3M2Q2NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjgzODIiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otNDYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
-      "ip": "109.70.74.201",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjAxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYwZTE2OTQ5LTgzOTYtNGZhOC1hZDhmLWNiMzRmNTg3M2Q2NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjgzODIiLCJwcyI6InZtZXNzLWF1dG8tdGNwLURF8J+HqfCfh6otNDYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
-    },
     {
       "type": "vmess",
       "address": "176.9.199.190",
@@ -28,47 +11,13 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi04MCIsImFkZCI6IjE3Ni45LjE5OS4xOTAiLCJwb3J0IjoiNDQzIiwiaWQiOiI2YmI3MGE3OS1jNTViLTQxODAtODllMy1mYzI5YmZhYjY2NjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi00IiwiYWRkIjoiMTc2LjkuMTk5LjE5MCIsInBvcnQiOiI0NDMiLCJpZCI6IjZiYjcwYTc5LWM1NWItNDE4MC04OWUzLWZjMjliZmFiNjY2MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==",
       "ip": "176.9.199.190",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi04MCIsImFkZCI6IjE3Ni45LjE5OS4xOTAiLCJwb3J0IjoiNDQzIiwiaWQiOiI2YmI3MGE3OS1jNTViLTQxODAtODllMy1mYzI5YmZhYjY2NjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0="
-    },
-    {
-      "type": "vmess",
-      "address": "153.56.228.254",
-      "port": "443",
-      "id": "Nitro_Skybot",
-      "name": "@filembad",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNTMuNTYuMjI4LjI1NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJOaXRyb19Ta3lib3QiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3MtYXV0by13cy1ERfCfh6nwn4eqLTgyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
-      "ip": "153.56.228.254",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiIxNTMuNTYuMjI4LjI1NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJOaXRyb19Ta3lib3QiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3MtYXV0by13cy1ERfCfh6nwn4eqLTgyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
-    },
-    {
-      "type": "vmess",
-      "address": "109.70.74.201",
-      "port": "28382",
-      "id": "2c3b9a3a-861a-4bed-9e07-42f65b941177",
-      "name": "@filembad",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjAxIiwiaWQiOiIyYzNiOWEzYS04NjFhLTRiZWQtOWUwNy00MmY2NWI5NDExNzciLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyODM4MiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTE1OSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
-      "ip": "109.70.74.201",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjAxIiwiaWQiOiIyYzNiOWEzYS04NjFhLTRiZWQtOWUwNy00MmY2NWI5NDExNzciLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyODM4MiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTE1OSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtREXwn4ep8J+Hqi00IiwiYWRkIjoiMTc2LjkuMTk5LjE5MCIsInBvcnQiOiI0NDMiLCJpZCI6IjZiYjcwYTc5LWM1NWItNDE4MC04OWUzLWZjMjliZmFiNjY2MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ=="
     }
   ]
 }
