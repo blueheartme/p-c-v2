@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T04:28:04.660643",
-  "count": 1,
+  "updated": "2026-11-14T14:41:37.796299",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+    },
+    {
+      "type": "vless",
+      "address": "139.162.62.195",
+      "port": "443",
+      "id": "99c5b713-dedf-4a10-8070-916ff3f49b0e",
+      "name": "Tel@ProxyMTProtoIR 🇹🇷",
+      "network": "ws",
+      "sni": "fs.qicai99.com",
+      "host": "fs.qicai99.com",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@139.162.62.195:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5",
+      "ip": "139.162.62.195",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@139.162.62.195:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5"
     }
   ]
 }
