@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-14T14:41:37.826604",
-  "count": 2,
+  "updated": "2026-11-14T20:17:10.171703",
+  "count": 4,
   "configs": [
+    {
+      "type": "tg",
+      "address": "172.65.39.222",
+      "port": "131515",
+      "secret": "ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=172.65.39.222&port=131515&secret=ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d",
+      "ip": "172.65.39.222",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=172.65.39.222&port=131515&secret=ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d"
+    },
     {
       "type": "tg",
       "address": "172.65.62.96",
@@ -25,6 +37,18 @@
       "country": "US",
       "cdn": null,
       "rebuilt": "https://t.me/proxy?server=ir-ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    },
+    {
+      "type": "tg",
+      "address": "107.181.112.140",
+      "port": "8882",
+      "secret": "13ce75ec7f7c2fa55133ee58540b76ae",
+      "name": "",
+      "original": "https://t.me/proxy?server=107.181.112.140&port=8882&secret=13ce75ec7f7c2fa55133ee58540b76ae",
+      "ip": "107.181.112.140",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=107.181.112.140&port=8882&secret=13ce75ec7f7c2fa55133ee58540b76ae"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T14:41:37.794875",
-  "count": 2,
+  "updated": "2026-11-14T20:17:10.152193",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -36,11 +36,31 @@
       "encryption": "mlkem768x25519plus.native.0rtt.i8cgpaz5mhjf9fbdb6ufhsmjm7gwe39furkzbjaqavc",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://09c10f40-6992-4b33-8d4a-6d8feb01323e@57.131.21.102:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.I8cgpaz5mHJF9FbDB6uFHSmJM7gWe39FURKzBjAqaVc&pbk=Lew0Y0hNzQyEeLxBpBxC2QnshUrtPvSdkLykPZcqLHs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=b10dd5#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.i8cgpaz5mhjf9fbdb6ufhsmjm7gwe39furkzbjaqavc-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-7",
+      "original": "vless://09c10f40-6992-4b33-8d4a-6d8feb01323e@57.131.21.102:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.I8cgpaz5mHJF9FbDB6uFHSmJM7gWe39FURKzBjAqaVc&pbk=Lew0Y0hNzQyEeLxBpBxC2QnshUrtPvSdkLykPZcqLHs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=b10dd5#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.i8cgpaz5mhjf9fbdb6ufhsmjm7gwe39furkzbjaqavc-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-6",
       "ip": "57.131.21.102",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://09c10f40-6992-4b33-8d4a-6d8feb01323e@57.131.21.102:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.I8cgpaz5mHJF9FbDB6uFHSmJM7gWe39FURKzBjAqaVc&pbk=Lew0Y0hNzQyEeLxBpBxC2QnshUrtPvSdkLykPZcqLHs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=b10dd5#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.i8cgpaz5mhjf9fbdb6ufhsmjm7gwe39furkzbjaqavc-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-7"
+      "rebuilt": "vless://09c10f40-6992-4b33-8d4a-6d8feb01323e@57.131.21.102:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.I8cgpaz5mHJF9FbDB6uFHSmJM7gWe39FURKzBjAqaVc&pbk=Lew0Y0hNzQyEeLxBpBxC2QnshUrtPvSdkLykPZcqLHs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=b10dd5#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.i8cgpaz5mhjf9fbdb6ufhsmjm7gwe39furkzbjaqavc-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-6"
+    },
+    {
+      "type": "vless",
+      "address": "157.228.71.76",
+      "port": "443",
+      "id": "db80088c-32a1-4cb8-a907-0f3cb7844152",
+      "name": "YFZ 284 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "it1.japancase.site",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://db80088c-32a1-4cb8-a907-0f3cb7844152@157.228.71.76:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it1.japancase.site&sid=41ae8e266bc3346f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-11",
+      "ip": "157.228.71.76",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://db80088c-32a1-4cb8-a907-0f3cb7844152@157.228.71.76:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it1.japancase.site&sid=41ae8e266bc3346f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%87%AE%F0%9F%87%B9-11"
     }
   ]
 }
