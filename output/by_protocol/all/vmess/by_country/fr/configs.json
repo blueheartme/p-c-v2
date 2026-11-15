@@ -1,66 +1,21 @@
 {
-  "updated": "2026-11-14T14:41:37.815738",
-  "count": 4,
+  "updated": "2026-11-15T15:11:20.554957",
+  "count": 1,
   "configs": [
     {
       "type": "vmess",
-      "address": "162.19.82.57",
-      "port": "1270",
-      "id": "5c040f1d-45db-43bd-8d46-e4950e433735",
-      "name": "🇫🇷 FR 3",
-      "network": "tcp",
-      "host": null,
-      "sni": "xmfhlpy.com",
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1GUvCfh6vwn4e3LTIiLCJhZGQiOiIxNjIuMTkuODIuNTciLCJwb3J0IjoxMjcwLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsImZwIjpudWxsfQ==",
-      "ip": "162.19.82.57",
+      "address": "2001:bc8:32d7:1a9::3",
+      "port": "18901",
+      "id": "3a966d20-7b9d-48cc-ba2c-8d38161b6d3a",
+      "name": "@filembad",
+      "network": "ws",
+      "host": "",
+      "sni": "2001:bc8:32d7:1a9::3",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1GUvCfh6vwn4e3LTIyIiwiYWRkIjoiMjAwMTpiYzg6MzJkNzoxYTk6OjMiLCJwb3J0IjoiMTg5MDEiLCJpZCI6IjNhOTY2ZDIwLTdiOWQtNDhjYy1iYTJjLThkMzgxNjFiNmQzYSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5LW5ld3BhYy9mYW5xaWFuZyIsInNuaSI6IjIwMDE6YmM4OjMyZDc6MWE5OjozIn0=",
+      "ip": "2001:bc8:32d7:1a9::3",
       "country": "FR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1GUvCfh6vwn4e3LTIiLCJhZGQiOiIxNjIuMTkuODIuNTciLCJwb3J0IjoxMjcwLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsImZwIjpudWxsfQ=="
-    },
-    {
-      "type": "vmess",
-      "address": "79.137.99.183",
-      "port": "1270",
-      "id": "5c040f1d-45db-43bd-8d46-e4950e433735",
-      "name": "🇫🇷 FR 4",
-      "network": "tcp",
-      "host": null,
-      "sni": "xmfhlpy.com",
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1GUvCfh6vwn4e3LTciLCJhZGQiOiI3OS4xMzcuOTkuMTgzIiwicG9ydCI6MTI3MCwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoieG1maGxweS5jb20iLCJmcCI6bnVsbH0=",
-      "ip": "79.137.99.183",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1GUvCfh6vwn4e3LTciLCJhZGQiOiI3OS4xMzcuOTkuMTgzIiwicG9ydCI6MTI3MCwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoieG1maGxweS5jb20iLCJmcCI6bnVsbH0="
-    },
-    {
-      "type": "vmess",
-      "address": "46.105.222.157",
-      "port": "1270",
-      "id": "5c040f1d-45db-43bd-8d46-e4950e433735",
-      "name": "🇫🇷 FR 2",
-      "network": "tcp",
-      "host": null,
-      "sni": "xmfhlpy.com",
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1GUvCfh6vwn4e3LTgiLCJhZGQiOiI0Ni4xMDUuMjIyLjE1NyIsInBvcnQiOjEyNzAsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOm51bGx9",
-      "ip": "46.105.222.157",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1GUvCfh6vwn4e3LTgiLCJhZGQiOiI0Ni4xMDUuMjIyLjE1NyIsInBvcnQiOjEyNzAsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOm51bGx9"
-    },
-    {
-      "type": "vmess",
-      "address": "46.105.222.155",
-      "port": "1270",
-      "id": "5c040f1d-45db-43bd-8d46-e4950e433735",
-      "name": "🇫🇷 FR 1",
-      "network": "tcp",
-      "host": null,
-      "sni": "xmfhlpy.com",
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1GUvCfh6vwn4e3LTEzIiwiYWRkIjoiNDYuMTA1LjIyMi4xNTUiLCJwb3J0IjoxMjcwLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsImZwIjpudWxsfQ==",
-      "ip": "46.105.222.155",
-      "country": "FR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1GUvCfh6vwn4e3LTEzIiwiYWRkIjoiNDYuMTA1LjIyMi4xNTUiLCJwb3J0IjoxMjcwLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsImZwIjpudWxsfQ=="
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1GUvCfh6vwn4e3LTIyIiwiYWRkIjoiMjAwMTpiYzg6MzJkNzoxYTk6OjMiLCJwb3J0IjoiMTg5MDEiLCJpZCI6IjNhOTY2ZDIwLTdiOWQtNDhjYy1iYTJjLThkMzgxNjFiNmQzYSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5LW5ld3BhYy9mYW5xaWFuZyIsInNuaSI6IjIwMDE6YmM4OjMyZDc6MWE5OjozIn0="
     }
   ]
 }
