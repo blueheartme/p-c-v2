@@ -1,7 +1,22 @@
 {
-  "updated": "2026-11-14T20:17:10.223622",
-  "count": 5,
+  "updated": "2026-11-15T04:12:47.688569",
+  "count": 6,
   "configs": [
+    {
+      "type": "ss",
+      "address": "57.129.113.16",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "NcAXc0UZI6yQJE1p8QmOv8",
+      "name": "1|@ConfingV2RaayNG",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#1|@ConfingV2RaayNG",
+      "ip": "57.129.113.16",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#1|@ConfingV2RaayNG"
+    },
     {
       "type": "ss",
       "address": "47.254.143.251",
@@ -16,21 +31,6 @@
       "tested": true,
       "working": true,
       "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.254.143.251:443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%BB%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
-    },
-    {
-      "type": "ss",
-      "address": "57.129.113.16",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "NcAXc0UZI6yQJE1p8QmOv8",
-      "name": "Telegram@ConfingV2RaayNG",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#Telegram@ConfingV2RaayNG",
-      "ip": "57.129.113.16",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#Telegram@ConfingV2RaayNG"
     },
     {
       "type": "ss",
@@ -49,18 +49,18 @@
     },
     {
       "type": "ss",
-      "address": "185.176.204.18",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "2|@ConfingV2RaayNG",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#2|@ConfingV2RaayNG",
-      "ip": "185.176.204.18",
+      "address": "47.254.175.2",
+      "port": "443",
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=",
+      "name": "@filembad",
+      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.254.175.2:443#%40filembad",
+      "ip": "47.254.175.2",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#2|@ConfingV2RaayNG"
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.254.175.2:443#%40filembad"
     },
     {
       "type": "ss",
@@ -76,6 +76,21 @@
       "tested": true,
       "working": true,
       "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.83.85:19999#YFZ%20338%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "185.176.204.18",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "2|@ConfingV2RaayNG",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#2|@ConfingV2RaayNG",
+      "ip": "185.176.204.18",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#2|@ConfingV2RaayNG"
     }
   ]
 }
