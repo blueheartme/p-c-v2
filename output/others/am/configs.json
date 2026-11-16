@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-31T14:10:10.778033",
+  "updated": "2026-11-16T17:45:48.647256",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "77.91.68.70",
-      "port": "55983",
-      "id": "f667a096-5231-4cfb-8759-92bb32473139",
-      "name": "Channel : @proxy_kafee",
+      "address": "88.218.92.185",
+      "port": "443",
+      "id": "128ce9ab-63bc-48dc-92ca-1b5426a9eb46",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "yahoo.com",
+      "sni": "sadas.jugoslavija.uk",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&security=reality&sni=yahoo.com&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none#vless-tcp-reality-AM%F0%9F%87%A6%F0%9F%87%B2-1",
-      "ip": "77.91.68.70",
+      "fingerprint": "firefox",
+      "original": "vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@88.218.92.185:443?security=reality&encryption=none&pbk=0L0a22tcISNd3pY2Le6DS9vrW1ughjmzhjj5ec8iBHo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sadas.jugoslavija.uk&sid=a51a6973d7d358d6#vless-xtls-rprx-vision-tcp-reality-firefox-AM%F0%9F%87%A6%F0%9F%87%B2-1",
+      "ip": "88.218.92.185",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&security=reality&sni=yahoo.com&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none#vless-tcp-reality-AM%F0%9F%87%A6%F0%9F%87%B2-1"
+      "rebuilt": "vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@88.218.92.185:443?security=reality&encryption=none&pbk=0L0a22tcISNd3pY2Le6DS9vrW1ughjmzhjj5ec8iBHo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sadas.jugoslavija.uk&sid=a51a6973d7d358d6#vless-xtls-rprx-vision-tcp-reality-firefox-AM%F0%9F%87%A6%F0%9F%87%B2-1"
     }
   ]
 }
