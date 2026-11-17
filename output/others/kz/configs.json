@@ -1,21 +1,26 @@
 {
-  "updated": "2026-11-17T05:59:21.799400",
+  "updated": "2026-11-17T17:16:46.172369",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
+      "type": "vless",
       "address": "38.107.234.57",
-      "port": "80",
-      "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
-      "name": "@filembad",
+      "port": "8443",
+      "id": "2424febb-43cb-488d-bdd1-401e923c8e48",
+      "name": "🇰🇿 KZ 1",
       "network": "ws",
-      "host": "3h-kazakhstan1.09vpn.com",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1LWvCfh7Dwn4e/LTEiLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6IjgwIiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjNoLWthemFraHN0YW4xLjA5dnBuLmNvbSIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0=",
+      "sni": "3h-kazakhstan1.09vpn.com",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://2424febb-43cb-488d-bdd1-401e923c8e48@38.107.234.57:8443?security=tls&encryption=none&sni=3h-kazakhstan1.09vpn.com&type=ws&path=%2fvless%2f#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
       "ip": "38.107.234.57",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1LWvCfh7Dwn4e/LTEiLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6IjgwIiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjNoLWthemFraHN0YW4xLjA5dnBuLmNvbSIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0="
+      "rebuilt": "vless://2424febb-43cb-488d-bdd1-401e923c8e48@38.107.234.57:8443?security=tls&encryption=none&sni=3h-kazakhstan1.09vpn.com&type=ws&path=%2fvless%2f#vless-ws-tls-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }

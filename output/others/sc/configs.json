@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-15T20:42:36.024164",
+  "updated": "2026-11-17T17:16:46.199414",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "f3b21at.de18.h1clayd.click",
+      "address": "196.196.149.80",
       "port": "443",
-      "id": "4618cebd-e1e9-45c3-be98-d9d6e3ee8bef",
-      "name": "@filembad",
+      "id": "4201786b-d99b-4147-a5f0-20d47acddb81",
+      "name": "🇪🇸 ES 13",
       "network": "tcp",
-      "sni": "f3b21at.de18.h1clayd.click",
-      "host": "",
+      "sni": "7aa271t.es1.h1clayd.click",
+      "host": "7aa271t.es1.h1clayd.click",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@f3b21at.de18.h1clayd.click:443?security=reality&encryption=none&pbk=lneTk9CP66okHF_VgXVaSj_QNpRzEmvrAmRxmux5JVU&fp=firefox&spx=%2F&type=tcp&sni=f3b21at.de18.h1clayd.click&sid=08485ad122fafbd5#vless-tcp-reality-firefox-SC%F0%9F%87%B8%F0%9F%87%A8-1",
-      "ip": "196.196.149.20",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=7aa271t.es1.h1clayd.click&fp=chrome&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&type=tcp&headerType=none&host=7aa271t.es1.h1clayd.click&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SC%F0%9F%87%B8%F0%9F%87%A8-1",
+      "ip": "196.196.149.80",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@f3b21at.de18.h1clayd.click:443?security=reality&encryption=none&pbk=lneTk9CP66okHF_VgXVaSj_QNpRzEmvrAmRxmux5JVU&fp=firefox&spx=%2F&type=tcp&sni=f3b21at.de18.h1clayd.click&sid=08485ad122fafbd5#vless-tcp-reality-firefox-SC%F0%9F%87%B8%F0%9F%87%A8-1"
+      "rebuilt": "vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=7aa271t.es1.h1clayd.click&fp=chrome&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&type=tcp&headerType=none&host=7aa271t.es1.h1clayd.click&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SC%F0%9F%87%B8%F0%9F%87%A8-1"
     }
   ]
 }

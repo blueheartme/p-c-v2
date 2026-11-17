@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-08T15:07:38.461155",
+  "updated": "2026-11-17T17:16:46.194077",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "157.10.201.93",
-      "port": "14789",
-      "id": "45ea5597-150e-4e3b-b1f1-bba1d82dac86",
+      "address": "kir3.crackerbinam.org",
+      "port": "56026",
+      "id": "a1f0cbb8-c74a-4c27-b881-7b14d96aece1",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "",
-      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
-      "security": "",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://45ea5597-150e-4e3b-b1f1-bba1d82dac86@157.10.201.93:14789?security=&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#vless-tcp-VN%F0%9F%87%BB%F0%9F%87%B3-1",
-      "ip": "157.10.201.93",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?type=tcp&security=reality&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&sni=www.cloudflare.com#vless-tcp-reality-chrome-VN%F0%9F%87%BB%F0%9F%87%B3-1",
+      "ip": "103.163.24.22",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "vless://45ea5597-150e-4e3b-b1f1-bba1d82dac86@157.10.201.93:14789?security=&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#vless-tcp-VN%F0%9F%87%BB%F0%9F%87%B3-1"
+      "rebuilt": "vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?type=tcp&security=reality&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&sni=www.cloudflare.com#vless-tcp-reality-chrome-VN%F0%9F%87%BB%F0%9F%87%B3-1"
     }
   ]
 }

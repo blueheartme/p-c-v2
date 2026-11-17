@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-05T02:23:39.228206",
+  "updated": "2026-11-17T17:16:46.195932",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "149.33.19.143",
+      "address": "186.122.177.79",
       "port": "443",
-      "id": "25acff7f-3aff-4c68-bc5e-bbc68589f459",
+      "id": "8197b9b9-8945-460f-99c9-325ef8a8a7c3",
       "name": "🇦🇷 AR 1",
       "network": "tcp",
-      "sni": "zvukipro.com",
-      "host": "",
+      "sni": "ar1.gofizz.in",
+      "host": "ar1.gofizz.in",
       "security": "reality",
       "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://25acff7f-3aff-4c68-bc5e-bbc68589f459@149.33.19.143:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=zvukipro.com&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-AR%F0%9F%87%A6%F0%9F%87%B7-1",
-      "ip": "149.33.19.143",
+      "encryption": "",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@186.122.177.79:443?flow=xtls-rprx-vision&security=reality&sni=ar1.gofizz.in&fp=firefox&pbk=pBEW9XYZQsXxjgt44pCQcxoEOe-B1CdxaTdTnL2QhAA&sid=a5d67406&type=tcp&headerType=none&host=ar1.gofizz.in&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AR%F0%9F%87%A6%F0%9F%87%B7-1",
+      "ip": "186.122.177.79",
       "country": "AR",
       "cdn": null,
-      "rebuilt": "vless://25acff7f-3aff-4c68-bc5e-bbc68589f459@149.33.19.143:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=zvukipro.com&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-AR%F0%9F%87%A6%F0%9F%87%B7-1"
+      "rebuilt": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@186.122.177.79:443?flow=xtls-rprx-vision&security=reality&sni=ar1.gofizz.in&fp=firefox&pbk=pBEW9XYZQsXxjgt44pCQcxoEOe-B1CdxaTdTnL2QhAA&sid=a5d67406&type=tcp&headerType=none&host=ar1.gofizz.in&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-AR%F0%9F%87%A6%F0%9F%87%B7-1"
     }
   ]
 }

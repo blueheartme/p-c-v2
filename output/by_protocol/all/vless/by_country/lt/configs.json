@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T05:59:21.864933",
-  "count": 1,
+  "updated": "2026-11-17T17:16:46.246134",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "LT",
       "cdn": null,
       "rebuilt": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.248.124:443?security=reality&encryption=none&sni=net-io-api.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=a7d309e4c16b825f&type=tcp&headerType=none&host=%2f%3fTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24%2f&path=%2f#vless-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "84.32.149.211",
+      "port": "443",
+      "id": "49db4ce7-ad48-41a3-9b6f-4c6dabd94504",
+      "name": "🇱🇹 LT 3",
+      "network": "grpc",
+      "sni": "acorn.willowfen.top",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "ios",
+      "original": "vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@84.32.149.211:443?security=reality&encryption=none&sni=acorn.willowfen.top&fp=ios&pbk=M-cE7q2hNgBeNv7COM8DS2QC3GGi6Pu7pD1lvUfG0mo&sid=e4fc6803b3212ad4&type=grpc&serviceName=grpc&path=%2f#vless-grpc-reality-ios-LT%F0%9F%87%B1%F0%9F%87%B9-2",
+      "ip": "84.32.149.211",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@84.32.149.211:443?security=reality&encryption=none&sni=acorn.willowfen.top&fp=ios&pbk=M-cE7q2hNgBeNv7COM8DS2QC3GGi6Pu7pD1lvUfG0mo&sid=e4fc6803b3212ad4&type=grpc&serviceName=grpc&path=%2f#vless-grpc-reality-ios-LT%F0%9F%87%B1%F0%9F%87%B9-2"
     }
   ]
 }

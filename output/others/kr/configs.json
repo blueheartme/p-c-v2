@@ -1,20 +1,21 @@
 {
-  "updated": "2026-11-17T05:59:21.785287",
+  "updated": "2026-11-17T17:16:46.191031",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "158.247.253.243",
-      "port": "443",
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "🇰🇷 KR 1",
-      "sni": "connectgraduateswithjobopeningsandgrowprofessionally.com",
-      "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "158.247.253.243",
+      "type": "vmess",
+      "address": "132.145.80.230",
+      "port": "80",
+      "id": "5155860e-d07d-46c3-9128-3afbd84626c7",
+      "name": "🇰🇷South Korea -> 🇰🇷South Korea ⚡@DeamNet_Proxy",
+      "network": "ws",
+      "host": "kr02.a0a.xyz",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1LUvCfh7Dwn4e3LTEiLCJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImtyMDIuYTBhLnh5eiIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ==",
+      "ip": "132.145.80.230",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com&path=%2f#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1LUvCfh7Dwn4e3LTEiLCJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImtyMDIuYTBhLnh5eiIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ=="
     }
   ]
 }
