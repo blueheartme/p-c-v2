@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-06T04:36:59.418122",
+  "updated": "2026-11-17T05:59:21.858423",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "185.148.106.50",
-      "port": "8880",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "vms.lifetime54.workers.dev",
-      "security": "none",
-      "flow": "",
+      "address": "194.55.167.133",
+      "port": "443",
+      "id": "8197b9b9-8945-460f-99c9-325ef8a8a7c3",
+      "name": "🇨🇾 CY 1",
+      "network": "tcp",
+      "sni": "cy1.gofizz.in",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.50:8880?security=none&type=ws&path=%2F&host=vms.lifetime54.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#vless-ws-CY%F0%9F%87%A8%F0%9F%87%BE-1",
-      "ip": "185.148.106.50",
+      "fingerprint": "firefox",
+      "original": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.55.167.133:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=cy1.gofizz.in&fp=firefox&pbk=XSh3jB8zXtqpI38glgwN2Bn5imxN8Rkyc39LeBSD8BQ&sid=24f1fa53275b&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-CY%F0%9F%87%A8%F0%9F%87%BE-1",
+      "ip": "194.55.167.133",
       "country": "CY",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.50:8880?security=none&type=ws&path=%2F&host=vms.lifetime54.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#vless-ws-CY%F0%9F%87%A8%F0%9F%87%BE-1"
+      "rebuilt": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.55.167.133:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=cy1.gofizz.in&fp=firefox&pbk=XSh3jB8zXtqpI38glgwN2Bn5imxN8Rkyc39LeBSD8BQ&sid=24f1fa53275b&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-CY%F0%9F%87%A8%F0%9F%87%BE-1"
     }
   ]
 }

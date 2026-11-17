@@ -1,23 +1,40 @@
 {
-  "updated": "2026-11-16T17:45:48.743151",
-  "count": 1,
+  "updated": "2026-11-17T05:59:21.929773",
+  "count": 2,
   "configs": [
     {
       "type": "vmess",
-      "address": "fw2.skymailg.com",
-      "port": "9010",
-      "id": "85ba439d-d51c-4620-a697-6f85988e13a1",
+      "address": "dashboard.amirdata.top",
+      "port": "5382",
+      "id": "6b62c00e-6015-4635-88ee-23a3dab82ea7",
       "name": "@filembad",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiJmdzIuc2t5bWFpbGcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg1YmE0MzlkLWQ1MWMtNDYyMC1hNjk3LTZmODU5ODhlMTNhMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiOTAxMCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVLwn4eu8J+Hty0zMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
-      "ip": "185.166.3.197",
+      "original": "vmess://eyJhZGQiOiJkYXNoYm9hcmQuYW1pcmRhdGEudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiNjJjMDBlLTYwMTUtNDYzNS04OGVlLTIzYTNkYWI4MmVhNyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTM4MiIsInBzIjoidm1lc3MtYXV0by10Y3AtSVLwn4eu8J+Hty0yNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "37.202.225.110",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vmess://eyJhZGQiOiJmdzIuc2t5bWFpbGcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg1YmE0MzlkLWQ1MWMtNDYyMC1hNjk3LTZmODU5ODhlMTNhMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiOTAxMCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVLwn4eu8J+Hty0zMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+      "rebuilt": "vmess://eyJhZGQiOiJkYXNoYm9hcmQuYW1pcmRhdGEudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiNjJjMDBlLTYwMTUtNDYzNS04OGVlLTIzYTNkYWI4MmVhNyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTM4MiIsInBzIjoidm1lc3MtYXV0by10Y3AtSVLwn4eu8J+Hty0yNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+    },
+    {
+      "type": "vmess",
+      "address": "dashboard.ojeamir.top",
+      "port": "5383",
+      "id": "6b62c00e-6015-4635-88ee-23a3dab82ea7",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plYW1pci50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmI2MmMwMGUtNjAxNS00NjM1LTg4ZWUtMjNhM2RhYjgyZWE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1MzgzIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1JUvCfh67wn4e3LTI1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "ip": "94.182.105.61",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plYW1pci50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmI2MmMwMGUtNjAxNS00NjM1LTg4ZWUtMjNhM2RhYjgyZWE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1MzgzIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1JUvCfh67wn4e3LTI1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-16T17:45:48.691081",
-  "count": 1,
+  "updated": "2026-11-17T05:59:21.848136",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "67.159.52.81",
+      "port": "443",
+      "id": "a16bd0e2-ff2e-4e4c-a955-0c684255a065",
+      "name": "🇺🇸 US 28",
+      "network": "tcp",
+      "sni": "sg.fasti.win",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@67.159.52.81:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=sg.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "67.159.52.81",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@67.159.52.81:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=sg.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+    },
     {
       "type": "vless",
       "address": "www.binodes.com",
@@ -16,11 +36,11 @@
       "encryption": "mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.binodes.com:443?path=%2Fmsn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.binodes.com#vless-mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "43.174.246.25",
+      "original": "vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.binodes.com:443?path=%2Fmsn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.binodes.com#vless-mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "43.174.247.25",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.binodes.com:443?path=%2Fmsn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.binodes.com#vless-mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.binodes.com:443?path=%2Fmsn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.binodes.com#vless-mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }

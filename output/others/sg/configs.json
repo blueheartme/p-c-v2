@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-16T17:45:48.656327",
-  "count": 2,
+  "updated": "2026-11-17T05:59:21.771520",
+  "count": 5,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "149.88.23.202",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJiYXRjaCI6IiIsImVjaENvbmZpZ0xpc3QiOiIiLCJlY2hTZXJ2ZXJLZXlzIjoiIiwiZmFrZWhvc3RfZG9tYWluIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnRlcnZhbCI6IiIsImxlbmd0aCI6IiIsIm11eCI6IiIsIm11eENvbmN1cnJlbmN5IjoiIiwibmV0IjoidGNwIiwicGFja2V0cyI6IiIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwieGh0dHBfZXh0cmEiOiIifQ==",
+      "ip": "149.88.23.202",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJiYXRjaCI6IiIsImVjaENvbmZpZ0xpc3QiOiIiLCJlY2hTZXJ2ZXJLZXlzIjoiIiwiZmFrZWhvc3RfZG9tYWluIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnRlcnZhbCI6IiIsImxlbmd0aCI6IiIsIm11eCI6IiIsIm11eENvbmN1cnJlbmN5IjoiIiwibmV0IjoidGNwIiwicGFja2V0cyI6IiIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwieGh0dHBfZXh0cmEiOiIifQ=="
+    },
+    {
+      "type": "ss",
+      "address": "15.235.182.183",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%BB%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+      "ip": "15.235.182.183",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%BB%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
+    },
+    {
+      "type": "vless",
+      "address": "67.159.52.81",
+      "port": "443",
+      "id": "a16bd0e2-ff2e-4e4c-a955-0c684255a065",
+      "name": "🇺🇸 US 28",
+      "network": "tcp",
+      "sni": "sg.fasti.win",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@67.159.52.81:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=sg.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "67.159.52.81",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@67.159.52.81:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=sg.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&type=tcp&headerType=none&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+    },
     {
       "type": "vless",
       "address": "www.binodes.com",
@@ -16,24 +64,24 @@
       "encryption": "mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.binodes.com:443?path=%2Fmsn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.binodes.com#vless-mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "43.174.246.25",
+      "original": "vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.binodes.com:443?path=%2Fmsn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.binodes.com#vless-mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "43.174.247.25",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.binodes.com:443?path=%2Fmsn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.binodes.com#vless-mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.binodes.com:443?path=%2Fmsn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.binodes.com#vless-mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     },
     {
       "type": "ss",
-      "address": "15.235.182.183",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%BB%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
-      "ip": "15.235.182.183",
+      "address": "68.183.227.4",
+      "port": "8080",
+      "method": "rc4-md5",
+      "password": "14fFPrbezE3HDZzsMOr6",
+      "name": "🇸🇬 SG 1",
+      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%f0%9f%87%b8%f0%9f%87%ac%20SG%201",
+      "ip": "68.183.227.4",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%BB%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
+      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%f0%9f%87%b8%f0%9f%87%ac%20SG%201"
     }
   ]
 }

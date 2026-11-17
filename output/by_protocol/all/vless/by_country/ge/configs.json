@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-13T20:56:40.792567",
+  "updated": "2026-11-17T05:59:21.863659",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "213.182.201.11",
-      "port": "3090",
-      "id": "0773c95e-21b5-4c6f-a471-3a48ed43521f",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "",
+      "address": "194.135.119.135",
+      "port": "443",
+      "id": "8197b9b9-8945-460f-99c9-325ef8a8a7c3",
+      "name": "🇬🇪 GE 1",
+      "network": "tcp",
+      "sni": "ge1.gofizzin.com",
       "host": "",
-      "security": "none",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://0773c95e-21b5-4c6f-a471-3a48ed43521f@213.182.201.11:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#vless-grpc-GE%F0%9F%87%AC%F0%9F%87%AA-1",
-      "ip": "213.182.201.11",
+      "original": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.135.119.135:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=ge1.gofizzin.com&pbk=fVo5hYUD3VkxEetcXSMVWp7hjvz4YrKLNHDhGhn-d3M&sid=0640a12b&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-GE%F0%9F%87%AC%F0%9F%87%AA-1",
+      "ip": "194.135.119.135",
       "country": "GE",
       "cdn": null,
-      "rebuilt": "vless://0773c95e-21b5-4c6f-a471-3a48ed43521f@213.182.201.11:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#vless-grpc-GE%F0%9F%87%AC%F0%9F%87%AA-1"
+      "rebuilt": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.135.119.135:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=ge1.gofizzin.com&pbk=fVo5hYUD3VkxEetcXSMVWp7hjvz4YrKLNHDhGhn-d3M&sid=0640a12b&type=tcp&path=%2f#vless-xtls-rprx-vision-tcp-reality-GE%F0%9F%87%AC%F0%9F%87%AA-1"
     }
   ]
 }

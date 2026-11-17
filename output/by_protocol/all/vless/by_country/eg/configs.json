@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-05T17:51:26.996848",
+  "updated": "2026-11-17T05:59:21.857810",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "38.54.59.209",
-      "port": "2087",
-      "id": "cd842ef8-9577-47f3-83ca-627147ed291b",
+      "address": "41.196.0.128",
+      "port": "443",
+      "id": "8197b9b9-8945-460f-99c9-325ef8a8a7c3",
       "name": "🇪🇬 EG 1",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://cd842ef8-9577-47f3-83ca-627147ed291b@38.54.59.209:2087?security=none&encryption=none&type=ws&path=%2fd1000b16fe76#vless-ws-EG%F0%9F%87%AA%F0%9F%87%AC-1",
-      "ip": "38.54.59.209",
+      "network": "tcp",
+      "sni": "eg1.gofizz.in",
+      "host": "eg1.gofizz.in",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?flow=xtls-rprx-vision&security=reality&sni=eg1.gofizz.in&fp=firefox&pbk=tyklNbOfb-FctP-J1OQa1yUHPY9p4co70RyYuRe9nR8&sid=f68db13f&type=tcp&headerType=none&host=eg1.gofizz.in&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-EG%F0%9F%87%AA%F0%9F%87%AC-1",
+      "ip": "41.196.0.128",
       "country": "EG",
       "cdn": null,
-      "rebuilt": "vless://cd842ef8-9577-47f3-83ca-627147ed291b@38.54.59.209:2087?security=none&encryption=none&type=ws&path=%2fd1000b16fe76#vless-ws-EG%F0%9F%87%AA%F0%9F%87%AC-1"
+      "rebuilt": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?flow=xtls-rprx-vision&security=reality&sni=eg1.gofizz.in&fp=firefox&pbk=tyklNbOfb-FctP-J1OQa1yUHPY9p4co70RyYuRe9nR8&sid=f68db13f&type=tcp&headerType=none&host=eg1.gofizz.in&path=%2f#vless-xtls-rprx-vision-tcp-reality-firefox-EG%F0%9F%87%AA%F0%9F%87%AC-1"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T17:45:48.706624",
-  "count": 1,
+  "updated": "2026-11-17T05:59:21.873098",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
@@ -10,11 +10,53 @@
       "name": "1|@ConfingV2RaayNG",
       "sni": "www.yourultimateprofessionalcareerhub.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "208.69.78.19",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "trojan",
+      "address": "208.69.78.60",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "🇨🇭 CH 1",
+      "sni": "cdn.yourultimateprofessionalcareerhub.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?security=tls&sni=cdn.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-5",
+      "ip": "208.69.78.60",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?security=tls&sni=cdn.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-5"
+    },
+    {
+      "type": "trojan",
+      "address": "208.69.78.33",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "🇨🇭 CH 3",
+      "sni": "courses.yourultimateprofessionalcareerhub.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-7",
+      "ip": "208.69.78.33",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-7"
+    },
+    {
+      "type": "trojan",
+      "address": "208.69.78.222",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "🇨🇭 CH 4",
+      "sni": "yourultimateprofessionalcareerhub.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&sni=yourultimateprofessionalcareerhub.com&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-8",
+      "ip": "208.69.78.222",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&sni=yourultimateprofessionalcareerhub.com&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-8"
     }
   ]
 }

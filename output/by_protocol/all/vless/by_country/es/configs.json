@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-16T17:45:48.689054",
+  "updated": "2026-11-17T05:59:21.851603",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "212.227.235.66",
-      "port": "2053",
-      "id": "ead0dd61-d398-40ad-80d6-a0e1e516d7d3",
-      "name": "Channel : @proxy_kafee",
+      "address": "66.163.118.113",
+      "port": "443",
+      "id": "dbf3f074-3b18-43f3-b82a-debd8c879c69",
+      "name": "🇪🇸 ES 12",
       "network": "tcp",
       "sni": "www.apple.com",
-      "host": "",
+      "host": "www.apple.com",
       "security": "reality",
-      "flow": "",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?encryption=none&security=reality&sni=www.apple.com&fp=firefox&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk&sid=29e8dcd2b37aaa7f&type=tcp&headerType=none#vless-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2",
-      "ip": "212.227.235.66",
+      "fingerprint": "chrome",
+      "original": "vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@66.163.118.113:443?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=PwN5VWqwWKVfrqqrbLE4kzVu9vIXSENAUiAPjMWIrVY&sid=32209e627ee109c7&type=tcp&headerType=none&host=www.apple.com&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-4",
+      "ip": "66.163.118.113",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?encryption=none&security=reality&sni=www.apple.com&fp=firefox&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk&sid=29e8dcd2b37aaa7f&type=tcp&headerType=none#vless-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+      "rebuilt": "vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@66.163.118.113:443?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=PwN5VWqwWKVfrqqrbLE4kzVu9vIXSENAUiAPjMWIrVY&sid=32209e627ee109c7&type=tcp&headerType=none&host=www.apple.com&path=%2f#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-4"
     }
   ]
 }
