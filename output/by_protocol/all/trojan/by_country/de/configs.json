@@ -1,38 +1,38 @@
 {
-  "updated": "2026-11-17T17:16:46.254476",
+  "updated": "2026-11-18T05:28:55.753389",
   "count": 3,
   "configs": [
     {
       "type": "trojan",
-      "address": "193.108.119.29",
+      "address": "193.108.119.78",
       "port": "443",
       "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "🇩🇪 DE 2",
-      "sni": "blog.iloverussia2026.com",
+      "name": "🇫🇮@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "sni": "www.iloverussia2026.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?security=tls&sni=blog.iloverussia2026.com&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-9",
-      "ip": "193.108.119.29",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-23",
+      "ip": "193.108.119.78",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?security=tls&sni=blog.iloverussia2026.com&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-9"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-23"
     },
     {
       "type": "trojan",
       "address": "193.108.119.193",
       "port": "443",
       "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "🇩🇪 DE 3",
+      "name": "@meliproxyy",
       "sni": "resources.iloverussia2026.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?security=tls&sni=resources.iloverussia2026.com&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-19",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-95",
       "ip": "193.108.119.193",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?security=tls&sni=resources.iloverussia2026.com&path=%2f#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-19"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-95"
     },
     {
       "type": "trojan",
@@ -42,11 +42,11 @@
       "name": "🔰 @prrofile_purple (تلگرام)",
       "sni": "api.85s.me",
       "host": "api.85s.me",
-      "original": "trojan://8deb189a-3aed-4865-843b-b72dae954c46@144.31.252.100:8443?path=%2F&security=tls&insecure=0&host=api.85s.me&type=ws&allowInsecure=0&sni=api.85s.me#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-161",
+      "original": "trojan://8deb189a-3aed-4865-843b-b72dae954c46@144.31.252.100:8443?path=%2F&security=tls&insecure=0&host=api.85s.me&type=ws&allowInsecure=0&sni=api.85s.me#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-223",
       "ip": "144.31.252.100",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "trojan://8deb189a-3aed-4865-843b-b72dae954c46@144.31.252.100:8443?path=%2F&security=tls&insecure=0&host=api.85s.me&type=ws&allowInsecure=0&sni=api.85s.me#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-161"
+      "rebuilt": "trojan://8deb189a-3aed-4865-843b-b72dae954c46@144.31.252.100:8443?path=%2F&security=tls&insecure=0&host=api.85s.me&type=ws&allowInsecure=0&sni=api.85s.me#trojan-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-223"
     }
   ]
 }
