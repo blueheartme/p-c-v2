@@ -1,21 +1,19 @@
 {
-  "updated": "2026-11-17T17:16:46.191031",
+  "updated": "2026-11-18T16:52:36.559261",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "132.145.80.230",
-      "port": "80",
-      "id": "5155860e-d07d-46c3-9128-3afbd84626c7",
-      "name": "🇰🇷South Korea -> 🇰🇷South Korea ⚡@DeamNet_Proxy",
-      "network": "ws",
-      "host": "kr02.a0a.xyz",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1LUvCfh7Dwn4e3LTEiLCJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImtyMDIuYTBhLnh5eiIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ==",
-      "ip": "132.145.80.230",
+      "type": "ss",
+      "address": "glance.asuscomm.com",
+      "port": "10099",
+      "method": "chacha20-ietf-poly1305",
+      "password": "12242",
+      "name": "🇰🇷South+Korea+->+🇰🇷South+Korea+⚡@DeamNet_Proxy",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@glance.asuscomm.com:10099#%F0%9F%87%B0%F0%9F%87%B7South+Korea+-%3E+%F0%9F%87%B0%F0%9F%87%B7South+Korea+%E2%9A%A1@DeamNet_Proxy",
+      "ip": "115.161.136.145",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1LUvCfh7Dwn4e3LTEiLCJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImtyMDIuYTBhLnh5eiIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ=="
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@glance.asuscomm.com:10099#%F0%9F%87%B0%F0%9F%87%B7South+Korea+-%3E+%F0%9F%87%B0%F0%9F%87%B7South+Korea+%E2%9A%A1@DeamNet_Proxy"
     }
   ]
 }

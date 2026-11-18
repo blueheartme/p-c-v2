@@ -1,26 +1,21 @@
 {
-  "updated": "2026-11-18T05:28:55.680687",
-  "count": 3,
+  "updated": "2026-11-18T16:52:36.558106",
+  "count": 4,
   "configs": [
     {
-      "type": "vless",
-      "address": "www.thevicinityapp.cn",
-      "port": "443",
-      "id": "1af5253b-75e6-4e2c-8b9e-2b7b92dbb845",
-      "name": "@meliproxyy",
-      "network": "httpupgrade",
-      "sni": "www.thevicinityapp.cn",
-      "host": "ded2http.samcdn.shop",
-      "security": "tls",
-      "flow": "",
-      "encryption": "mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.thevicinityapp.cn:443?path=%2Fmsn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.thevicinityapp.cn#vless-mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "43.174.246.63",
+      "type": "vmess",
+      "address": "149.88.23.202",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+      "ip": "149.88.23.202",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.thevicinityapp.cn:443?path=%2Fmsn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.thevicinityapp.cn#vless-mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
     },
     {
       "type": "vless",
@@ -43,24 +38,30 @@
       "rebuilt": "vless://7f0270f9-1abc-4c4f-960d-0a23e32f1eb8@139.162.20.241:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=fG1u2AZj5pgSNWO3MBmkoY6K61xBwnuYX3_z1fSeR0o&sid=640c807d&type=ws&path=%2fws#vless-ws-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     },
     {
-      "type": "vless",
-      "address": "www.binodes.com",
-      "port": "443",
-      "id": "1af5253b-75e6-4e2c-8b9e-2b7b92dbb845",
-      "name": "@meliproxyy",
-      "network": "httpupgrade",
-      "sni": "www.binodes.com",
-      "host": "ded2http.samcdn.shop",
-      "security": "tls",
-      "flow": "",
-      "encryption": "mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.binodes.com:443?path=%2Fmsn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.binodes.com#vless-mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "43.174.247.25",
+      "type": "ss",
+      "address": "15.235.182.183",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%BB%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+      "ip": "15.235.182.183",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.binodes.com:443?path=%2Fmsn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.binodes.com#vless-mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%BB%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9"
+    },
+    {
+      "type": "ss",
+      "address": "leviko-sg8733.shopingggg.ir",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-sg8733.shopingggg.ir:19999#@meliproxyy",
+      "ip": "149.88.106.73",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-sg8733.shopingggg.ir:19999#@meliproxyy"
     }
   ]
 }

@@ -1,20 +1,54 @@
 {
-  "updated": "2026-11-18T05:28:55.647483",
-  "count": 3,
+  "updated": "2026-11-18T16:52:36.551104",
+  "count": 5,
   "configs": [
+    {
+      "type": "vless",
+      "address": "76574ct.nl7.h1clayd.click",
+      "port": "443",
+      "id": "cda0862a-0f87-4be9-8ed8-1d0c9e382839",
+      "name": "YFZ 286 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "76574ct.nl7.h1clayd.click",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@76574ct.nl7.h1clayd.click:443?security=reality&encryption=none&pbk=9zW5lTDbs9svY-lzlPp-pq0j2Sr6g031SY0E-3xSHDc&headerType=none&type=tcp&sni=76574ct.nl7.h1clayd.click&sid=2ca59bdc5121f921#vless-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "ip": "196.196.149.29",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@76574ct.nl7.h1clayd.click:443?security=reality&encryption=none&pbk=9zW5lTDbs9svY-lzlPp-pq0j2Sr6g031SY0E-3xSHDc&headerType=none&type=tcp&sni=76574ct.nl7.h1clayd.click&sid=2ca59bdc5121f921#vless-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+    },
     {
       "type": "trojan",
       "address": "66.163.118.166",
       "port": "443",
       "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "5|@ConfingV2RaayNG",
+      "name": "3|@ConfingV2RaayNG",
       "sni": "learn.discovergreatjobsandadvanceyourcareer.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
       "ip": "66.163.118.166",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-1"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
+    {
+      "type": "trojan",
+      "address": "66.163.118.251",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "برای اتصال دائمی جوین شو🍀 TelegramID ⌲Express_freevpn 🪩",
+      "sni": "resources.discovergreatjobsandadvanceyourcareer.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "ip": "66.163.118.251",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3"
     },
     {
       "type": "ss",
@@ -30,18 +64,24 @@
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#%f0%9f%87%aa%f0%9f%87%b8%20ES%201"
     },
     {
-      "type": "trojan",
-      "address": "66.163.118.251",
+      "type": "vless",
+      "address": "185.176.9.26",
       "port": "443",
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "Telegram@ConfingV2RaayNG",
-      "sni": "resources.discovergreatjobsandadvanceyourcareer.com",
+      "id": "8197b9b9-8945-460f-99c9-325ef8a8a7c3",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "es1.gofizz.in",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3",
-      "ip": "66.163.118.251",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.176.9.26:443?security=reality&encryption=none&pbk=Qxpi1A9yJXwgZ1ycBrasKBCrX3qkRJ646U28a-99WBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es1.gofizz.in&sid=85750bd7#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-5",
+      "ip": "185.176.9.26",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3"
+      "rebuilt": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.176.9.26:443?security=reality&encryption=none&pbk=Qxpi1A9yJXwgZ1ycBrasKBCrX3qkRJ646U28a-99WBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es1.gofizz.in&sid=85750bd7#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-5"
     }
   ]
 }
