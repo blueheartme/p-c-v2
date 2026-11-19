@@ -1,30 +1,46 @@
 {
-  "updated": "2026-11-18T16:52:36.559010",
+  "updated": "2026-11-19T16:59:18.519081",
   "count": 2,
   "configs": [
     {
-      "type": "tg",
-      "address": "parts.kemerovo.online",
+      "type": "vless",
+      "address": "subgift.gcorecdn.com",
       "port": "443",
-      "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
-      "name": "",
-      "original": "https://t.me/proxy?server=parts.kemerovo.online&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
-      "ip": "185.188.146.139",
+      "id": "740b2630-b42d-425c-bacd-37e7e30d78f1",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "subgift.gcorecdn.com",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?path=%2Ft.me-SubGift&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#vless-ws-tls-LU%F0%9F%87%B1%F0%9F%87%BA-1",
+      "ip": "92.223.84.254",
       "country": "LU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=parts.kemerovo.online&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c"
+      "rebuilt": "vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?path=%2Ft.me-SubGift&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#vless-ws-tls-LU%F0%9F%87%B1%F0%9F%87%BA-1"
     },
     {
-      "type": "tg",
-      "address": "valenki.kemerovo.online",
+      "type": "vless",
+      "address": "92.223.84.254",
       "port": "443",
-      "secret": "eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
-      "name": "",
-      "original": "https://t.me/proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65&@MPT_Proxy",
-      "ip": "185.188.146.139",
+      "id": "740b2630-b42d-425c-bacd-37e7e30d78f1",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "subgift.gcorecdn.com",
+      "host": "subgift.gcorecdn.com",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?path=%2Ft.me-SubGift&security=tls&encryption=none&insecure=0&host=subgift.gcorecdn.com&fp=firefox&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#vless-ws-tls-firefox-LU%F0%9F%87%B1%F0%9F%87%BA-2",
+      "ip": "92.223.84.254",
       "country": "LU",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65&@MPT_Proxy"
+      "rebuilt": "vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?path=%2Ft.me-SubGift&security=tls&encryption=none&insecure=0&host=subgift.gcorecdn.com&fp=firefox&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#vless-ws-tls-firefox-LU%F0%9F%87%B1%F0%9F%87%BA-2"
     }
   ]
 }
