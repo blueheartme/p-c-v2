@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-18T16:52:36.579363",
-  "count": 1,
+  "updated": "2026-11-19T05:26:23.295211",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "196.245.153.156",
+      "port": "443",
+      "id": "cda0862a-0f87-4be9-8ed8-1d0c9e382839",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "f0d7aft.nl17.h1clayd.click",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.156:443?security=reality&encryption=none&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&headerType=none&fp=firefox&type=tcp&sni=f0d7aft.nl17.h1clayd.click&sid=8956c57cb4c4f8d2#vless-tcp-reality-firefox-SK%F0%9F%87%B8%F0%9F%87%B0-1",
+      "ip": "196.245.153.156",
+      "country": "SK",
+      "cdn": null,
+      "rebuilt": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.156:443?security=reality&encryption=none&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&headerType=none&fp=firefox&type=tcp&sni=f0d7aft.nl17.h1clayd.click&sid=8956c57cb4c4f8d2#vless-tcp-reality-firefox-SK%F0%9F%87%B8%F0%9F%87%B0-1"
+    },
     {
       "type": "vless",
       "address": "45.151.70.116",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://6f2857ee-4d43-417f-8a60-6f29becf061f@45.151.70.116:443?security=reality&encryption=none&pbk=O-B_Lb2sUV9VaUIv0_d6gVMA20oSKEd1wwyZ5vJYvh8&headerType=none&type=tcp&sni=www.amd.com&sid=836c3060#vless-tcp-reality-SK%F0%9F%87%B8%F0%9F%87%B0-1",
+      "original": "vless://6f2857ee-4d43-417f-8a60-6f29becf061f@45.151.70.116:443?security=reality&encryption=none&pbk=O-B_Lb2sUV9VaUIv0_d6gVMA20oSKEd1wwyZ5vJYvh8&headerType=none&type=tcp&sni=www.amd.com&sid=836c3060#vless-tcp-reality-SK%F0%9F%87%B8%F0%9F%87%B0-2",
       "ip": "45.151.70.116",
       "country": "SK",
       "cdn": null,
-      "rebuilt": "vless://6f2857ee-4d43-417f-8a60-6f29becf061f@45.151.70.116:443?security=reality&encryption=none&pbk=O-B_Lb2sUV9VaUIv0_d6gVMA20oSKEd1wwyZ5vJYvh8&headerType=none&type=tcp&sni=www.amd.com&sid=836c3060#vless-tcp-reality-SK%F0%9F%87%B8%F0%9F%87%B0-1"
+      "rebuilt": "vless://6f2857ee-4d43-417f-8a60-6f29becf061f@45.151.70.116:443?security=reality&encryption=none&pbk=O-B_Lb2sUV9VaUIv0_d6gVMA20oSKEd1wwyZ5vJYvh8&headerType=none&type=tcp&sni=www.amd.com&sid=836c3060#vless-tcp-reality-SK%F0%9F%87%B8%F0%9F%87%B0-2"
     }
   ]
 }

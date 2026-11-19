@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-17T05:59:21.863029",
+  "updated": "2026-11-19T05:26:23.291543",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "114.37.105.51",
+      "address": "85.237.207.221",
       "port": "443",
-      "id": "8197b9b9-8945-460f-99c9-325ef8a8a7c3",
-      "name": "🇹🇼 TW 1",
+      "id": "b59bcb5b-5150-4c6b-9227-681886197014",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "tw1.gofizzin.com",
-      "host": "tw1.gofizzin.com",
+      "sni": "dl.google.com",
+      "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@114.37.105.51:443?flow=xtls-rprx-vision&security=reality&sni=tw1.gofizzin.com&fp=edge&pbk=3OEqq4MiCKoUP5yKBOmZsjuwg4i8A1fb8WrEDOFQek8&sid=2c14765d0b&type=tcp&headerType=none&host=tw1.gofizzin.com&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-TW%F0%9F%87%B9%F0%9F%87%BC-1",
-      "ip": "114.37.105.51",
+      "fingerprint": "chrome",
+      "original": "vless://b59bcb5b-5150-4c6b-9227-681886197014@85.237.207.221:443?security=reality&encryption=none&pbk=lJz7AGWUC-ZTEIJaU5y1GRrROWJ9J_VzQRyrYPmOygs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=fd2fa5e06670120b#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "ip": "85.237.207.221",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@114.37.105.51:443?flow=xtls-rprx-vision&security=reality&sni=tw1.gofizzin.com&fp=edge&pbk=3OEqq4MiCKoUP5yKBOmZsjuwg4i8A1fb8WrEDOFQek8&sid=2c14765d0b&type=tcp&headerType=none&host=tw1.gofizzin.com&path=%2f#vless-xtls-rprx-vision-tcp-reality-edge-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "vless://b59bcb5b-5150-4c6b-9227-681886197014@85.237.207.221:443?security=reality&encryption=none&pbk=lJz7AGWUC-ZTEIJaU5y1GRrROWJ9J_VzQRyrYPmOygs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=fd2fa5e06670120b#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1"
     }
   ]
 }

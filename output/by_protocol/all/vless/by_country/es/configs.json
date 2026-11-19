@@ -1,27 +1,7 @@
 {
-  "updated": "2026-11-18T16:52:36.579622",
-  "count": 2,
+  "updated": "2026-11-19T05:26:23.141512",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "76574ct.nl7.h1clayd.click",
-      "port": "443",
-      "id": "cda0862a-0f87-4be9-8ed8-1d0c9e382839",
-      "name": "YFZ 286 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "76574ct.nl7.h1clayd.click",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@76574ct.nl7.h1clayd.click:443?security=reality&encryption=none&pbk=9zW5lTDbs9svY-lzlPp-pq0j2Sr6g031SY0E-3xSHDc&headerType=none&type=tcp&sni=76574ct.nl7.h1clayd.click&sid=2ca59bdc5121f921#vless-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-1",
-      "ip": "196.196.149.29",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@76574ct.nl7.h1clayd.click:443?security=reality&encryption=none&pbk=9zW5lTDbs9svY-lzlPp-pq0j2Sr6g031SY0E-3xSHDc&headerType=none&type=tcp&sni=76574ct.nl7.h1clayd.click&sid=2ca59bdc5121f921#vless-tcp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-1"
-    },
     {
       "type": "vless",
       "address": "185.176.9.26",
@@ -35,12 +15,12 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.176.9.26:443?security=reality&encryption=none&pbk=Qxpi1A9yJXwgZ1ycBrasKBCrX3qkRJ646U28a-99WBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es1.gofizz.in&sid=85750bd7#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-5",
+      "fingerprint": "chrome",
+      "original": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.176.9.26:443?security=reality&encryption=none&pbk=Qxpi1A9yJXwgZ1ycBrasKBCrX3qkRJ646U28a-99WBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=es1.gofizz.in&sid=85750bd7#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-3",
       "ip": "185.176.9.26",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.176.9.26:443?security=reality&encryption=none&pbk=Qxpi1A9yJXwgZ1ycBrasKBCrX3qkRJ646U28a-99WBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es1.gofizz.in&sid=85750bd7#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-5"
+      "rebuilt": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.176.9.26:443?security=reality&encryption=none&pbk=Qxpi1A9yJXwgZ1ycBrasKBCrX3qkRJ646U28a-99WBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=es1.gofizz.in&sid=85750bd7#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%87%AA%F0%9F%87%B8-3"
     }
   ]
 }

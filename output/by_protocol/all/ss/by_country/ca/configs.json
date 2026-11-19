@@ -1,59 +1,7 @@
 {
-  "updated": "2026-11-18T16:52:36.595613",
-  "count": 6,
+  "updated": "2026-11-19T05:26:23.444874",
+  "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "leviko-ca4638.shopingggg.ir",
-      "port": "8080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "2cvhpvdg4x7mvbps",
-      "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@leviko-ca4638.shopingggg.ir:8080#@meliproxyy",
-      "ip": "54.39.96.233",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@leviko-ca4638.shopingggg.ir:8080#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "54.39.96.233",
-      "port": "8080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "2cvhpvdg4x7mvbps",
-      "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@54.39.96.233:8080#@meliproxyy",
-      "ip": "54.39.96.233",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@54.39.96.233:8080#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "15.235.57.6",
-      "port": "8080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "kxhnt5jtykd328cg",
-      "name": "@i10VPN⁸",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080#%40i10VPN%E2%81%B8",
-      "ip": "15.235.57.6",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080#%40i10VPN%E2%81%B8"
-    },
-    {
-      "type": "ss",
-      "address": "51.79.64.198",
-      "port": "8119",
-      "method": "aes-256-gcm",
-      "password": "cdBIDV42DCwnfIN",
-      "name": "🇨🇦Canada+->+🇨🇦Canada+⚡@DeamNet_Proxy",
-      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6Canada+-%3E+%F0%9F%87%A8%F0%9F%87%A6Canada+%E2%9A%A1@DeamNet_Proxy",
-      "ip": "51.79.64.198",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6Canada+-%3E+%F0%9F%87%A8%F0%9F%87%A6Canada+%E2%9A%A1@DeamNet_Proxy"
-    },
     {
       "type": "ss",
       "address": "15.235.121.109",
@@ -69,16 +17,29 @@
     },
     {
       "type": "ss",
-      "address": "leviko-ca8416.shopingggg.ir",
-      "port": "8080",
+      "address": "15.235.57.6",
+      "port": "8080?type=tcp",
       "method": "chacha20-ietf-poly1305",
-      "password": "575hiopq2h28yao6",
+      "password": "kxhnt5jtykd328cg",
       "name": "@meliproxyy",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@leviko-ca8416.shopingggg.ir:8080#@meliproxyy",
-      "ip": "15.235.121.109",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080?type=tcp#@meliproxyy",
+      "ip": "15.235.57.6",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@leviko-ca8416.shopingggg.ir:8080#@meliproxyy"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080?type=tcp#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "15.235.57.6",
+      "port": "8080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "kxhnt5jtykd328cg",
+      "name": "@i10VPN⁸",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080#%40i10VPN%E2%81%B8",
+      "ip": "15.235.57.6",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080#%40i10VPN%E2%81%B8"
     }
   ]
 }
