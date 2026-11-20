@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-19T16:59:18.525067",
-  "count": 1,
+  "updated": "2026-11-20T05:13:03.799105",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "latvia.nyanners.ir",
+      "port": "666",
+      "id": "c3dd06bc-7c9e-4716-beb2-dde88bd31d7f",
+      "name": "@meliproxyy",
+      "network": "ws",
+      "sni": "latvia.nyanners.ir",
+      "host": "latvia.nyanners.ir",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "edge",
+      "original": "vless://c3dd06bc-7c9e-4716-beb2-dde88bd31d7f@latvia.nyanners.ir:666?alpn=http%2F1.1&encryption=none&fp=edge&host=latvia.nyanners.ir&path=%2F&security=tls&sni=latvia.nyanners.ir&type=ws#vless-ws-tls-edge-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "ip": "31.56.204.91",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://c3dd06bc-7c9e-4716-beb2-dde88bd31d7f@latvia.nyanners.ir:666?alpn=http%2F1.1&encryption=none&fp=edge&host=latvia.nyanners.ir&path=%2F&security=tls&sni=latvia.nyanners.ir&type=ws#vless-ws-tls-edge-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+    },
     {
       "type": "vless",
       "address": "195.135.252.28",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-2"
     }
   ]
 }

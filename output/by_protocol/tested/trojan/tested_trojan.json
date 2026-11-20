@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T16:59:18.633731",
+  "updated": "2026-11-20T05:13:03.922881",
   "count": 4,
   "configs": [
     {
@@ -8,31 +8,15 @@
       "port": "443",
       "password": "humanity",
       "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "sni": "www.pleadcourt.org",
-      "host": "www.pleadcourt.org",
-      "original": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4",
+      "sni": "www.ignitelimit.com",
+      "host": "www.ignitelimit.com",
+      "original": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.ignitelimit.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
       "ip": "188.114.97.6",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4"
-    },
-    {
-      "type": "trojan",
-      "address": "193.108.119.78",
-      "port": "443",
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "🇫🇮@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "sni": "www.iloverussia2026.com",
-      "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-42",
-      "ip": "193.108.119.78",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-42"
+      "rebuilt": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.ignitelimit.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     },
     {
       "type": "trojan",
@@ -42,13 +26,29 @@
       "name": "@meliproxyy",
       "sni": "courses.iloverussia2026.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-105",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-74",
       "ip": "193.108.119.15",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-105"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-74"
+    },
+    {
+      "type": "trojan",
+      "address": "193.108.119.78",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "🇫🇮@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "sni": "www.iloverussia2026.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-120",
+      "ip": "193.108.119.78",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-120"
     },
     {
       "type": "trojan",
@@ -58,13 +58,13 @@
       "name": "برای اتصال دائمی جوین شو🍀 TelegramID ⌲Express_freevpn 🪩",
       "sni": "resources.iloverussia2026.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-177",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-166",
       "ip": "193.108.119.193",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-177"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.iloverussia2026.com#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-166"
     }
   ]
 }
