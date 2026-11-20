@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-20T05:13:03.892270",
+  "updated": "2026-11-20T16:34:42.828677",
   "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "172.104.48.194",
+      "port": "443",
+      "id": "a28d0884-193d-4591-aa64-8638ba1481ce",
+      "name": "🇸🇬 SG 3",
+      "network": "ws",
+      "sni": "itunes.apple.com",
+      "host": "itunes.apple.com",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://a28d0884-193d-4591-aa64-8638ba1481ce@172.104.48.194:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=u_4r8NRmRsN5Ndbt0koyC73DLC7mCcK4wAA0YiIR4ko&sid=b0af872e&type=ws&host=itunes.apple.com&path=%2fws&allow_insecure=0#vless-ws-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "172.104.48.194",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://a28d0884-193d-4591-aa64-8638ba1481ce@172.104.48.194:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=u_4r8NRmRsN5Ndbt0koyC73DLC7mCcK4wAA0YiIR4ko&sid=b0af872e&type=ws&host=itunes.apple.com&path=%2fws&allow_insecure=0#vless-ws-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
     {
       "type": "vless",
       "address": "139.180.221.53",
@@ -44,26 +64,6 @@
     },
     {
       "type": "vless",
-      "address": "172.104.48.194",
-      "port": "443",
-      "id": "a28d0884-193d-4591-aa64-8638ba1481ce",
-      "name": "🇸🇬 SG 3",
-      "network": "ws",
-      "sni": "itunes.apple.com",
-      "host": "itunes.apple.com",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://a28d0884-193d-4591-aa64-8638ba1481ce@172.104.48.194:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=u_4r8NRmRsN5Ndbt0koyC73DLC7mCcK4wAA0YiIR4ko&sid=b0af872e&type=ws&host=itunes.apple.com&path=%2fws&allow_insecure=0#vless-ws-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4",
-      "ip": "172.104.48.194",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://a28d0884-193d-4591-aa64-8638ba1481ce@172.104.48.194:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=u_4r8NRmRsN5Ndbt0koyC73DLC7mCcK4wAA0YiIR4ko&sid=b0af872e&type=ws&host=itunes.apple.com&path=%2fws&allow_insecure=0#vless-ws-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4"
-    },
-    {
-      "type": "vless",
       "address": "140.245.62.225",
       "port": "36442",
       "id": "5269e0b4-0dff-4f97-e0c7-83130bacb009",
@@ -76,11 +76,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#vless-xtls-rprx-vision-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5",
+      "original": "vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#vless-xtls-rprx-vision-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-7",
       "ip": "140.245.62.225",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#vless-xtls-rprx-vision-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5"
+      "rebuilt": "vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#vless-xtls-rprx-vision-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-7"
     }
   ]
 }

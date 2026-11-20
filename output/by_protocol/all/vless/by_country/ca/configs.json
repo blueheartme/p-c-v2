@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-20T05:13:03.887969",
-  "count": 1,
+  "updated": "2026-11-20T16:34:42.829315",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "209.200.246.148",
+      "port": "443",
+      "id": "ca52e2b6-fb9f-4dac-b6dc-49da9923f251",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "ip": "209.200.246.148",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+    },
     {
       "type": "vless",
       "address": "23.155.44.105",
