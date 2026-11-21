@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T05:05:58.406344",
-  "count": 1,
+  "updated": "2026-11-21T15:51:33.931415",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,51 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "179.43.187.67",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "p2real5.greewebservices.ir",
+      "port": "1350",
+      "id": "bee52362-4183-42c5-b065-d3a3f344d00c",
+      "name": "🔰 @prrofile_purple (تلگرام)",
+      "network": "tcp",
+      "sni": "play.googleapis.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://bee52362-4183-42c5-b065-d3a3f344d00c@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "ip": "131.123.34.193",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://bee52362-4183-42c5-b065-d3a3f344d00c@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+    },
+    {
+      "type": "vless",
+      "address": "195.15.207.252",
+      "port": "443",
+      "id": "65b6bc06-44c9-4b21-8dc0-bdf1d688c0e6",
+      "name": "Telegram : @proxy_kafee",
+      "network": "tcp",
+      "sni": "ch.mntw.lol",
+      "host": "/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://65b6bc06-44c9-4b21-8dc0-bdf1d688c0e6@195.15.207.252:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ch.mntw.lol&fp=firefox&pbk=dqhYuWM5WUOgUYe4FmvLZS-Nb4tY9qZ7_WffpePl6lQ&sid=76d0389e457fcba0&type=tcp&headerType=none&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-5",
+      "ip": "195.15.207.252",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://65b6bc06-44c9-4b21-8dc0-bdf1d688c0e6@195.15.207.252:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ch.mntw.lol&fp=firefox&pbk=dqhYuWM5WUOgUYe4FmvLZS-Nb4tY9qZ7_WffpePl6lQ&sid=76d0389e457fcba0&type=tcp&headerType=none&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-5"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T05:05:58.331029",
-  "count": 2,
+  "updated": "2026-11-21T15:51:33.885278",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,6 +24,26 @@
     },
     {
       "type": "vless",
+      "address": "94.183.234.245",
+      "port": "443",
+      "id": "5de0c218-0138-45d8-94d2-c2c3f37a1a6d",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.bing.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#vless-xtls-rprx-vision-tcp-reality-qq-LV%F0%9F%87%B1%F0%9F%87%BB-2",
+      "ip": "94.183.234.245",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#vless-xtls-rprx-vision-tcp-reality-qq-LV%F0%9F%87%B1%F0%9F%87%BB-2"
+    },
+    {
+      "type": "vless",
       "address": "latvia.nyanners.ir",
       "port": "666",
       "id": "c3dd06bc-7c9e-4716-beb2-dde88bd31d7f",
@@ -36,11 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "edge",
-      "original": "vless://c3dd06bc-7c9e-4716-beb2-dde88bd31d7f@latvia.nyanners.ir:666?alpn=http%2F1.1&encryption=none&fp=edge&host=latvia.nyanners.ir&path=%2F&security=tls&sni=latvia.nyanners.ir&type=ws#vless-ws-tls-edge-LV%F0%9F%87%B1%F0%9F%87%BB-2",
+      "original": "vless://c3dd06bc-7c9e-4716-beb2-dde88bd31d7f@latvia.nyanners.ir:666?alpn=http%2F1.1&encryption=none&fp=edge&host=latvia.nyanners.ir&path=%2F&security=tls&sni=latvia.nyanners.ir&type=ws#vless-ws-tls-edge-LV%F0%9F%87%B1%F0%9F%87%BB-3",
       "ip": "31.56.204.91",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://c3dd06bc-7c9e-4716-beb2-dde88bd31d7f@latvia.nyanners.ir:666?alpn=http%2F1.1&encryption=none&fp=edge&host=latvia.nyanners.ir&path=%2F&security=tls&sni=latvia.nyanners.ir&type=ws#vless-ws-tls-edge-LV%F0%9F%87%B1%F0%9F%87%BB-2"
+      "rebuilt": "vless://c3dd06bc-7c9e-4716-beb2-dde88bd31d7f@latvia.nyanners.ir:666?alpn=http%2F1.1&encryption=none&fp=edge&host=latvia.nyanners.ir&path=%2F&security=tls&sni=latvia.nyanners.ir&type=ws#vless-ws-tls-edge-LV%F0%9F%87%B1%F0%9F%87%BB-3"
     }
   ]
 }

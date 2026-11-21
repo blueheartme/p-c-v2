@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-19T16:59:18.560118",
+  "updated": "2026-11-21T15:51:33.944253",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "38.180.206.44",
-      "port": "48982",
-      "id": "a80acd3a-3df5-40b5-a54a-29bb18056115",
+      "address": "109.248.170.119",
+      "port": "13447",
+      "id": "b573cefb-7bc7-4a42-b407-b8b534e66773",
       "name": "@filembad",
-      "network": "xhttp",
-      "sni": "cdn3-88.yahoo.com",
+      "network": "tcp",
+      "sni": "yahoo.com",
       "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "safari",
-      "original": "vless://a80acd3a-3df5-40b5-a54a-29bb18056115@38.180.206.44:48982?encryption=none&security=reality&type=xhttp&sni=cdn3-88.yahoo.com&fp=safari&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE#vless-xhttp-reality-safari-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "38.180.206.44",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "109.248.170.119",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://a80acd3a-3df5-40b5-a54a-29bb18056115@38.180.206.44:48982?encryption=none&security=reality&type=xhttp&sni=cdn3-88.yahoo.com&fp=safari&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE#vless-xhttp-reality-safari-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }

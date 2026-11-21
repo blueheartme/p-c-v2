@@ -1,21 +1,26 @@
 {
-  "updated": "2026-11-21T05:05:58.329693",
+  "updated": "2026-11-21T15:51:33.893752",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "3h-kazakhstan1.09vpn.com",
-      "port": "80",
-      "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+      "type": "vless",
+      "address": "109.248.170.119",
+      "port": "13447",
+      "id": "b573cefb-7bc7-4a42-b407-b8b534e66773",
       "name": "@filembad",
-      "network": "ws",
-      "host": "3h-kazakhstan1.09vpn.com",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImJhdGNoIjoiIiwiZWNoQ29uZmlnTGlzdCI6IiIsImVjaFNlcnZlcktleXMiOiIiLCJmYWtlaG9zdF9kb21haW4iOiIiLCJmcCI6IiIsImhvc3QiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImludGVydmFsIjoiIiwibGVuZ3RoIjoiIiwibXV4IjoiIiwibXV4Q29uY3VycmVuY3kiOiIiLCJuZXQiOiJ3cyIsInBhY2tldHMiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy1LWvCfh7Dwn4e/LTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwieGh0dHBfZXh0cmEiOiIifQ==",
-      "ip": "38.107.234.57",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
+      "ip": "109.248.170.119",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImJhdGNoIjoiIiwiZWNoQ29uZmlnTGlzdCI6IiIsImVjaFNlcnZlcktleXMiOiIiLCJmYWtlaG9zdF9kb21haW4iOiIiLCJmcCI6IiIsImhvc3QiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImludGVydmFsIjoiIiwibGVuZ3RoIjoiIiwibXV4IjoiIiwibXV4Q29uY3VycmVuY3kiOiIiLCJuZXQiOiJ3cyIsInBhY2tldHMiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy1LWvCfh7Dwn4e/LTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwieGh0dHBfZXh0cmEiOiIifQ=="
+      "rebuilt": "vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
     }
   ]
 }
