@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-21T05:05:58.407335",
+  "updated": "2026-11-21T21:23:51.406556",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "140.245.62.225",
-      "port": "36442",
-      "id": "5269e0b4-0dff-4f97-e0c7-83130bacb009",
+      "address": "178.94.25.73",
+      "port": "10443",
+      "id": "2dacc738-5720-4824-b8bc-e3db57596ba7",
       "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "xjpp.zjlo.top",
+      "sni": "",
       "host": "",
-      "security": "tls",
-      "flow": "xtls-rprx-vision",
+      "security": "none",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#vless-xtls-rprx-vision-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5",
-      "ip": "140.245.62.225",
+      "original": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-5",
+      "ip": "178.94.25.73",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#vless-xtls-rprx-vision-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5"
+      "rebuilt": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-5"
     }
   ]
 }
