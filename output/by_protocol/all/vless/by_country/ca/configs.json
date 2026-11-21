@@ -1,27 +1,7 @@
 {
-  "updated": "2026-11-20T16:34:42.829315",
-  "count": 2,
+  "updated": "2026-11-21T05:05:58.403924",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "209.200.246.148",
-      "port": "443",
-      "id": "ca52e2b6-fb9f-4dac-b6dc-49da9923f251",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-3",
-      "ip": "209.200.246.148",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-3"
-    },
     {
       "type": "vless",
       "address": "23.155.44.105",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@23.155.44.105:443?security=reality&encryption=none&pbk=HE1CGzI0QBqhMRUsHqq_9v4Mj3M5dkluFmfyMBH_7kM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=app.flyprotect.ca&sid=70f75668dc5914b3#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-9",
+      "original": "vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@23.155.44.105:443?security=reality&encryption=none&pbk=HE1CGzI0QBqhMRUsHqq_9v4Mj3M5dkluFmfyMBH_7kM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=app.flyprotect.ca&sid=70f75668dc5914b3#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-8",
       "ip": "23.155.44.105",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@23.155.44.105:443?security=reality&encryption=none&pbk=HE1CGzI0QBqhMRUsHqq_9v4Mj3M5dkluFmfyMBH_7kM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=app.flyprotect.ca&sid=70f75668dc5914b3#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-9"
+      "rebuilt": "vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@23.155.44.105:443?security=reality&encryption=none&pbk=HE1CGzI0QBqhMRUsHqq_9v4Mj3M5dkluFmfyMBH_7kM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=app.flyprotect.ca&sid=70f75668dc5914b3#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-8"
     }
   ]
 }
