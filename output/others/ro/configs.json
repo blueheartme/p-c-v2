@@ -1,26 +1,18 @@
 {
-  "updated": "2026-11-20T16:34:42.790380",
+  "updated": "2026-11-22T15:50:44.276245",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "cdn4.velmoradigital.store",
-      "port": "2443",
-      "id": "32ea050a-1981-4ed2-b63f-77e0f53c4b65",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "cdn4.velmoradigital.store",
-      "host": "",
-      "security": "tls",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65@cdn4.velmoradigital.store:2443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn4.velmoradigital.store#vless-xtls-rprx-vision-tcp-tls-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-1",
-      "ip": "89.41.182.79",
+      "type": "tg",
+      "address": "matrixxx.wtf",
+      "port": "443",
+      "secret": "ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466",
+      "name": "",
+      "original": "https://t.me/proxy?server=matrixxx.wtf&port=443&secret=ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466",
+      "ip": "65.38.121.139",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65@cdn4.velmoradigital.store:2443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn4.velmoradigital.store#vless-xtls-rprx-vision-tcp-tls-firefox-RO%F0%9F%87%B7%F0%9F%87%B4-1"
+      "rebuilt": "https://t.me/proxy?server=matrixxx.wtf&port=443&secret=ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466"
     }
   ]
 }
