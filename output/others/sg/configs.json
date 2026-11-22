@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-22T15:50:44.258432",
+  "updated": "2026-11-22T21:26:53.939987",
   "count": 6,
   "configs": [
     {
       "type": "ss",
-      "address": "149.88.107.74",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "YFZ 507 @Outline_Vpn",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#YFZ%20507%20%40Outline_Vpn",
-      "ip": "149.88.107.74",
+      "address": "43.160.213.146",
+      "port": "8388",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "ClzJLvRzIxivCXbf5X5jnSU0pLg5ffCEUL2AZoeLg94=",
+      "name": "🇸🇬 SG 2",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0=@43.160.213.146:8388#%f0%9f%87%b8%f0%9f%87%ac%20SG%202",
+      "ip": "43.160.213.146",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#YFZ%20507%20%40Outline_Vpn"
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0=@43.160.213.146:8388#%f0%9f%87%b8%f0%9f%87%ac%20SG%202"
     },
     {
       "type": "ss",
@@ -30,16 +30,29 @@
     },
     {
       "type": "ss",
-      "address": "leviko-sg6512.shopingggg.ir",
+      "address": "168.138.177.98",
+      "port": "56927",
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "c11JMfCMQ3Y4aGlhMX5LrMpM13uvw+UVbjGfHP+eKkY=",
+      "name": "🇸🇬 SG 3",
+      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YzExSk1mQ01RM1k0YUdsaE1YNUxyTXBNMTN1dncrVVZiakdmSFArZUtrWT0=@168.138.177.98:56927#%f0%9f%87%b8%f0%9f%87%ac%20SG%203",
+      "ip": "168.138.177.98",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YzExSk1mQ01RM1k0YUdsaE1YNUxyTXBNMTN1dncrVVZiakdmSFArZUtrWT0=@168.138.177.98:56927#%f0%9f%87%b8%f0%9f%87%ac%20SG%203"
+    },
+    {
+      "type": "ss",
+      "address": "149.88.107.74",
       "port": "19999",
       "method": "aes-256-gcm",
       "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-sg6512.shopingggg.ir:19999#@meliproxyy",
-      "ip": "149.88.106.74",
+      "name": "YFZ 507 @Outline_Vpn",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#YFZ%20507%20%40Outline_Vpn",
+      "ip": "149.88.107.74",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-sg6512.shopingggg.ir:19999#@meliproxyy"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#YFZ%20507%20%40Outline_Vpn"
     },
     {
       "type": "vless",
@@ -55,11 +68,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "original": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-5",
       "ip": "178.94.25.73",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+      "rebuilt": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-5"
     },
     {
       "type": "ss",
@@ -73,19 +86,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999?type=tcp#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "43.160.213.146",
-      "port": "8388",
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "ClzJLvRzIxivCXbf5X5jnSU0pLg5ffCEUL2AZoeLg94=",
-      "name": "@filembad",
-      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0@43.160.213.146:8388#%40filembad",
-      "ip": "43.160.213.146",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0@43.160.213.146:8388#%40filembad"
     }
   ]
 }

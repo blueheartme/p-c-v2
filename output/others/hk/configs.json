@@ -1,27 +1,13 @@
 {
-  "updated": "2026-11-22T15:50:44.265570",
-  "count": 5,
+  "updated": "2026-11-22T21:26:53.965119",
+  "count": 4,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "219.79.214.159",
-      "port": "443",
-      "password": "BxceQaOe",
-      "name": "Hong Kong Netvigator",
-      "sni": "t.me%2Fripaojiedian",
-      "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "219.79.214.159",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
     {
       "type": "vless",
       "address": "189.30.65.203",
       "port": "2083",
       "id": "490dc3b4-8d1d-49fd-840e-bd5277b41557",
-      "name": "YFZ 504 @Outline_Vpn",
+      "name": "YFZ 467 @Outline_Vpn",
       "network": "grpc",
       "sni": "",
       "host": "",
@@ -30,31 +16,22 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#vless-grpc-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#vless-grpc-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "189.30.65.203",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#vless-grpc-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#vless-grpc-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
-      "type": "vless",
-      "address": "leviko-hk4795.shopingggg.ir",
-      "port": "31001",
-      "id": "12a4f736-2238-49ee-831f-5516f15cc951",
+      "type": "hysteria2",
+      "address": "152.32.254.68",
+      "port": "5010",
       "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "mensura.cdn-apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@leviko-hk4795.shopingggg.ir:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "2.26.204.46",
+      "original": "hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#hysteria2-udp-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "152.32.254.68",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@leviko-hk4795.shopingggg.ir:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#hysteria2-udp-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     },
     {
       "type": "vless",
@@ -70,22 +47,24 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-3",
       "ip": "2.26.204.46",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     },
     {
-      "type": "hysteria2",
-      "address": "152.32.254.68",
-      "port": "5010",
-      "name": "@meliproxyy",
-      "original": "hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#hysteria2-udp-HK%F0%9F%87%AD%F0%9F%87%B0-5",
-      "ip": "152.32.254.68",
+      "type": "ss",
+      "address": "43.161.217.165",
+      "port": "8388",
+      "method": "aes-256-gcm",
+      "password": "MySecretPass123",
+      "name": "🇭🇰 HK 66",
+      "original": "ss://YWVzLTI1Ni1nY206TXlTZWNyZXRQYXNzMTIz@43.161.217.165:8388#%f0%9f%87%ad%f0%9f%87%b0%20HK%2066",
+      "ip": "43.161.217.165",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#hysteria2-udp-HK%F0%9F%87%AD%F0%9F%87%B0-5"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206TXlTZWNyZXRQYXNzMTIz@43.161.217.165:8388#%f0%9f%87%ad%f0%9f%87%b0%20HK%2066"
     }
   ]
 }

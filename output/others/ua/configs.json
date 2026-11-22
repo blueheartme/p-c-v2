@@ -1,54 +1,26 @@
 {
-  "updated": "2026-11-22T15:50:44.259324",
-  "count": 4,
+  "updated": "2026-11-22T21:26:53.976856",
+  "count": 1,
   "configs": [
     {
-      "type": "tg",
-      "address": "gapolo64.kelpmoor.xyz",
-      "port": "443",
-      "secret": "eefa048bc9fcc498244c3c7c8b2c2388d562726f777365722e79616e6465782e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=gapolo64.kelpmoor.xyz&port=443&secret=eefa048bc9fcc498244c3c7c8b2c2388d562726f777365722e79616e6465782e7275",
-      "ip": "164.37.219.248",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=gapolo64.kelpmoor.xyz&port=443&secret=eefa048bc9fcc498244c3c7c8b2c2388d562726f777365722e79616e6465782e7275"
-    },
-    {
-      "type": "tg",
-      "address": "delede54.sorrelbay.xyz",
+      "type": "vless",
+      "address": "194.54.80.37",
       "port": "8443",
-      "secret": "eefa048bc9fcc498244c3c7c8b2c2388d5786170692e6f7a6f6e2e7275",
-      "name": "",
-      "original": "https://t.me/proxy?server=delede54.sorrelbay.xyz&port=8443&secret=eefa048bc9fcc498244c3c7c8b2c2388d5786170692e6f7a6f6e2e7275",
-      "ip": "164.37.219.248",
+      "id": "9a597d68-6688-4046-bf24-a5a541e115e0",
+      "name": "Biatoo@ConfingV2RaayNG",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://9a597d68-6688-4046-bf24-a5a541e115e0@194.54.80.37:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#vless-xtls-rprx-vision-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "ip": "194.54.80.37",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=delede54.sorrelbay.xyz&port=8443&secret=eefa048bc9fcc498244c3c7c8b2c2388d5786170692e6f7a6f6e2e7275"
-    },
-    {
-      "type": "tg",
-      "address": "max.fastprx.top",
-      "port": "443",
-      "secret": "eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=max.fastprx.top&port=443&secret=eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d",
-      "ip": "164.37.219.248",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=max.fastprx.top&port=443&secret=eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d"
-    },
-    {
-      "type": "tg",
-      "address": "russia.knox-proxy.world",
-      "port": "4515",
-      "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
-      "ip": "164.37.219.248",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
+      "rebuilt": "vless://9a597d68-6688-4046-bf24-a5a541e115e0@194.54.80.37:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#vless-xtls-rprx-vision-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1"
     }
   ]
 }

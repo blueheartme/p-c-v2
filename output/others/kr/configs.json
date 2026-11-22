@@ -1,26 +1,21 @@
 {
-  "updated": "2026-11-22T15:50:44.282805",
+  "updated": "2026-11-22T21:26:53.969928",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "leviko-kr7255.shopingggg.ir",
-      "port": "25555",
-      "id": "27c5483f-17f4-48ae-9a04-def53d88440d",
-      "name": "@meliproxyy",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://27c5483f-17f4-48ae-9a04-def53d88440d@leviko-kr7255.shopingggg.ir:25555?security=&encryption=none&type=ws#vless-ws-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "152.69.226.63",
+      "type": "vmess",
+      "address": "140.238.2.250",
+      "port": "443",
+      "id": "41a7089a-040b-4538-8b8d-010902405bde",
+      "name": "🇰🇷 KR 2",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMSIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "140.238.2.250",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://27c5483f-17f4-48ae-9a04-def53d88440d@leviko-kr7255.shopingggg.ir:25555?security=&encryption=none&type=ws#vless-ws-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMSIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
     }
   ]
 }
