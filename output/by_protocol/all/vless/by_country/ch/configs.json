@@ -1,13 +1,33 @@
 {
-  "updated": "2026-11-21T21:23:51.414036",
-  "count": 1,
+  "updated": "2026-11-22T04:30:59.173308",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "p2real5.greewebservices.ir",
+      "port": "1350",
+      "id": "bee52362-4183-42c5-b065-d3a3f344d00c",
+      "name": "🔰 @prrofile_purple (تلگرام)",
+      "network": "tcp",
+      "sni": "play.googleapis.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://bee52362-4183-42c5-b065-d3a3f344d00c@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "131.123.34.193",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://bee52362-4183-42c5-b065-d3a3f344d00c@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "vless",
       "address": "179.43.187.67",
       "port": "443",
       "id": "9dd38d60-e683-47c6-bd53-d71bdfee78f3",
-      "name": "YFZ 418 @Outline_Vpn",
+      "name": "@meliproxyy",
       "network": "tcp",
       "sni": "portal.mavexa.ir",
       "host": "",
@@ -15,12 +35,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "fingerprint": "chrome",
+      "original": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?encryption=none&security=tls&sni=portal.mavexa.ir&fp=chrome&type=tcp&headerType=none#vless-tcp-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-7",
       "ip": "179.43.187.67",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?encryption=none&security=tls&sni=portal.mavexa.ir&fp=chrome&type=tcp&headerType=none#vless-tcp-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-7"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
-  "updated": "2026-11-21T21:23:51.314733",
+  "updated": "2026-11-22T04:30:59.123997",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "103.118.211.38",
-      "port": "443",
-      "id": "3dbd9377-43cc-46c3-b32c-2605908024eb",
-      "name": "5|@ConfingV2RaayNG",
-      "network": "xhttp",
-      "sni": "czechia.richforever.ru",
-      "host": "czechia.richforever.ru",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://3dbd9377-43cc-46c3-b32c-2605908024eb@103.118.211.38:443?encryption=none&security=reality&sni=czechia.richforever.ru&fp=firefox&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f&type=xhttp&host=czechia.richforever.ru&path=%2F49b9f446&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%2C%22scMaxBufferedPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%225-10%22%7D#vless-xhttp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "103.118.211.38",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "vless://3dbd9377-43cc-46c3-b32c-2605908024eb@103.118.211.38:443?encryption=none&security=reality&sni=czechia.richforever.ru&fp=firefox&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f&type=xhttp&host=czechia.richforever.ru&path=%2F49b9f446&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%2C%22scMaxBufferedPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%225-10%22%7D#vless-xhttp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
-    },
     {
       "type": "vless",
       "address": "czechia.richforever.ru",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://3dbd9377-43cc-46c3-b32c-2605908024eb@czechia.richforever.ru:443?encryption=none&security=reality&sni=czechia.richforever.ru&fp=firefox&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f&type=xhttp&path=%2F49b9f446&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%2C%22scMaxBufferedPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%225-10%22%7D#vless-xhttp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "original": "vless://3dbd9377-43cc-46c3-b32c-2605908024eb@czechia.richforever.ru:443?encryption=none&security=reality&sni=czechia.richforever.ru&fp=firefox&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f&type=xhttp&path=%2F49b9f446&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%2C%22scMaxBufferedPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%225-10%22%7D#vless-xhttp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
       "ip": "103.118.211.38",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://3dbd9377-43cc-46c3-b32c-2605908024eb@czechia.richforever.ru:443?encryption=none&security=reality&sni=czechia.richforever.ru&fp=firefox&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f&type=xhttp&path=%2F49b9f446&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%2C%22scMaxBufferedPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%225-10%22%7D#vless-xhttp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
+      "rebuilt": "vless://3dbd9377-43cc-46c3-b32c-2605908024eb@czechia.richforever.ru:443?encryption=none&security=reality&sni=czechia.richforever.ru&fp=firefox&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f&type=xhttp&path=%2F49b9f446&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%2C%22scMaxBufferedPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%225-10%22%7D#vless-xhttp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+    },
+    {
+      "type": "vless",
+      "address": "103.118.211.38",
+      "port": "443",
+      "id": "3dbd9377-43cc-46c3-b32c-2605908024eb",
+      "name": "5|@ConfingV2RaayNG",
+      "network": "xhttp",
+      "sni": "czechia.richforever.ru",
+      "host": "czechia.richforever.ru",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://3dbd9377-43cc-46c3-b32c-2605908024eb@103.118.211.38:443?encryption=none&security=reality&sni=czechia.richforever.ru&fp=firefox&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f&type=xhttp&host=czechia.richforever.ru&path=%2F49b9f446&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%2C%22scMaxBufferedPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%225-10%22%7D#vless-xhttp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-2",
+      "ip": "103.118.211.38",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://3dbd9377-43cc-46c3-b32c-2605908024eb@103.118.211.38:443?encryption=none&security=reality&sni=czechia.richforever.ru&fp=firefox&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f&type=xhttp&host=czechia.richforever.ru&path=%2F49b9f446&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%2C%22scMaxBufferedPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%225-10%22%7D#vless-xhttp-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-2"
     }
   ]
 }

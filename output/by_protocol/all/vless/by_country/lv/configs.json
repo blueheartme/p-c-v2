@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-21T21:23:51.410942",
-  "count": 3,
+  "updated": "2026-11-22T04:30:59.167828",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
-      "address": "94.183.234.245",
-      "port": "443",
-      "id": "5de0c218-0138-45d8-94d2-c2c3f37a1a6d",
-      "name": "@meliproxyy",
+      "address": "195.123.209.159",
+      "port": "8443",
+      "id": "9a597d68-6688-4046-bf24-a5a541e115e0",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "www.bing.com",
+      "sni": "www.apple.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "qq",
-      "original": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#vless-xtls-rprx-vision-tcp-reality-qq-LV%F0%9F%87%B1%F0%9F%87%BB-1",
-      "ip": "94.183.234.245",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://9a597d68-6688-4046-bf24-a5a541e115e0@195.123.209.159:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%87%B1%F0%9F%87%BB-1",
+      "ip": "195.123.209.159",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#vless-xtls-rprx-vision-tcp-reality-qq-LV%F0%9F%87%B1%F0%9F%87%BB-1"
+      "rebuilt": "vless://9a597d68-6688-4046-bf24-a5a541e115e0@195.123.209.159:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%87%B1%F0%9F%87%BB-1"
     },
     {
       "type": "vless",
@@ -61,6 +61,26 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?security=reality&encryption=none&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&headerType=none&fp=chrome&type=tcp&sni=m.vk.com&sid=67ece882d65d0f1a#vless-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-3"
+    },
+    {
+      "type": "vless",
+      "address": "94.183.234.245",
+      "port": "443",
+      "id": "5de0c218-0138-45d8-94d2-c2c3f37a1a6d",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "www.bing.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#vless-xtls-rprx-vision-tcp-reality-qq-LV%F0%9F%87%B1%F0%9F%87%BB-5",
+      "ip": "94.183.234.245",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#vless-xtls-rprx-vision-tcp-reality-qq-LV%F0%9F%87%B1%F0%9F%87%BB-5"
     }
   ]
 }
