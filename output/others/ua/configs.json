@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T05:06:35.159634",
-  "count": 1,
+  "updated": "2026-11-23T19:43:39.167585",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,30 @@
       "country": "UA",
       "cdn": null,
       "rebuilt": "vless://9a597d68-6688-4046-bf24-a5a541e115e0@194.54.80.37:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#vless-xtls-rprx-vision-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+    },
+    {
+      "type": "tg",
+      "address": "bamboo.velvetwindow.cc",
+      "port": "443",
+      "secret": "eed09fb30e9ba945e3eb272875413c8c9462616d626f6f2e76656c76657477696e646f772e6363",
+      "name": "",
+      "original": "https://t.me/proxy?server=bamboo.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9462616d626f6f2e76656c76657477696e646f772e6363&@MPT_Proxy",
+      "ip": "164.37.219.38",
+      "country": "UA",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=bamboo.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9462616d626f6f2e76656c76657477696e646f772e6363&@MPT_Proxy"
+    },
+    {
+      "type": "tg",
+      "address": "grovewillow.velvetwindow.cc",
+      "port": "443",
+      "secret": "eed09fb30e9ba945e3eb272875413c8c9467726f766577696c6c6f772e76656c76657477696e646f772e6363",
+      "name": "",
+      "original": "https://t.me/proxy?server=grovewillow.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9467726f766577696c6c6f772e76656c76657477696e646f772e6363&@MPT_Proxy",
+      "ip": "164.37.219.38",
+      "country": "UA",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=grovewillow.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9467726f766577696c6c6f772e76656c76657477696e646f772e6363&@MPT_Proxy"
     }
   ]
 }
