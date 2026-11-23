@@ -1,18 +1,30 @@
 {
-  "updated": "2026-11-22T21:26:54.046978",
-  "count": 3,
+  "updated": "2026-11-23T05:06:35.235846",
+  "count": 4,
   "configs": [
     {
       "type": "tg",
-      "address": "ir-ir.engematica.info",
-      "port": "8443",
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
+      "address": "w1.hiesen-proxy.ru",
+      "port": "443",
+      "secret": "ee19f35317df4dff3cab0202fa96ee51de676f6f676c652e636f6d",
       "name": "",
-      "original": "https://t.me/proxy?server=ir-ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-      "ip": "208.87.242.223",
+      "original": "https://t.me/proxy?server=w1.hiesen-proxy.ru&port=443&secret=ee19f35317df4dff3cab0202fa96ee51de676f6f676c652e636f6d",
+      "ip": "82.148.229.195",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=ir-ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+      "rebuilt": "https://t.me/proxy?server=w1.hiesen-proxy.ru&port=443&secret=ee19f35317df4dff3cab0202fa96ee51de676f6f676c652e636f6d"
+    },
+    {
+      "type": "tg",
+      "address": "172.65.39.222",
+      "port": "131515",
+      "secret": "ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=172.65.39.222&port=131515&secret=ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d",
+      "ip": "172.65.39.222",
+      "country": "US",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=172.65.39.222&port=131515&secret=ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d"
     },
     {
       "type": "tg",
@@ -28,15 +40,15 @@
     },
     {
       "type": "tg",
-      "address": "172.65.39.222",
-      "port": "131515",
-      "secret": "ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d",
+      "address": "ir-ir.engematica.info",
+      "port": "8443",
+      "secret": "EERighJJvXrFGRMCIMjdCQ",
       "name": "",
-      "original": "https://t.me/proxy?server=172.65.39.222&port=131515&secret=ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d",
-      "ip": "172.65.39.222",
+      "original": "https://t.me/proxy?server=ir-ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "ip": "208.87.242.223",
       "country": "US",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=172.65.39.222&port=131515&secret=ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d"
+      "rebuilt": "https://t.me/proxy?server=ir-ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
     }
   ]
 }

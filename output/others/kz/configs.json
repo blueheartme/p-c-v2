@@ -1,26 +1,21 @@
 {
-  "updated": "2026-11-21T15:51:33.893752",
+  "updated": "2026-11-23T05:06:35.158812",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "109.248.170.119",
-      "port": "13447",
-      "id": "b573cefb-7bc7-4a42-b407-b8b534e66773",
+      "type": "vmess",
+      "address": "3h-kazakhstan1.09vpn.com",
+      "port": "80",
+      "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "yahoo.com",
+      "network": "ws",
       "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1",
-      "ip": "109.248.170.119",
+      "sni": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
+      "original": "vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImVjaCI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiaW5zZWN1cmUiOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHF2IjoiIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1LWvCfh7Dwn4e/LTEiLCJzY3kiOiJhdXRvIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "ip": "38.107.234.57",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#vless-tcp-reality-chrome-KZ%F0%9F%87%B0%F0%9F%87%BF-1"
+      "rebuilt": "vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImVjaCI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiaW5zZWN1cmUiOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHF2IjoiIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1LWvCfh7Dwn4e/LTEiLCJzY3kiOiJhdXRvIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9"
     }
   ]
 }

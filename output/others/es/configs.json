@@ -1,19 +1,47 @@
 {
-  "updated": "2026-11-22T21:26:53.966883",
-  "count": 7,
+  "updated": "2026-11-23T05:06:35.133014",
+  "count": 6,
   "configs": [
     {
       "type": "ss",
       "address": "5.188.181.201",
-      "port": "9025",
+      "port": "9027",
       "method": "aes-256-cfb",
-      "password": "XPtzA9sCug3SPR4c",
-      "name": "🇪🇸 ES 5",
-      "original": "ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%f0%9f%87%aa%f0%9f%87%b8%20ES%205",
+      "password": "EXN3S3eQpjE7EJu8",
+      "name": "🇪🇸 ES 3",
+      "original": "ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#%f0%9f%87%aa%f0%9f%87%b8%20ES%203",
       "ip": "5.188.181.201",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%f0%9f%87%aa%f0%9f%87%b8%20ES%205"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#%f0%9f%87%aa%f0%9f%87%b8%20ES%203"
+    },
+    {
+      "type": "trojan",
+      "address": "66.163.118.251",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "Channel@ConfingV2RaayNG",
+      "sni": "resources.discovergreatjobsandadvanceyourcareer.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2",
+      "ip": "66.163.118.251",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
+    {
+      "type": "trojan",
+      "address": "66.163.118.166",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "2|@ConfingV2RaayNG",
+      "sni": "learn.discovergreatjobsandadvanceyourcareer.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "ip": "66.163.118.166",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#trojan-tcp-tls-ES%F0%9F%87%AA%F0%9F%87%B8-3"
     },
     {
       "type": "ss",
@@ -31,41 +59,15 @@
     {
       "type": "ss",
       "address": "5.188.181.201",
-      "port": "9001",
+      "port": "9020",
       "method": "aes-256-cfb",
-      "password": "UkXRsXvR6buDMG2Y",
-      "name": "🇪🇸 ES 7",
-      "original": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#%f0%9f%87%aa%f0%9f%87%b8%20ES%207",
+      "password": "BNmAXXxAHYpTRdzu",
+      "name": "🇪🇸 ES 1",
+      "original": "ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@5.188.181.201:9020#%f0%9f%87%aa%f0%9f%87%b8%20ES%201",
       "ip": "5.188.181.201",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#%f0%9f%87%aa%f0%9f%87%b8%20ES%207"
-    },
-    {
-      "type": "ss",
-      "address": "5.188.181.201",
-      "port": "9027",
-      "method": "aes-256-cfb",
-      "password": "EXN3S3eQpjE7EJu8",
-      "name": "🇪🇸 ES 3",
-      "original": "ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#%f0%9f%87%aa%f0%9f%87%b8%20ES%203",
-      "ip": "5.188.181.201",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#%f0%9f%87%aa%f0%9f%87%b8%20ES%203"
-    },
-    {
-      "type": "ss",
-      "address": "5.188.181.201",
-      "port": "9014",
-      "method": "aes-256-cfb",
-      "password": "KnJGad3FqTvjqbaX",
-      "name": "🇪🇸 ES 6",
-      "original": "ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#%f0%9f%87%aa%f0%9f%87%b8%20ES%206",
-      "ip": "5.188.181.201",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#%f0%9f%87%aa%f0%9f%87%b8%20ES%206"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@5.188.181.201:9020#%f0%9f%87%aa%f0%9f%87%b8%20ES%201"
     },
     {
       "type": "ss",
@@ -79,19 +81,6 @@
       "country": "ES",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#%f0%9f%87%aa%f0%9f%87%b8%20ES%204"
-    },
-    {
-      "type": "ss",
-      "address": "5.188.181.201",
-      "port": "9020",
-      "method": "aes-256-cfb",
-      "password": "BNmAXXxAHYpTRdzu",
-      "name": "🇪🇸 ES 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@5.188.181.201:9020#%f0%9f%87%aa%f0%9f%87%b8%20ES%201",
-      "ip": "5.188.181.201",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@5.188.181.201:9020#%f0%9f%87%aa%f0%9f%87%b8%20ES%201"
     }
   ]
 }
