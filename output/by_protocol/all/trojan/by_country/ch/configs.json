@@ -1,20 +1,34 @@
 {
-  "updated": "2026-11-22T15:50:44.298738",
-  "count": 1,
+  "updated": "2026-11-24T07:53:24.860883",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
-      "address": "leviko-ch0171.shopingggg.ir",
+      "address": "208.69.78.33",
       "port": "443",
       "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "@meliproxyy",
-      "sni": "www.yourultimateprofessionalcareerhub.com",
+      "name": "🇨🇭 CH 5",
+      "sni": "courses.yourultimateprofessionalcareerhub.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-ch0171.shopingggg.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-8",
-      "ip": "208.69.78.19",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-6",
+      "ip": "208.69.78.33",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-ch0171.shopingggg.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-8"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-6"
+    },
+    {
+      "type": "trojan",
+      "address": "208.69.78.60",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "🇨🇭 CH 4",
+      "sni": "cdn.yourultimateprofessionalcareerhub.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?security=tls&sni=cdn.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-7",
+      "ip": "208.69.78.60",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?security=tls&sni=cdn.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none&path=%2f#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-7"
     }
   ]
 }

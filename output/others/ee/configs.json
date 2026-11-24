@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T19:43:39.166567",
-  "count": 5,
+  "updated": "2026-11-24T07:53:24.511915",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -44,26 +44,6 @@
     },
     {
       "type": "vless",
-      "address": "185.155.55.2",
-      "port": "8443",
-      "id": "5c09e56b-f97f-4360-8f01-eb4d39202095",
-      "name": "🔰 @prrofile_purple (تلگرام)",
-      "network": "tcp",
-      "sni": "ee-nf.reddotcorp.org",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.2:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-3",
-      "ip": "185.155.55.2",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.2:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-3"
-    },
-    {
-      "type": "vless",
       "address": "185.215.184.85",
       "port": "443",
       "id": "90157e25-cee1-4217-921e-91f300bc1a24",
@@ -76,23 +56,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://90157e25-cee1-4217-921e-91f300bc1a24@185.215.184.85:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dvizhok.su&sid=428ef87fd47a3a32#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-4",
+      "original": "vless://90157e25-cee1-4217-921e-91f300bc1a24@185.215.184.85:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dvizhok.su&sid=428ef87fd47a3a32#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-3",
       "ip": "185.215.184.85",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://90157e25-cee1-4217-921e-91f300bc1a24@185.215.184.85:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dvizhok.su&sid=428ef87fd47a3a32#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-4"
+      "rebuilt": "vless://90157e25-cee1-4217-921e-91f300bc1a24@185.215.184.85:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dvizhok.su&sid=428ef87fd47a3a32#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-3"
     },
     {
-      "type": "tg",
-      "address": "media.maxim-api.com",
-      "port": "18443",
-      "secret": "ee888d29ec050419c2d69ddc04a4bf12d86d656469612e6d6178696d2d6170692e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=media.maxim-api.com&port=18443&secret=ee888d29ec050419c2d69ddc04a4bf12d86d656469612e6d6178696d2d6170692e636f6d",
-      "ip": "31.56.187.181",
+      "type": "vless",
+      "address": "185.155.55.2",
+      "port": "8443",
+      "id": "5c09e56b-f97f-4360-8f01-eb4d39202095",
+      "name": "🔰 @prrofile_purple (تلگرام)",
+      "network": "tcp",
+      "sni": "ee-nf.reddotcorp.org",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.2:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-4",
+      "ip": "185.155.55.2",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=media.maxim-api.com&port=18443&secret=ee888d29ec050419c2d69ddc04a4bf12d86d656469612e6d6178696d2d6170692e636f6d"
+      "rebuilt": "vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.2:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-4"
     }
   ]
 }
