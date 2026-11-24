@@ -1,21 +1,72 @@
 {
-  "updated": "2026-11-23T19:43:39.174464",
-  "count": 1,
+  "updated": "2026-11-24T19:16:11.164302",
+  "count": 5,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "132.145.80.230",
+      "port": "80",
+      "id": "5155860e-d07d-46c3-9128-3afbd84626c7",
+      "name": "🇰🇷 KR 11",
+      "network": "ws",
+      "host": "kr02.a0a.xyz",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLUtS8J+HsPCfh7ctMSIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6ODAsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "132.145.80.230",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXdzLUtS8J+HsPCfh7ctMSIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6ODAsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
+    {
+      "type": "tg",
+      "address": "razo11.kelpmoor.xyz",
+      "port": "8443",
+      "secret": "eeebf9726b89cc8ca940357d833f491a04706574726f766963682e7275",
+      "name": "",
+      "original": "https://t.me/proxy?server=razo11.kelpmoor.xyz&port=8443&secret=eeebf9726b89cc8ca940357d833f491a04706574726f766963682e7275",
+      "ip": "201.4.77.91",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=razo11.kelpmoor.xyz&port=8443&secret=eeebf9726b89cc8ca940357d833f491a04706574726f766963682e7275"
+    },
+    {
+      "type": "tg",
+      "address": "olivesail.paperteapot.com",
+      "port": "443",
+      "secret": "eed09fb30e9ba945e3eb272875413c8c946f6c6976657361696c2e7061706572746561706f742e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=olivesail.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946f6c6976657361696c2e7061706572746561706f742e636f6d",
+      "ip": "201.4.77.180",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=olivesail.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946f6c6976657361696c2e7061706572746561706f742e636f6d"
+    },
     {
       "type": "vmess",
       "address": "140.238.2.250",
       "port": "443",
       "id": "41a7089a-040b-4538-8b8d-010902405bde",
-      "name": "🇰🇷 KR 2",
+      "name": "🇰🇷 KR 8",
       "network": "tcp",
       "host": null,
       "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMSIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctNCIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
       "ip": "140.238.2.250",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMSIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctNCIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+    },
+    {
+      "type": "tg",
+      "address": "tg.prxtg.top",
+      "port": "443",
+      "secret": "ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d",
+      "name": "",
+      "original": "https://t.me/proxy?server=tg.prxtg.top&port=443&secret=ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d",
+      "ip": "201.4.77.91",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "https://t.me/proxy?server=tg.prxtg.top&port=443&secret=ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d"
     }
   ]
 }

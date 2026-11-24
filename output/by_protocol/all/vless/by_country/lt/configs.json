@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-24T07:53:24.798097",
-  "count": 1,
+  "updated": "2026-11-24T19:16:11.204778",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "84.32.209.118",
+      "port": "443",
+      "id": "a30903dc-1bf0-4be5-8b1b-603a3a56211c",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "api-dns-gw.galioncc.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7d309e4c16b825f&sni=api-dns-gw.galioncc.com&type=tcp#vless-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-3",
+      "ip": "84.32.209.118",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7d309e4c16b825f&sni=api-dns-gw.galioncc.com&type=tcp#vless-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-3"
+    },
     {
       "type": "vless",
       "address": "84.32.51.135",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.51.135:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=svc-io-mgr.galioncc.com&sid=a7d309e4c16b825f#vless-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-3",
+      "original": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.51.135:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=svc-io-mgr.galioncc.com&sid=a7d309e4c16b825f#vless-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-6",
       "ip": "84.32.51.135",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.51.135:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=svc-io-mgr.galioncc.com&sid=a7d309e4c16b825f#vless-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-3"
+      "rebuilt": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.51.135:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=svc-io-mgr.galioncc.com&sid=a7d309e4c16b825f#vless-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-6"
     }
   ]
 }

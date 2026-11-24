@@ -1,41 +1,21 @@
 {
-  "updated": "2026-11-24T07:53:24.586095",
-  "count": 2,
+  "updated": "2026-11-24T19:16:11.179328",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "185.133.35.86",
-      "port": "443",
-      "id": "d795a9ec-5ed0-4309-ba6c-edc09b818669",
-      "name": "@meliproxyy",
-      "network": "xhttp",
-      "sni": "mamafrance.baklajann.ru",
-      "host": "mamafrance.baklajann.ru",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://d795a9ec-5ed0-4309-ba6c-edc09b818669@185.133.35.86:443?encryption=none&security=tls&sni=mamafrance.baklajann.ru&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%220-5%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&type=xhttp&host=mamafrance.baklajann.ru&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2F%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A4%2C%22maxConcurrency%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D#vless-xhttp-tls-chrome-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "185.133.35.86",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "vless://d795a9ec-5ed0-4309-ba6c-edc09b818669@185.133.35.86:443?encryption=none&security=tls&sni=mamafrance.baklajann.ru&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%220-5%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&type=xhttp&host=mamafrance.baklajann.ru&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2F%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A4%2C%22maxConcurrency%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D#vless-xhttp-tls-chrome-BR%F0%9F%87%A7%F0%9F%87%B7-1"
-    },
     {
       "type": "vmess",
       "address": "103.88.232.55",
       "port": "1270",
       "id": "5c040f1d-45db-43bd-8d46-e4950e433735",
-      "name": "🇧🇷 BR 1",
+      "name": "@meliproxy",
       "network": "tcp",
-      "host": null,
+      "host": "",
       "sni": "xmfhlpy.com",
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1CUvCfh6fwn4e3LTIiLCJhZGQiOiIxMDMuODguMjMyLjU1IiwicG9ydCI6MTI3MCwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoieG1maGxweS5jb20iLCJmcCI6bnVsbH0=",
+      "original": "vmess://eyJhZGQiOiIxMDMuODguMjMyLjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLUJS8J+Hp/Cfh7ctMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
       "ip": "103.88.232.55",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLXRscy1CUvCfh6fwn4e3LTIiLCJhZGQiOiIxMDMuODguMjMyLjU1IiwicG9ydCI6MTI3MCwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoieG1maGxweS5jb20iLCJmcCI6bnVsbH0="
+      "rebuilt": "vmess://eyJhZGQiOiIxMDMuODguMjMyLjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLUJS8J+Hp/Cfh7ctMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }
