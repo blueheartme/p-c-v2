@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-25T06:27:12.049096",
+  "updated": "2026-11-25T18:20:32.832266",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "178.94.25.73",
-      "port": "10443",
-      "id": "2dacc738-5720-4824-b8bc-e3db57596ba7",
-      "name": "YFZ 508 @Outline_Vpn",
+      "address": "43.163.112.174",
+      "port": "443",
+      "id": "0dedd47d-47b9-4ed1-9c9f-cbeecad57a68",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "",
+      "sni": "www.cloudflare.com",
       "host": "",
-      "security": "none",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "178.94.25.73",
+      "fingerprint": "chrome",
+      "original": "vless://0dedd47d-47b9-4ed1-9c9f-cbeecad57a68@43.163.112.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=mXQudYHNu0pebcdk1_qn-UgcmwhjaV7y9UrYu3HX7Rg&sid=0123456789abcdef&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "43.163.112.174",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "vless://0dedd47d-47b9-4ed1-9c9f-cbeecad57a68@43.163.112.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=mXQudYHNu0pebcdk1_qn-UgcmwhjaV7y9UrYu3HX7Rg&sid=0123456789abcdef&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }

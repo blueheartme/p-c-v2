@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-25T06:27:12.092719",
-  "count": 4,
+  "updated": "2026-11-25T18:20:32.849695",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "35.178.82.244",
+      "port": "443",
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "Cg2Dw4OhdBZhqbeO9ZTA3g/Gk/AvsrYZGhAJeGnQIx4=",
+      "name": "@meliproxyy",
+      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0%3D@35.178.82.244:443#@meliproxyy",
+      "ip": "35.178.82.244",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0%3D@35.178.82.244:443#@meliproxyy"
+    },
     {
       "type": "ss",
       "address": "141.98.101.178",
@@ -14,45 +27,6 @@
       "country": "GB",
       "cdn": null,
       "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443?#9|@ConfingV2RaayNG"
-    },
-    {
-      "type": "ss",
-      "address": "38.114.120.221",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.114.120.221:19999#@meliproxyy",
-      "ip": "38.114.120.221",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.114.120.221:19999#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "141.98.101.178",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#@meliproxyy",
-      "ip": "141.98.101.178",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "35.178.82.244",
-      "port": "443",
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "Cg2Dw4OhdBZhqbeO9ZTA3g/Gk/AvsrYZGhAJeGnQIx4=",
-      "name": "@filembad",
-      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@35.178.82.244:443#%40filembad",
-      "ip": "35.178.82.244",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@35.178.82.244:443#%40filembad"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-25T06:27:12.050401",
+  "updated": "2026-11-25T18:20:32.831064",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "2.26.204.46",
+      "port": "31001",
+      "id": "12a4f736-2238-49ee-831f-5516f15cc951",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "mensura.cdn-apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?encryption=none&security=reality&sid=39793bc4708abbbb&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&fp=chrome&sni=mensura.cdn-apple.com&flow=xtls-rprx-vision&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "2.26.204.46",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?encryption=none&security=reality&sid=39793bc4708abbbb&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&fp=chrome&sni=mensura.cdn-apple.com&flow=xtls-rprx-vision&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
     {
       "type": "vless",
       "address": "45.192.193.54",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&encryption=none&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.iij.ad.jp#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "original": "vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&encryption=none&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.iij.ad.jp#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-5",
       "ip": "45.192.193.54",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&encryption=none&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.iij.ad.jp#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-4"
-    },
-    {
-      "type": "vless",
-      "address": "2.26.204.46",
-      "port": "31001",
-      "id": "12a4f736-2238-49ee-831f-5516f15cc951",
-      "name": "YFZ 469 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "mensura.cdn-apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-5",
-      "ip": "2.26.204.46",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-5"
+      "rebuilt": "vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&encryption=none&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.iij.ad.jp#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-5"
     }
   ]
 }
