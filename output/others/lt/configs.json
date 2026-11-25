@@ -1,33 +1,7 @@
 {
-  "updated": "2026-11-24T19:16:11.165857",
-  "count": 6,
+  "updated": "2026-11-25T06:27:11.985734",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9068",
-      "method": "aes-256-cfb",
-      "password": "mwgRg9hRq3b4Qnwb",
-      "name": "🇱🇹 LT 4",
-      "original": "ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%f0%9f%87%b1%f0%9f%87%b9%20LT%204",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%f0%9f%87%b1%f0%9f%87%b9%20LT%204"
-    },
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9001",
-      "method": "aes-256-cfb",
-      "password": "UkXRsXvR6buDMG2Y",
-      "name": "🇱🇹 LT 3",
-      "original": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@195.238.126.20:9001#%f0%9f%87%b1%f0%9f%87%b9%20LT%203",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@195.238.126.20:9001#%f0%9f%87%b1%f0%9f%87%b9%20LT%203"
-    },
     {
       "type": "vless",
       "address": "84.32.209.118",
@@ -40,59 +14,13 @@
       "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7d309e4c16b825f&sni=api-dns-gw.galioncc.com&type=tcp#vless-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-3",
+      "original": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&type=tcp&sni=api-dns-gw.galioncc.com&sid=a7d309e4c16b825f#vless-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1",
       "ip": "84.32.209.118",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7d309e4c16b825f&sni=api-dns-gw.galioncc.com&type=tcp#vless-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-3"
-    },
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9078",
-      "method": "aes-256-cfb",
-      "password": "JCJpbRbQZNw9XFZG",
-      "name": "🇱🇹 LT 2",
-      "original": "ss://YWVzLTI1Ni1jZmI6SkNKcGJSYlFaTnc5WEZaRw==@195.238.126.20:9078#%f0%9f%87%b1%f0%9f%87%b9%20LT%202",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6SkNKcGJSYlFaTnc5WEZaRw==@195.238.126.20:9078#%f0%9f%87%b1%f0%9f%87%b9%20LT%202"
-    },
-    {
-      "type": "ss",
-      "address": "195.238.126.20",
-      "port": "9045",
-      "method": "aes-256-cfb",
-      "password": "Lp27rqyJq72bZsqX",
-      "name": "🇱🇹 LT 1",
-      "original": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%201",
-      "ip": "195.238.126.20",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%f0%9f%87%b1%f0%9f%87%b9%20LT%201"
-    },
-    {
-      "type": "vless",
-      "address": "84.32.51.135",
-      "port": "443",
-      "id": "a30903dc-1bf0-4be5-8b1b-603a3a56211c",
-      "name": "YFZ 447 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "svc-io-mgr.galioncc.com",
-      "host": "/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.51.135:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=svc-io-mgr.galioncc.com&sid=a7d309e4c16b825f#vless-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-6",
-      "ip": "84.32.51.135",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.51.135:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=svc-io-mgr.galioncc.com&sid=a7d309e4c16b825f#vless-tcp-reality-firefox-LT%F0%9F%87%B1%F0%9F%87%B9-6"
+      "rebuilt": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&type=tcp&sni=api-dns-gw.galioncc.com&sid=a7d309e4c16b825f#vless-tcp-reality-LT%F0%9F%87%B1%F0%9F%87%B9-1"
     }
   ]
 }

@@ -1,79 +1,7 @@
 {
-  "updated": "2026-11-24T19:16:11.165069",
-  "count": 6,
+  "updated": "2026-11-25T06:27:11.986606",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "185.135.86.175",
-      "port": "9033",
-      "method": "aes-256-cfb",
-      "password": "UTJA57ypk2XKQpnm",
-      "name": "🇱🇻 LV 2",
-      "original": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@185.135.86.175:9033#%f0%9f%87%b1%f0%9f%87%bb%20LV%202",
-      "ip": "185.135.86.175",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@185.135.86.175:9033#%f0%9f%87%b1%f0%9f%87%bb%20LV%202"
-    },
-    {
-      "type": "ss",
-      "address": "185.135.86.175",
-      "port": "9082",
-      "method": "aes-256-cfb",
-      "password": "45xgMgm386pjWjTx",
-      "name": "🇱🇻 LV 6",
-      "original": "ss://YWVzLTI1Ni1jZmI6NDV4Z01nbTM4NnBqV2pUeA==@185.135.86.175:9082#%f0%9f%87%b1%f0%9f%87%bb%20LV%206",
-      "ip": "185.135.86.175",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6NDV4Z01nbTM4NnBqV2pUeA==@185.135.86.175:9082#%f0%9f%87%b1%f0%9f%87%bb%20LV%206"
-    },
-    {
-      "type": "ss",
-      "address": "185.135.86.175",
-      "port": "9094",
-      "method": "aes-256-cfb",
-      "password": "rpgbNnU9rDDU4aWZ",
-      "name": "🇱🇻 LV 7",
-      "original": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094#%f0%9f%87%b1%f0%9f%87%bb%20LV%207",
-      "ip": "185.135.86.175",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094#%f0%9f%87%b1%f0%9f%87%bb%20LV%207"
-    },
-    {
-      "type": "vless",
-      "address": "lt.3apes.pro",
-      "port": "443",
-      "id": "13908eee-ea78-4363-adab-6cca98ecfce3",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "lt.3apes.pro",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://13908eee-ea78-4363-adab-6cca98ecfce3@lt.3apes.pro:443?security=reality&encryption=none&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.3apes.pro#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-4",
-      "ip": "185.81.129.162",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://13908eee-ea78-4363-adab-6cca98ecfce3@lt.3apes.pro:443?security=reality&encryption=none&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.3apes.pro#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-4"
-    },
-    {
-      "type": "ss",
-      "address": "185.135.86.175",
-      "port": "9036",
-      "method": "aes-256-cfb",
-      "password": "hbtvgUz5uNYyB3Rf",
-      "name": "🇱🇻 LV 5",
-      "original": "ss://YWVzLTI1Ni1jZmI6aGJ0dmdVejV1Tll5QjNSZg==@185.135.86.175:9036#%f0%9f%87%b1%f0%9f%87%bb%20LV%205",
-      "ip": "185.135.86.175",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6aGJ0dmdVejV1Tll5QjNSZg==@185.135.86.175:9036#%f0%9f%87%b1%f0%9f%87%bb%20LV%205"
-    },
     {
       "type": "vless",
       "address": "195.135.252.28",
@@ -88,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-6",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-6"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%87%B1%F0%9F%87%BB-1"
     }
   ]
 }
