@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T06:19:05.958843",
-  "count": 2,
+  "updated": "2026-11-26T18:01:40.282375",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,23 +24,43 @@
     },
     {
       "type": "vless",
-      "address": "45.38.60.210",
-      "port": "17709",
-      "id": "e213d2ad-6929-4a58-ac79-e9f4b100076d",
-      "name": "Channel: @proxy_kafee",
+      "address": "116.213.43.43",
+      "port": "11106",
+      "id": "2e7bd251-52be-4ffa-b79e-108e1fe07185",
+      "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "shop.business.amazon.com",
+      "sni": "www.apple.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://e213d2ad-6929-4a58-ac79-e9f4b100076d@45.38.60.210:17709?encryption=none&security=reality&sni=shop.business.amazon.com&fp=chrome&pbk=sbnOa_g2V2cQupGOfjAwgn8y-n8bC70EH-Hz4KhVn2M&sid=aef9&spx=%2F697fa57493257c4&type=tcp&headerType=none#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-5",
-      "ip": "45.38.60.210",
+      "original": "vless://2e7bd251-52be-4ffa-b79e-108e1fe07185@116.213.43.43:11106?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=-13uTSuqk44pCU0x6yvldaskzyRIlO2ihmDvM0FsBns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=da12e31124830d42#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "116.213.43.43",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://e213d2ad-6929-4a58-ac79-e9f4b100076d@45.38.60.210:17709?encryption=none&security=reality&sni=shop.business.amazon.com&fp=chrome&pbk=sbnOa_g2V2cQupGOfjAwgn8y-n8bC70EH-Hz4KhVn2M&sid=aef9&spx=%2F697fa57493257c4&type=tcp&headerType=none#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-5"
+      "rebuilt": "vless://2e7bd251-52be-4ffa-b79e-108e1fe07185@116.213.43.43:11106?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=-13uTSuqk44pCU0x6yvldaskzyRIlO2ihmDvM0FsBns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=da12e31124830d42#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
+      "type": "vless",
+      "address": "leviko-hk5202.shopingggg.ir",
+      "port": "31001",
+      "id": "12a4f736-2238-49ee-831f-5516f15cc951",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "mensura.cdn-apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@leviko-hk5202.shopingggg.ir:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6",
+      "ip": "2.26.204.46",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@leviko-hk5202.shopingggg.ir:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6"
     }
   ]
 }

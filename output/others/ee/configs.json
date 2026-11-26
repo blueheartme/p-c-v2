@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-26T06:19:05.922280",
-  "count": 2,
+  "updated": "2026-11-26T18:01:40.235707",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "165.231.157.126",
+      "address": "one.alpheratzz.org",
       "port": "8443",
       "id": "0173d52e-8e1b-4681-831e-11529677b72f",
-      "name": "@meliproxyy",
+      "name": "9|@ConfingV2RaayNG",
       "network": "tcp",
       "sni": "api-6b04608f.adhil.uk",
       "host": "",
@@ -16,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "safari",
-      "original": "vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#vless-xtls-rprx-vision-tcp-tls-safari-EE%F0%9F%87%AA%F0%9F%87%AA-1",
-      "ip": "165.231.157.126",
+      "original": "vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#vless-xtls-rprx-vision-tcp-tls-safari-EE%F0%9F%87%AA%F0%9F%87%AA-1",
+      "ip": "165.231.193.54",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#vless-xtls-rprx-vision-tcp-tls-safari-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+      "rebuilt": "vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#vless-xtls-rprx-vision-tcp-tls-safari-EE%F0%9F%87%AA%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
@@ -41,6 +41,26 @@
       "country": "EE",
       "cdn": null,
       "rebuilt": "vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.2:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "165.231.157.126",
+      "port": "8443",
+      "id": "0173d52e-8e1b-4681-831e-11529677b72f",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "api-6b04608f.adhil.uk",
+      "host": "",
+      "security": "tls",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "safari",
+      "original": "vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#vless-xtls-rprx-vision-tcp-tls-safari-EE%F0%9F%87%AA%F0%9F%87%AA-3",
+      "ip": "165.231.157.126",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#vless-xtls-rprx-vision-tcp-tls-safari-EE%F0%9F%87%AA%F0%9F%87%AA-3"
     }
   ]
 }

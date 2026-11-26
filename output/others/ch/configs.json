@@ -1,21 +1,39 @@
 {
-  "updated": "2026-11-26T06:19:05.926474",
-  "count": 5,
+  "updated": "2026-11-26T18:01:40.236566",
+  "count": 7,
   "configs": [
     {
-      "type": "vmess",
-      "address": "186.190.215.4",
-      "port": "1270",
-      "id": "5c040f1d-45db-43bd-8d46-e4950e433735",
-      "name": "|6@ConfingV2RaayNG",
+      "type": "vless",
+      "address": "p2real5.greewebservices.ir",
+      "port": "1350",
+      "id": "bee52362-4183-42c5-b065-d3a3f344d00c",
+      "name": "🔰 @prrofile_purple (تلگرام)",
       "network": "tcp",
+      "sni": "play.googleapis.com",
       "host": "",
-      "sni": "xmfhlpy.com",
-      "original": "vmess://eyJhZGQiOiIxODYuMTkwLjIxNS40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLUNI8J+HqPCfh60tMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
-      "ip": "186.190.215.4",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://bee52362-4183-42c5-b065-d3a3f344d00c@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "131.123.34.193",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxODYuMTkwLjIxNS40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLUNI8J+HqPCfh60tMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+      "rebuilt": "vless://bee52362-4183-42c5-b065-d3a3f344d00c@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "ss",
+      "address": "23.166.88.127",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "YFZ 537 @Outline_Vpn",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#YFZ%20537%20%40Outline_Vpn",
+      "ip": "23.166.88.127",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#YFZ%20537%20%40Outline_Vpn"
     },
     {
       "type": "vless",
@@ -31,11 +49,38 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-3",
       "ip": "179.43.187.67",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+    },
+    {
+      "type": "ss",
+      "address": "leviko-ch7340.shopingggg.ir",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-ch7340.shopingggg.ir:19999#@meliproxyy",
+      "ip": "23.166.88.189",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-ch7340.shopingggg.ir:19999#@meliproxyy"
+    },
+    {
+      "type": "trojan",
+      "address": "208.69.78.19",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "برای اتصال دائمی جوین شو☂️ TelegramID ⌲Express_freevpn 🪩",
+      "sni": "www.yourultimateprofessionalcareerhub.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-5",
+      "ip": "208.69.78.19",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-5"
     },
     {
       "type": "ss",
@@ -52,36 +97,16 @@
     },
     {
       "type": "ss",
-      "address": "23.166.88.127",
+      "address": "186.190.215.251",
       "port": "19999",
       "method": "aes-256-gcm",
       "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "YFZ 451 @Outline_Vpn",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#YFZ%20451%20%40Outline_Vpn",
-      "ip": "23.166.88.127",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999#@meliproxyy",
+      "ip": "186.190.215.251",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#YFZ%20451%20%40Outline_Vpn"
-    },
-    {
-      "type": "vless",
-      "address": "p2real5.greewebservices.ir",
-      "port": "1350",
-      "id": "bee52362-4183-42c5-b065-d3a3f344d00c",
-      "name": "🔰 @prrofile_purple (تلگرام)",
-      "network": "tcp",
-      "sni": "play.googleapis.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://bee52362-4183-42c5-b065-d3a3f344d00c@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-5",
-      "ip": "131.123.34.193",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://bee52362-4183-42c5-b065-d3a3f344d00c@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-5"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999#@meliproxyy"
     }
   ]
 }
