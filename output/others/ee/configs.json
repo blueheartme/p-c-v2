@@ -1,26 +1,46 @@
 {
-  "updated": "2026-11-25T18:20:32.811181",
-  "count": 1,
+  "updated": "2026-11-26T06:19:05.922280",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "77.83.198.104",
+      "address": "165.231.157.126",
       "port": "8443",
-      "id": "9a597d68-6688-4046-bf24-a5a541e115e0",
-      "name": "برای اتصال دائمی جوین شو🦠 TelegramID ⌲Express_freevpn 🪩",
+      "id": "0173d52e-8e1b-4681-831e-11529677b72f",
+      "name": "@meliproxyy",
       "network": "tcp",
-      "sni": "www.apple.com",
+      "sni": "api-6b04608f.adhil.uk",
+      "host": "",
+      "security": "tls",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "safari",
+      "original": "vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#vless-xtls-rprx-vision-tcp-tls-safari-EE%F0%9F%87%AA%F0%9F%87%AA-1",
+      "ip": "165.231.157.126",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#vless-xtls-rprx-vision-tcp-tls-safari-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "185.155.55.2",
+      "port": "8443",
+      "id": "5c09e56b-f97f-4360-8f01-eb4d39202095",
+      "name": "🔰 @prrofile_purple (تلگرام)",
+      "network": "tcp",
+      "sni": "ee-nf.reddotcorp.org",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://9a597d68-6688-4046-bf24-a5a541e115e0@77.83.198.104:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1",
-      "ip": "77.83.198.104",
+      "fingerprint": "firefox",
+      "original": "vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.2:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-2",
+      "ip": "185.155.55.2",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://9a597d68-6688-4046-bf24-a5a541e115e0@77.83.198.104:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%87%AA%F0%9F%87%AA-1"
+      "rebuilt": "vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.2:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-firefox-EE%F0%9F%87%AA%F0%9F%87%AA-2"
     }
   ]
 }
