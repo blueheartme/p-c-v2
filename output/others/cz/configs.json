@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-26T18:01:40.233730",
+  "updated": "2026-11-27T17:46:39.195951",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "5.39.202.153",
+      "address": "195.58.46.231",
       "port": "443",
-      "id": "c0742f77-5495-43bf-b007-88d368774d7c",
+      "id": "bbb945a6-7d16-4099-b802-d3a7ccebd3ca",
       "name": "@filembad",
-      "network": "raw",
-      "sni": "czek.oblachniy.ink",
-      "host": "",
+      "network": "grpc",
+      "sni": "node43.lmdscdn.ru",
+      "host": "Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
+      "flow": "",
+      "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://c0742f77-5495-43bf-b007-88d368774d7c@5.39.202.153:443?flow=xtls-rprx-vision&fp=firefox&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&security=reality&sid=f19e02a2fb573c18&sni=czek.oblachniy.ink&type=raw#vless-xtls-rprx-vision-raw-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
-      "ip": "5.39.202.153",
+      "original": "vless://bbb945a6-7d16-4099-b802-d3a7ccebd3ca@195.58.46.231:443?security=reality&encryption=none&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&fp=firefox&type=grpc&serviceName=livestreamcontent&sni=node43.lmdscdn.ru&sid=b8abb26d3cfadcfb&authority=Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#vless-grpc-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1",
+      "ip": "195.58.46.231",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://c0742f77-5495-43bf-b007-88d368774d7c@5.39.202.153:443?flow=xtls-rprx-vision&fp=firefox&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&security=reality&sid=f19e02a2fb573c18&sni=czek.oblachniy.ink&type=raw#vless-xtls-rprx-vision-raw-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
+      "rebuilt": "vless://bbb945a6-7d16-4099-b802-d3a7ccebd3ca@195.58.46.231:443?security=reality&encryption=none&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&fp=firefox&type=grpc&serviceName=livestreamcontent&sni=node43.lmdscdn.ru&sid=b8abb26d3cfadcfb&authority=Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#vless-grpc-reality-firefox-CZ%F0%9F%87%A8%F0%9F%87%BF-1"
     }
   ]
 }

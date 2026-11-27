@@ -1,26 +1,21 @@
 {
-  "updated": "2026-11-23T05:06:35.153458",
+  "updated": "2026-11-27T17:46:39.191167",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "47.250.139.22",
-      "port": "443",
-      "id": "adb16f46-ebc3-4f72-ba20-f8872dec43a9",
-      "name": "@meliproxyy",
+      "type": "vmess",
+      "address": "47.250.135.244",
+      "port": "10000",
+      "id": "aedc66b8-99d7-4a21-8310-61870e7f870d",
+      "name": "🇲🇾 MY 1",
       "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://adb16f46-ebc3-4f72-ba20-f8872dec43a9@47.250.139.22:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=erG7hYnWx8wELFn1-USl81_0mJlSJFlr8VBhtSsJwhY&sid=734c1ee6&type=tcp&headerType=none#vless-tcp-reality-chrome-MY%F0%9F%87%B2%F0%9F%87%BE-1",
-      "ip": "47.250.139.22",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLU1Z8J+HsvCfh74tMSIsImFkZCI6IjQ3LjI1MC4xMzUuMjQ0IiwicG9ydCI6MTAwMDAsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "47.250.135.244",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vless://adb16f46-ebc3-4f72-ba20-f8872dec43a9@47.250.139.22:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=erG7hYnWx8wELFn1-USl81_0mJlSJFlr8VBhtSsJwhY&sid=734c1ee6&type=tcp&headerType=none#vless-tcp-reality-chrome-MY%F0%9F%87%B2%F0%9F%87%BE-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLU1Z8J+HsvCfh74tMSIsImFkZCI6IjQ3LjI1MC4xMzUuMjQ0IiwicG9ydCI6MTAwMDAsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     }
   ]
 }

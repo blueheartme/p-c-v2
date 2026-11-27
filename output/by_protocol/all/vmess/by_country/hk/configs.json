@@ -1,22 +1,7 @@
 {
-  "updated": "2026-11-27T06:08:22.536844",
-  "count": 2,
+  "updated": "2026-11-27T17:46:39.289154",
+  "count": 4,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "47.244.120.197",
-      "port": "23026",
-      "id": "b9de1bc9-baa7-41ac-86f7-ccd59695cb21",
-      "name": "🇭🇰 HK 1",
-      "network": "ws",
-      "host": "47.244.120.197",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSEvwn4et8J+HsC0xIiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0IjoyMzAyNiwiaWQiOiJiOWRlMWJjOS1iYWE3LTQxYWMtODZmNy1jY2Q1OTY5NWNiMjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjQ3LjI0NC4xMjAuMTk3IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9hcmtpIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "47.244.120.197",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSEvwn4et8J+HsC0xIiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0IjoyMzAyNiwiaWQiOiJiOWRlMWJjOS1iYWE3LTQxYWMtODZmNy1jY2Q1OTY5NWNiMjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjQ3LjI0NC4xMjAuMTk3IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9hcmtpIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
-    },
     {
       "type": "vmess",
       "address": "zfd-boardv2.kunlun01dns.com",
@@ -27,10 +12,55 @@
       "host": "zfd-boardv2.kunlun01dns.com",
       "sni": null,
       "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1IS/Cfh63wn4ewLTIiLCJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoxNjI4NCwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiemZkLWJvYXJkdjIua3VubHVuMDFkbnMuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
-      "ip": "95.40.104.116",
+      "ip": "95.40.8.171",
       "country": "HK",
       "cdn": null,
       "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1IS/Cfh63wn4ewLTIiLCJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoxNjI4NCwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiemZkLWJvYXJkdjIua3VubHVuMDFkbnMuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+    },
+    {
+      "type": "vmess",
+      "address": "zfd-boardv2.kunlun01dns.com",
+      "port": "16298",
+      "id": "0802ac03-7973-39ef-a019-ba02de6c01e1",
+      "name": "🇭🇰 HK 2",
+      "network": "tcp",
+      "host": null,
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMyIsImFkZCI6InpmZC1ib2FyZHYyLmt1bmx1bjAxZG5zLmNvbSIsInBvcnQiOjE2Mjk4LCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "95.40.8.171",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMyIsImFkZCI6InpmZC1ib2FyZHYyLmt1bmx1bjAxZG5zLmNvbSIsInBvcnQiOjE2Mjk4LCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
+    {
+      "type": "vmess",
+      "address": "47.244.120.197",
+      "port": "44867",
+      "id": "845e6b08-2919-4290-ade0-5dc7dcea59ca",
+      "name": "@filembad",
+      "network": "ws",
+      "host": "47.244.120.197",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3Mtd3MtSEvwn4et8J+HsC00IiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0IjoiNDQ4NjciLCJ0eXBlIjoibm9uZSIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIiwiaG9zdCI6IjQ3LjI0NC4xMjAuMTk3IiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "ip": "47.244.120.197",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3Mtd3MtSEvwn4et8J+HsC00IiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0IjoiNDQ4NjciLCJ0eXBlIjoibm9uZSIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIiwiaG9zdCI6IjQ3LjI0NC4xMjAuMTk3IiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0="
+    },
+    {
+      "type": "vmess",
+      "address": "bYWXdhIRqKJj8XAZ.v.3dns.vip",
+      "port": "443",
+      "id": "234a80412b4d44a3a8d8523cbfd58dc4",
+      "name": "🇭🇰 HK 4",
+      "network": "ws",
+      "host": "bYWXdhIRqKJj8XAZ.v.3dns.vip",
+      "sni": "bYWXdhIRqKJj8XAZ.v.3dns.vip",
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtdGxzLUhL8J+HrfCfh7AtNSIsImFkZCI6ImJZV1hkaElScUtKajhYQVoudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiIyMzRhODA0MTJiNGQ0NGEzYThkODUyM2NiZmQ1OGRjNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiYllXWGRoSVJxS0pqOFhBWi52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6ImJZV1hkaElScUtKajhYQVoudi4zZG5zLnZpcCIsImZwIjpudWxsfQ==",
+      "ip": "47.86.90.31",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtdGxzLUhL8J+HrfCfh7AtNSIsImFkZCI6ImJZV1hkaElScUtKajhYQVoudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiaWQiOiIyMzRhODA0MTJiNGQ0NGEzYThkODUyM2NiZmQ1OGRjNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiYllXWGRoSVJxS0pqOFhBWi52LjNkbnMudmlwIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6ImJZV1hkaElScUtKajhYQVoudi4zZG5zLnZpcCIsImZwIjpudWxsfQ=="
     }
   ]
 }
