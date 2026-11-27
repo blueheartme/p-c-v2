@@ -1,13 +1,43 @@
 {
-  "updated": "2026-11-26T18:01:40.209513",
-  "count": 6,
+  "updated": "2026-11-27T06:08:22.422708",
+  "count": 5,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "47.244.120.197",
+      "port": "23026",
+      "id": "b9de1bc9-baa7-41ac-86f7-ccd59695cb21",
+      "name": "🇭🇰 HK 1",
+      "network": "ws",
+      "host": "47.244.120.197",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSEvwn4et8J+HsC0xIiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0IjoyMzAyNiwiaWQiOiJiOWRlMWJjOS1iYWE3LTQxYWMtODZmNy1jY2Q1OTY5NWNiMjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjQ3LjI0NC4xMjAuMTk3IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9hcmtpIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
+      "ip": "47.244.120.197",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSEvwn4et8J+HsC0xIiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0IjoyMzAyNiwiaWQiOiJiOWRlMWJjOS1iYWE3LTQxYWMtODZmNy1jY2Q1OTY5NWNiMjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjQ3LjI0NC4xMjAuMTk3IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9hcmtpIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+    },
+    {
+      "type": "vmess",
+      "address": "zfd-boardv2.kunlun01dns.com",
+      "port": "16284",
+      "id": "0802ac03-7973-39ef-a019-ba02de6c01e1",
+      "name": "🇭🇰 HK 3",
+      "network": "tcp",
+      "host": "zfd-boardv2.kunlun01dns.com",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1IS/Cfh63wn4ewLTIiLCJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoxNjI4NCwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiemZkLWJvYXJkdjIua3VubHVuMDFkbnMuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "95.40.104.116",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLXRjcC1IS/Cfh63wn4ewLTIiLCJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoxNjI4NCwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiemZkLWJvYXJkdjIua3VubHVuMDFkbnMuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+    },
     {
       "type": "vless",
       "address": "2.26.204.46",
       "port": "31001",
       "id": "12a4f736-2238-49ee-831f-5516f15cc951",
-      "name": "@meliproxyy",
+      "name": "YFZ 469 @Outline_Vpn",
       "network": "tcp",
       "sni": "mensura.cdn-apple.com",
       "host": "",
@@ -15,62 +45,12 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?encryption=none&security=reality&sid=39793bc4708abbbb&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&fp=chrome&sni=mensura.cdn-apple.com&flow=xtls-rprx-vision&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "fingerprint": "",
+      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-3",
       "ip": "2.26.204.46",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?encryption=none&security=reality&sid=39793bc4708abbbb&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&fp=chrome&sni=mensura.cdn-apple.com&flow=xtls-rprx-vision&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
-    {
-      "type": "vless",
-      "address": "116.213.43.43",
-      "port": "11106",
-      "id": "2e7bd251-52be-4ffa-b79e-108e1fe07185",
-      "name": "@meliproxyy",
-      "network": "tcp",
-      "sni": "www.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://2e7bd251-52be-4ffa-b79e-108e1fe07185@116.213.43.43:11106?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=-13uTSuqk44pCU0x6yvldaskzyRIlO2ihmDvM0FsBns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=da12e31124830d42#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "116.213.43.43",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://2e7bd251-52be-4ffa-b79e-108e1fe07185@116.213.43.43:11106?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=-13uTSuqk44pCU0x6yvldaskzyRIlO2ihmDvM0FsBns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=da12e31124830d42#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
-      "type": "vmess",
-      "address": "dog-tw.kunlun01dns.com",
-      "port": "21034",
-      "id": "9464ca40-dd75-3742-a628-d931a9f413b2",
-      "name": "🇭🇰 HK 3",
-      "network": "tcp",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMyIsImFkZCI6ImRvZy10dy5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoyMTAzNCwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "18.163.24.235",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMyIsImFkZCI6ImRvZy10dy5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoyMTAzNCwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
-    },
-    {
-      "type": "vmess",
-      "address": "dog-us.kunlun01dns.com",
-      "port": "21011",
-      "id": "9464ca40-dd75-3742-a628-d931a9f413b2",
-      "name": "🇭🇰 HK 2",
-      "network": "tcp",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtNCIsImFkZCI6ImRvZy11cy5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoyMTAxMSwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9",
-      "ip": "18.163.24.235",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtNCIsImFkZCI6ImRvZy11cy5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoyMTAxMSwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9"
+      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     },
     {
       "type": "trojan",
@@ -80,11 +60,11 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     },
     {
       "type": "vless",
@@ -100,11 +80,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@leviko-hk5202.shopingggg.ir:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6",
+      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@leviko-hk5202.shopingggg.ir:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-5",
       "ip": "2.26.204.46",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@leviko-hk5202.shopingggg.ir:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6"
+      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@leviko-hk5202.shopingggg.ir:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-5"
     }
   ]
 }

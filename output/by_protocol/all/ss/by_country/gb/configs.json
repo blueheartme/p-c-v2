@@ -1,84 +1,32 @@
 {
-  "updated": "2026-11-26T18:01:40.300705",
-  "count": 6,
+  "updated": "2026-11-27T06:08:22.494636",
+  "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "141.98.101.179",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#@meliproxyy",
-      "ip": "141.98.101.179",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#@meliproxyy"
-    },
     {
       "type": "ss",
       "address": "141.98.101.178",
       "port": "443",
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#@meliproxyy",
+      "name": "@i10VPN¹",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%40i10VPN%C2%B9",
       "ip": "141.98.101.178",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#@meliproxyy"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%40i10VPN%C2%B9"
     },
     {
       "type": "ss",
-      "address": "3.10.139.35",
-      "port": "443",
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "Cg2Dw4OhdBZhqbeO9ZTA3g/Gk/AvsrYZGhAJeGnQIx4=",
-      "name": "@meliproxyy",
-      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@3.10.139.35:443#@meliproxyy",
-      "ip": "3.10.139.35",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@3.10.139.35:443#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "18.169.167.165",
-      "port": "443",
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "Cg2Dw4OhdBZhqbeO9ZTA3g/Gk/AvsrYZGhAJeGnQIx4=",
-      "name": "@filembad",
-      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.169.167.165:443#%40filembad",
-      "ip": "18.169.167.165",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.169.167.165:443#%40filembad"
-    },
-    {
-      "type": "ss",
-      "address": "141.98.101.182",
+      "address": "141.98.101.179",
       "port": "443",
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "name": "United Kingdom M247",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
-      "ip": "141.98.101.182",
+      "name": "5|@ConfingV2RaayNG",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#5|@ConfingV2RaayNG",
+      "ip": "141.98.101.179",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
-    },
-    {
-      "type": "ss",
-      "address": "18.169.167.165",
-      "port": "443?type=tcp",
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "Cg2Dw4OhdBZhqbeO9ZTA3g/Gk/AvsrYZGhAJeGnQIx4=",
-      "name": "@filembad",
-      "original": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.169.167.165:443?type=tcp#%40filembad",
-      "ip": "18.169.167.165",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.169.167.165:443?type=tcp#%40filembad"
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#5|@ConfingV2RaayNG"
     }
   ]
 }
