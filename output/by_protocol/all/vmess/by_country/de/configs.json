@@ -1,21 +1,38 @@
 {
-  "updated": "2026-11-27T17:46:39.282288",
-  "count": 1,
+  "updated": "2026-11-28T05:49:49.908002",
+  "count": 2,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "94.130.237.57",
+      "port": "27154",
+      "id": "d9d02f3e-c877-4a1f-990e-f2418777f745",
+      "name": "🇩🇪 DE 2",
+      "network": "ws",
+      "host": "94.130.237.57",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtREXwn4ep8J+Hqi0xNCIsImFkZCI6Ijk0LjEzMC4yMzcuNTciLCJwb3J0IjoyNzE1NCwiaWQiOiJkOWQwMmYzZS1jODc3LTRhMWYtOTkwZS1mMjQxODc3N2Y3NDUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6Ijk0LjEzMC4yMzcuNTciLCJhbHBuIjpudWxsLCJwYXRoIjoiL1RlbGVncmFtPUBBbXlyYXhWUE4iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "94.130.237.57",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtREXwn4ep8J+Hqi0xNCIsImFkZCI6Ijk0LjEzMC4yMzcuNTciLCJwb3J0IjoyNzE1NCwiaWQiOiJkOWQwMmYzZS1jODc3LTRhMWYtOTkwZS1mMjQxODc3N2Y3NDUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6Ijk0LjEzMC4yMzcuNTciLCJhbHBuIjpudWxsLCJwYXRoIjoiL1RlbGVncmFtPUBBbXlyYXhWUE4iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
+    },
     {
       "type": "vmess",
       "address": "194.110.210.41",
       "port": "28059",
       "id": "c38605a8-89ae-4e57-b9b0-35606df2e1a3",
-      "name": "برای اتصال دائمی جوین شو🦠 TelegramID ⌲Express_freevpn 🪩",
+      "name": "@meliproxy",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxOTQuMTEwLjIxMC40MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMzg2MDVhOC04OWFlLTRlNTctYjliMC0zNTYwNmRmMmUxYTMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjI4MDU5IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTMwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "original": "vmess://eyJhZGQiOiIxOTQuMTEwLjIxMC40MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMzg2MDVhOC04OWFlLTRlNTctYjliMC0zNTYwNmRmMmUxYTMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjI4MDU5IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTQwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
       "ip": "194.110.210.41",
       "country": "DE",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxOTQuMTEwLjIxMC40MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMzg2MDVhOC04OWFlLTRlNTctYjliMC0zNTYwNmRmMmUxYTMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjI4MDU5IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTMwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiIxOTQuMTEwLjIxMC40MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMzg2MDVhOC04OWFlLTRlNTctYjliMC0zNTYwNmRmMmUxYTMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjI4MDU5IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1ERfCfh6nwn4eqLTQwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }

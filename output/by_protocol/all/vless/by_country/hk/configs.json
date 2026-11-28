@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T17:46:39.251559",
-  "count": 1,
+  "updated": "2026-11-28T05:49:49.883054",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,51 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://2e7bd251-52be-4ffa-b79e-108e1fe07185@116.213.43.43:11106?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=-13uTSuqk44pCU0x6yvldaskzyRIlO2ihmDvM0FsBns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=da12e31124830d42#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "original": "vless://2e7bd251-52be-4ffa-b79e-108e1fe07185@116.213.43.43:11106?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=-13uTSuqk44pCU0x6yvldaskzyRIlO2ihmDvM0FsBns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=da12e31124830d42#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
       "ip": "116.213.43.43",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://2e7bd251-52be-4ffa-b79e-108e1fe07185@116.213.43.43:11106?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=-13uTSuqk44pCU0x6yvldaskzyRIlO2ihmDvM0FsBns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=da12e31124830d42#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "vless://2e7bd251-52be-4ffa-b79e-108e1fe07185@116.213.43.43:11106?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=-13uTSuqk44pCU0x6yvldaskzyRIlO2ihmDvM0FsBns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=da12e31124830d42#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
+      "type": "vless",
+      "address": "38.207.172.59",
+      "port": "28418",
+      "id": "e6552569-97ce-430c-a324-53ad1c546e05",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "op.gg",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://e6552569-97ce-430c-a324-53ad1c546e05@38.207.172.59:28418?security=reality&encryption=none&pbk=mfxE6lW_fuPZKWtrySdTx9HOh0vtX3-7aMiYDCh2YCA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=op.gg&sid=ddd21e20#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "38.207.172.59",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://e6552569-97ce-430c-a324-53ad1c546e05@38.207.172.59:28418?security=reality&encryption=none&pbk=mfxE6lW_fuPZKWtrySdTx9HOh0vtX3-7aMiYDCh2YCA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=op.gg&sid=ddd21e20#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+    },
+    {
+      "type": "vless",
+      "address": "2.26.204.46",
+      "port": "31001",
+      "id": "12a4f736-2238-49ee-831f-5516f15cc951",
+      "name": "YFZ 469 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "mensura.cdn-apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "2.26.204.46",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }

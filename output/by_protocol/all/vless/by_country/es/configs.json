@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-27T17:46:39.250892",
-  "count": 1,
+  "updated": "2026-11-28T05:49:49.887519",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "185.200.244.37",
       "port": "443",
       "id": "7ce93cef-119d-4cba-9d9d-da0056ba979c",
-      "name": "@meliproxyy",
+      "name": "YFZ 589 @Outline_Vpn",
       "network": "xhttp",
       "sni": "es1.green-tg.com",
       "host": "185.200.244.37",
@@ -21,6 +21,26 @@
       "country": "ES",
       "cdn": null,
       "rebuilt": "vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?mode=auto&path=%2Fapi%2Fv2%2F7d94497a&security=reality&encryption=none&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&host=185.200.244.37&type=xhttp&sni=es1.green-tg.com&sid=0bf13fb706784403#vless-xhttp-reality-ES%F0%9F%87%AA%F0%9F%87%B8-2"
+    },
+    {
+      "type": "vless",
+      "address": "tpll.sublinkplas.ir",
+      "port": "12190",
+      "id": "47921e53-9a38-4e2e-8a39-08b38512eff4",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "delivery.mp.microsoft.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://47921e53-9a38-4e2e-8a39-08b38512eff4@tpll.sublinkplas.ir:12190?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=aa74a7a98e86f2ed#vless-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-3",
+      "ip": "65.20.108.128",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://47921e53-9a38-4e2e-8a39-08b38512eff4@tpll.sublinkplas.ir:12190?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=aa74a7a98e86f2ed#vless-tcp-reality-firefox-ES%F0%9F%87%AA%F0%9F%87%B8-3"
     }
   ]
 }

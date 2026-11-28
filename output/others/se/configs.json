@@ -1,60 +1,7 @@
 {
-  "updated": "2026-11-27T17:46:39.186494",
-  "count": 8,
+  "updated": "2026-11-28T05:49:49.804455",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "get.jarbook.net",
-      "port": "443",
-      "id": "dd5bed0b-ee77-481b-9f2c-250a632ddd9f",
-      "name": "YFZ 391 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "get.jarbook.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "84.32.154.73",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "lodizu.hagrid-connected.com",
-      "port": "443",
-      "id": "beda6bd0-7ce4-477a-91f1-860d018dbfcb",
-      "name": "YFZ 408 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "lodizu.hagrid-connected.com",
-      "host": "",
-      "security": "tls",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lodizu.hagrid-connected.com#vless-xtls-rprx-vision-tcp-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "206.168.213.117",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lodizu.hagrid-connected.com#vless-xtls-rprx-vision-tcp-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2"
-    },
-    {
-      "type": "ss",
-      "address": "51.21.142.135",
-      "port": "443",
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "hYcjmg6cUWEyhMzwIKye5P9AVyzASvGJtdx2MA1LzCg=:9Ql4I/3Zd7TdTt0JzeWVlelmO74/WnQfQDQdyV5t/E8=",
-      "name": "YFZ 397 @Outline_Vpn",
-      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aFljam1nNmNVV0V5aE16d0lLeWU1UDlBVnl6QVN2R0p0ZHgyTUExTHpDZz06OVFsNEkvM1pkN1RkVHQwSnplV1ZsZWxtTzc0L1duUWZRRFFkeVY1dC9FOD0@51.21.142.135:443#YFZ%20397%20%40Outline_Vpn",
-      "ip": "51.21.142.135",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aFljam1nNmNVV0V5aE16d0lLeWU1UDlBVnl6QVN2R0p0ZHgyTUExTHpDZz06OVFsNEkvM1pkN1RkVHQwSnplV1ZsZWxtTzc0L1duUWZRRFFkeVY1dC9FOD0@51.21.142.135:443#YFZ%20397%20%40Outline_Vpn"
-    },
     {
       "type": "vless",
       "address": "138.124.86.230",
@@ -69,50 +16,26 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#vless-grpc-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "original": "vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#vless-grpc-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "138.124.86.230",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#vless-grpc-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4"
-    },
-    {
-      "type": "tg",
-      "address": "2.26.7.252",
-      "port": "443",
-      "secret": "eeb747920e217dbcbb7aa533b7278bf02f706c617932676f2e636c6f7564",
-      "name": "",
-      "original": "https://t.me/proxy?server=2.26.7.252&port=443&secret=eeb747920e217dbcbb7aa533b7278bf02f706c617932676f2e636c6f7564",
-      "ip": "2.26.7.252",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=2.26.7.252&port=443&secret=eeb747920e217dbcbb7aa533b7278bf02f706c617932676f2e636c6f7564"
-    },
-    {
-      "type": "tg",
-      "address": "13.51.53.138",
-      "port": "8443",
-      "secret": "ee96650e5ea5b66048924f0add222b0f867777772e636c6f7564666c6172652e636f6d",
-      "name": "",
-      "original": "https://t.me/proxy?server=13.51.53.138&port=8443&secret=ee96650e5ea5b66048924f0add222b0f867777772e636c6f7564666c6172652e636f6d&@MPT_Proxy",
-      "ip": "13.51.53.138",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=13.51.53.138&port=8443&secret=ee96650e5ea5b66048924f0add222b0f867777772e636c6f7564666c6172652e636f6d&@MPT_Proxy"
+      "rebuilt": "vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#vless-grpc-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "vmess",
-      "address": "62.93.166.184",
+      "address": "leviko-se3307.shopingggg.ir",
       "port": "1270",
       "id": "5c040f1d-45db-43bd-8d46-e4950e433735",
-      "name": "YFZ 570 @Outline_Vpn",
+      "name": "@meliproxy",
       "network": "tcp",
       "host": "",
       "sni": "xmfhlpy.com",
-      "original": "vmess://eyJhZGQiOiI2Mi45My4xNjYuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLVNF8J+HuPCfh6otNyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "original": "vmess://eyJhZGQiOiJsZXZpa28tc2UzMzA3LnNob3BpbmdnZ2cuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC10bHMtU0Xwn4e48J+Hqi0yIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
       "ip": "62.93.166.184",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI2Mi45My4xNjYuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLVNF8J+HuPCfh6otNyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiJsZXZpa28tc2UzMzA3LnNob3BpbmdnZ2cuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC10bHMtU0Xwn4e48J+Hqi0yIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
     {
       "type": "vmess",
@@ -123,11 +46,11 @@
       "network": "ws",
       "host": "",
       "sni": "13.51.184.77",
-      "original": "vmess://eyJhZGQiOiIxMy41MS4xODQuNzciLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJmOTcwMDUyYS04MzgxLTQwYzctODc1ZS1lZjA4OTJlMDFiN2IiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIveGpmM3J5IiwicGNzIjoiIiwicG9ydCI6IjgwODYiLCJwcyI6InZtZXNzLWFlcy0xMjgtZ2NtLXdzLXRscy1TRfCfh7jwn4eqLTgiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IjEzLjUxLjE4NC43NyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "original": "vmess://eyJhZGQiOiIxMy41MS4xODQuNzciLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJmOTcwMDUyYS04MzgxLTQwYzctODc1ZS1lZjA4OTJlMDFiN2IiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIveGpmM3J5IiwicGNzIjoiIiwicG9ydCI6IjgwODYiLCJwcyI6InZtZXNzLWFlcy0xMjgtZ2NtLXdzLXRscy1TRfCfh7jwn4eqLTMiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IjEzLjUxLjE4NC43NyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
       "ip": "13.51.184.77",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxMy41MS4xODQuNzciLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJmOTcwMDUyYS04MzgxLTQwYzctODc1ZS1lZjA4OTJlMDFiN2IiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIveGpmM3J5IiwicGNzIjoiIiwicG9ydCI6IjgwODYiLCJwcyI6InZtZXNzLWFlcy0xMjgtZ2NtLXdzLXRscy1TRfCfh7jwn4eqLTgiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IjEzLjUxLjE4NC43NyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiIxMy41MS4xODQuNzciLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJmOTcwMDUyYS04MzgxLTQwYzctODc1ZS1lZjA4OTJlMDFiN2IiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIveGpmM3J5IiwicGNzIjoiIiwicG9ydCI6IjgwODYiLCJwcyI6InZtZXNzLWFlcy0xMjgtZ2NtLXdzLXRscy1TRfCfh7jwn4eqLTMiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IjEzLjUxLjE4NC43NyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }

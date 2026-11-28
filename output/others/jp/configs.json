@@ -1,19 +1,21 @@
 {
-  "updated": "2026-11-27T17:46:39.185307",
-  "count": 6,
+  "updated": "2026-11-28T05:49:49.794067",
+  "count": 7,
   "configs": [
     {
-      "type": "ss",
-      "address": "47.91.2.13",
-      "port": "5555",
-      "method": "aes-256-gcm",
-      "password": "123456",
-      "name": "@filembad",
-      "original": "ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.2.13:5555#%40filembad",
-      "ip": "47.91.2.13",
+      "type": "vmess",
+      "address": "168.138.43.75",
+      "port": "80",
+      "id": "11c3627f-31e8-4695-dfbd-34076e2f1f5d",
+      "name": "🇯🇵 JP 4",
+      "network": "ws",
+      "host": "168.138.43.75",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS0xIiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOjgwLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiMTY4LjEzOC40My43NSIsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==",
+      "ip": "168.138.43.75",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.2.13:5555#%40filembad"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS0xIiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOjgwLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiMTY4LjEzOC40My43NSIsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ=="
     },
     {
       "type": "vless",
@@ -36,44 +38,57 @@
       "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-2"
     },
     {
+      "type": "vless",
+      "address": "172.105.203.15",
+      "port": "443",
+      "id": "c8c9b995-b4b9-4915-9c7d-dee94aa733ba",
+      "name": "🇯🇵 JP 3",
+      "network": "ws",
+      "sni": "itunes.apple.com",
+      "host": "itunes.apple.com",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://c8c9b995-b4b9-4915-9c7d-dee94aa733ba@172.105.203.15:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=HyAx05nhCz5mXxVxWXU1TrWRKdpYE0MHF4-V-LtyhTA&sid=0784b134&type=ws&host=itunes.apple.com&path=%2fws#vless-ws-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "ip": "172.105.203.15",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://c8c9b995-b4b9-4915-9c7d-dee94aa733ba@172.105.203.15:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=HyAx05nhCz5mXxVxWXU1TrWRKdpYE0MHF4-V-LtyhTA&sid=0784b134&type=ws&host=itunes.apple.com&path=%2fws#vless-ws-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-3"
+    },
+    {
       "type": "ss",
-      "address": "8.216.19.169",
+      "address": "8.216.8.84",
       "port": "5555",
       "method": "aes-256-gcm",
       "password": "123456",
       "name": "@filembad",
-      "original": "ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.19.169:5555#%40filembad",
-      "ip": "8.216.19.169",
+      "original": "ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.8.84:5555#%40filembad",
+      "ip": "8.216.8.84",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.19.169:5555#%40filembad"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.8.84:5555#%40filembad"
     },
     {
-      "type": "vmess",
-      "address": "168.138.43.75",
-      "port": "80",
-      "id": "11c3627f-31e8-4695-dfbd-34076e2f1f5d",
+      "type": "vless",
+      "address": "172.105.197.24",
+      "port": "443",
+      "id": "81f4e114-5a60-41b5-9038-8d742380c84f",
       "name": "🇯🇵 JP 1",
       "network": "ws",
-      "host": "168.138.43.75",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS00IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOjgwLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiMTY4LjEzOC40My43NSIsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbH0=",
-      "ip": "168.138.43.75",
+      "sni": "itunes.apple.com",
+      "host": "itunes.apple.com",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://81f4e114-5a60-41b5-9038-8d742380c84f@172.105.197.24:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=EfNOl6-YAuW-WSg7Op-1YOqKZV9emIuLwH8YPhzc7ms&sid=772bef67&type=ws&host=itunes.apple.com&path=%2fws#vless-ws-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-5",
+      "ip": "172.105.197.24",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSlDwn4ev8J+HtS00IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOjgwLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiMTY4LjEzOC40My43NSIsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbH0="
-    },
-    {
-      "type": "tg",
-      "address": "dev.vetka.rest",
-      "port": "443",
-      "secret": "eecdd6a7c79fc13f435c20a0874f0658da6465762e7665746b612e72657374",
-      "name": "",
-      "original": "https://t.me/proxy?server=dev.vetka.rest&port=443&secret=eecdd6a7c79fc13f435c20a0874f0658da6465762e7665746b612e72657374",
-      "ip": "178.107.8.48",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "https://t.me/proxy?server=dev.vetka.rest&port=443&secret=eecdd6a7c79fc13f435c20a0874f0658da6465762e7665746b612e72657374"
+      "rebuilt": "vless://81f4e114-5a60-41b5-9038-8d742380c84f@172.105.197.24:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=EfNOl6-YAuW-WSg7Op-1YOqKZV9emIuLwH8YPhzc7ms&sid=772bef67&type=ws&host=itunes.apple.com&path=%2fws#vless-ws-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-5"
     },
     {
       "type": "vless",
@@ -94,6 +109,20 @@
       "country": "JP",
       "cdn": null,
       "rebuilt": "vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fuji.etherhub.cc&fp=chrome&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&sid=bd6f67b6b2152b45&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-6"
+    },
+    {
+      "type": "trojan",
+      "address": "160.16.107.37",
+      "port": "3169",
+      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
+      "name": "Japan NTT Pc",
+      "sni": "www.nintendogames.net",
+      "host": "",
+      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-7",
+      "ip": "160.16.107.37",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-7"
     }
   ]
 }

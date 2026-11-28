@@ -1,46 +1,26 @@
 {
-  "updated": "2026-11-27T17:46:39.183250",
-  "count": 8,
+  "updated": "2026-11-28T05:49:49.736452",
+  "count": 7,
   "configs": [
     {
-      "type": "trojan",
-      "address": "208.69.78.19",
+      "type": "vless",
+      "address": "179.43.187.67",
       "port": "443",
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "برای اتصال دائمی جوین شو☂️ TelegramID ⌲Express_freevpn 🪩",
-      "sni": "www.yourultimateprofessionalcareerhub.com",
+      "id": "9dd38d60-e683-47c6-bd53-d71bdfee78f3",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "sni": "portal.mavexa.ir",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "208.69.78.19",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "179.43.187.67",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "ss",
-      "address": "23.166.88.127",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#@meliproxyy",
-      "ip": "23.166.88.127",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#@meliproxyy"
-    },
-    {
-      "type": "ss",
-      "address": "leviko-ch0322.shopingggg.ir",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-ch0322.shopingggg.ir:19999#@meliproxyy",
-      "ip": "23.166.88.189",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-ch0322.shopingggg.ir:19999#@meliproxyy"
+      "rebuilt": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "ss",
@@ -57,36 +37,42 @@
     },
     {
       "type": "ss",
+      "address": "leviko-ch0322.shopingggg.ir",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-ch0322.shopingggg.ir:19999#@meliproxyy",
+      "ip": "23.166.88.189",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-ch0322.shopingggg.ir:19999#@meliproxyy"
+    },
+    {
+      "type": "ss",
+      "address": "23.166.88.127",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#@meliproxyy",
+      "ip": "23.166.88.127",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#@meliproxyy"
+    },
+    {
+      "type": "ss",
       "address": "leviko-ch7340.shopingggg.ir",
       "port": "19999",
       "method": "aes-256-gcm",
       "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
       "name": "@meliproxyy",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-ch7340.shopingggg.ir:19999#@meliproxyy",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch7340.shopingggg.ir:19999#@meliproxyy",
       "ip": "23.166.88.189",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-ch7340.shopingggg.ir:19999#@meliproxyy"
-    },
-    {
-      "type": "vless",
-      "address": "179.43.187.67",
-      "port": "443",
-      "id": "9dd38d60-e683-47c6-bd53-d71bdfee78f3",
-      "name": "YFZ 418 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "portal.mavexa.ir",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-6",
-      "ip": "179.43.187.67",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#vless-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-6"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch7340.shopingggg.ir:19999#@meliproxyy"
     },
     {
       "type": "ss",
@@ -110,11 +96,11 @@
       "network": "tcp",
       "host": "",
       "sni": "xmfhlpy.com",
-      "original": "vmess://eyJhZGQiOiIxODYuMTkwLjIxNS40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLUNI8J+HqPCfh60tOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "original": "vmess://eyJhZGQiOiIxODYuMTkwLjIxNS40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLUNI8J+HqPCfh60tNyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
       "ip": "186.190.215.4",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxODYuMTkwLjIxNS40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLUNI8J+HqPCfh60tOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiIxODYuMTkwLjIxNS40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLUNI8J+HqPCfh60tNyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }

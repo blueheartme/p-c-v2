@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T17:46:39.248710",
-  "count": 2,
+  "updated": "2026-11-28T05:49:49.886350",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,46 @@
       "country": "JP",
       "cdn": null,
       "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+    },
+    {
+      "type": "vless",
+      "address": "172.105.203.15",
+      "port": "443",
+      "id": "c8c9b995-b4b9-4915-9c7d-dee94aa733ba",
+      "name": "🇯🇵 JP 3",
+      "network": "ws",
+      "sni": "itunes.apple.com",
+      "host": "itunes.apple.com",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://c8c9b995-b4b9-4915-9c7d-dee94aa733ba@172.105.203.15:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=HyAx05nhCz5mXxVxWXU1TrWRKdpYE0MHF4-V-LtyhTA&sid=0784b134&type=ws&host=itunes.apple.com&path=%2fws#vless-ws-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "ip": "172.105.203.15",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://c8c9b995-b4b9-4915-9c7d-dee94aa733ba@172.105.203.15:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=HyAx05nhCz5mXxVxWXU1TrWRKdpYE0MHF4-V-LtyhTA&sid=0784b134&type=ws&host=itunes.apple.com&path=%2fws#vless-ws-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-3"
+    },
+    {
+      "type": "vless",
+      "address": "172.105.197.24",
+      "port": "443",
+      "id": "81f4e114-5a60-41b5-9038-8d742380c84f",
+      "name": "🇯🇵 JP 1",
+      "network": "ws",
+      "sni": "itunes.apple.com",
+      "host": "itunes.apple.com",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://81f4e114-5a60-41b5-9038-8d742380c84f@172.105.197.24:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=EfNOl6-YAuW-WSg7Op-1YOqKZV9emIuLwH8YPhzc7ms&sid=772bef67&type=ws&host=itunes.apple.com&path=%2fws#vless-ws-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-5",
+      "ip": "172.105.197.24",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://81f4e114-5a60-41b5-9038-8d742380c84f@172.105.197.24:443?security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=EfNOl6-YAuW-WSg7Op-1YOqKZV9emIuLwH8YPhzc7ms&sid=772bef67&type=ws&host=itunes.apple.com&path=%2fws#vless-ws-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-5"
     },
     {
       "type": "vless",

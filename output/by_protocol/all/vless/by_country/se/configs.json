@@ -1,47 +1,7 @@
 {
-  "updated": "2026-11-27T17:46:39.249431",
-  "count": 3,
+  "updated": "2026-11-28T05:49:49.891658",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "get.jarbook.net",
-      "port": "443",
-      "id": "dd5bed0b-ee77-481b-9f2c-250a632ddd9f",
-      "name": "YFZ 391 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "get.jarbook.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "84.32.154.73",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "lodizu.hagrid-connected.com",
-      "port": "443",
-      "id": "beda6bd0-7ce4-477a-91f1-860d018dbfcb",
-      "name": "YFZ 408 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "lodizu.hagrid-connected.com",
-      "host": "",
-      "security": "tls",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lodizu.hagrid-connected.com#vless-xtls-rprx-vision-tcp-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "206.168.213.117",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lodizu.hagrid-connected.com#vless-xtls-rprx-vision-tcp-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2"
-    },
     {
       "type": "vless",
       "address": "138.124.86.230",
@@ -56,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#vless-grpc-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "original": "vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#vless-grpc-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "138.124.86.230",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#vless-grpc-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+      "rebuilt": "vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#vless-grpc-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
